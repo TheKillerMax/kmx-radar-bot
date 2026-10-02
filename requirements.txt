@@ -1,0 +1,10 @@
+requests>=2.32,<3
+PyYAML>=6,<7
+Pillow>=10,<13
+beautifulsoup4>=4.12,<5
+trafilatura>=1.9,<3
+rapidfuzz>=3.8,<4
+python-dateutil>=2.9,<3
+cryptography>=42,<50
+feedparser>=6,<7
+pytest>=8,<10
