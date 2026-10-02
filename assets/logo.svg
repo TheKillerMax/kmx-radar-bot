@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">KMX RADAR</title>
+<desc id="desc">Circular radar emblem for KMX RADAR.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07131f"/>
+    <stop offset="1" stop-color="#0b2235"/>
+  </linearGradient>
+</defs>
+<circle cx="256" cy="256" r="238" fill="url(#bg)" stroke="#13f2c2" stroke-width="10"/>
+<circle cx="256" cy="205" r="142" fill="none" stroke="#24b8ff" stroke-width="4" opacity=".65"/>
+<circle cx="256" cy="205" r="92" fill="none" stroke="#13f2c2" stroke-width="4" opacity=".8"/>
+<circle cx="256" cy="205" r="42" fill="none" stroke="#13f2c2" stroke-width="4"/>
+<path d="M256 205 L382 112 A154 154 0 0 1 409 162 Z" fill="#13f2c2" opacity=".32"/>
+<line x1="90" y1="205" x2="422" y2="205" stroke="#13f2c2" stroke-width="4"/>
+<line x1="256" y1="42" x2="256" y2="368" stroke="#13f2c2" stroke-width="4"/>
+<circle cx="357" cy="143" r="9" fill="#f6f9fb"/>
+<rect x="44" y="300" width="424" height="150" rx="24" fill="#07131f" stroke="#13f2c2" stroke-width="5"/>
+<text x="256" y="372" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" fill="#f6f9fb" letter-spacing="4">KMX</text>
+<text x="256" y="425" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#13f2c2" letter-spacing="12">RADAR</text>
+</svg>
