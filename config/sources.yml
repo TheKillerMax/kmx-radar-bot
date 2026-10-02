@@ -1,0 +1,48 @@
+primary_domains:
+  - who.int
+  - paho.org
+  - un.org
+  - nasa.gov
+  - esa.int
+  - usgs.gov
+  - noaa.gov
+  - nhc.noaa.gov
+  - ec.europa.eu
+  - europa.eu
+  - worldbank.org
+  - imf.org
+  - oecd.org
+  - interpol.int
+  - icrc.org
+
+high_trust_domains:
+  - reuters.com
+  - apnews.com
+  - afp.com
+  - bbc.com
+  - bbc.co.uk
+  - dw.com
+  - france24.com
+  - efe.com
+  - elpais.com
+  - rtve.es
+  - cnn.com
+  - cnnchile.com
+  - emol.com
+  - biobiochile.cl
+  - latercera.com
+  - cooperativa.cl
+  - aljazeera.com
+  - npr.org
+  - bloomberg.com
+  - ft.com
+  - theguardian.com
+
+factcheck_domains:
+  - maldita.es
+  - newtral.es
+  - chequeado.com
+  - animalpolitico.com
+  - factcheck.afp.com
+  - fullfact.org
+  - politifact.com
