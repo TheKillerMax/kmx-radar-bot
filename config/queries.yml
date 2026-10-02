@@ -1,0 +1,29 @@
+queries:
+  - id: disasters
+    category: "MUNDO"
+    risk: "medium"
+    query: '(earthquake OR tsunami OR hurricane OR wildfire OR flood OR volcano OR landslide) sourcelang:spanish'
+  - id: geopolitics
+    category: "MUNDO"
+    risk: "high"
+    query: '(election OR government OR parliament OR president OR prime minister OR conflict OR war OR ceasefire OR sanctions) sourcelang:spanish'
+  - id: economy
+    category: "ECONOMÍA"
+    risk: "medium"
+    query: '(economy OR inflation OR "central bank" OR interest rates OR markets OR recession OR employment) sourcelang:spanish'
+  - id: technology
+    category: "TECH"
+    risk: "low"
+    query: '(technology OR "artificial intelligence" OR cybersecurity OR data breach OR semiconductor OR launch) sourcelang:spanish'
+  - id: science
+    category: "CIENCIA"
+    risk: "low"
+    query: '(science OR space OR NASA OR ESA OR discovery OR research OR asteroid OR telescope) sourcelang:spanish'
+  - id: health
+    category: "SALUD"
+    risk: "high"
+    query: '(health OR WHO OR outbreak OR epidemic OR vaccine OR disease OR public health) sourcelang:spanish'
+  - id: factcheck
+    category: "VERIFICACIÓN"
+    risk: "medium"
+    query: '("fact check" OR false OR misleading OR misinformation OR hoax OR debunked) sourcelang:spanish'
