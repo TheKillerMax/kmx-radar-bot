@@ -27,14 +27,17 @@ def verify_cluster(cluster: Cluster) -> Cluster:
     runtime = editorial_config()["runtime"]
     primary_cfg = cfg.get("primary_domains", [])
     high_cfg = cfg.get("high_trust_domains", [])
+    factcheck_cfg = cfg.get("factcheck_domains", [])
 
     domains = sorted({a.domain.lower() for a in cluster.articles if a.domain})
     primary_domains = [
         d for d in domains
-        if _is_government_like(d) or any(_matches(d, p) for p in primary_cfg)
+        if _is_government_like(d)
+        or any(_matches(d, p) for p in primary_cfg)
         or any(a.domain == d and a.primary_hint for a in cluster.articles)
     ]
     high_domains = [d for d in domains if any(_matches(d, p) for p in high_cfg)]
+    factcheck_domains = [d for d in domains if any(_matches(d, p) for p in factcheck_cfg)]
 
     cluster.independent_domains = domains
     cluster.primary_source_present = bool(primary_domains)
@@ -67,6 +70,13 @@ def verify_cluster(cluster: Cluster) -> Cluster:
     else:
         threshold = float(runtime["publish_threshold_low_risk"])
         domain_rule = n_domains >= min_domains or (cluster.primary_source_present and n_domains >= 2)
+
+    # Fact-checking labels are higher-risk than ordinary summaries. Requiring
+    # multiple specialist fact-check outlets helps avoid auto-publishing a
+    # "FALSO" style conclusion from generic coverage alone.
+    if cluster.category == "VERIFICACIÓN":
+        domain_rule = domain_rule and len(factcheck_domains) >= 2 and n_domains >= 3
+        threshold = max(threshold, 0.86)
 
     cluster.publishable = bool(score >= threshold and domain_rule)
     if cluster.publishable:
