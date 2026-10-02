@@ -25,28 +25,22 @@ def get_account(token: str | None = None) -> dict:
     return response.json()
 
 
-def _public_media_url(path: Path) -> str:
-    override = os.getenv("KMX_MEDIA_BASE_URL", "").rstrip("/")
-    if override:
-        return f"{override}/{path.name}"
+def _media_url(relative_path: str) -> str:
     repo = os.getenv("GITHUB_REPOSITORY", "TheKillerMax/kmx-radar-bot")
     branch = os.getenv("KMX_MEDIA_BRANCH", "main")
-    return f"https://raw.githubusercontent.com/{repo}/{branch}/docs/media/{path.name}"
+    return f"https://raw.githubusercontent.com/{repo}/{branch}/{relative_path.lstrip('/')}"
 
 
-def create_image_container(ig_id: str, image_url: str, caption: str, token: str) -> str:
+def _post_media(ig_id: str, data: dict, token: str) -> str:
     cfg = editorial_config()["instagram"]
     endpoint = f"{cfg['graph_host']}/{cfg['api_version']}/{ig_id}/media"
-    response = requests.post(
-        endpoint,
-        data={"image_url": image_url, "caption": caption, "access_token": token},
-        timeout=45,
-    )
+    payload = {**data, "access_token": token}
+    response = requests.post(endpoint, data=payload, timeout=45)
     response.raise_for_status()
-    payload = response.json()
-    container_id = payload.get("id")
+    result = response.json()
+    container_id = result.get("id")
     if not container_id:
-        raise RuntimeError(f"Instagram did not return a media container id: {payload}")
+        raise RuntimeError(f"Instagram did not return a media container id: {result}")
     return str(container_id)
 
 
@@ -66,9 +60,10 @@ def wait_until_ready(container_id: str, token: str) -> None:
         if status in {"ERROR", "EXPIRED"}:
             raise RuntimeError(f"Instagram container status is {status}")
         time.sleep(int(cfg["poll_seconds"]))
+    raise RuntimeError(f"Instagram container {container_id} did not become ready in time")
 
 
-def publish_container(ig_id: str, container_id: str, token: str) -> str:
+def _publish_container(ig_id: str, container_id: str, token: str) -> str:
     cfg = editorial_config()["instagram"]
     endpoint = f"{cfg['graph_host']}/{cfg['api_version']}/{ig_id}/media_publish"
     response = requests.post(
@@ -84,35 +79,84 @@ def publish_container(ig_id: str, container_id: str, token: str) -> str:
     return str(media_id)
 
 
-def _wait_public_url(url: str, attempts: int = 8, seconds: int = 5) -> None:
+def _wait_public_url(url: str, attempts: int = 10, seconds: int = 5) -> None:
     last_error: Exception | None = None
     for _ in range(attempts):
         try:
             response = requests.get(url, timeout=20, stream=True)
             if response.status_code == 200 and response.headers.get("content-type", "").startswith("image/"):
                 return
-            last_error = RuntimeError(f"HTTP {response.status_code} content-type={response.headers.get('content-type')}")
+            last_error = RuntimeError(
+                f"HTTP {response.status_code} content-type={response.headers.get('content-type')}"
+            )
         except Exception as exc:
             last_error = exc
         time.sleep(seconds)
-    raise RuntimeError(f"Generated media is not publicly reachable at {url}: {last_error}")
+    raise RuntimeError(f"Media is not publicly reachable at {url}: {last_error}")
 
 
-def publish_image(path: Path, caption: str) -> dict:
+def publish_package(package_dir: Path, manifest: dict) -> dict:
     token = load_token()
     account = get_account(token)
     ig_id = str(account.get("user_id") or account.get("id") or "")
     if not ig_id:
         raise RuntimeError(f"Unable to obtain Instagram professional account id: {account}")
-    image_url = _public_media_url(path)
-    _wait_public_url(image_url)
-    container_id = create_image_container(ig_id, image_url, caption, token)
-    wait_until_ready(container_id, token)
-    media_id = publish_container(ig_id, container_id, token)
+
+    images = manifest["images"]
+    urls: list[str] = []
+    for item in images:
+        rel = str((package_dir / item["path"]).as_posix())
+        url = _media_url(rel)
+        _wait_public_url(url)
+        urls.append(url)
+
+    caption = str(manifest["caption"])
+    ai_generated = bool(manifest.get("ai_generated", True))
+
+    if len(images) == 1:
+        data = {
+            "image_url": urls[0],
+            "caption": caption,
+        }
+        if images[0].get("alt_text"):
+            data["alt_text"] = images[0]["alt_text"]
+        if ai_generated:
+            data["is_ai_generated"] = "true"
+        container = _post_media(ig_id, data, token)
+        wait_until_ready(container, token)
+        media_id = _publish_container(ig_id, container, token)
+        return {
+            "media_id": media_id,
+            "container_id": container,
+            "image_urls": urls,
+            "username": account.get("username"),
+            "ig_id": ig_id,
+        }
+
+    child_ids: list[str] = []
+    for item, url in zip(images, urls):
+        data = {"image_url": url, "is_carousel_item": "true"}
+        if item.get("alt_text"):
+            data["alt_text"] = item["alt_text"]
+        child = _post_media(ig_id, data, token)
+        wait_until_ready(child, token)
+        child_ids.append(child)
+
+    parent_data = {
+        "media_type": "CAROUSEL",
+        "children": ",".join(child_ids),
+        "caption": caption,
+    }
+    if ai_generated:
+        parent_data["is_ai_generated"] = "true"
+    parent = _post_media(ig_id, parent_data, token)
+    wait_until_ready(parent, token)
+    media_id = _publish_container(ig_id, parent, token)
     return {
         "media_id": media_id,
-        "container_id": container_id,
-        "image_url": image_url,
+        "container_id": parent,
+        "children": child_ids,
+        "image_urls": urls,
         "username": account.get("username"),
         "ig_id": ig_id,
     }
