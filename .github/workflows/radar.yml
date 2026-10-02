@@ -1,0 +1,85 @@
+name: KMX RADAR
+
+on:
+  schedule:
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kmx-radar-production
+  cancel-in-progress: false
+
+env:
+  PYTHONUNBUFFERED: "1"
+  PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED }}
+  INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+  TOKEN_ENCRYPTION_PASSWORD: ${{ secrets.TOKEN_ENCRYPTION_PASSWORD }}
+  KMX_MODEL_ID: "Qwen/Qwen2.5-0.5B-Instruct"
+
+jobs:
+  radar:
+    if: github.repository_owner == 'TheKillerMax'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Cache Hugging Face model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-qwen25-05b-v1
+
+      - name: Install base dependencies
+        run: pip install -r requirements.txt -e .
+
+      - name: Install local LLM runtime
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch
+          pip install -r requirements-llm.txt
+
+      - name: Scan, verify and prepare content
+        shell: bash
+        run: |
+          set +e
+          python -m kmxradar run
+          rc=$?
+          set -e
+          if [ "$rc" -ne 0 ] && [ "$rc" -ne 3 ]; then exit "$rc"; fi
+
+      - name: Commit generated state/media before publishing
+        run: |
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs/media
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: update automated news state"
+            git push
+          fi
+
+      - name: Wait for public media propagation
+        if: env.PUBLISH_ENABLED == 'true'
+        run: sleep 12
+
+      - name: Publish pending post to Instagram
+        if: env.PUBLISH_ENABLED == 'true'
+        run: python -m kmxradar publish-pending
+
+      - name: Commit publication receipt
+        if: env.PUBLISH_ENABLED == 'true'
+        run: |
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: record Instagram publication"
+            git push
+          fi
