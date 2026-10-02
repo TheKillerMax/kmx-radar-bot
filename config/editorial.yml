@@ -4,25 +4,18 @@ brand:
   tagline: "Detectamos lo que importa"
 
 runtime:
-  gdelt_timespan: "4h"
-  gdelt_max_records_per_query: 75
-  max_candidates_per_run: 40
-  max_posts_per_run: 1
-  max_posts_per_day: 8
-  min_minutes_between_posts: 75
-  fetch_sources_per_cluster: 4
-  max_source_chars_for_llm: 1300
+  gdelt_timespan: "6h"
+  gdelt_max_records_per_query: 80
+  max_candidates_per_run: 60
+  max_intake_events: 10
+  fetch_sources_per_cluster: 5
+  excerpt_chars_per_source: 1200
   publish_threshold_low_risk: 0.77
   publish_threshold_high_risk: 0.89
   minimum_independent_domains: 3
   high_risk_minimum_domains_without_primary: 5
-
-llm:
-  enabled: true
-  model_id: "Qwen/Qwen2.5-0.5B-Instruct"
-  max_new_tokens: 360
-  temperature: 0.1
-  top_p: 0.9
+  max_posts_per_day: 8
+  min_minutes_between_posts: 75
 
 instagram:
   api_version: "v26.0"
@@ -30,14 +23,3 @@ instagram:
   caption_max_chars: 2100
   poll_attempts: 12
   poll_seconds: 5
-
-visual:
-  width: 1080
-  height: 1350
-  background: "#07131f"
-  panel: "#0b2235"
-  accent: "#13f2c2"
-  accent2: "#24b8ff"
-  text: "#f6f9fb"
-  muted: "#aab7c4"
-  danger: "#ff5d66"
