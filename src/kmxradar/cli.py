@@ -4,25 +4,32 @@ import argparse
 import json
 import logging
 
+from .collector import collect_package
 from .instagram import get_account
-from .pipeline import publish_pending, run
+from .publication import publish_ready_packages
 from .token_store import load_token, refresh_token
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(prog="kmx-radar")
     sub = parser.add_subparsers(dest="command", required=True)
-    sub.add_parser("run")
-    sub.add_parser("publish-pending")
+    sub.add_parser("collect")
+    sub.add_parser("publish-approved")
     sub.add_parser("check-instagram")
     sub.add_parser("refresh-token")
     args = parser.parse_args()
 
-    logging.basicConfig(level=logging.INFO)
-    if args.command == "run":
-        return run()
-    if args.command == "publish-pending":
-        return publish_pending()
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+
+    if args.command == "collect":
+        path = collect_package()
+        print(path)
+        return 0
+    if args.command == "publish-approved":
+        return publish_ready_packages()
     if args.command == "check-instagram":
         payload = get_account(load_token())
         print(json.dumps(payload, ensure_ascii=False, indent=2))
