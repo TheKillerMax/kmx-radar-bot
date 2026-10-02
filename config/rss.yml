@@ -1,0 +1,6 @@
+feeds:
+  - name: "USGS Earthquakes"
+    url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom"
+    category: "MUNDO"
+    risk: "medium"
+    primary: true
