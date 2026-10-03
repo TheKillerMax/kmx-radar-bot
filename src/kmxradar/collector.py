@@ -10,7 +10,7 @@ import tempfile
 import zipfile
 
 from .cluster import cluster_articles
-from .config import ASSETS_DIR, DATA_DIR, editorial_config
+from .config import ASSETS_DIR, DATA_DIR, ROOT, editorial_config
 from .discover import discover_all
 from .extract import enrich_article
 from .models import Cluster
@@ -69,37 +69,26 @@ def _source_record(article, excerpt_chars: int) -> dict:
 def _chatgpt_instructions() -> str:
     return """# KMX RADAR — instrucciones para ChatGPT
 
+Antes de trabajar, lee **EDITORIAL_SYSTEM.md** completo. Ese documento define el estándar FORJA-Editorial para investigación, fact-checking, arquitectura narrativa, diseño y entrega.
+
 Este ZIP es un expediente de entrada generado automáticamente. No publiques ni redactes basándote solo en el ZIP.
 
-Tu trabajo:
+Flujo obligatorio:
 1. revisa los candidatos;
 2. investiga nuevamente en la web;
 3. prioriza fuentes primarias/oficiales y documentos originales;
-4. comprueba fechas, lugares, cifras y contexto;
-5. identifica si varias noticias dependen de una misma fuente original;
-6. distingue hechos confirmados, declaraciones, inferencias e información todavía incierta;
-7. selecciona solo acontecimientos realmente relevantes;
-8. redacta en español claro y factual;
-9. genera las imágenes/carrusel de KMX RADAR con el logo incluido;
-10. prepara el paquete final siguiendo publication-package-schema.json.
+4. comprueba fechas, lugares, cifras, contexto y dependencia entre fuentes;
+5. distingue hechos confirmados, declaraciones, inferencias y desconocidos;
+6. selecciona solo acontecimientos realmente relevantes;
+7. redacta en español claro, factual y adaptado a Instagram;
+8. genera las imágenes/carrusel de KMX RADAR con el logo incluido;
+9. prepara el paquete final siguiendo publication-package-schema.json;
+10. no añadas .ready ni autorices publicación directa salvo aprobación explícita del usuario.
 
-Reglas editoriales:
-- no inventes cifras, citas, causas, consecuencias ni nombres;
-- no presentes rumores como hechos;
-- no uses una fotografía sintética como si documentara un acontecimiento real;
-- para política/elecciones: informa de hechos y posiciones documentadas sin apoyar, oponerte, puntuar, clasificar ni predecir ganadores;
-- en salud, seguridad, conflictos, fallecimientos, acusaciones criminales o elecciones, exige verificación reforzada;
-- para declarar algo FALSO/ENGAÑOSO/FUERA DE CONTEXTO, busca evidencia específica y preferentemente verificadores profesionales o fuentes primarias;
-- cita las fuentes utilizadas en el caption o en la última diapositiva;
-- si la información no alcanza el estándar, no prepares publicación.
+Para política y elecciones: presenta hechos y posiciones documentadas sin apoyar, oponerte, clasificar, puntuar ni predecir ganadores.
 
-Flujo recomendado con este repositorio conectado:
-- genera approved/<publication_id>/publication.json;
-- añade de 1 a 10 imágenes .jpg o .png;
-- añade approved/<publication_id>/.ready solo al final, cuando todo esté completo y el usuario haya indicado que quiere publicarlo.
+Si la evidencia no alcanza el estándar editorial, no prepares publicación.
 """
-
-
 def _publication_schema() -> dict:
     return {
         "schema_version": 1,
@@ -146,6 +135,9 @@ def collect_package() -> Path:
         }
         (root / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
         (root / "instructions.md").write_text(_chatgpt_instructions(), encoding="utf-8")
+        editorial_guide = ROOT / "EDITORIAL_SYSTEM.md"
+        if editorial_guide.exists():
+            shutil.copy2(editorial_guide, root / "EDITORIAL_SYSTEM.md")
         (root / "publication-package-schema.json").write_text(
             json.dumps(_publication_schema(), ensure_ascii=False, indent=2),
             encoding="utf-8",
