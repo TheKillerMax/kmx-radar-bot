@@ -6,6 +6,7 @@ import logging
 
 from .collector import collect_package
 from .instagram import get_account
+from .media_prepare import prepare_ready_packages
 from .publication import publish_ready_packages
 from .token_store import load_token, refresh_token
 
@@ -14,6 +15,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(prog="kmx-radar")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("collect")
+    sub.add_parser("prepare-approved")
     sub.add_parser("publish-approved")
     sub.add_parser("check-instagram")
     sub.add_parser("refresh-token")
@@ -28,6 +30,8 @@ def main() -> int:
         path = collect_package()
         print(path)
         return 0
+    if args.command == "prepare-approved":
+        return prepare_ready_packages()
     if args.command == "publish-approved":
         return publish_ready_packages()
     if args.command == "check-instagram":
