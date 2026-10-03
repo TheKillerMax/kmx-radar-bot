@@ -22,6 +22,29 @@ WHITE = (247, 250, 252)
 MUTED = (192, 207, 220)
 
 
+def _hex_rgb(value: str, fallback):
+    value = str(value or "").strip().lstrip("#")
+    if len(value) != 6:
+        return fallback
+    try:
+        return tuple(int(value[i:i+2], 16) for i in (0, 2, 4))
+    except ValueError:
+        return fallback
+
+
+def _apply_theme(config: dict) -> None:
+    global BG, PANEL, ACCENT, BLUE, WARM, WHITE, MUTED
+    theme = config.get("theme") or {}
+    BG = _hex_rgb(theme.get("background"), BG)
+    ACCENT = _hex_rgb(theme.get("accent"), ACCENT)
+    BLUE = _hex_rgb(theme.get("accent2"), BLUE)
+    WARM = _hex_rgb(theme.get("warm"), WARM)
+    WHITE = _hex_rgb(theme.get("text"), WHITE)
+    MUTED = _hex_rgb(theme.get("muted"), MUTED)
+    panel_rgb = _hex_rgb(theme.get("panel"), PANEL[:3])
+    PANEL = (*panel_rgb, 232)
+
+
 def _font(size: int, bold: bool = False):
     paths = [
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
@@ -292,6 +315,7 @@ def _render_slide(package_dir: Path, spec: dict, photo: Image.Image, credit: str
 
 
 def build_space_visuals(package_dir: Path, config: dict) -> list[Path]:
+    _apply_theme(config)
     sources = config.get("sources", {})
     slides = config.get("slides", [])
     if not sources or not slides:
