@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261003-cataluna-alerta-inundaciones",
+  "source_event_id": "03-1e92b6cd08372891",
+  "created_at": "2026-10-03T15:26:24Z",
+  "headline": "Cataluña restringe desplazamientos en 20 comarcas por riesgo excepcional de inundaciones",
+  "caption": "Cataluña activó medidas excepcionales ante un episodio de lluvias que puede empeorar durante la noche del sábado al domingo.\n\nProtección Civil elevó a emergencia el plan por inundaciones y restringió los desplazamientos no imprescindibles en 20 comarcas desde las 20:00 del sábado 3 de octubre hasta las 14:00 del domingo 4.\n\nEl servicio meteorológico de Cataluña prevé lluvias que pueden superar 40 litros de agua por metro cuadrado en 30 minutos, 90 litros en tres horas y, en algunos puntos, 200 litros en 24 horas. Son previsiones, no cantidades ya registradas para este nuevo tramo del episodio.\n\nDurante ese periodo se suspenden varias actividades al aire libre, deportivas, culturales y educativas en las zonas afectadas, y se pide aplicar teletrabajo cuando sea posible.\n\nLas restricciones no afectan por igual a toda Cataluña ni significan que vaya a haber daños graves en cada zona. La intensidad real, las incidencias y cualquier cambio en las medidas dependerán de cómo evolucione el temporal.\n\nDesliza para ver qué cambia, qué zonas están afectadas y qué falta por saber.\n\nFuentes: Protección Civil de la Generalitat de Catalunya, Servei Meteorològic de Catalunya, El País y Cadena SER.\n\n#KMXRadar #Cataluña #Lluvias #Inundaciones #ProteccionCivil",
+  "images": [
+    {
+      "path": "01-portada.png",
+      "alt_text": "Protección Civil de Cataluña elevó a emergencia el plan por inundaciones y anunció restricciones en 20 comarcas desde las 20:00 del sábado hasta las 14:00 del domingo."
+    },
+    {
+      "path": "02-que-se-espera.png",
+      "alt_text": "El servicio meteorológico de Cataluña prevé lluvias torrenciales durante la noche del sábado y la mañana del domingo, con posibles acumulaciones muy intensas."
+    },
+    {
+      "path": "03-que-cambia.png",
+      "alt_text": "Las medidas restringen desplazamientos no imprescindibles y suspenden varias actividades al aire libre, deportivas, culturales y educativas en las 20 comarcas."
+    },
+    {
+      "path": "04-donde.png",
+      "alt_text": "Mapa informativo de las 20 comarcas de Cataluña incluidas en las restricciones por riesgo de inundaciones."
+    },
+    {
+      "path": "05-que-no-significa.png",
+      "alt_text": "Las restricciones no son iguales en toda Cataluña y las cantidades extremas de lluvia son previsiones, no daños confirmados en todos los lugares."
+    },
+    {
+      "path": "06-que-falta.png",
+      "alt_text": "Aún falta saber cuánta lluvia caerá en cada zona, qué incidencias habrá y si las autoridades cambiarán la duración de las restricciones."
+    },
+    {
+      "path": "07-que-puede-pasar.png",
+      "alt_text": "Protección Civil enviará alertas a móviles y actualizará las medidas según evolucione el temporal; el 112 es el teléfono para emergencias."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Protecció Civil de la Generalitat de Catalunya — restricciones y previsión oficial — 3 oct. 2026",
+      "url": "https://interior.gencat.cat/ca/sales_de_premsa/noticies_de_proteccio_civil/nota-premsa/?id=891792"
+    },
+    {
+      "label": "Servei Meteorològic de Catalunya — avisos meteorológicos",
+      "url": "https://www.meteo.cat/"
+    },
+    {
+      "label": "El País — 3 oct. 2026",
+      "url": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html"
+    },
+    {
+      "label": "Cadena SER — 3 oct. 2026",
+      "url": "https://cadenaser.com/cataluna/2026/10/03/el-meteocat-activa-el-aviso-rojo-por-fuertes-lluvias-en-17-comarcas-de-cataluna-a-partir-de-esta-noche-radio-barcelona/"
+    }
+  ],
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}

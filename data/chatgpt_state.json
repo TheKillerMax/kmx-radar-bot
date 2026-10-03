@@ -1,11 +1,8 @@
 {
-  "last_processed_generated_at": "2026-10-03T09:04:03Z",
-  "last_publication_id": "kmx-20261003-nasa-flight-director",
-  "last_result": "published",
-  "note": "Manual full cycle completed successfully: editorial selection, licensed real visuals, QC and Instagram publication all completed.",
-  "phase": "published",
-  "source_event_id": "08-90b5d9e894957440",
-  "visuals_completed_at": "2026-10-03T12:18:47Z",
-  "last_media_id": "17993630004049507",
-  "published_at": "2026-10-03T12:22:40Z"
+  "last_processed_generated_at": "2026-10-03T14:17:46Z",
+  "last_publication_id": "kmx-20261003-cataluna-alerta-inundaciones",
+  "last_result": "editorial_ready_for_visuals",
+  "note": "Phase 1 editorial completed for the latest intake. Package created for the Catalonia flood-risk restrictions story; no publication or .ready marker created.",
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "03-1e92b6cd08372891"
 }
