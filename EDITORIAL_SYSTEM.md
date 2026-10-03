@@ -173,3 +173,57 @@ Si la licencia o permiso no puede verificarse, el archivo no se utiliza.
 ### Diseño
 
 La composición final puede añadir tipografía, marcos, gráficos, mapas, iconos y branding KMX RADAR alrededor del material real. La estética debe adaptarse a la noticia. El material real es evidencia o contexto; el diseño sirve para explicarlo, no para reemplazarlo.
+
+
+## 18. Léxico editorial: sonar a medio, no a tutorial genérico
+
+KMX RADAR debe usar un vocabulario reconocible de periodismo digital y redes de noticias. Evita expresiones que suenan a asistente, tutorial o copy genérico.
+
+### Expresiones preferidas
+
+Según el contexto, prioriza:
+- **Las claves**
+- **Lo que debes saber**
+- **Qué sabemos**
+- **Lo que sabemos hasta ahora**
+- **Por qué importa**
+- **Qué cambia**
+- **Qué no cambia**
+- **Qué falta por confirmar**
+- **Qué sigue**
+- **Contexto**
+- **Preguntas y respuestas**
+- **Los puntos clave**
+- **Lo último**
+- **Así queda**
+- **Qué significa**
+- **Cómo afecta**
+- **Qué está en juego**
+- **Lo que viene ahora**
+
+### Expresiones a evitar
+
+No usar en copy público salvo una razón editorial muy concreta:
+- **En simple**
+- **Te lo explicamos fácil**
+- **Te lo contamos fácil**
+- **Sin enredos**
+- **Para que lo entiendas**
+- **Versión fácil**
+- **Te resumimos**
+- fórmulas que suenen paternalistas o a tutorial genérico.
+
+### Regla de elección
+
+El rótulo debe describir la función periodística del bloque:
+- resumen inicial → **Lo que debes saber / Las claves**
+- hechos confirmados → **Qué sabemos**
+- relevancia → **Por qué importa**
+- efectos → **Qué cambia / Cómo afecta**
+- incertidumbre → **Qué falta por confirmar**
+- siguiente etapa → **Qué sigue**
+- explicación de un concepto → **Qué significa**
+- aclaración frente a rumores → **Qué es cierto / Qué no está confirmado**
+- contexto histórico → **Contexto**
+
+No repetir siempre los mismos rótulos: elegir el que mejor encaje con la historia y el ritmo de la publicación.
