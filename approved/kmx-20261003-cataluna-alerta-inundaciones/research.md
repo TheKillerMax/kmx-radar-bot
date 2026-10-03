@@ -6,7 +6,7 @@ Evento de origen: `03-1e92b6cd08372891`.
 
 Ángulo actualizado tras investigación propia: Protección Civil de la Generalitat de Catalunya elevó a fase de emergencia su plan por inundaciones y anunció restricciones temporales en 20 comarcas ante una previsión de lluvias excepcionalmente intensas entre la noche del sábado 3 y el domingo 4 de octubre de 2026.
 
-Se selecciona esta historia porque combina utilidad pública inmediata, confirmación oficial detallada y corroboración independiente. No duplica las historias ya publicadas en `intake/latest/previous_posts.json`. Se descartaron, entre otros, Paramount/Warner, Crew-13 y la convocatoria de directores de vuelo de NASA porque ya fueron publicados; otros candidatos tenían menor relevancia, menor verificación o mayor riesgo editorial sin aportar una ventaja informativa frente a esta alerta de seguridad pública.
+Se selecciona esta historia porque combina utilidad pública inmediata, confirmación oficial detallada y corroboración independiente. No duplica las historias ya publicadas en `intake/latest/previous_posts.json`. Se descartaron Paramount/Warner, Crew-13 y la convocatoria de directores de vuelo de NASA porque ya fueron publicados; otros candidatos tenían menor relevancia, menor verificación o mayor riesgo editorial sin aportar una ventaja informativa frente a esta alerta de seguridad pública.
 
 ## Qué pasó
 
@@ -33,7 +33,7 @@ Estas cifras son previsiones meteorológicas, no cantidades de lluvia ya registr
 - Puede haber más de 40 litros de agua por metro cuadrado en 30 minutos.
 - También hay avisos por más de 90 litros por metro cuadrado en 3 horas.
 - Hay avisos de nivel 5 sobre 6 por acumulaciones superiores a 200 litros por metro cuadrado en 24 horas; la Generalitat indica que esas cantidades podrían concentrarse incluso en unas 6 horas.
-- La nota oficial contempla tormentas con rachas muy fuertes de viento y la posibilidad de mangas marinas y tornados. “Posibilidad” no significa que esos fenómenos vayan a producirse en todas las zonas.
+- La nota oficial contempla tormentas con rachas muy fuertes de viento y la posibilidad de mangas marinas y tornados. Posibilidad no significa que esos fenómenos vayan a producirse en todas las zonas.
 
 El presidente de la Generalitat, Salvador Illa, utilizó públicamente la expresión “mini-huracán mediterráneo”. No es una categoría meteorológica oficial y no se usará como definición técnica en el contenido público.
 
@@ -105,13 +105,13 @@ Una persona que vea solo esas dos imágenes puede explicar que Cataluña ha acti
 ## Fuentes
 
 ### Primarias / oficiales
-- Protecció Civil de la Generalitat de Catalunya — “Restriccions per la situació excepcional de possibles inundacions a 20 comarques des d'aquest vespre i fins diumenge a les 14 hores”, 03/10/2026: https://interior.gencat.cat/ca/sales_de_premsa/noticies_de_proteccio_civil/nota-premsa/?id=891792
-- Servei Meteorològic de Catalunya — avisos y vigilancia meteorológica: https://www.meteo.cat/
-- Servei Meteorològic de Catalunya — radar y precipitación: https://www.meteo.cat/observacions/radar
+- Protecció Civil de la Generalitat de Catalunya — 03/10/2026: https://interior.gencat.cat/ca/sales_de_premsa/noticies_de_proteccio_civil/nota-premsa/?id=891792
+- Servei Meteorològic de Catalunya: https://www.meteo.cat/
+- Meteocat — radar y precipitación: https://www.meteo.cat/observacions/radar
 
 ### Confirmación independiente
-- El País, 03/10/2026: https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html
-- Cadena SER, 03/10/2026: https://cadenaser.com/cataluna/2026/10/03/el-meteocat-activa-el-aviso-rojo-por-fuertes-lluvias-en-17-comarcas-de-cataluna-a-partir-de-esta-noche-radio-barcelona/
+- El País — 03/10/2026: https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html
+- Cadena SER — 03/10/2026: https://cadenaser.com/cataluna/2026/10/03/el-meteocat-activa-el-aviso-rojo-por-fuertes-lluvias-en-17-comarcas-de-cataluna-a-partir-de-esta-noche-radio-barcelona/
 
 ### Derechos y reutilización visual
 - Aviso legal de la Generalitat: https://web.gencat.cat/es/avis-legal
