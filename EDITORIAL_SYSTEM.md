@@ -227,3 +227,32 @@ El rótulo debe describir la función periodística del bloque:
 - contexto histórico → **Contexto**
 
 No repetir siempre los mismos rótulos: elegir el que mejor encaje con la historia y el ritmo de la publicación.
+
+
+## 19. Preflight visual obligatorio
+
+Toda pieza debe superar una revisión visual antes de publicarse. Cualquier fallo visible bloquea la publicación.
+
+### Reglas de geometría y legibilidad
+- Ningún texto puede tocar, cruzar o sobresalir de su caja, etiqueta, píldora o panel.
+- Las etiquetas deben calcular su ancho según el texto y conservar padding horizontal visible.
+- Si un texto no cabe con comodidad, en este orden: acortar el copy, ampliar el contenedor dentro de la zona segura o reducir moderadamente la fuente.
+- Nunca reducir texto hasta volverlo difícil de leer en móvil.
+- Mantener zonas seguras amplias respecto de los cuatro bordes.
+- Títulos, créditos, CTA, indicadores y etiquetas deben probarse con su texto real, no con medidas fijas pensadas para otro contenido.
+- No truncar silenciosamente información importante para hacerla caber.
+
+### Revisión final
+Antes de crear `.ready`, comprobar:
+1. desbordamientos;
+2. texto cortado;
+3. solapamientos;
+4. márgenes insuficientes;
+5. errores ortográficos;
+6. jerarquía visual;
+7. contraste;
+8. consistencia entre páginas;
+9. atribuciones y rótulos de archivo;
+10. legibilidad en tamaño de teléfono.
+
+Si existe una duda razonable sobre la calidad visual, no publicar hasta corregirla.
