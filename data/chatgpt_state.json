@@ -1,11 +1,9 @@
 {
   "last_processed_generated_at": null,
-  "last_publication_id": "kmx-20261003-crew13-record",
-  "last_result": "published",
-  "note": "Phase 3 completed successfully: Crew-13 publication reached Instagram and publication history was recorded.",
-  "phase": "published",
+  "last_publication_id": "kmx-20261003-crew13-record-v2",
+  "last_result": "editorial_ready_for_visuals",
+  "note": "Correction cycle v2 prepared. Phase 2 will re-render all seven images using the fixed metric layout.",
+  "phase": "editorial_ready_for_visuals",
   "source_event_id": "web-fallback-20261003-crew13",
-  "visuals_completed_at": "2026-10-03T04:14:00Z",
-  "last_media_id": "18122337061916783",
-  "published_at": "2026-10-03T04:23:35Z"
+  "visuals_completed_at": "2026-10-03T04:14:00Z"
 }
