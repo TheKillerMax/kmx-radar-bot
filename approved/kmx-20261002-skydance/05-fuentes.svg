@@ -1,32 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
-<defs>
-  <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-    <path d="M0 0V120M60 0V120" stroke="#0b2333" stroke-width="1"/>
-  </pattern>
-</defs>
-<rect width="1080" height="1350" fill="#04101b"/>
-<rect width="1080" height="1350" fill="url(#grid)" opacity=".75"/>
-<rect x="0" y="0" width="12" height="1350" fill="#13f2c2"/>
-<g opacity=".42" fill="none" stroke="#155064" stroke-width="2">
-  <circle cx="965" cy="145" r="110"/><circle cx="965" cy="145" r="190"/><circle cx="965" cy="145" r="270"/><circle cx="965" cy="145" r="350"/><circle cx="965" cy="145" r="430"/>
-  <path d="M515 145H1080M965 0V560"/>
-</g>
-<path d="M965 145 L950 -275 L1125 -235 Z" fill="#0b555b" opacity=".55"/>
-<image href="../../assets/logo.svg" x="38" y="28" width="170" height="170"/>
-<text x="225" y="82" font-family="DejaVu Sans" font-size="29" font-weight="700" fill="#f6f9fb">KMX RADAR</text>
-<text x="225" y="112" font-family="DejaVu Sans" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
-<line x1="225" y1="132" x2="540" y2="132" stroke="#145568" stroke-width="2"/>
-<rect x="55" y="220" width="145" height="46" rx="18" fill="#0b2235"/><text x="72" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#13f2c2">FUENTES</text>
-<text x="55" y="360" font-family="DejaVu Sans" font-size="52" font-weight="700" fill="#f6f9fb">CÓMO LO VERIFICAMOS</text>
-<rect x="55" y="440" width="970" height="132" rx="20" fill="#0b2235"/><circle cx="102" cy="506" r="24" fill="#13f2c2"/><text x="94" y="515" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">1</text><text x="155" y="490" font-family="DejaVu Sans" font-size="30" font-weight="700" fill="#f6f9fb">SEC · Form 8-K</text><text x="155" y="535" font-family="DejaVu Sans" font-size="23" fill="#aab7c4">Cambio de nombre y ticker · 2 oct. 2026</text>
-<rect x="55" y="590" width="970" height="132" rx="20" fill="#0b2235"/><circle cx="102" cy="656" r="24" fill="#13f2c2"/><text x="94" y="665" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">2</text><text x="155" y="640" font-family="DejaVu Sans" font-size="30" font-weight="700" fill="#f6f9fb">Warner Bros. Discovery IR</text><text x="155" y="685" font-family="DejaVu Sans" font-size="23" fill="#aab7c4">Fecha prevista de cierre · 30 sep. 2026</text>
-<rect x="55" y="740" width="970" height="132" rx="20" fill="#0b2235"/><circle cx="102" cy="806" r="24" fill="#13f2c2"/><text x="94" y="815" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">3</text><text x="155" y="790" font-family="DejaVu Sans" font-size="30" font-weight="700" fill="#f6f9fb">Reuters</text><text x="155" y="835" font-family="DejaVu Sans" font-size="23" fill="#aab7c4">Nombre Skydance y estructura de marcas · 2 oct.</text>
-<rect x="55" y="890" width="970" height="132" rx="20" fill="#0b2235"/><circle cx="102" cy="956" r="24" fill="#13f2c2"/><text x="94" y="965" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">4</text><text x="155" y="940" font-family="DejaVu Sans" font-size="30" font-weight="700" fill="#f6f9fb">Associated Press</text><text x="155" y="985" font-family="DejaVu Sans" font-size="23" fill="#aab7c4">Acuerdo judicial con 12 estados · 1 oct.</text>
-<rect x="55" y="1065" width="970" height="130" rx="22" fill="#0b2c39" stroke="#13f2c2" stroke-width="2"/>
-<text x="85" y="1115" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#13f2c2">IMPORTANTE</text>
-<text x="85" y="1157" font-family="DejaVu Sans" font-size="26" font-weight="700" fill="#f6f9fb">El cierre está previsto, pero aún no se ha completado.</text>
-<line x1="55" y1="1242" x2="1025" y2="1242" stroke="#134858" stroke-width="2"/>
-<text x="55" y="1292" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#13f2c2">@kmxradar</text>
-<text x="820" y="1292" font-family="DejaVu Sans" font-size="22" font-weight="700" fill="#aab7c4">5/5</text>
-<text x="55" y="1325" font-family="DejaVu Sans" font-size="15" fill="#aab7c4">02 OCT 2026 · INFORMACIÓN VERIFICADA CON FUENTES PRIMARIAS E INDEPENDIENTES</text>
+<rect width="1080" height="1350" fill="#04111d"/>
+<defs><pattern id="g" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#0d2a3c" stroke-width="1"/></pattern></defs>
+<rect width="1080" height="1350" fill="url(#g)" opacity=".75"/>
+<rect x="0" y="0" width="10" height="1350" fill="#13f2c2"/>
+<g opacity=".45" fill="none" stroke="#13556a" stroke-width="2"><circle cx="956" cy="115" r="80"/><circle cx="956" cy="115" r="155"/><circle cx="956" cy="115" r="230"/><path d="M720 115h360M956 0v350"/></g>
+<image href="../../assets/logo.svg" x="42" y="30" width="155" height="155"/>
+<text x="218" y="82" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700" fill="#f5f8fb">KMX RADAR</text>
+<text x="218" y="114" font-family="DejaVu Sans,Arial" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<rect x="55" y="205" width="352" height="46" rx="18" fill="#0b2738"/>
+<text x="75" y="236" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">SI TIENES ACCIONES WBD</text>
+<text x="985" y="1285" text-anchor="end" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#8fa6b7">5/10</text>
+<text x="55" y="1285" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="55" y="1320" font-family="DejaVu Sans,Arial" font-size="15" fill="#8095a5">02 OCT 2026 · FUENTES EN LA ÚLTIMA DIAPOSITIVA</text>
+<text x="55" y="340" font-family="DejaVu Sans,Arial" font-size="47" font-weight="700" fill="#f5f8fb">¿QUÉ PASA CON LOS ACCIONISTAS?</text>
+<rect x="55" y="420" width="970" height="245" rx="28" fill="#0b2233" stroke="#13f2c2" stroke-width="2"/>
+<text x="90" y="495" font-family="DejaVu Sans,Arial" font-size="27" font-weight="700" fill="#aebdca">POR CADA ACCIÓN DE WBD ELEGIBLE</text>
+<text x="90" y="585" font-family="DejaVu Sans,Arial" font-size="70" font-weight="800" fill="#13f2c2">$31,00 EN EFECTIVO</text>
+<text x="90" y="630" font-family="DejaVu Sans,Arial" font-size="23" fill="#aebdca">+ un pequeño importe diario desde el 1 de octubre hasta el cierre.</text>
+<rect x="55" y="720" width="970" height="275" rx="28" fill="#0b2233"/>
+<text x="90" y="790" font-family="DejaVu Sans,Arial" font-size="31" font-weight="700" fill="#ffd35a">¿Por qué hay ese extra diario?</text>
+<text x="90" y="850" font-family="DejaVu Sans,Arial" font-size="25" font-weight="400" fill="#d6e0e7">El acuerdo añade $0,00277778 por acción por cada día</text><text x="90" y="890" font-family="DejaVu Sans,Arial" font-size="25" font-weight="400" fill="#d6e0e7">transcurrido después del 30 de septiembre hasta el cierre.</text><text x="90" y="930" font-family="DejaVu Sans,Arial" font-size="25" font-weight="400" fill="#d6e0e7">Es una compensación por el tiempo adicional hasta completar</text><text x="90" y="970" font-family="DejaVu Sans,Arial" font-size="25" font-weight="400" fill="#d6e0e7">la operación.</text>
+<text x="55" y="1100" font-family="DejaVu Sans,Arial" font-size="21" fill="#8095a5">Fuente: comunicado conjunto Paramount Skydance / Warner Bros. Discovery.</text>
 </svg>
