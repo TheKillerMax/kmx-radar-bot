@@ -102,10 +102,15 @@ def publish_package(package_dir: Path, manifest: dict) -> dict:
     if not ig_id:
         raise RuntimeError(f"Unable to obtain Instagram professional account id: {account}")
 
+    root = Path(__file__).resolve().parents[2]
     images = manifest["images"]
     urls: list[str] = []
     for item in images:
-        rel = str((package_dir / item["path"]).as_posix())
+        absolute = (package_dir / item["path"]).resolve()
+        try:
+            rel = absolute.relative_to(root.resolve()).as_posix()
+        except ValueError as exc:
+            raise RuntimeError(f"Publication image must stay inside the repository: {absolute}") from exc
         url = _media_url(rel)
         _wait_public_url(url)
         urls.append(url)
