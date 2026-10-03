@@ -1,0 +1,3 @@
+enabled: true
+require_ready_marker: true
+max_posts_per_cycle: 1
