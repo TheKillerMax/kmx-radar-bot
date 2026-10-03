@@ -1,0 +1,130 @@
+{
+  "theme": {
+    "name": "mission-control",
+    "background": "#06111F",
+    "accent": "#18E0C4",
+    "accent2": "#6BA8FF",
+    "warm": "#FFB85A",
+    "text": "#F7FAFC",
+    "muted": "#C5D1DC",
+    "panel": "#0A2033"
+  },
+  "sources": {
+    "flight_directors": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jsc2026e018919_%28April_1%2C_2026%29_-_NASA_flight_directors_Rick_Henfling_%28right%29_and_Judd_Frieling_%28left%29_sit_on_console_in_Mission_Control%27s_White_Flight_Control_room_during_NASA%27s_Artemis_II_mission_launch_on_Wednesday%2C.jpg/1280px-thumbnail.jpg",
+      "credit": "NASA/Robert Markowitz",
+      "archive": true
+    },
+    "mission_control": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Mission_control_center.jpg/1280px-Mission_control_center.jpg",
+      "credit": "NASA",
+      "archive": true
+    },
+    "nbl": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/NASA_Neutral_Buoyancy_Laboratory_Panorama.jpg",
+      "credit": "Ben_pcc / Wikimedia Commons",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-portada.png",
+      "photo": "flight_directors",
+      "archive": true,
+      "kicker": "QUÉ PASÓ",
+      "title": "NASA BUSCA NUEVOS DIRECTORES DE VUELO",
+      "body": "Son quienes coordinan desde Houston el control de misión durante vuelos espaciales tripulados.",
+      "stat": "12 OCT",
+      "stat_label": "último día para enviar la solicitud",
+      "footer": "Desliza: qué hace este puesto",
+      "alt_text": "NASA abrió solicitudes para una nueva promoción de directores de vuelo; el plazo termina el 12 de octubre de 2026."
+    },
+    {
+      "n": 2,
+      "file": "02-funcion.png",
+      "photo": "mission_control",
+      "archive": true,
+      "kicker": "QUÉ HACE EL PUESTO",
+      "title": "DIRIGE EL EQUIPO QUE CONTROLA UNA MISIÓN EN TIEMPO REAL",
+      "body": "Coordina controladores, astronautas, ingenieros y socios internacionales y ayuda a tomar decisiones operativas y de seguridad.",
+      "callout": "La base de trabajo está en el Centro Espacial Johnson, en Houston.",
+      "footer": "Desliza: qué misiones pueden dirigir",
+      "alt_text": "Un director de vuelo de NASA dirige desde Houston al equipo que controla una misión espacial tripulada en tiempo real."
+    },
+    {
+      "n": 3,
+      "file": "03-misiones.png",
+      "photo": "flight_directors",
+      "archive": true,
+      "kicker": "QUÉ MISIONES",
+      "title": "PUEDEN DIRIGIR VUELOS A LA ESTACIÓN Y A LA LUNA",
+      "bullets": [
+        "Operaciones de la Estación Espacial Internacional.",
+        "Misiones Artemis a la Luna.",
+        "Futuras misiones humanas más lejanas cuando existan."
+      ],
+      "callout": "La convocatoria no anuncia una fecha para una misión humana a Marte.",
+      "footer": "Desliza: quién puede postular",
+      "alt_text": "Los futuros directores de vuelo podrán dirigir operaciones de la Estación Espacial Internacional, Artemis y futuras misiones humanas."
+    },
+    {
+      "n": 4,
+      "file": "04-requisitos.png",
+      "photo": "mission_control",
+      "archive": true,
+      "kicker": "QUIÉN PUEDE POSTULAR",
+      "title": "NASA PIDE FORMACIÓN TÉCNICA Y EXPERIENCIA BAJO PRESIÓN",
+      "bullets": [
+        "Ciudadanía estadounidense.",
+        "Licenciatura en ingeniería, ciencias, informática o matemáticas.",
+        "Experiencia profesional de responsabilidad creciente.",
+        "Experiencia tomando decisiones críticas en situaciones de alto riesgo."
+      ],
+      "footer": "Desliza: qué experiencia NO es obligatoria",
+      "alt_text": "NASA exige ciudadanía estadounidense, estudios técnicos o científicos y experiencia profesional importante para postular a director de vuelo."
+    },
+    {
+      "n": 5,
+      "file": "05-experiencia.png",
+      "photo": "flight_directors",
+      "archive": true,
+      "kicker": "UNA DUDA COMÚN",
+      "title": "NO ES OBLIGATORIO HABER SIDO CONTROLADOR DE VUELO DE NASA",
+      "body": "Muchos directores de vuelo empezaron como controladores, pero NASA dice que esa experiencia previa no es un requisito para presentar la solicitud.",
+      "footer": "Desliza: cuánto dura la preparación",
+      "alt_text": "NASA aclara que no es obligatorio haber trabajado antes como controlador de vuelo para postular a director de vuelo."
+    },
+    {
+      "n": 6,
+      "file": "06-formacion.png",
+      "photo": "nbl",
+      "archive": true,
+      "kicker": "CÓMO SE PREPARAN",
+      "title": "LA CERTIFICACIÓN INICIAL PUEDE TARDAR HASTA 16 MESES",
+      "body": "La formación incluye sistemas de naves espaciales, simulaciones, liderazgo operativo y gestión de riesgos.",
+      "callout": "Después de certificarse, la formación continúa durante toda la carrera.",
+      "footer": "Desliza: fechas y qué pasa ahora",
+      "alt_text": "La certificación inicial de un nuevo director de vuelo de NASA puede tardar hasta 16 meses e incluye entrenamiento técnico y de liderazgo."
+    },
+    {
+      "n": 7,
+      "file": "07-fechas.png",
+      "photo": "mission_control",
+      "archive": true,
+      "kicker": "QUÉ PASA AHORA",
+      "title": "LAS SOLICITUDES CIERRAN EL 12 DE OCTUBRE",
+      "bullets": [
+        "NASA abrió la convocatoria el 2 de octubre.",
+        "El plazo termina el 12 de octubre de 2026.",
+        "NASA espera anunciar a los seleccionados antes de fin de año."
+      ],
+      "sources": [
+        "NASA — convocatoria oficial",
+        "NASA — preguntas frecuentes"
+      ],
+      "footer": "Guarda este post: seguiremos las próximas misiones",
+      "alt_text": "La convocatoria de NASA para nuevos directores de vuelo está abierta hasta el 12 de octubre de 2026 y las selecciones se esperan antes de fin de año."
+    }
+  ]
+}
