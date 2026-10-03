@@ -331,3 +331,55 @@ Cuando una pieza combine una cifra grande con una explicación:
 - mantener separación vertical clara entre número, unidad y explicación;
 - si una cifra incluye palabras o unidades largas, tratarla como bloque variable, no como ancho fijo;
 - cualquier solapamiento entre cifra y explicación bloquea la publicación.
+
+
+## 23. Descubrimiento, SEO y hashtags
+
+Los hashtags son una señal de clasificación y búsqueda, no un sustituto de contenido que la gente quiera ver, guardar o compartir. KMX RADAR debe optimizar cada publicación para descubrimiento sin usar etiquetas irrelevantes ni listas genéricas.
+
+### Regla general
+- Usar **entre 3 y 5 hashtags** por publicación; nunca más de 5.
+- Incluir normalmente **#KMXRadar** como etiqueta de marca.
+- Los otros hashtags deben elegirse de forma dinámica para **esa noticia concreta**, no copiarse automáticamente de publicaciones anteriores.
+- Priorizar relevancia y capacidad real de competir antes que el volumen bruto de publicaciones de una etiqueta.
+- Evitar mega-etiquetas genéricas como #viral, #instagood, #love, #news o equivalentes si no añaden una señal temática útil.
+- No usar una etiqueta popular solo porque esté en tendencia si no describe realmente la publicación.
+- No usar hashtags prohibidos, restringidos o asociados a spam.
+
+### Investigación obligatoria antes de publicar
+Para cada noticia, investigar en la web y, cuando esté disponible, en analítica social conectada:
+1. hashtags activos del tema o entidad;
+2. hashtags amplios de la categoría;
+3. hashtags de nicho con audiencia claramente relacionada;
+4. hashtags geográficos cuando la ubicación sea relevante;
+5. hashtags de actualidad/evento cuando existan y sean inequívocos.
+
+La selección final debe buscar la mejor probabilidad de descubrimiento, no simplemente los números más grandes.
+
+### Mezcla recomendada
+Cuando el tema lo permita, construir hasta cinco posiciones:
+1. **Marca:** #KMXRadar.
+2. **Tema amplio:** la categoría principal que una persona buscaría.
+3. **Tema específico:** entidad, tecnología, fenómeno, empresa, misión, ley, desastre, etc.
+4. **Geografía/comunidad:** país, ciudad, región o comunidad pertinente.
+5. **Actualidad/evento:** término puntual de la noticia o una etiqueta con conversación activa.
+
+No forzar las cinco posiciones si solo existen tres o cuatro etiquetas realmente buenas.
+
+### SEO de Instagram
+La optimización de descubrimiento no depende solo de hashtags:
+- incluir las palabras que la gente realmente buscaría en el titular y las primeras líneas del caption;
+- usar nombre completo de entidades antes de siglas;
+- escribir alt text descriptivo y natural;
+- mantener la primera línea clara y específica;
+- favorecer contenido que merezca **compartidos y guardados**, porque son señales de distribución más fuertes que llenar el caption de etiquetas.
+
+### Control de calidad
+Antes de crear `.ready`:
+- comprobar que hay entre 3 y 5 hashtags;
+- comprobar que no se repiten;
+- comprobar que todos son relevantes para el contenido;
+- volver a investigar si alguno ha quedado obsoleto o restringido;
+- sustituir etiquetas genéricas por otras más precisas cuando exista una opción mejor.
+
+Si no se puede justificar por qué una etiqueta ayuda a clasificar o descubrir la publicación, no se usa.

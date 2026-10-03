@@ -7,8 +7,8 @@
   "verification_signal": 0.38,
   "primary_source_present": false,
   "independent_domains": [
-    "amp.elperiodico.com",
-    "diarioenpositivo.com"
+    "diarioenpositivo.com",
+    "elperiodico.com"
   ],
   "high_trust_domains": [],
   "article_count": 2,
@@ -16,8 +16,8 @@
   "sources": [
     {
       "title": "Illa critica que quienes votaron en contra de los decretos de vivienda pretendan dar \"lecciones\" - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZDJUUGpXMW5ZU3pjTk91X3FYcHhSYmhrUDRucFZjOHVvYWdYT3RrMUtqRWlYbkprbmJ5akNibVp5dmlkV1ZsSE5FM2hxX0FiR3JiZWEyU3RKdEttMzRUX1VfdTY3TGVRdVl5NmRCWlV5aU1ybFJkOG90R0szV09ZTEhXTjI4bTRRQTN3dU9fRFU2QkJnQTZ2LTRNU0lxd9IBngFBVV95cUxNZDJUUGpXMW5ZU3pjTk91X3FYcHhSYmhrUDRucFZjOHVvYWdYT3RrMUtqRWlYbkprbmJ5akNibVp5dmlkV1ZsSE5FM2hxX0FiR3JiZWEyU3RKdEttMzRUX1VfdTY3TGVRdVl5NmRCWlV5aU1ybFJkOG90R0szV09ZTEhXTjI4bTRRQTN3dU9fRFU2QkJnQTZ2LTRNU0lxdw?oc=5",
-      "domain": "amp.elperiodico.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU0VlZ2J3QTNmUlV5cmlSNWhLZ3R6NFJTNDgxdi1RV3dORTBBc2pvZFhMTlA2M2haSjdYQTVPandQUXRVeTM4Vm9SRTJyX3V0amdwVlZkSGtiZmRKcWxHbFhzWjViZjhXYWF2OEQwVVpocVVrN0VWcXNhZ3E4M1M3UlBvbUx2bHBGY1RUVGw2enZuRE40T2NaTnlCakJVUdIBngFBVV95cUxNZDJUUGpXMW5ZU3pjTk91X3FYcHhSYmhrUDRucFZjOHVvYWdYT3RrMUtqRWlYbkprbmJ5akNibVp5dmlkV1ZsSE5FM2hxX0FiR3JiZWEyU3RKdEttMzRUX1VfdTY3TGVRdVl5NmRCWlV5aU1ybFJkOG90R0szV09ZTEhXTjI4bTRRQTN3dU9fRFU2QkJnQTZ2LTRNU0lxdw?oc=5",
+      "domain": "elperiodico.com",
       "publisher": "El Periódico",
       "language": "es",
       "source_country": "",
