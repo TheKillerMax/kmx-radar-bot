@@ -1,0 +1,133 @@
+{
+  "theme": {
+    "name": "orbital-newsroom",
+    "accent": "#1DECC6",
+    "accent2": "#58A6FF",
+    "warm": "#FFB347",
+    "background": "#07121E",
+    "text": "#F5F8FA",
+    "muted": "#C2CED8"
+  },
+  "sources": {
+    "crew_arrival": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Crew-13_Crew_Arrival_%28KSC-20260926-PH-KLS01_0073%29.jpg/1280px-Crew-13_Crew_Arrival_%28KSC-20260926-PH-KLS01_0073%29.jpg",
+      "credit": "NASA/Kim Shiflett",
+      "archive": true
+    },
+    "plant_research": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CCP_Crew-13_Astronauts_Tour_Plant_Processing_Area_%28KSC-20260512-PH-KLS01_0012%29.jpg/1280px-CCP_Crew-13_Astronauts_Tour_Plant_Processing_Area_%28KSC-20260512-PH-KLS01_0012%29.jpg",
+      "credit": "NASA/Kim Shiflett",
+      "archive": true
+    },
+    "crew_rehearsal": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/NASA%E2%80%99s_SpaceX_Crew-13_Final_Launch_Operations_Rehearsal_%28NHQ202609290009%29.jpg/1280px-NASA%E2%80%99s_SpaceX_Crew-13_Final_Launch_Operations_Rehearsal_%28NHQ202609290009%29.jpg",
+      "credit": "NASA/Joel Kowsky",
+      "archive": true
+    },
+    "earth_from_iss": {
+      "direct_url": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS075/ISS075-E-26016.JPG",
+      "credit": "NASA Johnson Space Center",
+      "archive": false
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-que-paso.png",
+      "photo": "crew_rehearsal",
+      "archive": true,
+      "kicker": "QUÉ PASÓ",
+      "title": "CUATRO ASTRONAUTAS YA ESTÁN EN LA ESTACIÓN ESPACIAL",
+      "body": "La nave de SpaceX llegó el 1 de octubre después de despegar desde Florida.",
+      "stat": "7 h 55 min",
+      "stat_label": "tiempo desde el despegue hasta que la nave se conectó con la estación",
+      "footer": "Desliza: por qué fue un récord",
+      "alt_text": "Cuatro astronautas de la misión Crew-13 llegaron a la Estación Espacial Internacional menos de ocho horas después del lanzamiento."
+    },
+    {
+      "n": 2,
+      "file": "02-record.png",
+      "photo": "earth_from_iss",
+      "archive": false,
+      "kicker": "POR QUÉ FUE UN RÉCORD",
+      "title": "FUE EL VIAJE MÁS RÁPIDO DE UNA NAVE ESTADOUNIDENSE HASTA ESA ESTACIÓN",
+      "body": "Desde el despegue en Florida hasta que la nave se conectó con la estación pasaron 7 horas y 55 minutos.",
+      "callout": "El récord es de Estados Unidos, no mundial.",
+      "footer": "Desliza: quiénes viajaron",
+      "alt_text": "Explicación del récord de 7 horas y 55 minutos para una nave estadounidense que viajó a la Estación Espacial Internacional."
+    },
+    {
+      "n": 3,
+      "file": "03-tripulacion.png",
+      "photo": "crew_arrival",
+      "archive": true,
+      "kicker": "QUIÉNES VIAJARON",
+      "title": "ESTOS SON LOS CUATRO TRIPULANTES",
+      "people": [
+        "Jessica Watkins — NASA",
+        "Luke Delaney — NASA",
+        "Joshua Kutryk — Agencia Espacial Canadiense",
+        "Sergey Teteryatnikov — Roscosmos"
+      ],
+      "callout": "Watkins ya había estado en la estación. Para los otros tres es su primer vuelo espacial.",
+      "footer": "Desliza: qué harán allí",
+      "alt_text": "Los cuatro tripulantes de Crew-13: Jessica Watkins, Luke Delaney, Joshua Kutryk y Sergey Teteryatnikov."
+    },
+    {
+      "n": 4,
+      "file": "04-mision.png",
+      "photo": "crew_arrival",
+      "archive": true,
+      "kicker": "QUÉ HARÁN AHORA",
+      "title": "LA MISIÓN NO TERMINÓ AL LLEGAR",
+      "body": "Trabajarán en la estación durante varios meses haciendo investigación, mantenimiento y tareas para mantener el laboratorio funcionando.",
+      "callout": "Crew-13 es una misión de larga duración.",
+      "footer": "Desliza: qué van a investigar",
+      "alt_text": "Explicación de que Crew-13 permanecerá varios meses en la Estación Espacial Internacional realizando investigación y mantenimiento."
+    },
+    {
+      "n": 5,
+      "file": "05-investigacion.png",
+      "photo": "plant_research",
+      "archive": true,
+      "kicker": "QUÉ VAN A INVESTIGAR",
+      "title": "SALUD, ALIMENTOS Y VUELOS MÁS LARGOS",
+      "bullets": [
+        "Cómo cambia la circulación sanguínea en el espacio.",
+        "Cómo producir tejidos para estudiar enfermedades.",
+        "Cómo cultivar alimentos durante misiones largas.",
+        "Cómo vigilar la salud de los astronautas durante el vuelo."
+      ],
+      "callout": "Son investigaciones en curso, no tratamientos médicos aprobados.",
+      "footer": "Desliza: por qué importa",
+      "alt_text": "Crew-13 investigará circulación sanguínea, tejidos humanos, cultivo de alimentos y control de salud en el espacio."
+    },
+    {
+      "n": 6,
+      "file": "06-importa.png",
+      "photo": "earth_from_iss",
+      "archive": false,
+      "kicker": "POR QUÉ IMPORTA",
+      "title": "EL RÉCORD DURÓ HORAS; LA MISIÓN DURARÁ MESES",
+      "body": "Llegar rápido fue un récord operativo para Estados Unidos. El trabajo principal será mantener la estación funcionando y obtener datos útiles para futuros vuelos espaciales.",
+      "footer": "Desliza: qué pasa ahora",
+      "alt_text": "Explicación de por qué Crew-13 importa: el récord de llegada fue rápido, pero la misión científica durará meses."
+    },
+    {
+      "n": 7,
+      "file": "07-ahora.png",
+      "photo": "earth_from_iss",
+      "archive": false,
+      "kicker": "QUÉ PASA AHORA",
+      "title": "CREW-13 YA ESTÁ DENTRO DE LA ESTACIÓN",
+      "body": "La tripulación hará una transición con quienes estaban allí antes y después continuará una misión científica de larga duración.",
+      "sources": [
+        "NASA",
+        "Associated Press",
+        "Reuters"
+      ],
+      "footer": "Guarda este post: seguiremos las próximas misiones",
+      "alt_text": "Crew-13 ya está dentro de la Estación Espacial Internacional y continuará una misión científica de larga duración."
+    }
+  ]
+}
