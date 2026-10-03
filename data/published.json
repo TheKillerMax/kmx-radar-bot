@@ -221,6 +221,45 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Cuatro astronautas llegaron a la Estación Espacial Internacional en tiempo récord para EE.UU.",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/01-que-paso.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/02-record.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/03-tripulacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/04-mision.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/05-investigacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/06-importa.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/07-ahora.png"
+      ],
+      "media_id": "18122337061916783",
+      "publication_id": "kmx-20261003-crew13-record",
+      "published_at": "2026-10-03T04:23:35Z",
+      "source_event_id": "web-fallback-20261003-crew13",
+      "sources": [
+        {
+          "label": "NASA — llegada y récord de 7 h 55 min",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/dragon-docks-bringing-spacex-crew-13-to-station/"
+        },
+        {
+          "label": "NASA — lanzamiento de Crew-13",
+          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+        },
+        {
+          "label": "NASA — investigación de Crew-13",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/crew-13-research-advances-health-food-and-deep-space-science/"
+        },
+        {
+          "label": "Associated Press — llegada y récord estadounidense",
+          "url": "https://apnews.com/article/spacex-nasa-astronauts-crew-13-d885ec0dcb9fab8bbf8977103118caa0"
+        },
+        {
+          "label": "Reuters — lanzamiento, tripulación y misión científica",
+          "url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
