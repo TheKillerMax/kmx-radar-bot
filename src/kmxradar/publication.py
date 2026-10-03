@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import json
 import logging
+import re
 
 from .config import DATA_DIR, editorial_config, load_yaml
 from .instagram import publish_package
