@@ -185,6 +185,42 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount y Warner Bros. Discovery esperan unirse el 6 de octubre",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/08-fuentes.png"
+      ],
+      "media_id": "18142632166717283",
+      "publication_id": "kmx-20261002-skydance-ultra-clear-v4",
+      "published_at": "2026-10-03T03:26:10Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
