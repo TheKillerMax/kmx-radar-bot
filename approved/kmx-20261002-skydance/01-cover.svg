@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <path d="M0 0V120M60 0V120" stroke="#0b2333" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1080" height="1350" fill="#04101b"/>
+<rect width="1080" height="1350" fill="url(#grid)" opacity=".75"/>
+<rect x="0" y="0" width="12" height="1350" fill="#13f2c2"/>
+<g opacity=".42" fill="none" stroke="#155064" stroke-width="2">
+  <circle cx="965" cy="145" r="110"/><circle cx="965" cy="145" r="190"/><circle cx="965" cy="145" r="270"/><circle cx="965" cy="145" r="350"/><circle cx="965" cy="145" r="430"/>
+  <path d="M515 145H1080M965 0V560"/>
+</g>
+<path d="M965 145 L950 -275 L1125 -235 Z" fill="#0b555b" opacity=".55"/>
+<image href="../../assets/logo.svg" x="38" y="28" width="170" height="170"/>
+<text x="225" y="82" font-family="DejaVu Sans" font-size="29" font-weight="700" fill="#f6f9fb">KMX RADAR</text>
+<text x="225" y="112" font-family="DejaVu Sans" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<line x1="225" y1="132" x2="540" y2="132" stroke="#145568" stroke-width="2"/>
+<rect x="55" y="220" width="280" height="46" rx="18" fill="#0b2235"/><text x="72" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#13f2c2">RADAR / NEGOCIOS</text>
+<rect x="760" y="220" width="185" height="46" rx="18" fill="#13f2c2"/><text x="778" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">VERIFICADO</text>
+<text x="55" y="365" font-family="DejaVu Sans" font-size="54" font-weight="700" fill="#aab7c4">PARAMOUNT +</text>
+<text x="55" y="430" font-family="DejaVu Sans" font-size="54" font-weight="700" fill="#f6f9fb">WARNER BROS. DISCOVERY</text>
+<rect x="55" y="475" width="970" height="7" fill="#13f2c2"/>
+<text x="55" y="620" font-family="DejaVu Sans" font-size="76" font-weight="700" fill="#f6f9fb">LA EMPRESA</text>
+<text x="55" y="710" font-family="DejaVu Sans" font-size="76" font-weight="700" fill="#f6f9fb">COMBINADA SE</text>
+<text x="55" y="800" font-family="DejaVu Sans" font-size="76" font-weight="700" fill="#f6f9fb">LLAMARÁ SKYDANCE</text>
+<rect x="55" y="930" width="970" height="205" rx="28" fill="#0b2235" stroke="#155064" stroke-width="2"/>
+<text x="90" y="990" font-family="DejaVu Sans" font-size="26" font-weight="700" fill="#aab7c4">CIERRE PREVISTO</text>
+<text x="90" y="1070" font-family="DejaVu Sans" font-size="62" font-weight="700" fill="#13f2c2">6 OCT 2026</text>
+<text x="555" y="1045" font-family="DejaVu Sans" font-size="25" fill="#f6f9fb">Sujeto a condiciones habituales</text>
+<line x1="55" y1="1242" x2="1025" y2="1242" stroke="#134858" stroke-width="2"/>
+<text x="55" y="1292" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="820" y="1292" font-family="DejaVu Sans" font-size="22" font-weight="700" fill="#aab7c4">1/5</text>
+<text x="55" y="1325" font-family="DejaVu Sans" font-size="15" fill="#aab7c4">02 OCT 2026 · INFORMACIÓN VERIFICADA CON FUENTES PRIMARIAS E INDEPENDIENTES</text>
+</svg>
