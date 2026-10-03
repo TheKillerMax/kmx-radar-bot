@@ -1,0 +1,48 @@
+name: Prepare KMX RADAR visuals
+
+on:
+  push:
+    paths:
+      - "approved/**/.visualize"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kmx-radar-visuals
+  cancel-in-progress: false
+
+jobs:
+  visuals:
+    if: github.repository_owner == 'TheKillerMax'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -e .
+
+      - name: Render and validate real licensed visuals
+        run: python -m kmxradar prepare-visuals
+
+      - name: Persist visuals and Phase 2 state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add approved data
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: complete visual production"
+            git pull --rebase origin main
+            git push
+          fi
