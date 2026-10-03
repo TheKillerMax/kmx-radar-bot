@@ -17,7 +17,7 @@ runtime:
   publish_threshold_high_risk: 0.89
   minimum_independent_domains: 3
   high_risk_minimum_domains_without_primary: 5
-  max_posts_per_day: 9
+  max_posts_per_day: 8
   min_minutes_between_posts: 75
 
 instagram:
