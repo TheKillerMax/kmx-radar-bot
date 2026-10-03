@@ -7,4 +7,5 @@ python-dateutil>=2.9,<3
 cryptography>=42,<50
 feedparser>=6,<7
 CairoSVG>=2.7,<3
+Pillow>=10,<13
 pytest>=8,<10
