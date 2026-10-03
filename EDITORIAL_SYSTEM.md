@@ -301,3 +301,22 @@ Antes de publicar, hacer esta comprobación:
 > Si alguien que no ha leído ninguna noticia sobre el tema ve solo la primera imagen y la siguiente, ¿puede explicar con sus propias palabras qué está ocurriendo?
 
 Si la respuesta no es claramente sí, reescribir antes de publicar.
+
+
+## 21. Logo oficial y prohibición de visuales sintéticos
+
+### Logo oficial
+- `assets/logo.png` es el **logo oficial aprobado de KMX RADAR**.
+- Debe aparecer en **todas** las publicaciones visuales, portadas, piezas de varias imágenes y Reels.
+- No sustituirlo por recreaciones, variaciones generadas, logos aproximados ni versiones de terceros.
+- No deformarlo, recolorearlo, recortarlo ni alterar sus proporciones.
+- Debe conservar contraste suficiente y una zona de seguridad alrededor.
+
+### Visuales
+- KMX RADAR **no genera fotografías ni escenas sintéticas** para noticias.
+- El material visual de fondo debe proceder de Internet con fuente y derechos de reutilización verificables, tal como define la sección de procedencia visual.
+- Se permiten elementos de diseño propios —tipografía, cajas, líneas, iconos simples, gráficos, mapas y diagramas construidos con datos verificables— siempre que no pretendan ser una fotografía real del acontecimiento.
+- Si no existe material real reutilizable de forma segura, la publicación se bloquea o se resuelve con diseño informativo no fotográfico; nunca se inventa una escena.
+
+### Responsabilidad del sistema
+La automatización debe completar investigación, sourcing, composición, control de calidad y publicación sin pedir trabajo manual al usuario. Si una fase no puede completarse de forma segura, debe detenerse y explicar el bloqueo, no delegar pasos rutinarios al usuario.
