@@ -1,0 +1,209 @@
+{
+  "sources": {
+    "paramount": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Paramount_Pictures_Melrose_Gate_entrance.jpg/960px-Paramount_Pictures_Melrose_Gate_entrance.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paramount_Pictures_Melrose_Gate_entrance.jpg",
+      "creator": "Laura Alier",
+      "license": "CC BY 4.0"
+    },
+    "warner": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Warner_Bros_Television_Studios_Headquarters.jpg/960px-Warner_Bros_Television_Studios_Headquarters.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Warner_Bros_Television_Studios_Headquarters.jpg",
+      "creator": "Coolcaesar",
+      "license": "CC BY 4.0"
+    },
+    "nyse": {
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/New_York_Stock_Exchange_%28NYSE%29_%2855314070579%29.jpg/960px-New_York_Stock_Exchange_%28NYSE%29_%2855314070579%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_(NYSE)_(55314070579).jpg",
+      "creator": "Ajay Suresh",
+      "license": "CC BY 4.0"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-cover.png",
+      "background": [
+        "paramount",
+        "warner"
+      ],
+      "layout": "cover",
+      "kicker": "ENTRETENIMIENTO / EMPRESAS",
+      "title": [
+        "PARAMOUNT",
+        "+ WARNER BROS.",
+        "PREPARAN SU FUSIÓN"
+      ],
+      "subtitle": "Paramount Skydance y Warner Bros. Discovery esperan completar la operación el 6 de octubre. Todavía no está cerrada.",
+      "highlight": "Si se completa, Warner Bros. Discovery pasaría a formar parte del mismo grupo que Paramount.",
+      "cta": "Desliza: qué está pasando",
+      "credit": "ARCHIVO · Laura Alier + Coolcaesar · CC BY 4.0",
+      "highlight_label": "QUÉ PASA"
+    },
+    {
+      "n": 2,
+      "file": "02-esencial.png",
+      "background": "nyse",
+      "layout": "facts",
+      "kicker": "QUÉ ESTÁ PASANDO",
+      "title": "LA NOTICIA",
+      "facts": [
+        {
+          "label": "ACUERDO",
+          "text": "Paramount Skydance y Warner Bros. Discovery acordaron una fusión."
+        },
+        {
+          "label": "FECHA",
+          "text": "Esperan completar la operación el 6 de octubre de 2026."
+        },
+        {
+          "label": "ESTADO",
+          "text": "Todavía no se ha completado. La fecha depende de que se cumplan las condiciones finales."
+        }
+      ],
+      "note": "Una fusión significa que dos empresas pasan a formar parte del mismo grupo.",
+      "cta": "Desliza: qué significa una fusión",
+      "credit": "ARCHIVO · Ajay Suresh · CC BY 4.0",
+      "note_label": "QUÉ SIGNIFICA"
+    },
+    {
+      "n": 3,
+      "file": "03-timeline.png",
+      "background": "paramount",
+      "layout": "timeline",
+      "title": "¿QUÉ SIGNIFICA FUSIÓN?",
+      "subtitle": "Dos empresas pasan a formar parte del mismo grupo.",
+      "timeline": [
+        {
+          "date": "30 SEP",
+          "text": "Anuncian la fecha prevista"
+        },
+        {
+          "date": "2 OCT",
+          "text": "Informan el nuevo nombre y cambios en bolsa"
+        },
+        {
+          "date": "6 OCT",
+          "text": "Fecha prevista para completar la operación"
+        }
+      ],
+      "box_title": "¿Qué significa que “se cierre”?",
+      "box_text": "Que la operación se complete legalmente. Hasta ese momento, todavía puede retrasarse o cambiar.",
+      "cta": "Desliza: qué cambiaría",
+      "credit": "ARCHIVO · Laura Alier · CC BY 4.0"
+    },
+    {
+      "n": 4,
+      "file": "04-cambios.png",
+      "background": "nyse",
+      "layout": "changes",
+      "title": "¿QUÉ CAMBIARÍA?",
+      "items": [
+        {
+          "label": "NOMBRE",
+          "text": "El nuevo grupo pasaría a llamarse Skydance Corporation."
+        },
+        {
+          "label": "BOLSA",
+          "text": "Las acciones de Paramount pasarían de Nasdaq a la Bolsa de Nueva York (NYSE)."
+        },
+        {
+          "label": "CÓDIGO EN BOLSA",
+          "text": "El código con el que aparece la empresa cambiaría de PSKY a SKYD."
+        }
+      ],
+      "note": "Son cambios de la empresa principal del grupo. No significa que todas las marcas o apps cambien ese mismo día.",
+      "cta": "Desliza: cómo afecta a los accionistas",
+      "credit": "ARCHIVO · Ajay Suresh · CC BY 4.0"
+    },
+    {
+      "n": 5,
+      "file": "05-accionistas.png",
+      "background": "warner",
+      "layout": "money",
+      "title": "ACCIONISTAS DE WARNER BROS.",
+      "big": "US$31,00",
+      "big_label": "por cada acción incluida en el acuerdo",
+      "small": "EXTRA DIARIO",
+      "small_label": "Además, se suma un pequeño importe por cada día después del 30 de septiembre hasta que se complete la operación.",
+      "explain": "Ese extra compensa los días adicionales de espera hasta que la fusión se complete.",
+      "disclaimer": "No es una recomendación de inversión. Es una explicación del acuerdo anunciado.",
+      "cta": "Desliza: qué pasa con las marcas",
+      "credit": "ARCHIVO · Coolcaesar · CC BY 4.0",
+      "explain_title": "POR QUÉ"
+    },
+    {
+      "n": 6,
+      "file": "06-marcas.png",
+      "background": [
+        "paramount",
+        "warner"
+      ],
+      "layout": "brands",
+      "title": "¿DESAPARECEN LAS MARCAS?",
+      "subtitle": "No hay anuncio de que desaparezcan.",
+      "box_title": "Seguirían formando parte del grupo",
+      "brands": [
+        "Paramount Pictures",
+        "Warner Bros. Pictures",
+        "CBS + CNN",
+        "HBO + HBO Max",
+        "Paramount+",
+        "Discovery, Cartoon Network, Nickelodeon y más"
+      ],
+      "explain": "Cambiaría el nombre de la empresa principal que está por encima del grupo; no el nombre de cada marca.",
+      "cta": "Desliza: qué pasa con HBO Max y Paramount+",
+      "credit": "ARCHIVO · Laura Alier + Coolcaesar · CC BY 4.0",
+      "explain_title": "QUÉ CAMBIA"
+    },
+    {
+      "n": 7,
+      "file": "07-streaming.png",
+      "background": [
+        "paramount",
+        "warner"
+      ],
+      "layout": "streaming",
+      "title": "¿SE UNEN HBO MAX Y PARAMOUNT+?",
+      "statement": "No hay un anuncio oficial que confirme una unión inmediata de las dos apps.",
+      "items": [
+        {
+          "label": "PRECIOS",
+          "text": "No se ha anunciado una subida automática por el cierre."
+        },
+        {
+          "label": "CONTENIDO",
+          "text": "No se ha confirmado que todo el catálogo se mezcle ese día."
+        },
+        {
+          "label": "APPS",
+          "text": "Cualquier integración tendría que anunciarse después."
+        }
+      ],
+      "cta": "Desliza: qué falta por saber",
+      "credit": "ARCHIVO · Laura Alier + Coolcaesar · CC BY 4.0"
+    },
+    {
+      "n": 8,
+      "file": "08-fuentes.png",
+      "background": "nyse",
+      "layout": "sources",
+      "title": "¿QUÉ FALTA POR SABER?",
+      "watch": [
+        "Si la fusión se completa realmente el 6 de octubre",
+        "Qué cambios anuncian en apps, precios y catálogos",
+        "Cómo integrarán las empresas y sus equipos",
+        "Qué anuncian oficialmente después"
+      ],
+      "sources": [
+        "Paramount / SEC",
+        "WBD Investor Relations",
+        "Reuters",
+        "Associated Press"
+      ],
+      "credits": "Archivo: Laura Alier, Coolcaesar y Ajay Suresh · Wikimedia Commons · CC BY 4.0",
+      "cta": "Guarda este post: actualizaremos la historia",
+      "credit": "Imágenes de archivo con atribución; no muestran el cierre de la operación."
+    }
+  ]
+}
