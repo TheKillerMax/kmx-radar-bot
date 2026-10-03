@@ -1,9 +1,11 @@
 {
   "last_processed_generated_at": "2026-10-03T18:39:19Z",
   "last_publication_id": "kmx-20261003-eeuu-empleo-ia",
-  "last_result": "phase3_approved",
-  "note": "Phase 3 passed: publication, 7 rendered images, source list, rights manifest and visual QC verified. Publishing jobs/AI explainer.",
-  "phase": "publishing",
+  "last_result": "published",
+  "note": "Manual cycle completed successfully: latest intake processed, editorial package created atomically, licensed real visuals rendered with QC, and the post reached Instagram.",
+  "phase": "published",
   "source_event_id": "01-1f51d955d025450b",
-  "visuals_completed_at": "2026-10-03T19:37:40Z"
+  "visuals_completed_at": "2026-10-03T19:37:40Z",
+  "last_media_id": "18186372661417951",
+  "published_at": "2026-10-03T19:40:09Z"
 }
