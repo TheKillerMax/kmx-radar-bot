@@ -1,35 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
-<defs>
-  <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-    <path d="M0 0V120M60 0V120" stroke="#0b2333" stroke-width="1"/>
-  </pattern>
-</defs>
-<rect width="1080" height="1350" fill="#04101b"/>
-<rect width="1080" height="1350" fill="url(#grid)" opacity=".75"/>
-<rect x="0" y="0" width="12" height="1350" fill="#13f2c2"/>
-<g opacity=".42" fill="none" stroke="#155064" stroke-width="2">
-  <circle cx="965" cy="145" r="110"/><circle cx="965" cy="145" r="190"/><circle cx="965" cy="145" r="270"/><circle cx="965" cy="145" r="350"/><circle cx="965" cy="145" r="430"/>
-  <path d="M515 145H1080M965 0V560"/>
-</g>
-<path d="M965 145 L950 -275 L1125 -235 Z" fill="#0b555b" opacity=".55"/>
-<image href="../../assets/logo.svg" x="38" y="28" width="170" height="170"/>
-<text x="225" y="82" font-family="DejaVu Sans" font-size="29" font-weight="700" fill="#f6f9fb">KMX RADAR</text>
-<text x="225" y="112" font-family="DejaVu Sans" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
-<line x1="225" y1="132" x2="540" y2="132" stroke="#145568" stroke-width="2"/>
-<rect x="55" y="220" width="215" height="46" rx="18" fill="#13f2c2"/><text x="72" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">QUÉ SABEMOS</text>
-<text x="55" y="355" font-family="DejaVu Sans" font-size="45" font-weight="700" fill="#f6f9fb">EL CIERRE AÚN NO SE HA PRODUCIDO</text>
-<text x="55" y="402" font-family="DejaVu Sans" font-size="27" fill="#aab7c4">Esto es lo confirmado hasta ahora.</text>
-<circle cx="73" cy="508" r="9" fill="#13f2c2"/><text x="105" y="520" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Fecha prevista</text>
-<text x="105" y="570" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">Paramount Skydance y Warner Bros. Discovery esperan completar</text>
-<text x="105" y="608" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">la fusión el 6 de octubre de 2026.</text>
-<circle cx="73" cy="660" r="9" fill="#13f2c2"/><text x="105" y="672" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Condición</text>
-<text x="105" y="722" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">La fecha sigue sujeta a las condiciones habituales de cierre</text>
-<text x="105" y="760" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">de la operación.</text>
-<circle cx="73" cy="812" r="9" fill="#13f2c2"/><text x="105" y="824" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Estructura</text>
-<text x="105" y="874" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">Tras el cierre, Warner Bros. Discovery quedará como subsidiaria</text>
-<text x="105" y="912" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">de propiedad total de la compañía matriz.</text>
-<line x1="55" y1="1242" x2="1025" y2="1242" stroke="#134858" stroke-width="2"/>
-<text x="55" y="1292" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#13f2c2">@kmxradar</text>
-<text x="820" y="1292" font-family="DejaVu Sans" font-size="22" font-weight="700" fill="#aab7c4">2/5</text>
-<text x="55" y="1325" font-family="DejaVu Sans" font-size="15" fill="#aab7c4">02 OCT 2026 · INFORMACIÓN VERIFICADA CON FUENTES PRIMARIAS E INDEPENDIENTES</text>
+<rect width="1080" height="1350" fill="#04111d"/>
+<defs><pattern id="g" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#0d2a3c" stroke-width="1"/></pattern></defs>
+<rect width="1080" height="1350" fill="url(#g)" opacity=".75"/>
+<rect x="0" y="0" width="10" height="1350" fill="#13f2c2"/>
+<g opacity=".45" fill="none" stroke="#13556a" stroke-width="2"><circle cx="956" cy="115" r="80"/><circle cx="956" cy="115" r="155"/><circle cx="956" cy="115" r="230"/><path d="M720 115h360M956 0v350"/></g>
+<image href="../../assets/logo.svg" x="42" y="30" width="155" height="155"/>
+<text x="218" y="82" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700" fill="#f5f8fb">KMX RADAR</text>
+<text x="218" y="114" font-family="DejaVu Sans,Arial" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<rect x="55" y="205" width="224" height="46" rx="18" fill="#0b2738"/>
+<text x="75" y="236" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">EN 30 SEGUNDOS</text>
+<text x="985" y="1285" text-anchor="end" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#8fa6b7">2/10</text>
+<text x="55" y="1285" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="55" y="1320" font-family="DejaVu Sans,Arial" font-size="15" fill="#8095a5">02 OCT 2026 · FUENTES EN LA ÚLTIMA DIAPOSITIVA</text>
+<text x="55" y="340" font-family="DejaVu Sans,Arial" font-size="50" font-weight="700" fill="#f5f8fb">LO ESENCIAL, SIN JERGA</text>
+<rect x="55" y="405" width="970" height="190" rx="26" fill="#0b2233" stroke="#123f52" stroke-width="2"/>
+ <circle cx="95" cy="453" r="10" fill="#13f2c2"/>
+ <text x="125" y="463" font-family="DejaVu Sans,Arial" font-size="29" font-weight="700" fill="#f5f8fb">1 · FECHA</text>
+ <text x="125" y="510" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Cierre previsto: 6 de octubre de 2026.</text>
+<rect x="55" y="625" width="970" height="190" rx="26" fill="#0b2233" stroke="#123f52" stroke-width="2"/>
+ <circle cx="95" cy="673" r="10" fill="#24b8ff"/>
+ <text x="125" y="683" font-family="DejaVu Sans,Arial" font-size="29" font-weight="700" fill="#f5f8fb">2 · NOMBRE</text>
+ <text x="125" y="730" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">La compañía matriz pretende llamarse Skydance Corporation.</text>
+<rect x="55" y="845" width="970" height="220" rx="26" fill="#0b2233" stroke="#123f52" stroke-width="2"/>
+ <circle cx="95" cy="893" r="10" fill="#ffd35a"/>
+ <text x="125" y="903" font-family="DejaVu Sans,Arial" font-size="29" font-weight="700" fill="#f5f8fb">3 · BOLSA</text>
+ <text x="125" y="950" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Las acciones clase B pasarían de Nasdaq a NYSE.</text><text x="125" y="984" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">El ticker previsto cambia de PSKY a SKYD.</text>
+<text x="55" y="1145" font-family="DejaVu Sans,Arial" font-size="25" fill="#aebdca">Nada de esto significa que todas las marcas o apps desaparezcan el día del cierre.</text>
 </svg>
