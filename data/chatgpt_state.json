@@ -1,9 +1,11 @@
 {
   "last_processed_generated_at": null,
   "last_publication_id": "kmx-20261003-crew13-record-v2",
-  "last_result": "phase3_approved",
-  "note": "Corrected Crew-13 v2 passed visual QC and rights checks; publishing correction.",
-  "phase": "publishing",
+  "last_result": "published",
+  "note": "Crew-13 corrected v2 published successfully after fixing metric/label overlap and rerunning visual QC.",
+  "phase": "published",
   "source_event_id": "web-fallback-20261003-crew13",
-  "visuals_completed_at": "2026-10-03T04:29:54Z"
+  "visuals_completed_at": "2026-10-03T04:29:54Z",
+  "last_media_id": "17997763883825057",
+  "published_at": "2026-10-03T04:32:00Z"
 }
