@@ -1,0 +1,5 @@
+{
+  "fallback_branch": "kmx-editorial-20261003-cataluna-alerta-inundaciones",
+  "fallback_commit": "b774945fe3443c8e62141490c61262a195d456d6",
+  "files_only_on_fallback_branch": ["publication.json", "visual-sourcing-plan.md"]
+}
