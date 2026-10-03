@@ -45,6 +45,7 @@ jobs:
           git add approved
           if ! git diff --cached --quiet; then
             git commit -m "radar: render approved publication media"
+            git pull --rebase origin main
             git push
           fi
 
@@ -59,5 +60,6 @@ jobs:
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: record approved Instagram publication"
+            git pull --rebase origin main
             git push
           fi
