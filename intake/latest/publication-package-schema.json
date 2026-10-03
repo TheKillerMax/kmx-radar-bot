@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-YYYYMMDD-slug",
+  "source_event_id": "event-id-from-this-zip",
+  "ready_to_publish": true,
+  "status": "VERIFICADO|CORROBORADO|EN DESARROLLO|CONTEXTO|CORRECCIÓN",
+  "headline": "Titular factual",
+  "caption": "Texto final para Instagram",
+  "ai_generated": true,
+  "created_at": "ISO-8601 UTC",
+  "sources": [
+    {
+      "url": "https://...",
+      "label": "Fuente"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-cover.jpg",
+      "alt_text": "Descripción accesible de la imagen"
+    }
+  ]
+}

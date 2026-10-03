@@ -1,0 +1,304 @@
+{
+  "posts": [
+    {
+      "headline": "Paramount + Warner Bros. Discovery: qué cambia y qué no",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/02-que-sabemos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/03-que-cambia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/04-contexto.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/05-fuentes.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/08-liderazgo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/09-dudas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/10-fuentes.png"
+      ],
+      "media_id": "18348163381271608",
+      "publication_id": "kmx-20261002-skydance",
+      "published_at": "2026-10-03T01:21:45Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "Paramount / SEC Form 8-K — 2 oct. 2026",
+          "url": "https://ir.paramount.com/node/73386/html"
+        },
+        {
+          "label": "Warner Bros. Discovery Investor Relations — 30 sep. 2026",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Paramount — liderazgo previsto tras el cierre — 30 sep. 2026",
+          "url": "https://ir.paramount.com/news-releases/news-release-details/chairman-and-ceo-david-ellison-announces-ynon-kreiz-co-ceo/"
+        },
+        {
+          "label": "Reuters — 2 oct. 2026",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — 1 oct. 2026",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount + WBD: qué cambia y qué no",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-real/08-fuentes.png"
+      ],
+      "media_id": "17875578240576590",
+      "publication_id": "kmx-20261002-skydance-real",
+      "published_at": "2026-10-03T02:11:24Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount + WBD: las claves de la fusión prevista",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final/08-fuentes.png"
+      ],
+      "media_id": "18104232254136940",
+      "publication_id": "kmx-20261002-skydance-final",
+      "published_at": "2026-10-03T02:28:33Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount + WBD: las claves de la fusión prevista",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-final-v2/08-fuentes.png"
+      ],
+      "media_id": "18073951055491024",
+      "publication_id": "kmx-20261002-skydance-final-v2",
+      "published_at": "2026-10-03T02:41:44Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount y Warner Bros. Discovery esperan completar su fusión",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-plain-language-v3/08-fuentes.png"
+      ],
+      "media_id": "17941064625360392",
+      "publication_id": "kmx-20261002-skydance-plain-language-v3",
+      "published_at": "2026-10-03T02:54:21Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Paramount y Warner Bros. Discovery esperan unirse el 6 de octubre",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/02-esencial.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/03-timeline.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/04-cambios.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/05-accionistas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance-ultra-clear-v4/08-fuentes.png"
+      ],
+      "media_id": "18142632166717283",
+      "publication_id": "kmx-20261002-skydance-ultra-clear-v4",
+      "published_at": "2026-10-03T03:26:10Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "SEC / Paramount — traslado a NYSE",
+          "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+        },
+        {
+          "label": "WBD Investor Relations — fecha prevista y pago por acción",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Reuters — nombre y estructura",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — contexto",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Cuatro astronautas llegaron a la Estación Espacial Internacional en tiempo récord para EE.UU.",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/01-que-paso.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/02-record.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/03-tripulacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/04-mision.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/05-investigacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/06-importa.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record/07-ahora.png"
+      ],
+      "media_id": "18122337061916783",
+      "publication_id": "kmx-20261003-crew13-record",
+      "published_at": "2026-10-03T04:23:35Z",
+      "source_event_id": "web-fallback-20261003-crew13",
+      "sources": [
+        {
+          "label": "NASA — llegada y récord de 7 h 55 min",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/dragon-docks-bringing-spacex-crew-13-to-station/"
+        },
+        {
+          "label": "NASA — lanzamiento de Crew-13",
+          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+        },
+        {
+          "label": "NASA — investigación de Crew-13",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/crew-13-research-advances-health-food-and-deep-space-science/"
+        },
+        {
+          "label": "Associated Press — llegada y récord estadounidense",
+          "url": "https://apnews.com/article/spacex-nasa-astronauts-crew-13-d885ec0dcb9fab8bbf8977103118caa0"
+        },
+        {
+          "label": "Reuters — lanzamiento, tripulación y misión científica",
+          "url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01/"
+        }
+      ],
+      "status": "VERIFICADO"
+    },
+    {
+      "headline": "Cuatro astronautas llegaron a la Estación Espacial Internacional en 7 h 55 min",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/01-que-paso.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/02-record.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/03-tripulacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/04-mision.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/05-investigacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/06-importa.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-crew13-record-v2/07-ahora.png"
+      ],
+      "media_id": "17997763883825057",
+      "publication_id": "kmx-20261003-crew13-record-v2",
+      "published_at": "2026-10-03T04:32:00Z",
+      "source_event_id": "web-fallback-20261003-crew13",
+      "sources": [
+        {
+          "label": "NASA — llegada y récord de 7 h 55 min",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/dragon-docks-bringing-spacex-crew-13-to-station/"
+        },
+        {
+          "label": "NASA — lanzamiento de Crew-13",
+          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+        },
+        {
+          "label": "NASA — investigación de Crew-13",
+          "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/crew-13-research-advances-health-food-and-deep-space-science/"
+        },
+        {
+          "label": "Associated Press — llegada y récord estadounidense",
+          "url": "https://apnews.com/article/spacex-nasa-astronauts-crew-13-d885ec0dcb9fab8bbf8977103118caa0"
+        },
+        {
+          "label": "Reuters — lanzamiento, tripulación y misión científica",
+          "url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01/"
+        }
+      ],
+      "status": "VERIFICADO"
+    }
+  ]
+}

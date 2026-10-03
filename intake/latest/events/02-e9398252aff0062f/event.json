@@ -1,0 +1,39 @@
+{
+  "event_id": "02-e9398252aff0062f",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "The South American Games generated more than $120,000 million, positioning Santa Fe as a leading destination for major events - Gobierno de Santa Fe",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.33,
+  "primary_source_present": true,
+  "independent_domains": [
+    "santafe.gob.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.475,
+  "sources": [
+    {
+      "title": "The South American Games generated more than $120,000 million, positioning Santa Fe as a leading destination for major events - Gobierno de Santa Fe",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTSnM4YWxsdk1Ud2RhTUhGdUpJR2NiY1pfaGZTQ2JqaF8tYzl5a3ZtOUszWDdnb3JsVTN0TUdzMEg4WGE5ZmtlbktzU3hFTWJ5eWFld1Q3Zk1aQVdtQl96ag?oc=5",
+      "domain": "santafe.gob.ar",
+      "publisher": "Gobierno de Santa Fe",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 02 Oct 2026 22:38:45 GMT",
+      "primary_hint": false,
+      "excerpt": "The South American Games generated more than $120,000 million, positioning Santa Fe as a leading destination for major events Gobierno de Santa Fe"
+    },
+    {
+      "title": "South American Games: “We’re looking ahead and positioning Santa Fe where it belongs” - Gobierno de Santa Fe",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hSHdLN3RrT2VNTHBIalFreW9UMXNFY3RIRkpfSDNZSkdGZ0VNTE5LcUVaT0lXNE1BT3U4dU1vamdZVjZFeVFJWTA5NDQzU3hnWXRyZ2NYakNQQ1VfZ0NVeA?oc=5",
+      "domain": "santafe.gob.ar",
+      "publisher": "Gobierno de Santa Fe",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 02 Oct 2026 22:38:45 GMT",
+      "primary_hint": false,
+      "excerpt": "South American Games: “We’re looking ahead and positioning Santa Fe where it belongs” Gobierno de Santa Fe"
+    }
+  ]
+}

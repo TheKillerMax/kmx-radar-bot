@@ -1,0 +1,40 @@
+{
+  "event_id": "04-cbb210ae8ce7e20f",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Resumen semanal de IA: entre la superinteligencia, la geopolítica y el dilema ético - CriptoTendencia",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "criptotendencia.com",
+    "latribuna.hn"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Superinteligencia - Diario La Tribuna",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ndTRzX080QTNzdklVd0lyeV9MREN1dGhHWmJDTENRd3JKUTJnOTdTTWJhV2h0ZEh4d0RzRDduVWdVNnk2bXJJWkR6cEtXYzFRMDhTMHRTR29LTnN4VnItZjVYemM?oc=5",
+      "domain": "latribuna.hn",
+      "publisher": "Diario La Tribuna",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 06:42:41 GMT",
+      "primary_hint": false,
+      "excerpt": "Superinteligencia Diario La Tribuna"
+    },
+    {
+      "title": "Resumen semanal de IA: entre la superinteligencia, la geopolítica y el dilema ético - CriptoTendencia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT19zM3RKRlhNNWhMSUpwMmQwS0M3by1mNU1HSkNqdXA3clVPQUZMaGZ5UEd4SUIxdUNBLWhodWUzUGxuNVdXaTFkYXJFcWFFZjdTajllekpkTVI5YXBPUzJCd0FmTGNobDZiWmFVR1VaRHRHNzZXaHgwSzlGdC0tM2xtTkRBNUI0d0lLRk5kUmVfeWh4Q3Jkd0w1NVdINHZtR1M2XzRZLXZydzZFcTNOVlZYMUlVY2tTMDVQZDdOOUY?oc=5",
+      "domain": "criptotendencia.com",
+      "publisher": "CriptoTendencia",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 02 Oct 2026 22:45:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Resumen semanal de IA: entre la superinteligencia, la geopolítica y el dilema ético CriptoTendencia"
+    }
+  ]
+}
