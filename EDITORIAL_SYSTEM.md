@@ -320,3 +320,14 @@ Si la respuesta no es claramente sí, reescribir antes de publicar.
 
 ### Responsabilidad del sistema
 La automatización debe completar investigación, sourcing, composición, control de calidad y publicación sin pedir trabajo manual al usuario. Si una fase no puede completarse de forma segura, debe detenerse y explicar el bloqueo, no delegar pasos rutinarios al usuario.
+
+
+## 22. Cifras grandes y texto explicativo
+
+Cuando una pieza combine una cifra grande con una explicación:
+- no colocar el texto explicativo al lado salvo que el ancho real de ambos elementos se mida y quede margen suficiente;
+- por defecto, apilar **cifra arriba + explicación debajo**;
+- medir la caja real de la cifra antes de posicionar cualquier otro texto;
+- mantener separación vertical clara entre número, unidad y explicación;
+- si una cifra incluye palabras o unidades largas, tratarla como bloque variable, no como ancho fijo;
+- cualquier solapamiento entre cifra y explicación bloquea la publicación.
