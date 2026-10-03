@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <path d="M0 0V120M60 0V120" stroke="#0b2333" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1080" height="1350" fill="#04101b"/>
+<rect width="1080" height="1350" fill="url(#grid)" opacity=".75"/>
+<rect x="0" y="0" width="12" height="1350" fill="#13f2c2"/>
+<g opacity=".42" fill="none" stroke="#155064" stroke-width="2">
+  <circle cx="965" cy="145" r="110"/><circle cx="965" cy="145" r="190"/><circle cx="965" cy="145" r="270"/><circle cx="965" cy="145" r="350"/><circle cx="965" cy="145" r="430"/>
+  <path d="M515 145H1080M965 0V560"/>
+</g>
+<path d="M965 145 L950 -275 L1125 -235 Z" fill="#0b555b" opacity=".55"/>
+<image href="../../assets/logo.svg" x="38" y="28" width="170" height="170"/>
+<text x="225" y="82" font-family="DejaVu Sans" font-size="29" font-weight="700" fill="#f6f9fb">KMX RADAR</text>
+<text x="225" y="112" font-family="DejaVu Sans" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<line x1="225" y1="132" x2="540" y2="132" stroke="#145568" stroke-width="2"/>
+<rect x="55" y="220" width="170" height="46" rx="18" fill="#ffd754"/><text x="72" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">CONTEXTO</text>
+<text x="55" y="360" font-family="DejaVu Sans" font-size="49" font-weight="700" fill="#f6f9fb">PARAMOUNT Y WARNER BROS.</text>
+<text x="55" y="416" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#13f2c2">SEGUIRÁN COMO MARCAS DIFERENCIADAS</text>
+<circle cx="73" cy="518" r="9" fill="#13f2c2"/><text x="105" y="530" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Identidad</text>
+<text x="105" y="578" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">David Ellison dijo que el nombre Skydance busca dar identidad a</text>
+<text x="105" y="616" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">la compañía matriz sin eclipsar las marcas Paramount y Warner Bros.</text>
+<circle cx="73" cy="708" r="9" fill="#24b8ff"/><text x="105" y="720" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Escala</text>
+<text x="105" y="768" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">El grupo reunirá estudios, televisión y streaming, incluidos CBS,</text>
+<text x="105" y="806" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">CNN, Paramount+ y HBO Max.</text>
+<circle cx="73" cy="862" r="9" fill="#ffd754"/><text x="105" y="874" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Último gran obstáculo</text>
+<text x="105" y="922" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">Un juez federal aprobó el acuerdo con 12 estados que habían</text>
+<text x="105" y="960" font-family="DejaVu Sans" font-size="26" fill="#aab7c4">demandado para frenar la operación, despejando un obstáculo legal clave.</text>
+<line x1="55" y1="1242" x2="1025" y2="1242" stroke="#134858" stroke-width="2"/>
+<text x="55" y="1292" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="820" y="1292" font-family="DejaVu Sans" font-size="22" font-weight="700" fill="#aab7c4">4/5</text>
+<text x="55" y="1325" font-family="DejaVu Sans" font-size="15" fill="#aab7c4">02 OCT 2026 · INFORMACIÓN VERIFICADA CON FUENTES PRIMARIAS E INDEPENDIENTES</text>
+</svg>
