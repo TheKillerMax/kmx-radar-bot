@@ -14,7 +14,6 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED }}
   INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
   TOKEN_ENCRYPTION_PASSWORD: ${{ secrets.TOKEN_ENCRYPTION_PASSWORD }}
 
@@ -50,14 +49,12 @@ jobs:
           fi
 
       - name: Wait for raw GitHub media propagation
-        if: env.PUBLISH_ENABLED == 'true'
         run: sleep 15
 
       - name: Publish first ready package
         run: python -m kmxradar publish-approved
 
       - name: Persist receipt and publication history
-        if: env.PUBLISH_ENABLED == 'true'
         run: |
           git add approved data
           if ! git diff --cached --quiet; then
