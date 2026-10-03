@@ -4,9 +4,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import json
 import logging
-import os
 
-from .config import DATA_DIR, editorial_config
+from .config import DATA_DIR, ROOT, editorial_config, load_yaml
 from .instagram import publish_package
 from .utils import read_json, utcnow_iso, write_json
 
@@ -95,8 +94,9 @@ def _already_published(publication_id: str) -> bool:
 
 
 def publish_ready_packages() -> int:
-    if os.getenv("PUBLISH_ENABLED", "false").strip().lower() != "true":
-        LOG.info("PUBLISH_ENABLED is not true; nothing will be published.")
+    auto = load_yaml("autopublish.yml")
+    if not bool(auto.get("enabled", False)):
+        LOG.info("Automatic publishing is disabled in config/autopublish.yml.")
         return 0
 
     if not _rate_limit_allows_post():
