@@ -1,6 +1,8 @@
 {
   "last_processed_generated_at": null,
-  "last_publication_id": null,
-  "last_result": "not_run",
-  "note": "Initialized for scheduled ChatGPT editorial cycles."
+  "last_publication_id": "kmx-20261003-crew13-record",
+  "last_result": "editorial_ready_for_visuals",
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "web-fallback-20261003-crew13",
+  "note": "Recovered from approved/kmx-20261003-crew13-record/handoff.json so Phase 2 can continue."
 }
