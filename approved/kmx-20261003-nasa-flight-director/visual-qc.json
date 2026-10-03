@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-10-03T12:18:47Z",
+  "checks": [
+    "renderer completed without overflow/fit exceptions",
+    "all files exist",
+    "all files are 1080x1350",
+    "every image has alt text",
+    "visual-sources.json contains explicit source, creator, and license/permission",
+    "official assets/logo.png is used by renderer"
+  ],
+  "file_count": 7,
+  "files": [
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "01-portada.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "02-funcion.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "03-misiones.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "04-requisitos.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "05-experiencia.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "06-formacion.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "07-fechas.png",
+      "width": 1080
+    }
+  ],
+  "format": "1080x1350",
+  "result": "pass"
+}

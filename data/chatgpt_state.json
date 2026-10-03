@@ -1,9 +1,9 @@
 {
   "last_processed_generated_at": "2026-10-03T09:04:03Z",
   "last_publication_id": "kmx-20261003-nasa-flight-director",
-  "last_result": "editorial_ready_for_visuals",
-  "note": "Manual cycle Phase 1 completed: NASA flight director application story selected and editorial package prepared.",
-  "phase": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "phase": "visuals_ready",
   "source_event_id": "08-90b5d9e894957440",
-  "visuals_completed_at": "2026-10-03T04:29:54Z"
+  "visuals_completed_at": "2026-10-03T12:18:47Z"
 }
