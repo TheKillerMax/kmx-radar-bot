@@ -1,3 +1,4 @@
 approved-by-user: 2026-10-02
 visual-policy: real-licensed-internet-media
 retry: wikimedia-thumbnails-with-backoff
+retry: corrected-repost-authorized
