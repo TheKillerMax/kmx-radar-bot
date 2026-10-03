@@ -18,7 +18,7 @@ runtime:
   minimum_independent_domains: 3
   high_risk_minimum_domains_without_primary: 5
   max_posts_per_day: 8
-  min_minutes_between_posts: 75
+  min_minutes_between_posts: 0
 
 instagram:
   api_version: "v26.0"
