@@ -1,0 +1,34 @@
+{
+  "instagram": {
+    "children": [
+      "18125933602714897",
+      "18125933629714897",
+      "18125933656714897",
+      "18125933677714897",
+      "18125933695714897",
+      "18125933716714897",
+      "18125933737714897",
+      "18125933770714897",
+      "18125933839714897",
+      "18125933932714897"
+    ],
+    "container_id": "18125933971714897",
+    "ig_id": "17841421446894095",
+    "image_urls": [
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/01-cover.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/02-que-sabemos.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/03-que-cambia.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/04-contexto.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/05-fuentes.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/06-marcas.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/07-streaming.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/08-liderazgo.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/09-dudas.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/10-fuentes.png"
+    ],
+    "media_id": "18348163381271608",
+    "username": "kmxradar"
+  },
+  "publication_id": "kmx-20261002-skydance",
+  "published_at": "2026-10-03T01:21:45Z"
+}

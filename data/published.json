@@ -1,1 +1,46 @@
-{"posts": []}
+{
+  "posts": [
+    {
+      "headline": "Paramount + Warner Bros. Discovery: qué cambia y qué no",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/01-cover.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/02-que-sabemos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/03-que-cambia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/04-contexto.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/05-fuentes.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/06-marcas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/07-streaming.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/08-liderazgo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/09-dudas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261002-skydance/10-fuentes.png"
+      ],
+      "media_id": "18348163381271608",
+      "publication_id": "kmx-20261002-skydance",
+      "published_at": "2026-10-03T01:21:45Z",
+      "source_event_id": "01-93435c9f7af7ea7b",
+      "sources": [
+        {
+          "label": "Paramount / SEC Form 8-K — 2 oct. 2026",
+          "url": "https://ir.paramount.com/node/73386/html"
+        },
+        {
+          "label": "Warner Bros. Discovery Investor Relations — 30 sep. 2026",
+          "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+        },
+        {
+          "label": "Paramount — liderazgo previsto tras el cierre — 30 sep. 2026",
+          "url": "https://ir.paramount.com/news-releases/news-release-details/chairman-and-ceo-david-ellison-announces-ynon-kreiz-co-ceo/"
+        },
+        {
+          "label": "Reuters — 2 oct. 2026",
+          "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+        },
+        {
+          "label": "Associated Press — 1 oct. 2026",
+          "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+        }
+      ],
+      "status": "VERIFICADO"
+    }
+  ]
+}
