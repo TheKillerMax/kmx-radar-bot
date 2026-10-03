@@ -1,0 +1,7 @@
+{
+  "publication_id": "kmx-20261003-crew13-record",
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "web-fallback-20261003-crew13",
+  "created_at": "2026-10-03T03:14:01Z",
+  "note": "Fallback handoff marker because data/chatgpt_state.json could not be updated through the connector."
+}
