@@ -47,6 +47,7 @@ Dentro encontrarás:
 ```text
 manifest.json
 instructions.md
+EDITORIAL_SYSTEM.md
 publication-package-schema.json
 previous_posts.json
 brand/
@@ -69,10 +70,11 @@ La puntuación interna **no es una probabilidad de verdad**. Sirve únicamente p
 2. Abre la ejecución más reciente.
 3. Descarga el artifact `kmx-radar-intake-...`.
 4. Sube el ZIP a ChatGPT.
-5. Pide a ChatGPT que siga `instructions.md`.
-6. ChatGPT debe volver a investigar en Internet antes de redactar.
-7. ChatGPT prepara el contenido final e imágenes.
-8. Con el repositorio conectado, ChatGPT puede guardar el resultado en:
+5. Pide a ChatGPT que siga `instructions.md` y `EDITORIAL_SYSTEM.md`.
+6. `EDITORIAL_SYSTEM.md` contiene el estándar FORJA-Editorial: rigor, fact-checking, arquitectura narrativa, retención, diseño, ética y trazabilidad.
+7. ChatGPT debe volver a investigar en Internet antes de redactar.
+8. ChatGPT prepara el contenido final e imágenes.
+9. Con el repositorio conectado, ChatGPT puede guardar el resultado en:
 
 ```text
 approved/<publication_id>/
