@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#04111d"/>
+<defs><pattern id="g" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#0d2a3c" stroke-width="1"/></pattern></defs>
+<rect width="1080" height="1350" fill="url(#g)" opacity=".75"/>
+<rect x="0" y="0" width="10" height="1350" fill="#13f2c2"/>
+<g opacity=".45" fill="none" stroke="#13556a" stroke-width="2"><circle cx="956" cy="115" r="80"/><circle cx="956" cy="115" r="155"/><circle cx="956" cy="115" r="230"/><path d="M720 115h360M956 0v350"/></g>
+<image href="../../assets/logo.svg" x="42" y="30" width="155" height="155"/>
+<text x="218" y="82" font-family="DejaVu Sans,Arial" font-size="28" font-weight="700" fill="#f5f8fb">KMX RADAR</text>
+<text x="218" y="114" font-family="DejaVu Sans,Arial" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<rect x="55" y="205" width="240" height="46" rx="18" fill="#0b2738"/>
+<text x="75" y="236" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">QUIÉN LO DIRIGE</text>
+<text x="985" y="1285" text-anchor="end" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#8fa6b7">8/10</text>
+<text x="55" y="1285" font-family="DejaVu Sans,Arial" font-size="22" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="55" y="1320" font-family="DejaVu Sans,Arial" font-size="15" fill="#8095a5">02 OCT 2026 · FUENTES EN LA ÚLTIMA DIAPOSITIVA</text>
+<text x="55" y="340" font-family="DejaVu Sans,Arial" font-size="48" font-weight="700" fill="#f5f8fb">DOS EJECUTIVOS, ROLES DIFERENTES</text>
+<rect x="55" y="430" width="455" height="430" rx="28" fill="#0b2233" stroke="#13f2c2" stroke-width="2"/>
+<circle cx="282" cy="535" r="70" fill="#123f52"/><text x="282" y="553" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="50" font-weight="800" fill="#13f2c2">DE</text>
+<text x="90" y="655" font-family="DejaVu Sans,Arial" font-size="31" font-weight="700" fill="#f5f8fb">DAVID ELLISON</text>
+<text x="90" y="710" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Presidente y CEO.</text><text x="90" y="748" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Estrategia, creatividad,</text><text x="90" y="786" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">tecnología y capital.</text>
+<rect x="570" y="430" width="455" height="430" rx="28" fill="#0b2233" stroke="#24b8ff" stroke-width="2"/>
+<circle cx="797" cy="535" r="70" fill="#123f52"/><text x="797" y="553" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="50" font-weight="800" fill="#24b8ff">YK</text>
+<text x="605" y="655" font-family="DejaVu Sans,Arial" font-size="31" font-weight="700" fill="#f5f8fb">YNON KREIZ</text>
+<text x="605" y="710" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Co-CEO al cierre.</text><text x="605" y="748" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">Operación diaria e</text><text x="605" y="786" font-family="DejaVu Sans,Arial" font-size="24" font-weight="400" fill="#aebdca">integración de negocios.</text>
+<text x="55" y="955" font-family="DejaVu Sans,Arial" font-size="31" font-weight="700" fill="#13f2c2">¿POR QUÉ EL NOMBRE SKYDANCE?</text>
+<text x="55" y="1015" font-family="DejaVu Sans,Arial" font-size="26" font-weight="400" fill="#d6e0e7">Ellison explicó que busca una identidad propia para la empresa matriz,</text><text x="55" y="1057" font-family="DejaVu Sans,Arial" font-size="26" font-weight="400" fill="#d6e0e7">mientras Paramount y Warner Bros. conservan sus marcas y legados.</text>
+</svg>
