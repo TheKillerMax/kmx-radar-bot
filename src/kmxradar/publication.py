@@ -33,7 +33,15 @@ def _rate_limit_allows_post() -> bool:
         p for p in published
         if (_parse_iso(p.get("published_at")) or now - timedelta(days=2)) >= now - timedelta(days=1)
     ]
-    if len(recent) >= int(cfg["max_posts_per_day"]):
+    # Corrections/reposts of the same underlying story should not consume the
+    # daily editorial story quota multiple times. Use source_event_id when
+    # available; fall back to publication_id for standalone stories.
+    recent_story_keys = {
+        str(p.get("source_event_id") or p.get("publication_id") or "").strip()
+        for p in recent
+        if str(p.get("source_event_id") or p.get("publication_id") or "").strip()
+    }
+    if len(recent_story_keys) >= int(cfg["max_posts_per_day"]):
         return False
     state = read_json(STATE_FILE, {})
     last_post = _parse_iso(state.get("last_post_at"))
