@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261002-skydance",
+  "source_event_id": "01-93435c9f7af7ea7b",
+  "ready_to_publish": false,
+  "status": "VERIFICADO",
+  "headline": "Paramount y Warner Bros. Discovery: la empresa combinada se llamará Skydance",
+  "caption": "📡 KMX RADAR | NEGOCIOS / ENTRETENIMIENTO\n\nLa empresa que resulte de la fusión de Paramount Skydance y Warner Bros. Discovery se llamará Skydance Corporation si el cierre se completa como está previsto.\n\nLas compañías esperan cerrar la operación el 6 de octubre de 2026, sujeto a condiciones habituales. Ese mismo día Paramount prevé cambiar su nombre corporativo y trasladar sus acciones clase B del Nasdaq a la NYSE bajo el ticker SKYD.\n\nDavid Ellison dijo que Paramount y Warner Bros. mantendrán sus identidades de estudio separadas. El grupo reunirá activos como CBS, CNN, Paramount+, HBO Max y ambos estudios.\n\nUn juez federal aprobó esta semana el acuerdo de Paramount con 12 estados que habían demandado para frenar la operación, despejando un obstáculo legal importante.\n\n🔎 Importante: al momento de esta publicación, el cierre está previsto, pero aún no se ha completado.\n\nFuentes: SEC (Form 8-K, 2 oct. 2026) · Warner Bros. Discovery IR (30 sep.) · Reuters (2 oct.) · AP (1 oct.)\n\n#KMXRadar #Skydance #Paramount #WarnerBrosDiscovery #Noticias",
+  "ai_generated": true,
+  "created_at": "2026-10-03T00:25:00Z",
+  "sources": [
+    {
+      "url": "https://ir.paramount.com/node/73386/html",
+      "label": "Paramount / SEC Form 8-K — 2 oct. 2026"
+    },
+    {
+      "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx",
+      "label": "Warner Bros. Discovery Investor Relations — 30 sep. 2026"
+    },
+    {
+      "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/",
+      "label": "Reuters — 2 oct. 2026"
+    },
+    {
+      "url": "https://apnews.com/article/paramount-warner-bros-discovery-takeover-f30a8a9a4d26393177bc1af5bff1e990",
+      "label": "Associated Press — 1 oct. 2026"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-cover.svg",
+      "alt_text": "Portada de KMX RADAR: Paramount y Warner Bros. Discovery. La empresa combinada se llamará Skydance. Cierre previsto para el 6 de octubre de 2026."
+    },
+    {
+      "path": "02-que-sabemos.svg",
+      "alt_text": "KMX RADAR resume qué se sabe: cierre previsto el 6 de octubre, sujeto a condiciones habituales, y Warner Bros. Discovery quedaría como subsidiaria de la compañía matriz."
+    },
+    {
+      "path": "03-que-cambia.svg",
+      "alt_text": "KMX RADAR explica los cambios corporativos previstos: nombre Skydance Corporation, traslado de Nasdaq a NYSE y ticker SKYD."
+    },
+    {
+      "path": "04-contexto.svg",
+      "alt_text": "KMX RADAR aporta contexto: Paramount y Warner Bros. seguirán como marcas diferenciadas; el grupo reunirá CBS, CNN, Paramount+, HBO Max y ambos estudios."
+    },
+    {
+      "path": "05-fuentes.svg",
+      "alt_text": "KMX RADAR muestra las fuentes usadas: SEC, Warner Bros. Discovery Investor Relations, Reuters y Associated Press, y aclara que el cierre aún no se ha completado."
+    }
+  ]
+}
