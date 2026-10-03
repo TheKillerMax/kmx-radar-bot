@@ -1,6 +1,55 @@
 feeds:
-  - name: "USGS Earthquakes"
-    url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom"
+  - name: "Google News — Top stories"
+    url: "https://news.google.com/rss?hl=es-419&gl=US&ceid=US:es-419"
+    category: "MUNDO"
+    risk: "medium"
+    language: "es"
+
+  - name: "Google News — Geopolítica"
+    url: "https://news.google.com/rss/search?q=%28election%20OR%20president%20OR%20government%20OR%20war%20OR%20ceasefire%20OR%20sanctions%29%20when%3A12h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "MUNDO"
+    risk: "high"
+    language: "es"
+
+  - name: "Google News — Economía"
+    url: "https://news.google.com/rss/search?q=%28inflation%20OR%20economy%20OR%20markets%20OR%20central%20bank%20OR%20employment%29%20when%3A12h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "ECONOMÍA"
+    risk: "medium"
+    language: "es"
+
+  - name: "Google News — Tecnología"
+    url: "https://news.google.com/rss/search?q=%28artificial%20intelligence%20OR%20cybersecurity%20OR%20semiconductor%20OR%20technology%29%20when%3A12h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "TECH"
+    risk: "low"
+    language: "es"
+
+  - name: "Google News — Ciencia y espacio"
+    url: "https://news.google.com/rss/search?q=%28science%20OR%20space%20OR%20NASA%20OR%20ESA%20OR%20discovery%29%20when%3A24h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "CIENCIA"
+    risk: "low"
+    language: "es"
+
+  - name: "Google News — Desastres"
+    url: "https://news.google.com/rss/search?q=%28earthquake%20OR%20hurricane%20OR%20flood%20OR%20wildfire%20OR%20volcano%29%20when%3A24h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "MUNDO"
+    risk: "medium"
+    language: "es"
+
+  - name: "Google News — Salud"
+    url: "https://news.google.com/rss/search?q=%28WHO%20OR%20outbreak%20OR%20disease%20OR%20public%20health%29%20when%3A24h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "SALUD"
+    risk: "high"
+    language: "es"
+
+  - name: "Google News — Verificación"
+    url: "https://news.google.com/rss/search?q=%28misinformation%20OR%20fact%20check%20OR%20fake%20news%20OR%20debunked%29%20when%3A48h&hl=es-419&gl=US&ceid=US:es-419"
+    category: "VERIFICACIÓN"
+    risk: "medium"
+    language: "es"
+
+  - name: "USGS Significant Earthquakes"
+    url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.atom"
     category: "MUNDO"
     risk: "medium"
     primary: true
+    language: "en"
