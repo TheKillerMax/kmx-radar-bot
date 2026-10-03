@@ -1,9 +1,9 @@
 {
   "last_processed_generated_at": null,
   "last_publication_id": "kmx-20261003-crew13-record-v2",
-  "last_result": "visuals_ready",
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
-  "phase": "visuals_ready",
+  "last_result": "phase3_approved",
+  "note": "Corrected Crew-13 v2 passed visual QC and rights checks; publishing correction.",
+  "phase": "publishing",
   "source_event_id": "web-fallback-20261003-crew13",
   "visuals_completed_at": "2026-10-03T04:29:54Z"
 }
