@@ -1,0 +1,55 @@
+name: Publish approved KMX RADAR package
+
+on:
+  push:
+    paths:
+      - "approved/**/.ready"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kmx-radar-publisher
+  cancel-in-progress: false
+
+env:
+  PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED }}
+  INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+  TOKEN_ENCRYPTION_PASSWORD: ${{ secrets.TOKEN_ENCRYPTION_PASSWORD }}
+
+jobs:
+  publish:
+    if: github.repository_owner == 'TheKillerMax'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -e .
+
+      - name: Wait for raw GitHub media propagation
+        if: env.PUBLISH_ENABLED == 'true'
+        run: sleep 15
+
+      - name: Publish first ready package
+        run: python -m kmxradar publish-approved
+
+      - name: Persist receipt and publication history
+        if: env.PUBLISH_ENABLED == 'true'
+        run: |
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add approved data
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: record approved Instagram publication"
+            git push
+          fi
