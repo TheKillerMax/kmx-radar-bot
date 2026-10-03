@@ -1,0 +1,63 @@
+{
+  "ai_generated": false,
+  "caption": "Cuatro astronautas ya están en la Estación Espacial Internacional.\n\nViajaron en una nave Dragon de SpaceX y tardaron 7 horas y 55 minutos desde el despegue hasta que la nave se conectó con la estación.\n\nNASA dice que es el trayecto más rápido de una nave estadounidense hasta la Estación Espacial Internacional.\n\nLa misión se llama Crew-13. Viajan Jessica Watkins y Luke Delaney, de NASA; Joshua Kutryk, de la Agencia Espacial Canadiense; y Sergey Teteryatnikov, de Roscosmos.\n\nEstarán allí durante varios meses realizando investigación y mantenimiento.\n\nEntre sus trabajos están estudiar la circulación sanguínea en el espacio, producir tejidos para investigación, cultivar alimentos y vigilar la salud de los astronautas durante vuelos largos.\n\nImportante: el récord es para una nave estadounidense en este trayecto. No significa que sea el viaje espacial más rápido de cualquier país.\n\nDesliza para ver qué ocurrió, quiénes viajaron y qué harán durante los próximos meses.\n\nFuentes: NASA, Associated Press y Reuters.\n\n#KMXRadar #Espacio #NASA #SpaceX #EstacionEspacial",
+  "created_at": "2026-10-03T04:30:00Z",
+  "headline": "Cuatro astronautas llegaron a la Estación Espacial Internacional en 7 h 55 min",
+  "images": [
+    {
+      "alt_text": "Cuatro astronautas de la misión Crew-13 llegaron a la Estación Espacial Internacional menos de ocho horas después del lanzamiento.",
+      "path": "01-que-paso.png"
+    },
+    {
+      "alt_text": "Explicación del récord de 7 horas y 55 minutos para una nave estadounidense que viajó a la Estación Espacial Internacional.",
+      "path": "02-record.png"
+    },
+    {
+      "alt_text": "Los cuatro tripulantes de Crew-13: Jessica Watkins, Luke Delaney, Joshua Kutryk y Sergey Teteryatnikov.",
+      "path": "03-tripulacion.png"
+    },
+    {
+      "alt_text": "Explicación de que Crew-13 permanecerá varios meses en la Estación Espacial Internacional realizando investigación y mantenimiento.",
+      "path": "04-mision.png"
+    },
+    {
+      "alt_text": "Crew-13 investigará circulación sanguínea, tejidos humanos, cultivo de alimentos y control de salud en el espacio.",
+      "path": "05-investigacion.png"
+    },
+    {
+      "alt_text": "Explicación de por qué Crew-13 importa: el récord de llegada fue rápido, pero la misión científica durará meses.",
+      "path": "06-importa.png"
+    },
+    {
+      "alt_text": "Crew-13 ya está dentro de la Estación Espacial Internacional y continuará una misión científica de larga duración.",
+      "path": "07-ahora.png"
+    }
+  ],
+  "publication_id": "kmx-20261003-crew13-record-v2",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "web-fallback-20261003-crew13",
+  "sources": [
+    {
+      "label": "NASA — llegada y récord de 7 h 55 min",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/dragon-docks-bringing-spacex-crew-13-to-station/"
+    },
+    {
+      "label": "NASA — lanzamiento de Crew-13",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+    },
+    {
+      "label": "NASA — investigación de Crew-13",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/01/crew-13-research-advances-health-food-and-deep-space-science/"
+    },
+    {
+      "label": "Associated Press — llegada y récord estadounidense",
+      "url": "https://apnews.com/article/spacex-nasa-astronauts-crew-13-d885ec0dcb9fab8bbf8977103118caa0"
+    },
+    {
+      "label": "Reuters — lanzamiento, tripulación y misión científica",
+      "url": "https://www.reuters.com/business/media-telecom/spacex-launches-13th-long-duration-astronaut-crew-international-space-station-2026-10-01/"
+    }
+  ],
+  "status": "editorial_ready_for_visuals"
+}
