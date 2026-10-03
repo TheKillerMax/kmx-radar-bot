@@ -1,0 +1,28 @@
+{
+  "event_id": "06-dbae835c81062aca",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Desafíos de la NASA en Salta: así pueden participar estudiantes, profesionales y mentes curiosas - Gobierno de la Provincia de Salta, Argentina",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "salta.gob.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Desafíos de la NASA en Salta: así pueden participar estudiantes, profesionales y mentes curiosas - Gobierno de la Provincia de Salta, Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG9PLW1rT3JxS014SlVSZkpKS3lIT3pjVjlKTThBaHRoNzZTNVY4aGY3bEFyR3Z0SFZmRDN3Q3RBcmdERVZvRjR6cW5hc2hCMDFrdFRNREdPWmRDVTZpR083bjJ3a0ZEVDVVcDhhNE9RLThXR1A4dUNLZldTbExENnZ1czlZY3ppX3pta01TVWMzc0RoNUN5WWxkOHNsUG5ndkRZcTZ1U3JmU0k5dGFud1hCR0RhMTdNeVhmOS1udTBjNjFsUklhRGFzREpybUdHblRqSVZWOUxfQQ?oc=5",
+      "domain": "salta.gob.ar",
+      "publisher": "Gobierno de la Provincia de Salta, Argentina",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 02:33:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Desafíos de la NASA en Salta: así pueden participar estudiantes, profesionales y mentes curiosas Gobierno de la Provincia de Salta, Argentina"
+    }
+  ]
+}

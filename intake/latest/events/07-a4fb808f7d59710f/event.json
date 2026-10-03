@@ -1,0 +1,28 @@
+{
+  "event_id": "07-a4fb808f7d59710f",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Nueva Jersey recuerda a residentes seguir tomando precauciones contra las enfermedades transmitidas por mosquitos - NJ.gov",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nj.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Nueva Jersey recuerda a residentes seguir tomando precauciones contra las enfermedades transmitidas por mosquitos - NJ.gov",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeXNmX0l3QS1OX2NhTXZpOGk4Uzh0UDhIczdmS2Q3ZW4tQTM2SEZSWGl6MXAtY1VtQ1BZNVVhcDkzT3JjQmdQRkQza2NCZXpRdHVQMmlaMlB4VmZkY2dBNmlzcEk3VDE2dUhFdg?oc=5",
+      "domain": "nj.gov",
+      "publisher": "NJ.gov",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 02:18:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Nueva Jersey recuerda a residentes seguir tomando precauciones contra las enfermedades transmitidas por mosquitos NJ.gov"
+    }
+  ]
+}
