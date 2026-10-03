@@ -2,12 +2,12 @@
   "schema_version": 1,
   "publication_id": "kmx-20261002-skydance",
   "source_event_id": "01-93435c9f7af7ea7b",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "status": "VERIFICADO",
-  "headline": "Paramount y Warner Bros. Discovery: la empresa combinada se llamará Skydance",
-  "caption": "📡 KMX RADAR | NEGOCIOS / ENTRETENIMIENTO\n\nLa empresa que resulte de la fusión de Paramount Skydance y Warner Bros. Discovery se llamará Skydance Corporation si el cierre se completa como está previsto.\n\nLas compañías esperan cerrar la operación el 6 de octubre de 2026, sujeto a condiciones habituales. Ese mismo día Paramount prevé cambiar su nombre corporativo y trasladar sus acciones clase B del Nasdaq a la NYSE bajo el ticker SKYD.\n\nDavid Ellison dijo que Paramount y Warner Bros. mantendrán sus identidades de estudio separadas. El grupo reunirá activos como CBS, CNN, Paramount+, HBO Max y ambos estudios.\n\nUn juez federal aprobó esta semana el acuerdo de Paramount con 12 estados que habían demandado para frenar la operación, despejando un obstáculo legal importante.\n\n🔎 Importante: al momento de esta publicación, el cierre está previsto, pero aún no se ha completado.\n\nFuentes: SEC (Form 8-K, 2 oct. 2026) · Warner Bros. Discovery IR (30 sep.) · Reuters (2 oct.) · AP (1 oct.)\n\n#KMXRadar #Skydance #Paramount #WarnerBrosDiscovery #Noticias",
+  "headline": "Paramount + Warner Bros. Discovery: qué cambia y qué no",
+  "caption": "📡 KMX RADAR | PARAMOUNT + WARNER BROS. DISCOVERY\n\nLa fusión está prevista para el 6 de octubre de 2026, pero todavía no se ha completado.\n\nSi el cierre ocurre como está previsto:\n\n• La empresa matriz pasará a llamarse Skydance Corporation.\n• Las acciones clase B prevén pasar de Nasdaq a la Bolsa de Nueva York.\n• El ticker cambiaría de PSKY a SKYD.\n• Warner Bros. Discovery quedaría dentro del nuevo grupo.\n• David Ellison seguirá al frente y Ynon Kreiz asumirá como co-CEO para dirigir la operación diaria y la integración.\n\n¿Desaparecen HBO, Warner Bros. o Paramount? No. Las compañías han dicho que quieren conservar esas marcas.\n\n¿HBO Max y Paramount+ se fusionan el 6 de octubre? No hay un anuncio oficial que confirme una unión inmediata de las apps, los precios o los catálogos.\n\n¿Y los accionistas de WBD? El acuerdo prevé US$31 en efectivo por acción elegible, más un pequeño importe diario desde después del 30 de septiembre hasta el cierre.\n\nTambién puedes ver cifras distintas sobre el “valor” de la operación: AP habla de US$81.000 millones para la transacción y cerca de US$111.000 millones incluyendo deuda. Por eso no conviene comparar titulares sin mirar qué está midiendo cada cifra.\n\n🔎 Lo más importante: la fecha del 6 de octubre sigue siendo una fecha prevista y depende de las condiciones finales de cierre.\n\nFuentes: SEC/Paramount · Warner Bros. Discovery IR · Reuters · Associated Press\n\nGuarda este carrusel: actualizaremos KMX RADAR cuando el cierre se confirme y cuando haya anuncios reales sobre apps, precios, empleo y catálogos.\n\n#KMXRadar #Skydance #Paramount #WarnerBrosDiscovery #HBO #Noticias",
   "ai_generated": true,
-  "created_at": "2026-10-03T00:25:00Z",
+  "created_at": "2026-10-03T00:58:00Z",
   "sources": [
     {
       "url": "https://ir.paramount.com/node/73386/html",
@@ -18,34 +18,58 @@
       "label": "Warner Bros. Discovery Investor Relations — 30 sep. 2026"
     },
     {
+      "url": "https://ir.paramount.com/news-releases/news-release-details/chairman-and-ceo-david-ellison-announces-ynon-kreiz-co-ceo/",
+      "label": "Paramount — liderazgo previsto tras el cierre — 30 sep. 2026"
+    },
+    {
       "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/",
       "label": "Reuters — 2 oct. 2026"
     },
     {
-      "url": "https://apnews.com/article/paramount-warner-bros-discovery-takeover-f30a8a9a4d26393177bc1af5bff1e990",
+      "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990",
       "label": "Associated Press — 1 oct. 2026"
     }
   ],
   "images": [
     {
       "path": "01-cover.svg",
-      "alt_text": "Portada de KMX RADAR: Paramount y Warner Bros. Discovery. La empresa combinada se llamará Skydance. Cierre previsto para el 6 de octubre de 2026."
+      "alt_text": "Portada de KMX RADAR: Paramount y Warner Bros. Discovery. La fusión está prevista para el 6 de octubre y la empresa matriz pasaría a llamarse Skydance."
     },
     {
       "path": "02-que-sabemos.svg",
-      "alt_text": "KMX RADAR resume qué se sabe: cierre previsto el 6 de octubre, sujeto a condiciones habituales, y Warner Bros. Discovery quedaría como subsidiaria de la compañía matriz."
+      "alt_text": "Resumen sencillo de la fecha prevista, el nuevo nombre corporativo, el traslado a NYSE y el ticker SKYD."
     },
     {
       "path": "03-que-cambia.svg",
-      "alt_text": "KMX RADAR explica los cambios corporativos previstos: nombre Skydance Corporation, traslado de Nasdaq a NYSE y ticker SKYD."
+      "alt_text": "Línea de tiempo que aclara que la fusión todavía no se ha cerrado y explica qué significa completar legalmente una fusión."
     },
     {
       "path": "04-contexto.svg",
-      "alt_text": "KMX RADAR aporta contexto: Paramount y Warner Bros. seguirán como marcas diferenciadas; el grupo reunirá CBS, CNN, Paramount+, HBO Max y ambos estudios."
+      "alt_text": "Tres cambios previstos: nombre Skydance Corporation, traslado de Nasdaq a NYSE y ticker SKYD."
     },
     {
       "path": "05-fuentes.svg",
-      "alt_text": "KMX RADAR muestra las fuentes usadas: SEC, Warner Bros. Discovery Investor Relations, Reuters y Associated Press, y aclara que el cierre aún no se ha completado."
+      "alt_text": "Explicación para accionistas de Warner Bros. Discovery: 31 dólares en efectivo por acción elegible más un pequeño importe diario hasta el cierre."
+    },
+    {
+      "path": "06-marcas.svg",
+      "alt_text": "Explicación de que Skydance sería el nombre de la empresa matriz y que marcas como Warner Bros., HBO, CNN, Paramount y Nickelodeon seguirían existiendo."
+    },
+    {
+      "path": "07-streaming.svg",
+      "alt_text": "Aclara que no hay un anuncio oficial de una fusión inmediata entre HBO Max y Paramount+ ni de cambios automáticos de precios o catálogos."
+    },
+    {
+      "path": "08-liderazgo.svg",
+      "alt_text": "David Ellison y Ynon Kreiz: Ellison seguirá al frente de estrategia, creatividad y tecnología; Kreiz se enfocará en operación diaria e integración."
+    },
+    {
+      "path": "09-dudas.svg",
+      "alt_text": "Tres dudas frecuentes: la fusión aún no está cerrada, las cifras de 81 y 110 o 111 mil millones miden cosas distintas, y no hay cambios inmediatos confirmados en apps o precios."
+    },
+    {
+      "path": "10-fuentes.svg",
+      "alt_text": "Fuentes utilizadas: SEC y Paramount, Warner Bros. Discovery Investor Relations, Reuters y Associated Press, más los temas que KMX RADAR seguirá vigilando."
     }
   ]
 }
