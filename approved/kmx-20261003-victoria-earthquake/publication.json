@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261003-victoria-earthquake",
+  "source_event_id": "11-11cf16c3d3bf4b8a",
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "Un terremoto de magnitud 4,8 sacudió Victoria y se sintió hasta Melbourne",
+  "caption": "Un terremoto de magnitud 4,8 sacudió el estado australiano de Victoria durante la madrugada del 3 de octubre. El epicentro estuvo cerca de Leongatha y se sintió hasta Melbourne. Menos de una hora después se registró una réplica de magnitud 3,1. VicEmergency informó que no había una amenaza inmediata para la comunidad. En las últimas actualizaciones verificadas tampoco se habían reportado heridos ni daños. Geoscience Australia informó magnitud 4,8, mientras que el Servicio Geológico de Estados Unidos calculó 4,7 para el mismo evento. Desliza para ver qué pasó y qué puede ocurrir ahora. Fuentes: VicEmergency, Geoscience Australia, U.S. Geological Survey, ABC News Australia y SBS News. #KMXRadar #Australia #Victoria #Terremoto #Melbourne",
+  "ai_generated": true,
+  "created_at": "2026-10-03T09:45:00Z",
+  "sources": [
+    {"label":"VicEmergency","url":"https://www.emergency.vic.gov.au/public/event/warning/43294.html"},
+    {"label":"USGS","url":"https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y"},
+    {"label":"ABC News Australia","url":"https://www.abc.net.au/news/2026-10-03/earthquake-strikes-near-leongatha-gippsland-victoria/107224300"},
+    {"label":"SBS News","url":"https://www.sbs.com.au/news/article/overnight-earthquake-rattles-victoria-as-thousands-report-shaking/tz6nfuy5g"}
+  ],
+  "images": [
+    {"path":"01-que-paso.png","alt_text":"Mapa de Victoria, Australia, con el epicentro cerca de Leongatha y el dato de magnitud 4,8."},
+    {"path":"02-que-sabemos.png","alt_text":"Hora, profundidad y réplica confirmada del terremoto."},
+    {"path":"03-donde-se-sintio.png","alt_text":"Mapa de Leongatha y Melbourne con la zona donde se sintió el movimiento."},
+    {"path":"04-por-que-dos-magnitudes.png","alt_text":"Comparación entre la magnitud 4,8 reportada en Australia y 4,7 del USGS."},
+    {"path":"05-estado-actual.png","alt_text":"Estado actual sin amenaza inmediata ni reportes de heridos o daños en las últimas actualizaciones."},
+    {"path":"06-que-puede-pasar-ahora.png","alt_text":"Explicación de posibles réplicas y revisión de cifras."},
+    {"path":"07-contexto.png","alt_text":"Contexto y fuentes oficiales del terremoto en Victoria."}
+  ]
+}

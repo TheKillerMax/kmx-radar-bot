@@ -1,11 +1,12 @@
 {
-  "last_processed_generated_at": null,
-  "last_publication_id": "kmx-20261003-crew13-record-v2",
-  "last_result": "published",
-  "note": "Crew-13 corrected v2 published successfully after fixing metric/label overlap and rerunning visual QC.",
-  "phase": "published",
-  "source_event_id": "web-fallback-20261003-crew13",
-  "visuals_completed_at": "2026-10-03T04:29:54Z",
-  "last_media_id": "17997763883825057",
-  "published_at": "2026-10-03T04:32:00Z"
+  "last_processed_generated_at": "2026-10-03T09:04:03Z",
+  "last_publication_id": "kmx-20261003-victoria-earthquake",
+  "last_result": "editorial_ready_for_visuals",
+  "note": "Selected intake event 11-11cf16c3d3bf4b8a: Victoria earthquake. Editorial package prepared; next phase must reconfirm breaking-status details before rendering.",
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "11-11cf16c3d3bf4b8a",
+  "editorial_completed_at": "2026-10-03T09:47:00Z",
+  "previous_publication_id": "kmx-20261003-crew13-record-v2",
+  "previous_media_id": "17997763883825057",
+  "previous_published_at": "2026-10-03T04:32:00Z"
 }
