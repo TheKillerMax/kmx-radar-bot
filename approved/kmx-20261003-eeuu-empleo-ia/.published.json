@@ -1,0 +1,28 @@
+{
+  "instagram": {
+    "children": [
+      "18126181996714897",
+      "18126182128714897",
+      "18126182164714897",
+      "18126182188714897",
+      "18126182239714897",
+      "18126182314714897",
+      "18126182509714897"
+    ],
+    "container_id": "18126182530714897",
+    "ig_id": "17841421446894095",
+    "image_urls": [
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/01-empleo.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/02-ia-causa.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/03-sectores.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/04-recortes-ia.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/05-tecnologia.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/06-dos-medidas.png",
+      "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/07-conclusion.png"
+    ],
+    "media_id": "18186372661417951",
+    "username": "kmxradar"
+  },
+  "publication_id": "kmx-20261003-eeuu-empleo-ia",
+  "published_at": "2026-10-03T19:40:09Z"
+}

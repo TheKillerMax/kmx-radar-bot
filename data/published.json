@@ -330,6 +330,41 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "EE. UU. sumó solo 29.000 empleos en septiembre: qué sabemos sobre el papel de la IA",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/01-empleo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/02-ia-causa.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/03-sectores.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/04-recortes-ia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/05-tecnologia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/06-dos-medidas.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-eeuu-empleo-ia/07-conclusion.png"
+      ],
+      "media_id": "18186372661417951",
+      "publication_id": "kmx-20261003-eeuu-empleo-ia",
+      "published_at": "2026-10-03T19:40:09Z",
+      "source_event_id": "01-1f51d955d025450b",
+      "sources": [
+        {
+          "label": "U.S. Bureau of Labor Statistics — Employment Situation, septiembre 2026",
+          "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+        },
+        {
+          "label": "Challenger, Gray & Christmas — recortes anunciados, septiembre 2026",
+          "url": "https://www.challengergray.com/blog/job-cuts-fall-in-september-hiring-plans-up-3-over-2025-on-weak-early-seasonal-hiring/"
+        },
+        {
+          "label": "Reuters — informe de empleo de septiembre",
+          "url": "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/"
+        },
+        {
+          "label": "Reuters — solicitudes de desempleo y despidos anunciados",
+          "url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
