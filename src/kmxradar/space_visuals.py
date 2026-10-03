@@ -61,6 +61,16 @@ def _cover(im: Image.Image) -> Image.Image:
     return im.crop((left, top, left + W, top + H))
 
 
+def _fit_font(draw, text: str, max_width: int, start_size: int,
+              bold: bool = False, min_size: int = 12):
+    for size in range(start_size, min_size - 1, -1):
+        font = _font(size, bold)
+        box = draw.textbbox((0, 0), text, font=font)
+        if (box[2] - box[0]) <= max_width:
+            return font
+    raise RuntimeError(f"Text does not fit safely in one line: {text!r}")
+
+
 def _wrap(draw, text: str, font, maxw: int):
     words = text.split()
     lines, cur = [], ""
