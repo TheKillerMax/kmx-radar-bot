@@ -129,3 +129,47 @@ La redacción visible debe sonar como Instagram, no como documentación técnica
 - Evita terminología de producción interna como “slide”, “asset”, “pipeline”, “workflow” o “paquete” en el contenido público. Sustitúyela por lenguaje natural para usuarios.
 - La CTA debe corresponder al formato real: “desliza” para varias imágenes; “mira hasta el final” para Reel; “guarda este post” funciona en ambos contextos.
 - Antes de publicar, revisa que cada palabra parezca escrita por una cuenta nativa de Instagram y no por una herramienta técnica.
+
+
+## 17. Visuales reales y procedencia
+
+KMX RADAR debe priorizar **material visual real y trazable de Internet** frente a imágenes sintéticas.
+
+### Prioridad de fuentes visuales
+
+1. **Fuente primaria del hecho:** organismos públicos, documentos oficiales, páginas de relaciones con inversores, comunicados con material de prensa y archivos multimedia oficiales.
+2. **Dominio público:** contenido gubernamental que permita reutilización, respetando excepciones de marcas, personas y terceros.
+3. **Licencias abiertas:** Wikimedia Commons u otros repositorios CC0/CC BY/CC BY-SA, verificando la licencia de cada archivo.
+4. **Press kits / media kits oficiales:** solo cuando sus términos permitan expresamente uso editorial o de prensa.
+5. **Capturas o fragmentos documentales:** únicamente cuando sean necesarios para explicar/verificar y el uso sea jurídicamente razonable; mantener el fragmento mínimo, atribución clara y contexto.
+6. **Medios/agencias comerciales:** Reuters, AP, Getty y equivalentes pueden usarse como fuentes informativas, pero sus fotografías y vídeos no se descargarán ni republicarán sin una licencia válida.
+
+### Regla de derechos
+
+Que una imagen sea visible en Google, un medio o una red social **no significa que sea libre de reutilizar**. Antes de usar un archivo visual se debe verificar su base de uso: dominio público, licencia abierta, permiso de prensa, permiso explícito u otra base jurídicamente defendible.
+
+### Asset manifest obligatorio
+
+Cada publicación con material externo debe guardar un archivo `visual-sources.json` con, al menos:
+- `source_url`
+- `original_creator` cuando esté disponible
+- `license_or_permission`
+- `attribution_required`
+- `attribution_text`
+- `local_path`
+- `retrieved_at`
+- `notes`
+
+Si la licencia o permiso no puede verificarse, el archivo no se utiliza.
+
+### Integridad periodística
+
+- No presentar una imagen ilustrativa de archivo como si mostrara el hecho actual.
+- Marcar como `ARCHIVO`, `IMAGEN DE REFERENCIA`, `CAPTURA DE DOCUMENTO` o equivalente cuando sea necesario.
+- No manipular fotografías para cambiar el sentido periodístico.
+- Se permiten recortes técnicos, reencuadre, subtítulos, flechas, resaltados y diseño editorial siempre que no alteren lo que la imagen demuestra.
+- Para mapas, gráficos y cronologías, usar datos verificables y citar la fuente de los datos.
+
+### Diseño
+
+La composición final puede añadir tipografía, marcos, gráficos, mapas, iconos y branding KMX RADAR alrededor del material real. La estética debe adaptarse a la noticia. El material real es evidencia o contexto; el diseño sirve para explicarlo, no para reemplazarlo.
