@@ -1,63 +1,63 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261002-skydance-real",
-  "source_event_id": "01-93435c9f7af7ea7b",
-  "ready_to_publish": true,
-  "status": "VERIFICADO",
-  "headline": "Paramount + WBD: qué cambia y qué no",
-  "caption": "ACTUALIZACIÓN | Paramount + Warner Bros. Discovery\n\nLa fusión está prevista para el 6 de octubre de 2026, pero todavía no se ha completado.\n\nSi el cierre ocurre como está previsto:\n\n• La empresa matriz pasaría a llamarse Skydance Corporation.\n• Las acciones clase B prevén pasar de Nasdaq a la Bolsa de Nueva York.\n• El ticker cambiaría de PSKY a SKYD.\n• WBD quedaría dentro del nuevo grupo.\n\n¿Desaparecen Paramount, Warner Bros. o HBO? No. El cambio principal sería en la empresa matriz.\n\n¿HBO Max y Paramount+ se unen automáticamente? No hay un anuncio oficial que confirme una fusión inmediata de las apps, los precios o los catálogos.\n\nPara accionistas elegibles de WBD, el acuerdo prevé US$31,00 en efectivo por acción, más US$0,00277778 por día después del 30 de septiembre y hasta el cierre.\n\n🔎 Lo más importante: el 6 de octubre sigue siendo una fecha prevista y depende de las condiciones finales de cierre.\n\nFuentes informativas: SEC/Paramount · Warner Bros. Discovery Investor Relations · Reuters · Associated Press.\n\nFotos de archivo: Laura Alier, Coolcaesar y Ajay Suresh / Wikimedia Commons — CC BY 4.0.\nLicencia: creativecommons.org/licenses/by/4.0/\nLas imágenes son de archivo/contexto y no muestran el cierre de la operación.\n\nGuarda este post: KMX RADAR lo actualizará cuando haya novedades.\n\n#KMXRadar #Paramount #WarnerBrosDiscovery #Skydance #Noticias",
   "ai_generated": true,
+  "caption": "ACTUALIZACIÓN | Paramount + Warner Bros. Discovery\n\nLa fusión está prevista para el 6 de octubre de 2026, pero todavía no se ha completado.\n\nSi el cierre ocurre como está previsto:\n\n• La empresa matriz pasaría a llamarse Skydance Corporation.\n• Las acciones clase B prevén pasar de Nasdaq a la Bolsa de Nueva York.\n• El ticker cambiaría de PSKY a SKYD.\n• WBD quedaría dentro del nuevo grupo.\n\n¿Desaparecen Paramount, Warner Bros. o HBO? No. El cambio principal sería en la empresa matriz.\n\n¿HBO Max y Paramount+ se unen automáticamente? No hay un anuncio oficial que confirme una fusión inmediata de las apps, los precios o los catálogos.\n\nPara accionistas elegibles de WBD, el acuerdo prevé US$31,00 en efectivo por acción, más US$0,00277778 por día después del 30 de septiembre y hasta el cierre.\n\n🔎 Lo más importante: el 6 de octubre sigue siendo una fecha prevista y depende de las condiciones finales de cierre.\n\nFuentes informativas: SEC/Paramount · Warner Bros. Discovery Investor Relations · Reuters · Associated Press.\n\nFotos de archivo: Laura Alier, Coolcaesar y Ajay Suresh / Wikimedia Commons — CC BY 4.0.\nLicencia: creativecommons.org/licenses/by/4.0/\nLas imágenes son de archivo/contexto y no muestran el cierre de la operación.\n\nGuarda este post: KMX RADAR lo actualizará cuando haya novedades.\n\n#KMXRadar #Paramount #WarnerBrosDiscovery #Skydance #Noticias",
   "created_at": "2026-10-03T02:10:00Z",
-  "sources": [
-    {
-      "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm",
-      "label": "SEC / Paramount — traslado a NYSE"
-    },
-    {
-      "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx",
-      "label": "WBD Investor Relations — fecha prevista y pago por acción"
-    },
-    {
-      "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/",
-      "label": "Reuters — nombre y estructura"
-    },
-    {
-      "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990",
-      "label": "Associated Press — contexto"
-    }
-  ],
+  "headline": "Paramount + WBD: qué cambia y qué no",
   "images": [
     {
-      "path": "01-cover.png",
-      "alt_text": "KMX RADAR explica la fusión prevista entre Paramount y Warner Bros. Discovery usando fotografías reales de archivo de ambos estudios."
+      "alt_text": "KMX RADAR explica la fusión prevista entre Paramount y Warner Bros. Discovery usando fotografías reales de archivo de ambos estudios.",
+      "path": "01-cover.png"
     },
     {
-      "path": "02-esencial.png",
-      "alt_text": "Resumen de fecha, nuevo nombre corporativo, traslado a NYSE y ticker SKYD sobre una fotografía real de archivo de la Bolsa de Nueva York."
+      "alt_text": "Resumen de fecha, nuevo nombre corporativo, traslado a NYSE y ticker SKYD sobre una fotografía real de archivo de la Bolsa de Nueva York.",
+      "path": "02-esencial.png"
     },
     {
-      "path": "03-timeline.png",
-      "alt_text": "Línea temporal que aclara que la fusión aún no se ha cerrado, con fotografía real de archivo de Paramount."
+      "alt_text": "Línea temporal que aclara que la fusión aún no se ha cerrado, con fotografía real de archivo de Paramount.",
+      "path": "03-timeline.png"
     },
     {
-      "path": "04-cambios.png",
-      "alt_text": "Tres cambios corporativos previstos: nombre Skydance Corporation, NYSE y ticker SKYD, con fotografía real de la Bolsa de Nueva York."
+      "alt_text": "Tres cambios corporativos previstos: nombre Skydance Corporation, NYSE y ticker SKYD, con fotografía real de la Bolsa de Nueva York.",
+      "path": "04-cambios.png"
     },
     {
-      "path": "05-accionistas.png",
-      "alt_text": "Explicación del pago previsto a accionistas elegibles de WBD, con fotografía real de archivo de Warner Bros. Television Studios."
+      "alt_text": "Explicación del pago previsto a accionistas elegibles de WBD, con fotografía real de archivo de Warner Bros. Television Studios.",
+      "path": "05-accionistas.png"
     },
     {
-      "path": "06-marcas.png",
-      "alt_text": "Lista de marcas que seguirían existiendo bajo la nueva empresa matriz, usando fotografías reales de archivo de Paramount y Warner Bros."
+      "alt_text": "Lista de marcas que seguirían existiendo bajo la nueva empresa matriz, usando fotografías reales de archivo de Paramount y Warner Bros.",
+      "path": "06-marcas.png"
     },
     {
-      "path": "07-streaming.png",
-      "alt_text": "Aclaración de que no hay anuncio oficial de una unión inmediata de HBO Max y Paramount+, con fotografías reales de archivo de ambos estudios."
+      "alt_text": "Aclaración de que no hay anuncio oficial de una unión inmediata de HBO Max y Paramount+, con fotografías reales de archivo de ambos estudios.",
+      "path": "07-streaming.png"
     },
     {
-      "path": "08-fuentes.png",
-      "alt_text": "Puntos a vigilar, fuentes periodísticas y créditos de las fotografías de archivo usadas en el post."
+      "alt_text": "Puntos a vigilar, fuentes periodísticas y créditos de las fotografías de archivo usadas en el post.",
+      "path": "08-fuentes.png"
     }
-  ]
+  ],
+  "publication_id": "kmx-20261002-skydance-real",
+  "ready_to_publish": true,
+  "schema_version": 1,
+  "source_event_id": "01-93435c9f7af7ea7b",
+  "sources": [
+    {
+      "label": "SEC / Paramount — traslado a NYSE",
+      "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm"
+    },
+    {
+      "label": "WBD Investor Relations — fecha prevista y pago por acción",
+      "url": "https://ir.wbd.com/news-and-events/financial-news/financial-news-details/2026/Paramount-Skydance-and-Warner-Bros--Discovery-Announce-Anticipated-Closing-Date-of-Paramount-Merger/default.aspx"
+    },
+    {
+      "label": "Reuters — nombre y estructura",
+      "url": "https://www.reuters.com/legal/transactional/david-ellison-says-combined-paramount-warner-bros-discovery-will-be-named-2026-10-02/"
+    },
+    {
+      "label": "Associated Press — contexto",
+      "url": "https://apnews.com/article/f30a8a9a4d26393177bc1af5bff1e990"
+    }
+  ],
+  "status": "VERIFICADO"
 }
