@@ -193,12 +193,20 @@ def _render_slide(package_dir: Path, spec: dict, photo: Image.Image, credit: str
     y = max(500, title_bottom + 22)
 
     if spec.get("stat"):
-        _panel(draw, (SAFE, y, W-SAFE, y+160), outline=ACCENT, width=3)
-        draw.text((SAFE+28, y+22), str(spec["stat"]), font=_font(64, True), fill=ACCENT)
-        _draw_wrapped(draw, str(spec.get("stat_label", "")), SAFE+310, y+36,
-                      W-SAFE-(SAFE+310), 90, 24, fill=WHITE, bold=True,
-                      min_size=18, line_gap=5, max_lines=3)
-        y += 190
+        # Stack the large number and its explanation vertically. A side-by-side
+        # layout can overlap when the number is wider than expected (for
+        # example "7 h 55 min"). Both elements are measured before drawing.
+        stat_text = str(spec["stat"])
+        stat_label = str(spec.get("stat_label", ""))
+        stat_box = (SAFE, y, W-SAFE, y+205)
+        _panel(draw, stat_box, outline=ACCENT, width=3)
+        stat_font = _fit_font(draw, stat_text, W - 2*SAFE - 56, 64, True, 38)
+        draw.text((SAFE+28, y+20), stat_text, font=stat_font, fill=ACCENT)
+        _draw_wrapped(
+            draw, stat_label, SAFE+28, y+105, W-2*SAFE-56, 72, 24,
+            fill=WHITE, bold=True, min_size=18, line_gap=5, max_lines=2
+        )
+        y += 235
 
     if spec.get("body"):
         body = str(spec["body"])
