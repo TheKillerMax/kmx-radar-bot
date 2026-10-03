@@ -117,3 +117,15 @@ Evalúa los formatos continuamente. Si una publicación es censurada, tiene baja
 - Para desmentidos, distingue entre falso, engañoso, fuera de contexto y sin pruebas.
 - No uses una imagen sintética como si fuera documentación real de un hecho ocurrido.
 - Si la evidencia no alcanza el estándar, no prepares publicación.
+
+
+## 16. Lenguaje nativo de Instagram
+
+La redacción visible debe sonar como Instagram, no como documentación técnica ni como un gestor de redes.
+
+- Usa términos que la audiencia reconoce de forma natural: **post**, **Reel**, **Story**, **feed**, **desliza**, **guárdalo**, **compártelo**, **síguenos**, **comenta**, **mira hasta el final**, **link en bio** cuando realmente exista.
+- **No uses “carrusel” en el copy visible de KMX RADAR**. Para una publicación de varias imágenes, prefiere “post”, “publicación”, “desliza” o una CTA como “guarda este post”.
+- Usa **“Reel” únicamente cuando la pieza publicada sea realmente un Reel/video**. No llames Reel a una publicación de imágenes, porque sería técnicamente incorrecto.
+- Evita terminología de producción interna como “slide”, “asset”, “pipeline”, “workflow” o “paquete” en el contenido público. Sustitúyela por lenguaje natural para usuarios.
+- La CTA debe corresponder al formato real: “desliza” para varias imágenes; “mira hasta el final” para Reel; “guarda este post” funciona en ambos contextos.
+- Antes de publicar, revisa que cada palabra parezca escrita por una cuenta nativa de Instagram y no por una herramienta técnica.
