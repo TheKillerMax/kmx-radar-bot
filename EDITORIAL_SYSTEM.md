@@ -182,8 +182,6 @@ KMX RADAR debe usar un vocabulario reconocible de periodismo digital y redes de 
 ### Expresiones preferidas
 
 Según el contexto, prioriza:
-- **Las claves**
-- **Lo que debes saber**
 - **Qué sabemos**
 - **Lo que sabemos hasta ahora**
 - **Por qué importa**
@@ -193,7 +191,6 @@ Según el contexto, prioriza:
 - **Qué sigue**
 - **Contexto**
 - **Preguntas y respuestas**
-- **Los puntos clave**
 - **Lo último**
 - **Así queda**
 - **Qué significa**
@@ -216,7 +213,7 @@ No usar en copy público salvo una razón editorial muy concreta:
 ### Regla de elección
 
 El rótulo debe describir la función periodística del bloque:
-- resumen inicial → **Lo que debes saber / Las claves**
+- resumen inicial → **Qué está pasando / Qué sabemos**
 - hechos confirmados → **Qué sabemos**
 - relevancia → **Por qué importa**
 - efectos → **Qué cambia / Cómo afecta**
@@ -256,3 +253,51 @@ Antes de crear `.ready`, comprobar:
 10. legibilidad en tamaño de teléfono.
 
 Si existe una duda razonable sobre la calidad visual, no publicar hasta corregirla.
+
+
+## 20. Regla de comprensión inmediata
+
+KMX RADAR debe asumir que una persona puede llegar a la publicación sin conocer el tema, las empresas, las siglas ni el contexto previo.
+
+### Primera pantalla
+La primera imagen debe responder, sin obligar a interpretar:
+1. **Quién o qué está involucrado.**
+2. **Qué ocurrió o qué está previsto que ocurra.**
+3. **Cuál es el estado actual:** confirmado, previsto, en desarrollo o todavía no completado.
+
+No empezar por consecuencias secundarias, códigos bursátiles o lenguaje interno si todavía no se explicó la noticia principal.
+
+### Lenguaje
+- Usar palabras cotidianas antes que jerga.
+- No usar una sigla antes de escribir su nombre completo o dejar obvio a qué se refiere.
+- Si un término técnico es necesario, explicarlo inmediatamente con una frase común.
+- Evitar rótulos abstractos que obliguen al lector a interpretar su función.
+
+### Rótulos preferidos
+Elegir títulos que sean preguntas o afirmaciones directas:
+- **Qué está pasando**
+- **Qué sabemos**
+- **Qué significa**
+- **Qué cambiaría**
+- **Qué no cambiaría**
+- **Cómo te afecta**
+- **Qué pasa con...**
+- **Qué falta por saber**
+- **Qué puede pasar ahora**
+- **Por qué importa**
+
+### Rótulos a evitar
+No usar como fórmulas habituales en el contenido público:
+- **Clave / Claves / Las claves**
+- **Lo esencial**
+- **En simple**
+- **Sin enredos**
+- **Para que lo entiendas**
+- otros rótulos abstractos cuando una pregunta directa resulte más clara.
+
+### Prueba de cero contexto
+Antes de publicar, hacer esta comprobación:
+
+> Si alguien que no ha leído ninguna noticia sobre el tema ve solo la primera imagen y la siguiente, ¿puede explicar con sus propias palabras qué está ocurriendo?
+
+Si la respuesta no es claramente sí, reescribir antes de publicar.
