@@ -299,6 +299,37 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "NASA busca nuevos directores de vuelo para dirigir misiones espaciales tripuladas",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/01-portada.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/02-funcion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/03-misiones.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/04-requisitos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/05-experiencia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/06-formacion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261003-nasa-flight-director/07-fechas.png"
+      ],
+      "media_id": "17993630004049507",
+      "publication_id": "kmx-20261003-nasa-flight-director",
+      "published_at": "2026-10-03T12:22:40Z",
+      "source_event_id": "08-90b5d9e894957440",
+      "sources": [
+        {
+          "label": "NASA — convocatoria oficial",
+          "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/"
+        },
+        {
+          "label": "NASA — preguntas frecuentes",
+          "url": "https://www.nasa.gov/flight-director-application-faq/"
+        },
+        {
+          "label": "NASA en español — convocatoria",
+          "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
