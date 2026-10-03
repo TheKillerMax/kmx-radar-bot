@@ -1,7 +1,8 @@
 # Build status
 
-- Python source compiles successfully.
-- Unit tests: 6 passed locally.
-- Automated publication is disabled by default (`PUBLISH_ENABLED=false`).
-- Instagram live API calls are intentionally not executed until repository secrets are configured.
-- Before enabling live publication, run the `Check Instagram connection` workflow and several dry runs.
+- Instagram connection workflow: successful.
+- Architecture migrated to **ChatGPT as editor**; no local LLM runtime remains.
+- The collector creates ZIP evidence packages as GitHub Actions artifacts.
+- Automated Instagram publication is disabled unless `PUBLISH_ENABLED=true`.
+- Approved packages can contain 1–10 images and are published only when a final `.ready` marker exists.
+- Token renewal remains automated and encrypted.
