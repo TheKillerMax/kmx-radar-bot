@@ -249,7 +249,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 y = _text_block(draw, spec["title"][2], (60,y+5), 960, 78, WHITE, True, 5)
                 y = _text_block(draw, spec["subtitle"], (60,y+35), 890, 32, WHITE, False, 12)
                 _panel(draw, (60, y+28, 795, y+185), fill=(5,18,28,230), outline=GOLD, width=3)
-                draw.text((90, y+55), "CLAVE", font=_font(25, True), fill=GOLD)
+                highlight_label = spec.get("highlight_label", "IMPORTANTE")
+                _draw_single_fit(draw, (90, y+55), highlight_label, 650, 25, fill=GOLD, bold=True, min_size=18)
                 _text_block(draw, spec["highlight"], (90,y+95), 650, 30, WHITE, True, 8)
             elif layout == "facts":
                 _draw_pill(draw, 60, 205, spec["kicker"], max_width=430)
@@ -261,8 +262,9 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                     _text_block(draw,fact["text"],(92,y+70),860,30,WHITE,True,8,3)
                     y+=205
                 _panel(draw,(60,y+5,1020,y+140),fill=(20,17,8,225),outline=GOLD,width=2)
-                draw.text((92,y+28),"OJO",font=_font(24,True),fill=GOLD)
-                _text_block(draw,spec["note"],(175,y+25),800,24,WHITE,False,7,3)
+                note_label = spec.get("note_label", "IMPORTANTE")
+                _draw_single_fit(draw, (92,y+28), note_label, 150, 24, fill=GOLD, bold=True, min_size=16)
+                _text_block(draw,spec["note"],(245,y+25),730,24,WHITE,False,7,3)
             elif layout == "timeline":
                 _fit_title(draw, (60, 220), spec["title"], 960, 58, WHITE)
                 draw.text((60, 285), spec["subtitle"], font=_font(30, True), fill=ACCENT)
@@ -274,7 +276,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                     draw.text((x-46,y+45),item["date"],font=_font(22,True),fill=GOLD)
                     _text_block(draw,item["text"],(x-95,y+85),190,20,WHITE,True,5,3)
                 _panel(draw,(60,760,1020,1115),fill=(5,18,28,235),outline=GOLD,width=2)
-                draw.text((90,800),spec["box_title"],font=_font(30,True),fill=GOLD)
+                _draw_single_fit(draw, (90,800), spec["box_title"], 850, 30, fill=GOLD, bold=True, min_size=20)
                 _text_block(draw,spec["box_text"],(90,855),870,27,WHITE,False,9,7)
             elif layout == "changes":
                 draw.text((60, 220), spec["title"], font=_font(58, True), fill=WHITE)
@@ -289,10 +291,10 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
             elif layout == "money":
                 _fit_title(draw, (60, 220), spec["title"], 960, 56, WHITE)
                 _panel(draw,(60,340,1020,570),fill=(5,18,28,235),outline=ACCENT,width=3)
-                draw.text((90,375),spec["big"],font=_font(86,True),fill=ACCENT)
-                draw.text((90,480),spec["big_label"],font=_font(30,True),fill=WHITE)
+                _draw_single_fit(draw, (90,375), spec["big"], 850, 86, fill=ACCENT, bold=True, min_size=50)
+                _draw_single_fit(draw, (90,480), spec["big_label"], 850, 30, fill=WHITE, bold=True, min_size=20)
                 _panel(draw,(60,600,1020,805))
-                draw.text((90,635),spec["small"],font=_font(48,True),fill=GOLD)
+                _draw_single_fit(draw, (90,635), spec["small"], 850, 48, fill=GOLD, bold=True, min_size=28)
                 _text_block(draw,spec["small_label"],(90,700),850,26,WHITE,False,8,3)
                 _panel(draw,(60,840,1020,1045),fill=(20,17,8,230),outline=GOLD,width=2)
                 explain_title = spec.get("explain_title", "LO QUE DEBES SABER")
@@ -303,7 +305,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
                 _text_block(draw,spec["subtitle"],(60,290),920,28,ACCENT,True,8,2)
                 _panel(draw,(60,380,1020,960),fill=(5,18,28,235),outline=ACCENT,width=2)
-                draw.text((90,420),spec["box_title"],font=_font(30,True),fill=ACCENT)
+                _draw_single_fit(draw, (90,420), spec["box_title"], 850, 30, fill=ACCENT, bold=True, min_size=20)
                 y=485
                 for brand in spec["brands"]:
                     draw.ellipse((95,y+8,111,y+24),fill=ACCENT)
