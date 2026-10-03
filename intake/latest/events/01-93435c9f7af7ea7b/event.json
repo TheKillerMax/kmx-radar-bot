@@ -2,23 +2,21 @@
   "event_id": "01-93435c9f7af7ea7b",
   "category": "CIENCIA",
   "risk": "low",
-  "canonical_title": "La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance - Otros Cines",
+  "canonical_title": "David Ellison anuncia que la entidad resultante de la fusión entre Paramount y Warner Bros. Discovery se llamará Skydance - CNN en Español",
   "intake_status": "EN DESARROLLO",
-  "verification_signal": 0.72,
+  "verification_signal": 0.67,
   "primary_source_present": false,
   "independent_domains": [
     "box-office.es",
     "cenital.com",
     "cnnespanol.cnn.com",
-    "elnacional.com",
-    "es.qz.com",
-    "otroscines.com"
+    "elnacional.com"
   ],
   "high_trust_domains": [
     "cnnespanol.cnn.com"
   ],
-  "article_count": 6,
-  "rank_signal": 0.98,
+  "article_count": 4,
+  "rank_signal": 0.86,
   "sources": [
     {
       "title": "Paramount-Warner Bros. Discovery se convertirá en Skydance - box-office.es",
@@ -41,28 +39,6 @@
       "seen_at": "Fri, 02 Oct 2026 18:56:00 GMT",
       "primary_hint": false,
       "excerpt": "David Ellison anuncia que la entidad resultante de la fusión entre Paramount y Warner Bros. Discovery se llamará Skydance CNN en Español"
-    },
-    {
-      "title": "Ellison nombra a la empresa combinada Paramount y Warner Bros. Discovery como Skydance. - es.qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUNveDhQendXV1pVYUJNcVU0aUQ2SlhOYm44SmxncGwxb1hUMF9SdldqeHNfdDFGYldhX013UlBKcGVOMWJVWnZTRnhFLU1rbFZDWHB5M1JuNnMwTVZiYjVEdXNhajRLZ0hZXzFyNHo4ZGRLeWxFU2tqN0NpUjZkaTBWS0NDYmM?oc=5",
-      "domain": "es.qz.com",
-      "publisher": "es.qz.com",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 02 Oct 2026 14:02:03 GMT",
-      "primary_hint": false,
-      "excerpt": "Ellison nombra a la empresa combinada Paramount y Warner Bros. Discovery como Skydance. es.qz.com"
-    },
-    {
-      "title": "La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance - Otros Cines",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWJodENFR3VqVHo3NjQ0bVFEeFREcGE4eFJLZW90M1B5ZmtyVThjR2xyOTN1YU01NE5zbl9wNnJlMmZmZC1lRnBpS25yOXo2RlgxWVl4YnFxQUVsTkx3V1NiTkdQZkRVX0EzcFhyQktpMTBDdEJmTWhiN0dnWHMzVzNWaFZQRDNVaEFRT3RGNFR3VU9zNVM5SFJOZnctSUZnUXIwNFdLbVpBc2VRZHkxSGlR?oc=5",
-      "domain": "otroscines.com",
-      "publisher": "Otros Cines",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 02 Oct 2026 13:50:41 GMT",
-      "primary_hint": false,
-      "excerpt": "La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance Otros Cines"
     },
     {
       "title": "Paramount anunció su fusión con Warner Bros Discovery bajo el nombre de Skydance - Cenital",

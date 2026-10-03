@@ -1,10 +1,10 @@
-# La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance - Otros Cines
+# David Ellison anuncia que la entidad resultante de la fusión entre Paramount y Warner Bros. Discovery se llamará Skydance - CNN en Español
 
 - Categoría: CIENCIA
 - Riesgo: low
 - Estado de entrada: EN DESARROLLO
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 6
+- Dominios independientes detectados: 4
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -23,28 +23,14 @@ Paramount-Warner Bros. Discovery se convertirá en Skydance box-office.es
 
 David Ellison anuncia que la entidad resultante de la fusión entre Paramount y Warner Bros. Discovery se llamará Skydance CNN en Español
 
-### Fuente 3: es.qz.com
-- URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUNveDhQendXV1pVYUJNcVU0aUQ2SlhOYm44SmxncGwxb1hUMF9SdldqeHNfdDFGYldhX013UlBKcGVOMWJVWnZTRnhFLU1rbFZDWHB5M1JuNnMwTVZiYjVEdXNhajRLZ0hZXzFyNHo4ZGRLeWxFU2tqN0NpUjZkaTBWS0NDYmM?oc=5
-- Título: Ellison nombra a la empresa combinada Paramount y Warner Bros. Discovery como Skydance. - es.qz.com
-- Fecha detectada: Fri, 02 Oct 2026 14:02:03 GMT
-
-Ellison nombra a la empresa combinada Paramount y Warner Bros. Discovery como Skydance. es.qz.com
-
-### Fuente 4: otroscines.com
-- URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxONWJodENFR3VqVHo3NjQ0bVFEeFREcGE4eFJLZW90M1B5ZmtyVThjR2xyOTN1YU01NE5zbl9wNnJlMmZmZC1lRnBpS25yOXo2RlgxWVl4YnFxQUVsTkx3V1NiTkdQZkRVX0EzcFhyQktpMTBDdEJmTWhiN0dnWHMzVzNWaFZQRDNVaEFRT3RGNFR3VU9zNVM5SFJOZnctSUZnUXIwNFdLbVpBc2VRZHkxSGlR?oc=5
-- Título: La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance - Otros Cines
-- Fecha detectada: Fri, 02 Oct 2026 13:50:41 GMT
-
-La fusión entre Paramount y Warner Bros. Discovery ya tiene nuevo nombre: Skydance Otros Cines
-
-### Fuente 5: cenital.com
+### Fuente 3: cenital.com
 - URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2FLc3NMNEUzZndrRW9tRGdkNWVicWp2MEdIVXVaV2lVcmszX09wakEwV1pGN09EYkhaRll6TDg2dWRYTUhaRi1nWTY2Z2VUazc0bjZBOVdnOHUyWkExWXRSek5NeGdUTHRnTHNhTTJuMGVpSXplUFQ4cFNqVzd5d2JBaUZsRHJYS204WktPUXRfcVpJRE9fdnZQSEJYb0NHdF80?oc=5
 - Título: Paramount anunció su fusión con Warner Bros Discovery bajo el nombre de Skydance - Cenital
 - Fecha detectada: Fri, 02 Oct 2026 21:33:44 GMT
 
 Paramount anunció su fusión con Warner Bros Discovery bajo el nombre de Skydance Cenital
 
-### Fuente 6: elnacional.com
+### Fuente 4: elnacional.com
 - URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFFSVTRTN3JtbEEtbjZibHp1Y2RNdHZqd3JDbXE2ZTZuWjNueVB2RHdQQWQ1bVItMDhxTEc0NkpkTERLTWRQc0RabjVvNU03M0pBRkRLMkc0M0lPQk5OeUQ1dzVUdTdwRVAtZjliZ2s2MnEyaWxuc0lDMWdwYWdlQzFfdnBsRklaejFVdFZXMEJNczBHWDd5ZDVtbUt5LVdXQ2RSSi1JMWlXSm5WQUM3RFhZbmY5LW9k?oc=5
 - Título: Paramount y Warner Bros. Discovery acuerdan llamar Skydance a la empresa fusionada - El Nacional
 - Fecha detectada: Fri, 02 Oct 2026 18:04:23 GMT

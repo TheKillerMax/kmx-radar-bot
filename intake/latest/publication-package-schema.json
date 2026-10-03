@@ -2,7 +2,7 @@
   "schema_version": 1,
   "publication_id": "kmx-YYYYMMDD-slug",
   "source_event_id": "event-id-from-this-zip",
-  "ready_to_publish": true,
+  "ready_to_publish": false,
   "status": "VERIFICADO|CORROBORADO|EN DESARROLLO|CONTEXTO|CORRECCIÓN",
   "headline": "Titular factual",
   "caption": "Texto final para Instagram",

@@ -1,0 +1,40 @@
+{
+  "event_id": "03-1e92b6cd08372891",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Illa insta a seguir las recomendaciones ante una situación muy compleja por las lluvias en Cataluña - Demócrata",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "democrata.es",
+    "infobae.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Illa pide seguir las recomendaciones ante una situación \"muy compleja\" por las lluvias - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenFWV0RGR1VXODFaU2huSDcyUUdqcXNvVlVMZVNtelNGTGpkNWlybUdhNXpCV1BkSUdWMk1yalJSTEtILW44aGVrUnRmNXJIZkFNUFZUNHFUTFVTYUM0LVlXcTZJVUNJMG1iZHJHYjl5eGlDVTFucks5ek5nVEdBRDkxWEF3VmdfdEZtaWJXOEdDbkpXVWxaaExMalRjNE1yX290Q2w2dTRMUHJuWGg0UTl0cjRwZU5LOUs1c1hKSS1xNVpoRjlxMTA5d3BlUlM3Y2tjOTFHOEdpd2FIdkVJSS1vXzRRNzE5MWZIStIB7AFBVV95cUxNenFWV0RGR1VXODFaU2huSDcyUUdqcXNvVlVMZVNtelNGTGpkNWlybUdhNXpCV1BkSUdWMk1yalJSTEtILW44aGVrUnRmNXJIZkFNUFZUNHFUTFVTYUM0LVlXcTZJVUNJMG1iZHJHYjl5eGlDVTFucks5ek5nVEdBRDkxWEF3VmdfdEZtaWJXOEdDbkpXVWxaaExMalRjNE1yX290Q2w2dTRMUHJuWGg0UTl0cjRwZU5LOUs1c1hKSS1xNVpoRjlxMTA5d3BlUlM3Y2tjOTFHOEdpd2FIdkVJSS1vXzRRNzE5MWZISg?oc=5",
+      "domain": "infobae.com",
+      "publisher": "Infobae",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 12:22:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Illa pide seguir las recomendaciones ante una situación \"muy compleja\" por las lluvias Infobae"
+    },
+    {
+      "title": "Illa insta a seguir las recomendaciones ante una situación muy compleja por las lluvias en Cataluña - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW9ydnJkVm1keWc2ZW1mZXM4ZkNzSmdfMUZKMEpnX2NyLVpNaVlXWjBlY3R5R2NnTUdjRVJFWkhFUTRWMnpOOWY5UVZ1U0pMV3dyWUl6RFhmalNwRXRzbGR3YTFVSVhLYlNUYkdwb09RY0FmT2I1Y2JrN3NtaUIwOExIbFlfUVZpbEhTUkxnSjlOMXdiRTNzdDlvMDFmN2dzR2t1Z2hSZDVNU2lhVVJZOWN2MlR1Nld2SXpIUUZPd0lPQWhWR25WYlQxeTlNTDgwVGU1TtIB1AFBVV95cUxNNW9ydnJkVm1keWc2ZW1mZXM4ZkNzSmdfMUZKMEpnX2NyLVpNaVlXWjBlY3R5R2NnTUdjRVJFWkhFUTRWMnpOOWY5UVZ1U0pMV3dyWUl6RFhmalNwRXRzbGR3YTFVSVhLYlNUYkdwb09RY0FmT2I1Y2JrN3NtaUIwOExIbFlfUVZpbEhTUkxnSjlOMXdiRTNzdDlvMDFmN2dzR2t1Z2hSZDVNU2lhVVJZOWN2MlR1Nld2SXpIUUZPd0lPQWhWR25WYlQxeTlNTDgwVGU1Tg?oc=5",
+      "domain": "democrata.es",
+      "publisher": "Demócrata",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 11:30:38 GMT",
+      "primary_hint": false,
+      "excerpt": "Illa insta a seguir las recomendaciones ante una situación muy compleja por las lluvias en Cataluña Demócrata"
+    }
+  ]
+}

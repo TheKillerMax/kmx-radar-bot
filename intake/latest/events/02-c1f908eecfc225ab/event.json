@@ -1,0 +1,52 @@
+{
+  "event_id": "02-c1f908eecfc225ab",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Pérez Llorca propondrá que la ciudad de Ceuta reciba la Alta Distinción de la Generalitat el 9 d'Octubre - PressDigital",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "actualidadvalencia.com",
+    "diariodealicante.net",
+    "pressdigital.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Pérez Llorca propondrá que la ciudad de Ceuta reciba la Alta Distinción de la Generalitat el 9 d'Octubre - PressDigital",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaThkUE9BbHU0OVNpXzBDOGIzeFZxbUJxVk1VM2RaVlgzM3hfRkFVWFBtMi1zTlB5d25hYWo2cnJuOUxBcUs1SG1nRW5sRWYyNVNaQ0dOd3FOTl9qd0dZZTFYc3kwX0JnLWVfVWNzZkg3bC1CZTJza3pvOGlsU25ELTd6aGF4b2RlQWRMRzYyRnZlV2w1S21jR2dEUUJyQm1oQVZCdmlVOXdVNGVlcVVWZ2FfYUtpWWs5NWdHWXB4YW5MeGxXVzkxT3RPLUxqRy02aDFNWXJqT21FYTdrM3c4?oc=5",
+      "domain": "pressdigital.es",
+      "publisher": "PressDigital",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 11:50:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Pérez Llorca propondrá que la ciudad de Ceuta reciba la Alta Distinción de la Generalitat el 9 d'Octubre PressDigital"
+    },
+    {
+      "title": "Ceuta opta a la Alta Distinción de la Generalitat en el 9 d’Octubre a propuesta de Pérez Llorca - Actualidad Valencia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUG9pWmtxdFBwcTBvaUNybzg3RHM5dG14dXNuVEFqY2JtNjMwQ1BFdE9SS2xPUUpGMVdHdjUxenJKOVk4RnJnNWpYaVRzMnZXZmdRSGdaVlQyaEdsZ3p1dTJZRkVMLUtGNG5FcWJkTlBjSG0yUmZscHR5T2JEVUJUM1lR?oc=5",
+      "domain": "actualidadvalencia.com",
+      "publisher": "Actualidad Valencia",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 10:46:05 GMT",
+      "primary_hint": false,
+      "excerpt": "Ceuta opta a la Alta Distinción de la Generalitat en el 9 d’Octubre a propuesta de Pérez Llorca Actualidad Valencia"
+    },
+    {
+      "title": "Ceuta opta a la Alta Distinción de la Generalitat en el 9 d’Octubre - Diario de Alicante",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zazZTMUhOOU9mWFFLaWRpYUlUOFQ2SFAxNElpX00yLW9xd0gzZXJZS3FxOHdBNWN4VS1vS0FzM0U0LUpfa1ZoZmFHeDUwZWpxSVZHeXU3Slo1TlBQY1FiOVJVbE43b0o3Z0RmakJDOXBJU1pSWmZvbUlFNWlOTHc?oc=5",
+      "domain": "diariodealicante.net",
+      "publisher": "Diario de Alicante",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 10:46:58 GMT",
+      "primary_hint": false,
+      "excerpt": "Ceuta opta a la Alta Distinción de la Generalitat en el 9 d’Octubre Diario de Alicante"
+    }
+  ]
+}
