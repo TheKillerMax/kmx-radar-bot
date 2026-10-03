@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-03T18:58:00Z",
+  "note": "Fotografías reales de contexto laboral con licencia CC BY 2.0. Todas deben mostrarse como ARCHIVO porque no representan a personas afectadas específicamente por el informe de empleo de septiembre de 2026.",
+  "assets": [
+    {
+      "key": "office_worker",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Woman_working_on_laptop_indoors_in_a_modern_office.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Woman_working_on_laptop_indoors_in_a_modern_office.jpg",
+      "original_creator": "Nenad Stojković (Shixart1985)",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Nenad Stojković / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Trabajo de oficina genérico. ARCHIVO; no representa a una persona despedida ni a una empresa del informe."
+    },
+    {
+      "key": "typing",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hands_typing_on_a_laptop_during_work_hours_in_a_modern_office_setting.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hands_typing_on_a_laptop_during_work_hours_in_a_modern_office_setting.jpg",
+      "original_creator": "Nenad Stojković (Shixart1985)",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Nenad Stojković / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Manos trabajando con una laptop. ARCHIVO; contexto de trabajo digital."
+    },
+    {
+      "key": "workspace",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Modern_office_workspace_featuring_a_computer.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Modern_office_workspace_featuring_a_computer.jpg",
+      "original_creator": "Nenad Stojković (Shixart1985)",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Nenad Stojković / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Espacio de oficina con computadora. ARCHIVO; contexto visual, no una empresa específica."
+    }
+  ]
+}

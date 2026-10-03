@@ -1,0 +1,135 @@
+{
+  "theme": {
+    "name": "labor-data",
+    "background": "#0B1117",
+    "panel": "#12212B",
+    "accent": "#35E6B8",
+    "accent2": "#71A9FF",
+    "warm": "#FFB65C",
+    "text": "#F7FAFC",
+    "muted": "#C2CED8"
+  },
+  "sources": {
+    "office_worker": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Woman_working_on_laptop_indoors_in_a_modern_office.jpg",
+      "credit": "Nenad Stojković / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    },
+    "typing": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hands_typing_on_a_laptop_during_work_hours_in_a_modern_office_setting.jpg",
+      "credit": "Nenad Stojković / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    },
+    "workspace": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Modern_office_workspace_featuring_a_computer.jpg",
+      "credit": "Nenad Stojković / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-empleo.png",
+      "photo": "office_worker",
+      "archive": true,
+      "kicker": "QUÉ PASÓ",
+      "title": "EE. UU. SUMÓ SOLO 29.000 EMPLEOS EN SEPTIEMBRE",
+      "body": "El mercado laboral avanzó poco durante el mes y el desempleo quedó en 4,2%.",
+      "stat": "29.000",
+      "stat_label": "empleos añadidos en septiembre",
+      "footer": "Desliza: qué sabemos sobre el papel de la IA",
+      "alt_text": "Estados Unidos añadió 29.000 empleos en septiembre de 2026 y la tasa de desempleo fue 4,2%."
+    },
+    {
+      "n": 2,
+      "file": "02-ia-causa.png",
+      "photo": "typing",
+      "archive": true,
+      "kicker": "LA PREGUNTA",
+      "title": "¿LA INTELIGENCIA ARTIFICIAL CAUSÓ ESA FRENADA?",
+      "body": "El informe oficial no permite decirlo. Cuenta empleos por sector, pero no asigna una causa concreta a cada puesto que desaparece.",
+      "callout": "Pocos empleos nuevos no significa automáticamente que la IA eliminó esos puestos.",
+      "footer": "Desliza: dónde bajó el empleo",
+      "alt_text": "El informe oficial de empleo no permite atribuir directamente a la inteligencia artificial la debilidad de septiembre."
+    },
+    {
+      "n": 3,
+      "file": "03-sectores.png",
+      "photo": "workspace",
+      "archive": true,
+      "kicker": "DÓNDE BAJÓ",
+      "title": "TRES GRANDES ÁREAS TERMINARON EL MES CON MENOS EMPLEO",
+      "bullets": [
+        "Información: 10.000 menos.",
+        "Actividades financieras: 7.000 menos.",
+        "Servicios profesionales y empresariales: 9.000 menos."
+      ],
+      "callout": "La oficina de estadísticas describió los cambios de las grandes industrias como pequeños en septiembre.",
+      "footer": "Desliza: dónde sí aparece la IA",
+      "alt_text": "En septiembre bajó el empleo en información, actividades financieras y servicios profesionales y empresariales."
+    },
+    {
+      "n": 4,
+      "file": "04-recortes-ia.png",
+      "photo": "typing",
+      "archive": true,
+      "kicker": "OTRO CONJUNTO DE DATOS",
+      "title": "LA IA SÍ APARECE EN ANUNCIOS DE RECORTES",
+      "body": "Challenger registra razones que las empresas declaran cuando anuncian reducciones de personal.",
+      "stat": "3.961",
+      "stat_label": "recortes anunciados en septiembre citaron la IA como motivo",
+      "callout": "Eso equivale a cerca del 9% de los 43.281 recortes anunciados en el mes.",
+      "footer": "Desliza: qué pasó en tecnología",
+      "alt_text": "Challenger informó que la inteligencia artificial fue citada como motivo en 3.961 recortes anunciados en septiembre."
+    },
+    {
+      "n": 5,
+      "file": "05-tecnologia.png",
+      "photo": "workspace",
+      "archive": true,
+      "kicker": "TECNOLOGÍA",
+      "title": "AUMENTARON LOS RECORTES ANUNCIADOS EN EMPRESAS TECNOLÓGICAS",
+      "stat": "10.799",
+      "stat_label": "recortes anunciados por empresas tecnológicas en septiembre",
+      "body": "Fue 77% más que en agosto. Pero en todo Estados Unidos los recortes anunciados bajaron 18% frente al mes anterior.",
+      "footer": "Desliza: por qué las cifras no se suman",
+      "alt_text": "Las empresas tecnológicas anunciaron 10.799 recortes en septiembre, 77% más que en agosto, mientras el total nacional anunciado bajó."
+    },
+    {
+      "n": 6,
+      "file": "06-dos-medidas.png",
+      "photo": "office_worker",
+      "archive": true,
+      "kicker": "NO MIDEN LO MISMO",
+      "title": "BLS Y CHALLENGER RESPONDEN PREGUNTAS DISTINTAS",
+      "bullets": [
+        "BLS: cuántos empleos aparecen en las nóminas del mes.",
+        "Challenger: cuántos recortes anuncian las empresas y qué motivo declaran.",
+        "Un anuncio puede ejecutarse después y no aparecer completo en el mismo mes."
+      ],
+      "footer": "Desliza: la conclusión más precisa",
+      "alt_text": "La estadística oficial de empleo y los anuncios empresariales de recortes miden cosas diferentes y no deben sumarse directamente."
+    },
+    {
+      "n": 7,
+      "file": "07-conclusion.png",
+      "photo": "workspace",
+      "archive": true,
+      "kicker": "QUÉ PODEMOS DECIR HOY",
+      "title": "EL EMPLEO SE ENFRIÓ, PERO NO SABEMOS CUÁNTO DE ESO FUE POR IA",
+      "bullets": [
+        "Estados Unidos añadió solo 29.000 empleos en septiembre.",
+        "La IA ya figura como motivo en miles de anuncios de recortes.",
+        "El informe oficial no calcula qué parte de la desaceleración fue causada por IA."
+      ],
+      "callout": "El próximo informe mensual de empleo está previsto para el 6 de noviembre.",
+      "sources": [
+        "U.S. Bureau of Labor Statistics",
+        "Challenger",
+        "Reuters"
+      ],
+      "footer": "Guarda este post si quieres seguir cómo cambia el trabajo con la IA",
+      "alt_text": "Conclusión: el empleo estadounidense se enfrió en septiembre y la inteligencia artificial aparece en anuncios de recortes, pero no se conoce su aporte exacto al dato mensual."
+    }
+  ]
+}
