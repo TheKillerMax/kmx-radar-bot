@@ -4,10 +4,13 @@ brand:
   tagline: "Detectamos lo que importa"
 
 runtime:
-  gdelt_timespan: "6h"
+  gdelt_enabled: false
+  gdelt_max_queries_per_run: 1
+  gdelt_timespan: "12h"
   gdelt_max_records_per_query: 80
-  max_candidates_per_run: 60
-  max_intake_events: 10
+  rss_max_entries_per_feed: 40
+  max_candidates_per_run: 100
+  max_intake_events: 12
   fetch_sources_per_cluster: 5
   excerpt_chars_per_source: 1200
   publish_threshold_low_risk: 0.77
