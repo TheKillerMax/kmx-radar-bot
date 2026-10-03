@@ -2,3 +2,4 @@ phase3-approved: 2026-10-03
 visual-qc: pass
 rights-qc: pass
 manual-full-cycle: true
+retry-after-rate-limit: true
