@@ -10,6 +10,7 @@ class Article:
     title: str
     url: str
     domain: str
+    publisher: str = ""
     language: str = ""
     source_country: str = ""
     seen_at: str = ""
