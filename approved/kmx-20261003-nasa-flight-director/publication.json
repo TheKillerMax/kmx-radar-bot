@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261003-nasa-flight-director",
+  "source_event_id": "08-90b5d9e894957440",
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "NASA busca nuevos directores de vuelo para dirigir misiones espaciales tripuladas",
+  "caption": "NASA abrió una convocatoria para elegir nuevos directores de vuelo.\n\n¿QUÉ HACEN?\n\nSon las personas que coordinan desde el control de misión a los equipos que siguen una nave espacial en tiempo real. Trabajan con controladores, astronautas, ingenieros y socios internacionales y ayudan a tomar decisiones cuando una misión está en marcha.\n\nLas personas seleccionadas podrán dirigir operaciones de la Estación Espacial Internacional, misiones Artemis a la Luna y, en el futuro, otras misiones humanas de NASA.\n\n¿QUIÉN PUEDE POSTULAR?\n\nNASA exige ciudadanía estadounidense, una licenciatura en áreas como ingeniería, ciencias, informática o matemáticas, y experiencia profesional importante tomando decisiones en entornos de alta presión.\n\nNo es obligatorio haber sido controlador de vuelo de NASA antes.\n\n¿HASTA CUÁNDO?\n\nLas solicitudes están abiertas hasta el 12 de octubre de 2026. NASA prevé anunciar a las personas seleccionadas antes de que termine el año.\n\nLa formación es extensa: alcanzar la certificación inicial puede tardar hasta 16 meses.\n\nDesliza para ver qué hace realmente un director de vuelo y por qué este puesto importa para las próximas misiones humanas.\n\nFuentes: NASA.\n\n#KMXRadar #NASA #Espacio #Artemis #MisionControl",
+  "ai_generated": true,
+  "created_at": "2026-10-03T11:55:00Z",
+  "sources": [
+    {
+      "label": "NASA — convocatoria oficial",
+      "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/"
+    },
+    {
+      "label": "NASA — preguntas frecuentes",
+      "url": "https://www.nasa.gov/flight-director-application-faq/"
+    },
+    {
+      "label": "NASA en español — convocatoria",
+      "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
+    }
+  ],
+  "images": []
+}
