@@ -10,7 +10,7 @@ def test_valid_publication_package(tmp_path):
         "publication_id": "kmx-test",
         "ready_to_publish": True,
         "headline": "Titular de prueba",
-        "caption": "Texto de prueba",
+        "caption": "Texto de prueba #KMXRadar #Prueba #Noticias",
         "sources": [{"url": "https://example.org/source", "label": "Fuente"}],
         "images": [{"path": "01.jpg", "alt_text": "Imagen de prueba"}],
     }
@@ -30,3 +30,18 @@ def test_rejects_missing_source_and_image(tmp_path):
     errors = _validate_manifest(tmp_path, manifest)
     assert any("missing image" in x for x in errors)
     assert any("source" in x for x in errors)
+
+
+def test_rejects_too_many_hashtags(tmp_path):
+    (tmp_path / "01.jpg").write_bytes(b"fake")
+    manifest = {
+        "schema_version": 1,
+        "publication_id": "kmx-test",
+        "ready_to_publish": True,
+        "headline": "Titular de prueba",
+        "caption": "Texto #KMXRadar #Uno #Dos #Tres #Cuatro #Cinco",
+        "sources": [{"url": "https://example.org/source", "label": "Fuente"}],
+        "images": [{"path": "01.jpg", "alt_text": "Imagen de prueba"}],
+    }
+    errors = _validate_manifest(tmp_path, manifest)
+    assert any("at most 5 hashtags" in x for x in errors)
