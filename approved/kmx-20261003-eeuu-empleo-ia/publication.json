@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261003-eeuu-empleo-ia",
+  "source_event_id": "01-1f51d955d025450b",
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "EE. UU. sumó solo 29.000 empleos en septiembre: qué sabemos sobre el papel de la IA",
+  "caption": "Estados Unidos sumó solo 29.000 empleos en septiembre y la tasa de desempleo quedó en 4,2%.\n\n¿ESO SIGNIFICA QUE LA IA ESTÁ QUITANDO ESOS EMPLEOS?\n\nNo se puede concluir eso solo con el informe oficial.\n\nLa Oficina de Estadísticas Laborales de EE. UU. mide cuántos empleos hay y cómo cambian por sector, pero no asigna una causa concreta a cada puesto que desaparece.\n\nEn septiembre, el empleo bajó en información (-10.000), actividades financieras (-7.000) y servicios profesionales y empresariales (-9.000). La propia agencia describió los cambios de las grandes industrias como pequeños durante el mes.\n\nLa IA sí aparece en otro conjunto de datos: Challenger, que registra anuncios de recortes de empresas, informó que la inteligencia artificial fue citada como motivo en 3.961 recortes anunciados en septiembre, cerca del 9% del total del mes.\n\nPero son datos distintos: un anuncio de recorte no es lo mismo que un empleo eliminado en ese mismo mes dentro de la encuesta oficial.\n\nLa conclusión más precisa hoy es esta: el mercado laboral se enfrió, la IA ya aparece en miles de decisiones empresariales de recorte, pero todavía no podemos atribuirle por sí sola la debilidad del informe de septiembre.\n\nDesliza para ver qué muestran los datos y qué no permiten afirmar.\n\nFuentes: Oficina de Estadísticas Laborales de EE. UU., Challenger y Reuters.\n\n#KMXRadar #Empleo #InteligenciaArtificial #Economia #Trabajo",
+  "ai_generated": true,
+  "created_at": "2026-10-03T18:56:00Z",
+  "sources": [
+    {
+      "label": "U.S. Bureau of Labor Statistics — Employment Situation, septiembre 2026",
+      "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm"
+    },
+    {
+      "label": "Challenger, Gray & Christmas — recortes anunciados, septiembre 2026",
+      "url": "https://www.challengergray.com/blog/job-cuts-fall-in-september-hiring-plans-up-3-over-2025-on-weak-early-seasonal-hiring/"
+    },
+    {
+      "label": "Reuters — informe de empleo de septiembre",
+      "url": "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/"
+    },
+    {
+      "label": "Reuters — solicitudes de desempleo y despidos anunciados",
+      "url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01/"
+    }
+  ],
+  "images": []
+}

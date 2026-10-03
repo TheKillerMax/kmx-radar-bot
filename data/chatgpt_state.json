@@ -1,8 +1,8 @@
 {
-  "last_processed_generated_at": "2026-10-03T14:17:46Z",
-  "last_publication_id": null,
-  "phase": "awaiting_editorial",
-  "last_result": "incomplete_visual_cycle_superseded",
-  "note": "Catalonia package was incomplete after Phase 2 interruption. New intake generated at 2026-10-03T18:39:19Z is waiting for Phase 1.",
-  "source_event_id": null
+  "last_processed_generated_at": "2026-10-03T18:39:19Z",
+  "last_publication_id": "kmx-20261003-eeuu-empleo-ia",
+  "source_event_id": "01-1f51d955d025450b",
+  "phase": "editorial_ready_for_visuals",
+  "last_result": "editorial_ready_for_visuals",
+  "note": "Phase 1 completed atomically for the September U.S. jobs/AI explainer. Package verified for Phase 2."
 }
