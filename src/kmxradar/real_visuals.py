@@ -35,6 +35,23 @@ def _font(size: int, bold: bool = False):
     return ImageFont.load_default()
 
 
+def _fit_font(draw: ImageDraw.ImageDraw, text: str, max_width: int, start_size: int, bold: bool = False, min_size: int = 10):
+    size = start_size
+    while size > min_size:
+        font = _font(size, bold)
+        box = draw.textbbox((0, 0), text, font=font)
+        if (box[2] - box[0]) <= max_width:
+            return font
+        size -= 1
+    return _font(min_size, bold)
+
+
+def _draw_single_fit(draw: ImageDraw.ImageDraw, xy, text: str, max_width: int, start_size: int, fill=WHITE, bold: bool = False, min_size: int = 10):
+    font = _fit_font(draw, text, max_width, start_size, bold, min_size)
+    draw.text(xy, text, font=font, fill=fill)
+    return font
+
+
 def _download(url: str, dest: Path) -> None:
     headers = {
         "User-Agent": "KMX-RADAR/1.0 (news graphics; contact via github.com/TheKillerMax/kmx-radar-bot)",
@@ -109,8 +126,16 @@ def _header(img: Image.Image, draw: ImageDraw.ImageDraw, logo: Image.Image | Non
     draw.text((tx, 108), "DETECTAMOS LO QUE IMPORTA", font=_font(16, True), fill=ACCENT)
     draw.text((930, 65), f"{n}/{total}", font=_font(28, True), fill=WHITE)
     if archive:
-        draw.rounded_rectangle((827, 112, 1010, 151), 18, fill=(0, 0, 0, 150), outline=GOLD, width=2)
-        draw.text((849, 121), "IMAGEN DE ARCHIVO", font=_font(14, True), fill=GOLD)
+        label = "ARCHIVO"
+        font = _font(14, True)
+        tb = draw.textbbox((0, 0), label, font=font)
+        tw = tb[2] - tb[0]
+        pad_x = 18
+        x2 = 1010
+        x1 = x2 - tw - (pad_x * 2)
+        y1, y2 = 112, 151
+        draw.rounded_rectangle((x1, y1, x2, y2), 18, fill=(0, 0, 0, 165), outline=GOLD, width=2)
+        draw.text((x1 + pad_x, 121), label, font=font, fill=GOLD)
 
 
 def _wrap(draw, text, font, maxw):
@@ -150,9 +175,9 @@ def _footer(draw, cta: str, credit: str | None = None):
     draw.line((60, 1275, 1020, 1275), fill=(30, 100, 120), width=2)
     draw.text((60, 1293), "@kmxradar", font=_font(22, True), fill=ACCENT)
     if cta:
-        draw.text((230, 1294), cta, font=_font(20, True), fill=WHITE)
+        _draw_single_fit(draw, (230, 1294), cta, 760, 20, fill=WHITE, bold=True, min_size=15)
     if credit:
-        draw.text((60, 1242), credit, font=_font(13), fill=MUTED)
+        _draw_single_fit(draw, (60, 1242), credit, 950, 13, fill=MUTED, bold=False, min_size=10)
 
 
 def _base(bg: Image.Image) -> Image.Image:
@@ -250,7 +275,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 draw.text((90,635),spec["small"],font=_font(48,True),fill=GOLD)
                 _text_block(draw,spec["small_label"],(90,700),850,26,WHITE,False,8,3)
                 _panel(draw,(60,840,1020,1045),fill=(20,17,8,230),outline=GOLD,width=2)
-                draw.text((90,875),"EN SIMPLE",font=_font(25,True),fill=GOLD)
+                explain_title = spec.get("explain_title", "LO QUE DEBES SABER")
+                _draw_single_fit(draw, (90,875), explain_title, 850, 25, fill=GOLD, bold=True, min_size=18)
                 _text_block(draw,spec["explain"],(90,925),850,25,WHITE,False,8,4)
                 _text_block(draw,spec["disclaimer"],(60,1090),900,19,MUTED,False,6,2)
             elif layout == "brands":
@@ -264,7 +290,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                     draw.text((135,y),brand,font=_font(29,True),fill=WHITE)
                     y+=70
                 _panel(draw,(60,990,1020,1175),fill=(5,18,28,235),outline=GOLD,width=2)
-                draw.text((90,1020),"EN SIMPLE",font=_font(24,True),fill=GOLD)
+                explain_title = spec.get("explain_title", "QUÉ SIGNIFICA")
+                _draw_single_fit(draw, (90,1020), explain_title, 850, 24, fill=GOLD, bold=True, min_size=18)
                 _text_block(draw,spec["explain"],(90,1070),850,24,WHITE,False,7,4)
             elif layout == "streaming":
                 draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
@@ -295,5 +322,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
 
             _footer(draw, spec.get("cta",""), spec.get("credit"))
             out = package_dir / spec["file"]
-            canvas.convert("RGB").save(out, "PNG", optimize=True)
+            final = canvas.convert("RGB")
+            if final.size != (W, H):
+                raise RuntimeError(f"Unexpected output size for {out.name}: {final.size}")
+            final.save(out, "PNG", optimize=True)
             LOG.info("Built real-visual slide %s", out.name)
