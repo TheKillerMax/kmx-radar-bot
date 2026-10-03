@@ -35,11 +35,68 @@ def _validate_rights(package_dir: Path) -> list[dict]:
 
 def _phase_for(package_dir: Path) -> str:
     state = read_json(STATE_FILE, {})
-    phase = str(state.get("phase") or "")
-    if phase:
-        return phase
+    state_pub = str(state.get("last_publication_id") or "")
+    if state_pub == package_dir.name:
+        phase = str(state.get("phase") or "")
+        if phase:
+            return phase
     handoff = read_json(package_dir / "handoff.json", {})
     return str(handoff.get("phase") or "")
+
+
+def _validate_visual_spec(package_dir: Path, visuals: dict, rights_assets: list[dict]) -> list[dict]:
+    slides = visuals.get("slides")
+    if not isinstance(slides, list) or not (6 <= len(slides) <= 10):
+        raise RuntimeError(
+            f"{package_dir.name}: visuals.json must contain 6 to 10 complete slides; "
+            f"got {0 if not isinstance(slides, list) else len(slides)}"
+        )
+
+    sources = visuals.get("sources")
+    if not isinstance(sources, dict) or not sources:
+        raise RuntimeError(f"{package_dir.name}: visuals.json must contain sources")
+
+    licensed_urls = {
+        str(a.get("direct_url") or "").strip()
+        for a in rights_assets
+        if str(a.get("direct_url") or "").strip()
+    }
+    licensed_source_urls = {
+        str(a.get("source_url") or "").strip()
+        for a in rights_assets
+        if str(a.get("source_url") or "").strip()
+    }
+
+    seen_files: set[str] = set()
+    for idx, spec in enumerate(slides, start=1):
+        if not isinstance(spec, dict):
+            raise RuntimeError(f"{package_dir.name}: slide {idx} is not an object")
+        file_name = str(spec.get("file") or "").strip()
+        photo_key = str(spec.get("photo") or "").strip()
+        alt_text = str(spec.get("alt_text") or "").strip()
+        if not file_name or not file_name.lower().endswith(".png"):
+            raise RuntimeError(f"{package_dir.name}: slide {idx} needs a .png file")
+        if file_name in seen_files:
+            raise RuntimeError(f"{package_dir.name}: duplicate slide filename {file_name}")
+        seen_files.add(file_name)
+        if not photo_key or photo_key not in sources:
+            raise RuntimeError(f"{package_dir.name}: slide {idx} references unknown photo source {photo_key!r}")
+        if not alt_text:
+            raise RuntimeError(f"{package_dir.name}: slide {idx} lacks alt_text")
+
+        source_meta = sources[photo_key]
+        if not isinstance(source_meta, dict):
+            raise RuntimeError(f"{package_dir.name}: source {photo_key!r} must be an object")
+        direct_url = str(source_meta.get("direct_url") or "").strip()
+        if not direct_url.startswith(("http://", "https://")):
+            raise RuntimeError(f"{package_dir.name}: source {photo_key!r} lacks direct_url")
+        if direct_url not in licensed_urls and direct_url not in licensed_source_urls:
+            raise RuntimeError(
+                f"{package_dir.name}: source {photo_key!r} is not matched to a licensed "
+                "visual-sources.json asset"
+            )
+
+    return slides
 
 
 def prepare_visual_packages() -> int:
@@ -66,15 +123,15 @@ def prepare_visual_packages() -> int:
         if not manifest_path.exists() or not visuals_path.exists():
             raise RuntimeError(f"{package_dir.name}: publication.json or visuals.json missing")
 
-        _validate_rights(package_dir)
+        rights_assets = _validate_rights(package_dir)
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         visuals = json.loads(visuals_path.read_text(encoding="utf-8"))
+        slides = _validate_visual_spec(package_dir, visuals, rights_assets)
 
         outputs = build_space_visuals(package_dir, visuals)
         if not outputs:
             raise RuntimeError(f"{package_dir.name}: renderer produced no files")
 
-        slides = visuals.get("slides", [])
         if len(outputs) != len(slides):
             raise RuntimeError("Rendered file count does not match visual spec")
 
@@ -115,6 +172,8 @@ def prepare_visual_packages() -> int:
                     "all files are 1080x1350",
                     "every image has alt text",
                     "visual-sources.json contains explicit source, creator, and license/permission",
+                    "every rendered source matches a licensed visual-sources.json asset",
+                    "visuals.json contains 6 to 10 complete slides",
                     "official assets/logo.png is used by renderer",
                 ],
             },
