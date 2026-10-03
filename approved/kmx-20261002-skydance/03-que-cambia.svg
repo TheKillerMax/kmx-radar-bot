@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <path d="M0 0V120M60 0V120" stroke="#0b2333" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1080" height="1350" fill="#04101b"/>
+<rect width="1080" height="1350" fill="url(#grid)" opacity=".75"/>
+<rect x="0" y="0" width="12" height="1350" fill="#13f2c2"/>
+<g opacity=".42" fill="none" stroke="#155064" stroke-width="2">
+  <circle cx="965" cy="145" r="110"/><circle cx="965" cy="145" r="190"/><circle cx="965" cy="145" r="270"/><circle cx="965" cy="145" r="350"/><circle cx="965" cy="145" r="430"/>
+  <path d="M515 145H1080M965 0V560"/>
+</g>
+<path d="M965 145 L950 -275 L1125 -235 Z" fill="#0b555b" opacity=".55"/>
+<image href="../../assets/logo.svg" x="38" y="28" width="170" height="170"/>
+<text x="225" y="82" font-family="DejaVu Sans" font-size="29" font-weight="700" fill="#f6f9fb">KMX RADAR</text>
+<text x="225" y="112" font-family="DejaVu Sans" font-size="15" font-weight="700" fill="#13f2c2">DETECTAMOS LO QUE IMPORTA</text>
+<line x1="225" y1="132" x2="540" y2="132" stroke="#145568" stroke-width="2"/>
+<rect x="55" y="220" width="190" height="46" rx="18" fill="#24b8ff"/><text x="72" y="251" font-family="DejaVu Sans" font-size="23" font-weight="700" fill="#03101a">QUÉ CAMBIA</text>
+<text x="55" y="343" font-family="DejaVu Sans" font-size="30" font-weight="700" fill="#aab7c4">NOMBRE CORPORATIVO</text>
+<text x="55" y="420" font-family="DejaVu Sans" font-size="62" font-weight="700" fill="#f6f9fb">SKYDANCE CORPORATION</text>
+<rect x="55" y="485" width="970" height="195" rx="28" fill="#0b2235" stroke="#155064" stroke-width="2"/>
+<text x="90" y="548" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#aab7c4">BOLSA</text>
+<text x="90" y="615" font-family="DejaVu Sans" font-size="47" font-weight="700" fill="#24b8ff">NASDAQ  →  NYSE</text>
+<text x="90" y="660" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#f6f9fb">Ticker previsto:  PSKY  →  SKYD</text>
+<rect x="55" y="730" width="970" height="260" rx="28" fill="#0b2235" stroke="#155064" stroke-width="2"/>
+<text x="90" y="792" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#aab7c4">FECHA OBJETIVO</text>
+<text x="90" y="870" font-family="DejaVu Sans" font-size="58" font-weight="700" fill="#13f2c2">6 DE OCTUBRE</text>
+<text x="90" y="930" font-family="DejaVu Sans" font-size="27" fill="#f6f9fb">El cambio de nombre y el traslado de la cotización</text>
+<text x="90" y="970" font-family="DejaVu Sans" font-size="27" fill="#f6f9fb">están previstos para esa misma fecha.</text>
+<line x1="55" y1="1242" x2="1025" y2="1242" stroke="#134858" stroke-width="2"/>
+<text x="55" y="1292" font-family="DejaVu Sans" font-size="24" font-weight="700" fill="#13f2c2">@kmxradar</text>
+<text x="820" y="1292" font-family="DejaVu Sans" font-size="22" font-weight="700" fill="#aab7c4">3/5</text>
+<text x="55" y="1325" font-family="DejaVu Sans" font-size="15" fill="#aab7c4">02 OCT 2026 · INFORMACIÓN VERIFICADA CON FUENTES PRIMARIAS E INDEPENDIENTES</text>
+</svg>
