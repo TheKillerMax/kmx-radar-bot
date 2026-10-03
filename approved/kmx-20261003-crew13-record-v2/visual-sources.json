@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-10-03T04:30:00Z",
+  "note": "Solo se usan imágenes reales con derechos verificables. Las cuatro fuentes visuales son obras de NASA en dominio público en Estados Unidos; se mantienen créditos y contexto.",
+  "assets": [
+    {
+      "key": "crew_arrival",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Crew-13_Crew_Arrival_(KSC-20260926-PH-KLS01_0073).jpg",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Crew-13_Crew_Arrival_%28KSC-20260926-PH-KLS01_0073%29.jpg/1280px-Crew-13_Crew_Arrival_%28KSC-20260926-PH-KLS01_0073%29.jpg",
+      "original_creator": "NASA Kennedy Space Center / NASA/Kim Shiflett",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov / NASA).",
+      "attribution_required": false,
+      "attribution_text": "NASA/Kim Shiflett",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Crew-13 members arriving at Kennedy Space Center on Sept. 26, 2026. Label as ARCHIVO when used because it predates launch."
+    },
+    {
+      "key": "plant_research",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CCP_Crew-13_Astronauts_Tour_Plant_Processing_Area_(KSC-20260512-PH-KLS01_0012).jpg",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CCP_Crew-13_Astronauts_Tour_Plant_Processing_Area_%28KSC-20260512-PH-KLS01_0012%29.jpg/1280px-CCP_Crew-13_Astronauts_Tour_Plant_Processing_Area_%28KSC-20260512-PH-KLS01_0012%29.jpg",
+      "original_creator": "NASA Kennedy Space Center / NASA/Kim Shiflett",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov / NASA).",
+      "attribution_required": false,
+      "attribution_text": "NASA/Kim Shiflett",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Crew-13 astronauts viewing microgreens on May 12, 2026. Use only for research/context and label ARCHIVO."
+    },
+    {
+      "key": "crew_rehearsal",
+      "source_url": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_SpaceX_Crew-13_Final_Launch_Operations_Rehearsal_(NHQ202609290009).jpg",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/NASA%E2%80%99s_SpaceX_Crew-13_Final_Launch_Operations_Rehearsal_%28NHQ202609290009%29.jpg/1280px-NASA%E2%80%99s_SpaceX_Crew-13_Final_Launch_Operations_Rehearsal_%28NHQ202609290009%29.jpg",
+      "original_creator": "NASA Headquarters / NASA/Joel Kowsky",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov / NASA).",
+      "attribution_required": false,
+      "attribution_text": "NASA/Joel Kowsky",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "Crew-13 final launch operations rehearsal on Sept. 29, 2026. Use as preflight context; label ARCHIVO."
+    },
+    {
+      "key": "earth_from_iss",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ISS075-E-26016_-_View_of_Earth.jpg",
+      "direct_url": "https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS075/ISS075-E-26016.JPG",
+      "original_creator": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov / NASA).",
+      "attribution_required": false,
+      "attribution_text": "NASA Johnson Space Center",
+      "local_path": "downloaded during GitHub Actions and used as context imagery",
+      "retrieved_at": "2026-10-03",
+      "notes": "View of Earth taken during Expedition 75 on July 27, 2026. Context image, not a Crew-13 docking photo."
+    }
+  ]
+}
