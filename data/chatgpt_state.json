@@ -1,9 +1,11 @@
 {
   "last_processed_generated_at": null,
   "last_publication_id": "kmx-20261003-crew13-record",
-  "last_result": "phase3_approved",
-  "note": "Phase 3 checks passed: manifest complete, 7 images rendered and QC-passed, sources present, visual rights explicit. Triggering publication.",
-  "phase": "publishing",
+  "last_result": "published",
+  "note": "Phase 3 completed successfully: Crew-13 publication reached Instagram and publication history was recorded.",
+  "phase": "published",
   "source_event_id": "web-fallback-20261003-crew13",
-  "visuals_completed_at": "2026-10-03T04:14:00Z"
+  "visuals_completed_at": "2026-10-03T04:14:00Z",
+  "last_media_id": "18122337061916783",
+  "published_at": "2026-10-03T04:23:35Z"
 }
