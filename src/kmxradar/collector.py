@@ -32,8 +32,9 @@ def _rank(cluster: Cluster) -> float:
 
 
 def _eligible(cluster: Cluster) -> bool:
-    # ChatGPT will independently research again. Reject obvious one-source noise.
-    return len(cluster.independent_domains) >= 2 or cluster.primary_source_present
+    # This is a discovery package, not a publication decision. Single-source
+    # candidates are allowed so ChatGPT can independently investigate them.
+    return bool(cluster.articles)
 
 
 def _enrich(cluster: Cluster, limit: int) -> None:
@@ -56,6 +57,7 @@ def _source_record(article, excerpt_chars: int) -> dict:
         "title": article.title,
         "url": article.url,
         "domain": article.domain,
+        "publisher": article.publisher,
         "language": article.language,
         "source_country": article.source_country,
         "seen_at": article.seen_at,
@@ -192,6 +194,7 @@ def collect_package() -> Path:
                 f"- Categoría: {cluster.category}",
                 f"- Riesgo: {cluster.risk}",
                 f"- Estado de entrada: {cluster.status}",
+                "- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.",
                 f"- Dominios independientes detectados: {len(cluster.independent_domains)}",
                 f"- Fuente primaria detectada: {'sí' if cluster.primary_source_present else 'no'}",
                 "",
