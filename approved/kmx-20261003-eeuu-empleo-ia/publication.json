@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261003-eeuu-empleo-ia",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "01-1f51d955d025450b",
   "sources": [
@@ -55,6 +55,7 @@
       "url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01/"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-03T19:37:40Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-03T19:37:40Z",
+  "approved_at": "2026-10-03T19:39:00Z"
 }
