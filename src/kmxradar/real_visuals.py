@@ -5,6 +5,7 @@ import json
 import logging
 import tempfile
 import textwrap
+import time
 
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -35,9 +36,24 @@ def _font(size: int, bold: bool = False):
 
 
 def _download(url: str, dest: Path) -> None:
-    r = requests.get(url, timeout=60, headers={"User-Agent": "KMX-RADAR/1.0"})
-    r.raise_for_status()
-    dest.write_bytes(r.content)
+    headers = {
+        "User-Agent": "KMX-RADAR/1.0 (news graphics; contact via github.com/TheKillerMax/kmx-radar-bot)",
+        "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+    }
+    last = None
+    for delay in (0, 3, 8, 15):
+        if delay:
+            time.sleep(delay)
+        r = requests.get(url, timeout=60, headers=headers)
+        if r.status_code == 200:
+            dest.write_bytes(r.content)
+            return
+        last = r
+        if r.status_code not in (429, 502, 503, 504):
+            r.raise_for_status()
+    if last is not None:
+        last.raise_for_status()
+    raise RuntimeError(f"Unable to download {url}")
 
 
 def _cover(im: Image.Image, size=(W, H)) -> Image.Image:
