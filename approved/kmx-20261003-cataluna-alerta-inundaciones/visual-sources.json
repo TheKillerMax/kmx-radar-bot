@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-10-03T16:31:22Z",
+  "note": "Solo se usan fotografías reales de Cataluña y Barcelona con licencia Creative Commons verificable. Todas son de archivo y deben mostrarse como ARCHIVO; ninguna representa el episodio del 3–4 de octubre de 2026. No se usan fotografías ni vídeos de agencias comerciales.",
+  "assets": [
+    {
+      "key": "flood_el_prat_2024",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Inundaciones_DANA_Barcelona_2024.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Inundaciones_DANA_Barcelona_2024.jpg",
+      "original_creator": "Danielmoreno4774",
+      "license_or_permission": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "attribution_required": true,
+      "attribution_text": "Danielmoreno4774 / Wikimedia Commons — CC BY 4.0",
+      "local_path": "<runtime-temp>/flood_el_prat_2024.jpg",
+      "retrieved_at": "2026-10-03T16:31:22Z",
+      "notes": "Fotografía propia del autor tomada el 4 de noviembre de 2024 en el área de El Prat de Llobregat durante inundaciones. ARCHIVO: no representa el episodio actual."
+    },
+    {
+      "key": "llobregat_2024",
+      "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Llobregat_en_la_DANA_2024.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/R%C3%ADo_Llobregat_en_la_DANA_2024.jpg",
+      "original_creator": "Danielmoreno4774",
+      "license_or_permission": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "attribution_required": true,
+      "attribution_text": "Danielmoreno4774 / Wikimedia Commons — CC BY 4.0",
+      "local_path": "<runtime-temp>/llobregat_2024.jpg",
+      "retrieved_at": "2026-10-03T16:31:22Z",
+      "notes": "Fotografía propia del autor del río Llobregat tomada el 4 de noviembre de 2024. ARCHIVO: no representa el episodio actual."
+    },
+    {
+      "key": "barcelona_rain_2011",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Barcelona_Rain_2_(5830531775).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Barcelona_Rain_2_%285830531775%29.jpg",
+      "original_creator": "Tony Hisgett",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Tony Hisgett / Wikimedia Commons — CC BY 2.0",
+      "local_path": "<runtime-temp>/barcelona_rain_2011.jpg",
+      "retrieved_at": "2026-10-03T16:31:22Z",
+      "notes": "Fotografía de lluvia en Barcelona tomada el 7 de junio de 2011. La licencia fue revisada en Wikimedia Commons. ARCHIVO: no representa el episodio actual."
+    }
+  ],
+  "excluded_assets": [
+    {
+      "source_url": "https://cdn-govern.watchity.net/govern/images/WhatsApp_Image_2026-10-03_at_14.18.08.jpeg",
+      "reason": "Excluido por prudencia: no se pudo demostrar una licencia específica inequívoca para esta imagen ni verificar que no incorpore logotipos o símbolos con uso restringido."
+    },
+    {
+      "source_url": "https://www.meteo.cat/observacions/radar",
+      "reason": "Excluido como fuente visual: no se demostró una licencia suficientemente específica para reutilizar la captura web concreta."
+    }
+  ]
+}
