@@ -5,7 +5,7 @@ from pathlib import Path
 import json
 import logging
 
-from .config import DATA_DIR, ROOT, editorial_config, load_yaml
+from .config import DATA_DIR, editorial_config, load_yaml
 from .instagram import publish_package
 from .utils import read_json, utcnow_iso, write_json
 
