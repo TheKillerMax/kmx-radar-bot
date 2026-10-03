@@ -1,174 +1,200 @@
 # KMX RADAR Bot
 
-Sistema automatizado y gratuito para **KMX RADAR** (`@kmxradar`): descubre noticias, agrupa duplicados, exige corroboración entre fuentes independientes, redacta una pieza breve en español, genera una tarjeta gráfica con la marca y puede publicarla mediante la API oficial de Instagram.
+Infraestructura gratuita para **KMX RADAR** (`@kmxradar`).
 
-> **Diseño editorial:** el bot no publica todo lo que encuentra. Si la evidencia no supera los umbrales configurados, la historia se descarta o queda en estado `EN DESARROLLO`. La puntuación interna es una puerta editorial, **no una probabilidad de verdad**.
+Este repositorio **no usa ningún LLM local**. GitHub actúa como radar y publicador; **ChatGPT es el editor/investigador**.
 
 ## Arquitectura
 
 ```text
-GDELT + RSS oficiales
+GDELT + RSS + fuentes públicas
         ↓
-normalización y deduplicación
+GitHub Actions
         ↓
-clustering por acontecimiento
+normalización + clustering
         ↓
-corroboración / fuente primaria / riesgo
+señales de corroboración
         ↓
 extracción limitada de evidencia
         ↓
-LLM local pequeño (Qwen2.5 0.5B) solo para redactar
+ZIP de entrada
         ↓
-validador anti-cifras inventadas
+TÚ SUBES EL ZIP A CHATGPT
         ↓
-Pillow genera 1080×1350 con logo KMX RADAR
+ChatGPT investiga de nuevo en la web
         ↓
-archivo público en el repositorio
+redacción + verificación + imágenes
         ↓
-Instagram Content Publishing API
+approved/<publication_id>/
+        ↓
+.ready
+        ↓
+Instagram API
 ```
 
-## Coste
+## Qué hace GitHub
 
-El proyecto está diseñado para **0 € de suscripciones**:
+El workflow **Build KMX RADAR intake ZIP** se ejecuta cada 2 horas y también manualmente.
 
-- repositorio público de GitHub;
-- GitHub Actions con runner estándar;
-- GDELT y RSS públicos;
-- modelo open source ejecutado dentro del runner;
-- Pillow para gráficos;
-- Instagram API oficial.
+Genera un artifact con un archivo parecido a:
 
-No se requiere OpenAI API, Canva, Metricool, hosting de pago ni dominio.
+```text
+kmx-radar-intake-20261002T235900Z.zip
+```
 
-## Requisitos previos
+Dentro encontrarás:
 
-1. Cuenta profesional de Instagram `@kmxradar`.
-2. App de Meta configurada con **Instagram API with Instagram Login**.
-3. Permisos `instagram_business_basic` y `instagram_business_content_publish`.
-4. Access Token generado desde el App Dashboard.
-5. Repositorio **público** llamado `kmx-radar-bot`.
+```text
+manifest.json
+instructions.md
+publication-package-schema.json
+previous_posts.json
+brand/
+  logo.svg
+events/
+  01-.../
+    event.json
+    evidence.md
+  02-.../
+    ...
+```
 
-## Configurar secretos
+El ZIP contiene hasta 10 acontecimientos candidatos, sus URLs, dominios, señales de corroboración y extractos breves.
 
-Ve a:
+La puntuación interna **no es una probabilidad de verdad**. Sirve únicamente para ordenar candidatos.
 
-**Settings → Secrets and variables → Actions → New repository secret**
+## Flujo con ChatGPT
 
-Crea:
+1. Ve a **Actions → Build KMX RADAR intake ZIP**.
+2. Abre la ejecución más reciente.
+3. Descarga el artifact `kmx-radar-intake-...`.
+4. Sube el ZIP a ChatGPT.
+5. Pide a ChatGPT que siga `instructions.md`.
+6. ChatGPT debe volver a investigar en Internet antes de redactar.
+7. ChatGPT prepara el contenido final e imágenes.
+8. Con el repositorio conectado, ChatGPT puede guardar el resultado en:
 
-### `INSTAGRAM_ACCESS_TOKEN`
-Pega el token de Instagram que generaste en Meta Developers.
+```text
+approved/<publication_id>/
+├── publication.json
+├── 01-cover.jpg
+├── 02-known.jpg
+├── ...
+└── .ready
+```
 
-### `TOKEN_ENCRYPTION_PASSWORD`
-Usa una cadena aleatoria de al menos 24 caracteres.
+**`.ready` debe añadirse al final**, cuando todos los archivos estén completos y la publicación esté realmente aprobada.
 
-El bot usa esta contraseña para cifrar el token renovado antes de guardarlo en el repositorio público.
+## Publicación automática
 
-**Nunca publiques ninguno de estos dos valores.**
+El workflow **Publish approved KMX RADAR package** se activa al añadirse:
 
-## Probar la conexión de Instagram
+```text
+approved/**/.ready
+```
 
-En GitHub:
-
-**Actions → Check Instagram connection → Run workflow**
-
-El token no se imprime.
-
-## Ejecutar primero en modo prueba
-
-Por defecto no publica en Instagram.
-
-En:
+Para permitir publicaciones reales, crea en:
 
 **Settings → Secrets and variables → Actions → Variables**
 
-crea:
-
 ```text
-PUBLISH_ENABLED = false
+PUBLISH_ENABLED=true
 ```
 
-Después ejecuta manualmente:
+Mientras sea `false`, no se publica nada.
 
-**Actions → KMX RADAR → Run workflow**
+El publicador admite:
 
-El bot intentará:
+- una imagen;
+- carruseles de hasta 10 imágenes;
+- caption;
+- alt text;
+- identificación `is_ai_generated` cuando corresponda;
+- límite diario de publicaciones;
+- separación mínima entre publicaciones;
+- registro de lo ya publicado para evitar duplicados.
 
-1. descubrir noticias recientes;
-2. agrupar historias repetidas;
-3. puntuar corroboración;
-4. seleccionar como máximo una candidata;
-5. redactar;
-6. generar la imagen en `docs/media/`;
-7. guardar `data/last_candidate.json`.
+## Secretos
 
-Si no encuentra una noticia que pase los controles, no crea ninguna publicación.
+En:
 
-## Activar publicación automática
+**Settings → Secrets and variables → Actions → Secrets**
 
-Cuando hayas revisado varias ejecuciones de prueba y estés conforme:
+deben existir:
 
-```text
-PUBLISH_ENABLED = true
-```
+### `INSTAGRAM_ACCESS_TOKEN`
 
-El workflow se ejecuta automáticamente a los minutos `17` y `47` de cada hora.
+Token de la Instagram API generado en Meta Developers.
 
-## Seguridad del token
+### `TOKEN_ENCRYPTION_PASSWORD`
 
-El primer run usa `INSTAGRAM_ACCESS_TOKEN` desde GitHub Secrets y crea:
+Cadena aleatoria de al menos 24 caracteres.
+
+Nunca publiques ninguno de esos valores.
+
+## Estado de la conexión
+
+La conexión con Instagram ya fue comprobada mediante:
+
+**Actions → Check Instagram connection**
+
+y el workflow terminó correctamente.
+
+## Renovación del token
+
+El workflow **Refresh Instagram token** intenta renovar semanalmente el token de larga duración y guarda la nueva versión cifrada en:
 
 ```text
 data/instagram_token.enc
 ```
 
-Ese archivo contiene el token **cifrado**, nunca en texto plano.
+## Política editorial
 
-El workflow `Refresh Instagram token` intenta renovar el token una vez por semana y guarda la versión nueva cifrada.
+KMX RADAR prioriza:
 
-## Reglas editoriales incluidas
+- fuentes primarias;
+- varias fuentes independientes;
+- separación entre hechos, declaraciones e inferencias;
+- transparencia sobre incertidumbre;
+- correcciones visibles;
+- no copiar fotografías o artículos de terceros sin permiso.
 
-- mínimo de dominios independientes;
-- bonificación por fuente oficial/primaria;
-- mayor umbral para política, conflictos y salud;
-- límite de publicaciones por día;
-- separación mínima entre publicaciones;
-- el LLM no decide si una noticia está verificada: redacta **después** de la corroboración;
-- el LLM recibe solo fragmentos limitados de las fuentes;
-- cualquier cifra generada que no aparezca en la evidencia hace que la salida se rechace;
-- si falla el modelo, el sistema usa una plantilla determinista;
-- sin fotografías copiadas de medios: la imagen se genera gráficamente con el logo, el titular y las fuentes.
+En política y elecciones, ChatGPT debe presentar hechos y posiciones documentadas sin apoyar, oponerse, clasificar, puntuar ni predecir ganadores.
 
-## Qué significa cada estado
+En salud, conflictos, fallecimientos, acusaciones criminales, seguridad pública y elecciones se exige verificación reforzada.
 
-- `VERIFICADO`: pasó el umbral y se detectó una fuente primaria/oficial.
-- `CORROBORADO`: pasó el umbral con varias fuentes independientes y de calidad, sin fuente primaria directa.
-- `EN DESARROLLO`: hay convergencia parcial, pero no se publica automáticamente.
-- `SIN CONFIRMAR`: evidencia insuficiente; no se publica.
+Un acontecimiento no tiene por qué convertirse en publicación. **Omitir es preferible a inventar.**
 
-Estos rótulos describen el **estado de verificación del bot**, no garantizan verdad absoluta.
+## Formato del paquete final
 
-## Limitaciones importantes
+Consulta:
 
-Un sistema gratuito y autónomo no equivale a una redacción humana internacional. Puede haber medios inaccesibles, errores de GDELT, coberturas repetidas que provengan de la misma agencia, información oficial incompleta y errores del modelo local.
-
-Por eso los controles están diseñados para **omitir una noticia antes que inventar o forzar una publicación**.
-
-Para temas delicados —acusaciones criminales, fallecimientos no confirmados, elecciones, conflictos, salud y seguridad pública— los umbrales son más altos.
-
-## Pruebas locales
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt -e .
-pytest -q
+```text
+publication-package-schema.example.json
 ```
 
-## Política de correcciones
+Campos principales:
 
-KMX RADAR debe conservar públicamente las correcciones materiales.
+- `publication_id`
+- `source_event_id`
+- `status`
+- `headline`
+- `caption`
+- `sources`
+- `images`
+- `ready_to_publish`
+
+## Coste
+
+El diseño evita:
+
+- OpenAI API;
+- APIs LLM de pago;
+- servidores de pago;
+- Canva/Metricool;
+- dominio propio.
+
+GitHub recopila y publica; ChatGPT se usa interactuando desde tu cuenta.
 
 ---
 
