@@ -73,7 +73,7 @@ def _validate_manifest(package_dir: Path, manifest: dict) -> list[str]:
     if not isinstance(caption, str) or len(caption) > 2200:
         errors.append("caption must be a string <= 2200 chars")
     elif isinstance(caption, str):
-        hashtags = re.findall(r"(?<!\\w)#([\\wÁÉÍÓÚÜÑáéíóúüñ]+)", caption, flags=re.UNICODE)
+        hashtags = re.findall(r"(?<!\w)#([\wÁÉÍÓÚÜÑáéíóúüñ]+)", caption, flags=re.UNICODE)
         normalized = [h.casefold() for h in hashtags]
         if len(hashtags) > 5:
             errors.append("Instagram caption must use at most 5 hashtags")
