@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261003-nasa-flight-director",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "08-90b5d9e894957440",
   "sources": [
@@ -51,6 +51,7 @@
       "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-03T12:18:47Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-03T12:18:47Z",
+  "approved_at": "2026-10-03T12:20:00Z"
 }
