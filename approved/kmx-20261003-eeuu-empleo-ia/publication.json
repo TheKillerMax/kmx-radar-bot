@@ -1,13 +1,42 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261003-eeuu-empleo-ia",
-  "source_event_id": "01-1f51d955d025450b",
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals",
-  "headline": "EE. UU. sumó solo 29.000 empleos en septiembre: qué sabemos sobre el papel de la IA",
-  "caption": "Estados Unidos sumó solo 29.000 empleos en septiembre y la tasa de desempleo quedó en 4,2%.\n\n¿ESO SIGNIFICA QUE LA IA ESTÁ QUITANDO ESOS EMPLEOS?\n\nNo se puede concluir eso solo con el informe oficial.\n\nLa Oficina de Estadísticas Laborales de EE. UU. mide cuántos empleos hay y cómo cambian por sector, pero no asigna una causa concreta a cada puesto que desaparece.\n\nEn septiembre, el empleo bajó en información (-10.000), actividades financieras (-7.000) y servicios profesionales y empresariales (-9.000). La propia agencia describió los cambios de las grandes industrias como pequeños durante el mes.\n\nLa IA sí aparece en otro conjunto de datos: Challenger, que registra anuncios de recortes de empresas, informó que la inteligencia artificial fue citada como motivo en 3.961 recortes anunciados en septiembre, cerca del 9% del total del mes.\n\nPero son datos distintos: un anuncio de recorte no es lo mismo que un empleo eliminado en ese mismo mes dentro de la encuesta oficial.\n\nLa conclusión más precisa hoy es esta: el mercado laboral se enfrió, la IA ya aparece en miles de decisiones empresariales de recorte, pero todavía no podemos atribuirle por sí sola la debilidad del informe de septiembre.\n\nDesliza para ver qué muestran los datos y qué no permiten afirmar.\n\nFuentes: Oficina de Estadísticas Laborales de EE. UU., Challenger y Reuters.\n\n#KMXRadar #Empleo #InteligenciaArtificial #Economia #Trabajo",
   "ai_generated": true,
+  "caption": "Estados Unidos sumó solo 29.000 empleos en septiembre y la tasa de desempleo quedó en 4,2%.\n\n¿ESO SIGNIFICA QUE LA IA ESTÁ QUITANDO ESOS EMPLEOS?\n\nNo se puede concluir eso solo con el informe oficial.\n\nLa Oficina de Estadísticas Laborales de EE. UU. mide cuántos empleos hay y cómo cambian por sector, pero no asigna una causa concreta a cada puesto que desaparece.\n\nEn septiembre, el empleo bajó en información (-10.000), actividades financieras (-7.000) y servicios profesionales y empresariales (-9.000). La propia agencia describió los cambios de las grandes industrias como pequeños durante el mes.\n\nLa IA sí aparece en otro conjunto de datos: Challenger, que registra anuncios de recortes de empresas, informó que la inteligencia artificial fue citada como motivo en 3.961 recortes anunciados en septiembre, cerca del 9% del total del mes.\n\nPero son datos distintos: un anuncio de recorte no es lo mismo que un empleo eliminado en ese mismo mes dentro de la encuesta oficial.\n\nLa conclusión más precisa hoy es esta: el mercado laboral se enfrió, la IA ya aparece en miles de decisiones empresariales de recorte, pero todavía no podemos atribuirle por sí sola la debilidad del informe de septiembre.\n\nDesliza para ver qué muestran los datos y qué no permiten afirmar.\n\nFuentes: Oficina de Estadísticas Laborales de EE. UU., Challenger y Reuters.\n\n#KMXRadar #Empleo #InteligenciaArtificial #Economia #Trabajo",
   "created_at": "2026-10-03T18:56:00Z",
+  "headline": "EE. UU. sumó solo 29.000 empleos en septiembre: qué sabemos sobre el papel de la IA",
+  "images": [
+    {
+      "alt_text": "Estados Unidos añadió 29.000 empleos en septiembre de 2026 y la tasa de desempleo fue 4,2%.",
+      "path": "01-empleo.png"
+    },
+    {
+      "alt_text": "El informe oficial de empleo no permite atribuir directamente a la inteligencia artificial la debilidad de septiembre.",
+      "path": "02-ia-causa.png"
+    },
+    {
+      "alt_text": "En septiembre bajó el empleo en información, actividades financieras y servicios profesionales y empresariales.",
+      "path": "03-sectores.png"
+    },
+    {
+      "alt_text": "Challenger informó que la inteligencia artificial fue citada como motivo en 3.961 recortes anunciados en septiembre.",
+      "path": "04-recortes-ia.png"
+    },
+    {
+      "alt_text": "Las empresas tecnológicas anunciaron 10.799 recortes en septiembre, 77% más que en agosto, mientras el total nacional anunciado bajó.",
+      "path": "05-tecnologia.png"
+    },
+    {
+      "alt_text": "La estadística oficial de empleo y los anuncios empresariales de recortes miden cosas diferentes y no deben sumarse directamente.",
+      "path": "06-dos-medidas.png"
+    },
+    {
+      "alt_text": "Conclusión: el empleo estadounidense se enfrió en septiembre y la inteligencia artificial aparece en anuncios de recortes, pero no se conoce su aporte exacto al dato mensual.",
+      "path": "07-conclusion.png"
+    }
+  ],
+  "publication_id": "kmx-20261003-eeuu-empleo-ia",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "01-1f51d955d025450b",
   "sources": [
     {
       "label": "U.S. Bureau of Labor Statistics — Employment Situation, septiembre 2026",
@@ -26,5 +55,6 @@
       "url": "https://www.reuters.com/legal/litigation/us-weekly-jobless-claims-fall-layoffs-drop-september-2026-10-01/"
     }
   ],
-  "images": []
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-03T19:37:40Z"
 }
