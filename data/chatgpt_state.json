@@ -1,8 +1,9 @@
 {
   "last_processed_generated_at": null,
   "last_publication_id": "kmx-20261003-crew13-record",
-  "last_result": "editorial_ready_for_visuals",
-  "phase": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "phase": "visuals_ready",
   "source_event_id": "web-fallback-20261003-crew13",
-  "note": "Recovered from approved/kmx-20261003-crew13-record/handoff.json so Phase 2 can continue."
+  "visuals_completed_at": "2026-10-03T04:14:00Z"
 }
