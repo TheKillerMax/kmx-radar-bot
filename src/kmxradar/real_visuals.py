@@ -52,6 +52,28 @@ def _draw_single_fit(draw: ImageDraw.ImageDraw, xy, text: str, max_width: int, s
     return font
 
 
+def _draw_pill(draw: ImageDraw.ImageDraw, x: int, y: int, text: str, *,
+               max_width: int = 500, height: int = 46, start_size: int = 21,
+               fill=(7, 36, 48, 235), outline=ACCENT, text_fill=ACCENT,
+               pad_x: int = 22, bold: bool = True):
+    """Draw a pill that always contains its text with explicit horizontal padding."""
+    inner_max = max_width - (pad_x * 2)
+    font = _fit_font(draw, text, inner_max, start_size, bold, 12)
+    box = draw.textbbox((0, 0), text, font=font)
+    text_w = box[2] - box[0]
+    text_h = box[3] - box[1]
+    width = min(max_width, text_w + (pad_x * 2))
+    y2 = y + height
+    draw.rounded_rectangle((x, y, x + width, y2), height // 2, fill=fill, outline=outline, width=2)
+    text_y = y + max(0, (height - text_h) // 2 - box[1])
+    draw.text((x + pad_x, text_y), text, font=font, fill=text_fill)
+    return (x, y, x + width, y2)
+
+
+def _fit_title(draw: ImageDraw.ImageDraw, xy, text: str, max_width: int, start_size: int, fill=WHITE):
+    return _draw_single_fit(draw, xy, text, max_width, start_size, fill=fill, bold=True, min_size=34)
+
+
 def _download(url: str, dest: Path) -> None:
     headers = {
         "User-Agent": "KMX-RADAR/1.0 (news graphics; contact via github.com/TheKillerMax/kmx-radar-bot)",
@@ -220,8 +242,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
             # content layouts
             layout = spec.get("layout", "standard")
             if layout == "cover":
-                draw.rounded_rectangle((60, 205, 330, 250), 20, fill=(7, 36, 48, 235), outline=ACCENT, width=2)
-                draw.text((82, 216), spec["kicker"], font=_font(21, True), fill=ACCENT)
+                _draw_pill(draw, 60, 205, spec["kicker"], max_width=430)
                 y = 330
                 y = _text_block(draw, spec["title"][0], (60,y), 960, 68, WHITE, True, 5)
                 y = _text_block(draw, spec["title"][1], (60,y+5), 960, 78, ACCENT, True, 5)
@@ -231,9 +252,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 draw.text((90, y+55), "CLAVE", font=_font(25, True), fill=GOLD)
                 _text_block(draw, spec["highlight"], (90,y+95), 650, 30, WHITE, True, 8)
             elif layout == "facts":
-                draw.rounded_rectangle((60, 205, 335, 250), 20, fill=(7, 36, 48, 235), outline=ACCENT, width=2)
-                draw.text((82, 216), spec["kicker"], font=_font(21, True), fill=ACCENT)
-                draw.text((60, 290), spec["title"], font=_font(66, True), fill=WHITE)
+                _draw_pill(draw, 60, 205, spec["kicker"], max_width=430)
+                _fit_title(draw, (60, 290), spec["title"], 960, 66, WHITE)
                 y=390
                 for fact in spec["facts"]:
                     _panel(draw,(60,y,1020,y+185))
@@ -244,7 +264,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 draw.text((92,y+28),"OJO",font=_font(24,True),fill=GOLD)
                 _text_block(draw,spec["note"],(175,y+25),800,24,WHITE,False,7,3)
             elif layout == "timeline":
-                draw.text((60, 220), spec["title"], font=_font(58, True), fill=WHITE)
+                _fit_title(draw, (60, 220), spec["title"], 960, 58, WHITE)
                 draw.text((60, 285), spec["subtitle"], font=_font(30, True), fill=ACCENT)
                 y=470
                 xs=[175,540,895]
@@ -267,7 +287,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 _panel(draw,(60,y+5,1020,y+145),fill=(5,18,28,230),outline=GOLD,width=2)
                 _text_block(draw,spec["note"],(90,y+35),850,24,GOLD,True,7,3)
             elif layout == "money":
-                draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
+                _fit_title(draw, (60, 220), spec["title"], 960, 56, WHITE)
                 _panel(draw,(60,340,1020,570),fill=(5,18,28,235),outline=ACCENT,width=3)
                 draw.text((90,375),spec["big"],font=_font(86,True),fill=ACCENT)
                 draw.text((90,480),spec["big_label"],font=_font(30,True),fill=WHITE)
@@ -287,7 +307,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 y=485
                 for brand in spec["brands"]:
                     draw.ellipse((95,y+8,111,y+24),fill=ACCENT)
-                    draw.text((135,y),brand,font=_font(29,True),fill=WHITE)
+                    _draw_single_fit(draw, (135,y), brand, 820, 29, fill=WHITE, bold=True, min_size=20)
                     y+=70
                 _panel(draw,(60,990,1020,1175),fill=(5,18,28,235),outline=GOLD,width=2)
                 explain_title = spec.get("explain_title", "QUÉ SIGNIFICA")
@@ -315,7 +335,7 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 draw.text((90,880),"FUENTES",font=_font(25,True),fill=GOLD)
                 sy=925
                 for s in spec["sources"]:
-                    draw.text((90,sy),"• "+s,font=_font(22,True),fill=WHITE)
+                    _draw_single_fit(draw, (90,sy), "• "+s, 870, 22, fill=WHITE, bold=True, min_size=16)
                     sy+=42
                 draw.text((60,1165),"CRÉDITOS VISUALES",font=_font(16,True),fill=ACCENT)
                 _text_block(draw,spec["credits"],(60,1192),930,14,MUTED,False,4,4)
