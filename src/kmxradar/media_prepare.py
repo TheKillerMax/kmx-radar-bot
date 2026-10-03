@@ -8,6 +8,7 @@ import cairosvg
 
 from .publication import APPROVED_DIR
 from .utils import write_json
+from .real_visuals import build_real_visuals
 
 LOG = logging.getLogger(__name__)
 
@@ -24,6 +25,12 @@ def prepare_ready_packages() -> int:
 
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         changed = False
+
+        real_config_path = package_dir / "real-visuals.json"
+        if real_config_path.exists():
+            real_config = json.loads(real_config_path.read_text(encoding="utf-8"))
+            build_real_visuals(package_dir, real_config)
+            changed = True
 
         for item in manifest.get("images", []):
             path = package_dir / str(item.get("path") or "")
