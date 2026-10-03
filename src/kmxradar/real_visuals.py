@@ -165,7 +165,7 @@ def _wrap(draw, text, font, maxw):
     lines, cur = [], ""
     for word in words:
         test = (cur + " " + word).strip()
-        if draw.textbbox((0,0), test, font=font)[2] <= maxw:
+        if draw.textbbox((0, 0), test, font=font)[2] <= maxw:
             cur = test
         else:
             if cur:
@@ -176,17 +176,68 @@ def _wrap(draw, text, font, maxw):
     return lines
 
 
-def _text_block(draw, text, xy, maxw, size, fill=WHITE, bold=False, line_gap=10, max_lines=None):
-    font = _font(size, bold)
+def _wrapped_metrics(draw, text, font, maxw, line_gap=8):
     lines = _wrap(draw, text, font, maxw)
-    if max_lines:
-        lines = lines[:max_lines]
-    x, y = xy
+    heights = []
     for line in lines:
-        draw.text((x, y), line, font=font, fill=fill)
-        bbox = draw.textbbox((x,y), line, font=font)
-        y = bbox[3] + line_gap
-    return y
+        box = draw.textbbox((0, 0), line, font=font)
+        heights.append(box[3] - box[1])
+    total = sum(heights) + max(0, len(lines) - 1) * line_gap
+    return lines, heights, total
+
+
+def _fit_wrapped_font(draw, text, maxw, maxh, start_size, bold=False, line_gap=8,
+                      min_size=14, max_lines=None):
+    for size in range(start_size, min_size - 1, -1):
+        font = _font(size, bold)
+        lines, heights, total = _wrapped_metrics(draw, text, font, maxw, line_gap)
+        if (max_lines is None or len(lines) <= max_lines) and total <= maxh:
+            return font, lines, heights, total
+    raise ValueError(
+        f"Text cannot fit safely: {text!r} in {maxw}x{maxh} px "
+        f"with minimum font size {min_size}"
+    )
+
+
+def _text_block(draw, text, xy, maxw, size, fill=WHITE, bold=False, line_gap=10,
+                max_lines=None, maxh=None, min_size=14):
+    x, y = xy
+    if maxh is None:
+        font = _font(size, bold)
+        lines = _wrap(draw, text, font, maxw)
+        if max_lines and len(lines) > max_lines:
+            # Never silently truncate meaningful text. Reduce the font instead.
+            maxh = H - y - 40
+        else:
+            for line in lines:
+                draw.text((x, y), line, font=font, fill=fill)
+                bbox = draw.textbbox((x, y), line, font=font)
+                y = bbox[3] + line_gap
+            return y
+
+    font, lines, heights, total = _fit_wrapped_font(
+        draw, text, maxw, maxh, size, bold, line_gap, min_size, max_lines
+    )
+    cursor = y
+    for line, height in zip(lines, heights):
+        draw.text((x, cursor), line, font=font, fill=fill)
+        cursor += height + line_gap
+    return cursor
+
+
+def _text_in_box(draw, text, box, start_size, fill=WHITE, bold=False,
+                 pad_x=24, pad_y=20, line_gap=8, max_lines=None, min_size=14):
+    x1, y1, x2, y2 = box
+    maxw = (x2 - x1) - (pad_x * 2)
+    maxh = (y2 - y1) - (pad_y * 2)
+    font, lines, heights, total = _fit_wrapped_font(
+        draw, text, maxw, maxh, start_size, bold, line_gap, min_size, max_lines
+    )
+    cursor = y1 + pad_y
+    for line, height in zip(lines, heights):
+        draw.text((x1 + pad_x, cursor), line, font=font, fill=fill)
+        cursor += height + line_gap
+    return cursor
 
 
 def _panel(draw, box, fill=PANEL, outline=(36, 105, 129, 230), radius=26, width=2):
@@ -248,10 +299,16 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 y = _text_block(draw, spec["title"][1], (60,y+5), 960, 78, ACCENT, True, 5)
                 y = _text_block(draw, spec["title"][2], (60,y+5), 960, 78, WHITE, True, 5)
                 y = _text_block(draw, spec["subtitle"], (60,y+35), 890, 32, WHITE, False, 12)
-                _panel(draw, (60, y+28, 795, y+185), fill=(5,18,28,230), outline=GOLD, width=3)
+                highlight_top = y + 28
+                highlight_bottom = min(1185, highlight_top + 205)
+                _panel(draw, (60, highlight_top, 930, highlight_bottom), fill=(5,18,28,230), outline=GOLD, width=3)
                 highlight_label = spec.get("highlight_label", "IMPORTANTE")
-                _draw_single_fit(draw, (90, y+55), highlight_label, 650, 25, fill=GOLD, bold=True, min_size=18)
-                _text_block(draw, spec["highlight"], (90,y+95), 650, 30, WHITE, True, 8)
+                _draw_single_fit(draw, (90, highlight_top + 24), highlight_label, 790, 24, fill=GOLD, bold=True, min_size=17)
+                _text_block(
+                    draw, spec["highlight"], (90, highlight_top + 68), 790, 28,
+                    WHITE, True, 8, max_lines=3,
+                    maxh=highlight_bottom - (highlight_top + 68) - 20, min_size=20
+                )
             elif layout == "facts":
                 _draw_pill(draw, 60, 205, spec["kicker"], max_width=430)
                 _fit_title(draw, (60, 290), spec["title"], 960, 66, WHITE)
@@ -259,12 +316,14 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 for fact in spec["facts"]:
                     _panel(draw,(60,y,1020,y+185))
                     draw.text((92,y+28), fact["label"], font=_font(24,True), fill=ACCENT)
-                    _text_block(draw,fact["text"],(92,y+70),860,30,WHITE,True,8,3)
+                    _text_block(draw, fact["text"], (92, y+70), 860, 30, WHITE, True, 8,
+                                max_lines=3, maxh=95, min_size=21)
                     y+=205
                 _panel(draw,(60,y+5,1020,y+140),fill=(20,17,8,225),outline=GOLD,width=2)
                 note_label = spec.get("note_label", "IMPORTANTE")
                 _draw_single_fit(draw, (92,y+28), note_label, 150, 24, fill=GOLD, bold=True, min_size=16)
-                _text_block(draw,spec["note"],(245,y+25),730,24,WHITE,False,7,3)
+                _text_block(draw, spec["note"], (245, y+25), 730, 24, WHITE, False, 7,
+                            max_lines=3, maxh=88, min_size=18)
             elif layout == "timeline":
                 _fit_title(draw, (60, 220), spec["title"], 960, 58, WHITE)
                 draw.text((60, 285), spec["subtitle"], font=_font(30, True), fill=ACCENT)
@@ -277,17 +336,20 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                     _text_block(draw,item["text"],(x-95,y+85),190,20,WHITE,True,5,3)
                 _panel(draw,(60,760,1020,1115),fill=(5,18,28,235),outline=GOLD,width=2)
                 _draw_single_fit(draw, (90,800), spec["box_title"], 850, 30, fill=GOLD, bold=True, min_size=20)
-                _text_block(draw,spec["box_text"],(90,855),870,27,WHITE,False,9,7)
+                _text_block(draw, spec["box_text"], (90,855), 870, 27, WHITE, False, 9,
+                            max_lines=7, maxh=215, min_size=19)
             elif layout == "changes":
                 draw.text((60, 220), spec["title"], font=_font(58, True), fill=WHITE)
                 y=335
                 for item in spec["items"]:
                     _panel(draw,(60,y,1020,y+205))
                     draw.text((90,y+30),item["label"],font=_font(25,True),fill=ACCENT)
-                    _text_block(draw,item["text"],(90,y+80),850,30,WHITE,True,8,3)
+                    _text_block(draw, item["text"], (90,y+80), 850, 30, WHITE, True, 8,
+                                max_lines=3, maxh=105, min_size=20)
                     y+=225
                 _panel(draw,(60,y+5,1020,y+145),fill=(5,18,28,230),outline=GOLD,width=2)
-                _text_block(draw,spec["note"],(90,y+35),850,24,GOLD,True,7,3)
+                _text_block(draw, spec["note"], (90,y+35), 850, 24, GOLD, True, 7,
+                            max_lines=3, maxh=85, min_size=17)
             elif layout == "money":
                 _fit_title(draw, (60, 220), spec["title"], 960, 56, WHITE)
                 _panel(draw,(60,340,1020,570),fill=(5,18,28,235),outline=ACCENT,width=3)
@@ -295,12 +357,15 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 _draw_single_fit(draw, (90,480), spec["big_label"], 850, 30, fill=WHITE, bold=True, min_size=20)
                 _panel(draw,(60,600,1020,805))
                 _draw_single_fit(draw, (90,635), spec["small"], 850, 48, fill=GOLD, bold=True, min_size=28)
-                _text_block(draw,spec["small_label"],(90,700),850,26,WHITE,False,8,3)
+                _text_block(draw, spec["small_label"], (90,700), 850, 26, WHITE, False, 8,
+                            max_lines=3, maxh=82, min_size=18)
                 _panel(draw,(60,840,1020,1045),fill=(20,17,8,230),outline=GOLD,width=2)
                 explain_title = spec.get("explain_title", "LO QUE DEBES SABER")
                 _draw_single_fit(draw, (90,875), explain_title, 850, 25, fill=GOLD, bold=True, min_size=18)
-                _text_block(draw,spec["explain"],(90,925),850,25,WHITE,False,8,4)
-                _text_block(draw,spec["disclaimer"],(60,1090),900,19,MUTED,False,6,2)
+                _text_block(draw, spec["explain"], (90,925), 850, 25, WHITE, False, 8,
+                            max_lines=4, maxh=90, min_size=18)
+                _text_block(draw, spec["disclaimer"], (60,1090), 900, 19, MUTED, False, 6,
+                            max_lines=2, maxh=48, min_size=15)
             elif layout == "brands":
                 draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
                 _text_block(draw,spec["subtitle"],(60,290),920,28,ACCENT,True,8,2)
@@ -314,16 +379,19 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 _panel(draw,(60,990,1020,1175),fill=(5,18,28,235),outline=GOLD,width=2)
                 explain_title = spec.get("explain_title", "QUÉ SIGNIFICA")
                 _draw_single_fit(draw, (90,1020), explain_title, 850, 24, fill=GOLD, bold=True, min_size=18)
-                _text_block(draw,spec["explain"],(90,1070),850,24,WHITE,False,7,4)
+                _text_block(draw, spec["explain"], (90,1070), 850, 24, WHITE, False, 7,
+                            max_lines=4, maxh=82, min_size=17)
             elif layout == "streaming":
                 draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
                 _panel(draw,(60,335,1020,525),fill=(20,17,8,235),outline=GOLD,width=3)
-                _text_block(draw,spec["statement"],(90,370),850,31,GOLD,True,9,4)
+                _text_block(draw, spec["statement"], (90,370), 850, 31, GOLD, True, 9,
+                            max_lines=4, maxh=125, min_size=21)
                 y=560
                 for item in spec["items"]:
                     _panel(draw,(60,y,1020,y+165))
                     draw.text((90,y+28),item["label"],font=_font(24,True),fill=ACCENT)
-                    _text_block(draw,item["text"],(90,y+72),850,25,WHITE,False,7,3)
+                    _text_block(draw, item["text"], (90,y+72), 850, 25, WHITE, False, 7,
+                                max_lines=3, maxh=70, min_size=18)
                     y+=185
             elif layout == "sources":
                 draw.text((60, 220), spec["title"], font=_font(56, True), fill=WHITE)
@@ -331,7 +399,8 @@ def build_real_visuals(package_dir: Path, config: dict) -> None:
                 for item in spec["watch"]:
                     _panel(draw,(60,y,1020,y+110))
                     draw.ellipse((90,y+42,106,y+58),fill=ACCENT)
-                    _text_block(draw,item,(135,y+29),820,24,WHITE,True,6,2)
+                    _text_block(draw, item, (135,y+29), 820, 24, WHITE, True, 6,
+                                max_lines=2, maxh=55, min_size=17)
                     y+=125
                 _panel(draw,(60,850,1020,1110),fill=(5,18,28,235),outline=GOLD,width=2)
                 draw.text((90,880),"FUENTES",font=_font(25,True),fill=GOLD)
