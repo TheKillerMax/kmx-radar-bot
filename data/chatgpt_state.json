@@ -1,9 +1,9 @@
 {
   "last_processed_generated_at": null,
   "last_publication_id": "kmx-20261003-crew13-record-v2",
-  "last_result": "editorial_ready_for_visuals",
-  "note": "Correction cycle v2 prepared. Phase 2 will re-render all seven images using the fixed metric layout.",
-  "phase": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "phase": "visuals_ready",
   "source_event_id": "web-fallback-20261003-crew13",
-  "visuals_completed_at": "2026-10-03T04:14:00Z"
+  "visuals_completed_at": "2026-10-03T04:29:54Z"
 }
