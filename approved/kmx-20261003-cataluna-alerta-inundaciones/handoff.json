@@ -3,5 +3,7 @@
   "source_event_id": "03-1e92b6cd08372891",
   "created_at": "2026-10-03T15:26:24Z",
   "manifest_generated_at": "2026-10-03T14:17:46Z",
-  "phase": "editorial_ready_for_visuals"
+  "phase": "superseded",
+  "superseded_at": "2026-10-03T18:55:00Z",
+  "superseded_reason": "Phase 2 was interrupted before producing a complete 6–10 image visual package. A newer intake is now available and must be re-evaluated before publication."
 }
