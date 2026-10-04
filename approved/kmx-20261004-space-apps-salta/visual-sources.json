@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-04T04:28:56Z",
+  "note": "Material real y trazable. Las tres fotografías son de archivo/contexto y no muestran el NASA Space Apps Salta 2026. Deben rotularse como ARCHIVO o IMAGEN DE REFERENCIA según corresponda.",
+  "assets": [
+    {
+      "key": "salta",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Salta-Square2.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Salta-Square2.jpg",
+      "original_creator": "Fulviusbsas",
+      "license_or_permission": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "attribution_required": true,
+      "attribution_text": "Fulviusbsas / Wikimedia Commons — CC BY-SA 3.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Plaza principal de Salta, fotografiada en 2007. ARCHIVO: identifica la ciudad, no la sede concreta del evento 2026."
+    },
+    {
+      "key": "earth",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Earth_From_the_Perspective_of_Artemis_II.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Earth_From_the_Perspective_of_Artemis_II.jpg",
+      "original_creator": "Reid Wiseman / NASA",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov/NASA)",
+      "attribution_required": true,
+      "attribution_text": "Reid Wiseman / NASA",
+      "local_path": "downloaded during GitHub Actions and used as reference imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Vista real de la Tierra desde Orion durante Artemis II, abril de 2026. IMAGEN DE REFERENCIA; no documenta el Space Apps Salta."
+    },
+    {
+      "key": "launch",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Artemis_II_Launch_(NHQ202604010226).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Artemis_II_Launch_%28NHQ202604010226%29.jpg",
+      "original_creator": "NASA/Aubrey Gemignani",
+      "license_or_permission": "Public domain in the United States — work solely created by NASA (PD-USGov/NASA); NASA metadata requires credit",
+      "attribution_required": true,
+      "attribution_text": "NASA/Aubrey Gemignani",
+      "local_path": "downloaded during GitHub Actions and used as reference imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Lanzamiento real de Artemis II el 1 de abril de 2026. IMAGEN DE REFERENCIA; no corresponde al NASA Space Apps Challenge."
+    }
+  ]
+}
