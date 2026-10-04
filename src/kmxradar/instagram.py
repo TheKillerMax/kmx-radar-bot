@@ -13,6 +13,28 @@ from .token_store import load_token
 LOG = logging.getLogger(__name__)
 
 
+def _safe_api_error(response: requests.Response, action: str) -> RuntimeError:
+    try:
+        payload = response.json()
+    except Exception:
+        payload = {}
+    error = payload.get("error") if isinstance(payload, dict) else {}
+    if not isinstance(error, dict):
+        error = {}
+    return RuntimeError(
+        f"{action} failed: HTTP {response.status_code}; "
+        f"type={error.get('type')!r}; code={error.get('code')!r}; "
+        f"subcode={error.get('error_subcode')!r}; "
+        f"message={str(error.get('message') or 'non-JSON error')!r}; "
+        f"fbtrace_id={error.get('fbtrace_id')!r}"
+    )
+
+
+def _raise_api_error(response: requests.Response, action: str) -> None:
+    if not response.ok:
+        raise _safe_api_error(response, action)
+
+
 def get_account(token: str | None = None) -> dict:
     token = token or load_token()
     cfg = editorial_config()["instagram"]
@@ -21,7 +43,7 @@ def get_account(token: str | None = None) -> dict:
         params={"fields": "user_id,username,account_type", "access_token": token},
         timeout=30,
     )
-    response.raise_for_status()
+    _raise_api_error(response, "get_account")
     return response.json()
 
 
@@ -73,7 +95,7 @@ def _post_media(ig_id: str, data: dict, token: str) -> str:
     endpoint = f"{cfg['graph_host']}/{cfg['api_version']}/{ig_id}/media"
     payload = {**data, "access_token": token}
     response = requests.post(endpoint, data=payload, timeout=45)
-    response.raise_for_status()
+    _raise_api_error(response, "create_media_container")
     result = response.json()
     container_id = result.get("id")
     if not container_id:
@@ -90,7 +112,7 @@ def wait_until_ready(container_id: str, token: str) -> None:
             params={"fields": "status_code", "access_token": token},
             timeout=30,
         )
-        response.raise_for_status()
+        _raise_api_error(response, "get_container_status")
         status = str(response.json().get("status_code") or "").upper()
         if status in {"FINISHED", "PUBLISHED"}:
             return
@@ -108,7 +130,7 @@ def _publish_container(ig_id: str, container_id: str, token: str) -> str:
         data={"creation_id": container_id, "access_token": token},
         timeout=45,
     )
-    response.raise_for_status()
+    _raise_api_error(response, "publish_media_container")
     payload = response.json()
     media_id = payload.get("id")
     if not media_id:
