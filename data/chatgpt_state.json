@@ -4,7 +4,7 @@
   "last_publication_id": "kmx-20261004-space-apps-salta",
   "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Publisher completed Instagram publication and recorded the receipt.",
+  "note": "Pipeline reconciler confirmed the Instagram receipt and publication history.",
   "phase": "published",
   "published_at": "2026-10-04T09:19:29Z",
   "source_event_id": "05-15a2837bbc3bec6d",
