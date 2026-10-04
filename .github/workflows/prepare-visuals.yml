@@ -27,6 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -37,20 +38,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt -e .
 
+      - name: Configure Git
+        run: |
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+
       - name: Reconcile missing visual markers
         run: python -m kmxradar reconcile-pipeline
 
-      - name: Persist reconciliation state
+      - name: Persist reconciliation before rendering
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "KMX RADAR Bot"
-          git config user.email "actions@users.noreply.github.com"
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: reconcile visual pipeline"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
 
       - name: Render and validate real licensed visuals
@@ -69,22 +72,19 @@ jobs:
           state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
           state["phase"] = "visual_incomplete"
           state["last_result"] = "visual_incomplete"
-          state["note"] = "GitHub visual renderer failed. The .visualize marker is retained and the recovery loop will retry after correction."
+          state["note"] = "GitHub visual renderer failed. The persisted .visualize marker lets the scheduled recovery retry after correction."
           state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
           PY
 
-      - name: Persist visuals and Phase 2 state
+      - name: Persist visual result
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "KMX RADAR Bot"
-          git config user.email "actions@users.noreply.github.com"
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: persist visual pipeline result"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
 
       - name: Fail job after persisting visual error

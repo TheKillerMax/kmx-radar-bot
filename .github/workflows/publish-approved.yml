@@ -31,6 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -41,34 +42,35 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt -e .
 
+      - name: Configure Git
+        run: |
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+
       - name: Reconcile missing publish markers and receipts
         run: python -m kmxradar reconcile-pipeline
 
-      - name: Persist publish reconciliation
+      - name: Persist reconciliation before external publishing
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "KMX RADAR Bot"
-          git config user.email "actions@users.noreply.github.com"
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: reconcile publish pipeline"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
 
       - name: Render any legacy approved media
         run: python -m kmxradar prepare-approved
 
-      - name: Persist rendered media
+      - name: Persist media before external publishing
         shell: bash
         run: |
           set -euo pipefail
           git add approved
           if ! git diff --cached --quiet; then
             git commit -m "radar: render approved publication media"
-            git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
 
       - name: Wait for raw GitHub media propagation
@@ -79,42 +81,15 @@ jobs:
         continue-on-error: true
         run: python -m kmxradar publish-approved
 
-      - name: Persist durable receipt and publication history
+      - name: Persist receipt, history and pipeline state
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name "KMX RADAR Bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A approved data/published.json data/state.json
+          git add -A approved data
           if ! git diff --cached --quiet; then
-            git commit -m "radar: persist durable Instagram receipt"
-            for attempt in 1 2 3 4 5; do
-              if git pull --rebase origin main && git push; then
-                break
-              fi
-              git rebase --abort 2>/dev/null || true
-              if [ "$attempt" -eq 5 ]; then exit 1; fi
-              sleep $((attempt * 3))
-            done
-          fi
-
-      - name: Persist final ChatGPT state
-        if: always()
-        shell: bash
-        run: |
-          set -euo pipefail
-          git add data/chatgpt_state.json
-          if ! git diff --cached --quiet; then
-            git commit -m "radar: persist final pipeline state"
-            for attempt in 1 2 3 4 5; do
-              if git pull --rebase origin main && git push; then
-                break
-              fi
-              git rebase --abort 2>/dev/null || true
-              if [ "$attempt" -eq 5 ]; then exit 1; fi
-              sleep $((attempt * 3))
-            done
+            git commit -m "radar: persist Instagram publication result"
+            git push origin HEAD:main
           fi
 
       - name: Fail job after persisting publication error
