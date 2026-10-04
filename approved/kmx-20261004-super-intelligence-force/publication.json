@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261004-super-intelligence-force",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "01-1e285df937ef9c3d",
   "sources": [
@@ -63,6 +63,7 @@
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-04T22:27:31Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-04T22:27:31Z",
+  "approved_at": "2026-10-04T22:31:33.058Z"
 }
