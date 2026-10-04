@@ -3,7 +3,36 @@
   "caption": "La Guardia Costera de EE. UU. confirmó que los restos hallados frente a Nantucket pertenecen al avión ambulancia Gulfstream G100 que desapareció mientras volaba de Bermuda a Boston.\n\nA bordo iban seis personas: cuatro canadienses y dos ciudadanos de Bermuda.\n\nLa búsqueda seguía activa este domingo. Según la actualización más reciente de Associated Press, los equipos habían rastreado unas 2.840 millas cuadradas de océano y preparaban búsquedas con sonar en el fondo marino. Hasta esa actualización no se habían encontrado sobrevivientes.\n\nAntes de perder contacto, el piloto había declarado una emergencia y reportado problemas eléctricos. Eso describe lo ocurrido antes de la desaparición, pero no establece la causa del incidente.\n\nLa causa sigue sin determinarse oficialmente.\n\nDesliza para ver qué está confirmado, qué se está buscando y qué todavía no sabemos.\n\nFuentes: U.S. Coast Guard, Associated Press, NBC Boston y ABC News.\n\n#KMXRadar #Aviation #Nantucket #USCoastGuard #AirAmbulance",
   "created_at": "2026-10-04T10:03:00Z",
   "headline": "Hallaron restos del avión ambulancia desaparecido frente a Nantucket; sigue la búsqueda de 6 personas",
-  "images": [],
+  "images": [
+    {
+      "alt_text": "La Guardia Costera confirmó restos del Gulfstream G100 desaparecido frente a Nantucket; seis personas iban a bordo.",
+      "path": "01-que-paso.png"
+    },
+    {
+      "alt_text": "La búsqueda continúa con medios aéreos, marítimos y sonar; se habían rastreado unas 2.840 millas cuadradas.",
+      "path": "02-busqueda.png"
+    },
+    {
+      "alt_text": "A bordo viajaban cuatro ciudadanos canadienses y dos ciudadanos de Bermuda en un vuelo de transporte médico.",
+      "path": "03-a-bordo.png"
+    },
+    {
+      "alt_text": "Imagen satelital de Nantucket para ubicar la zona donde se localizaron restos del avión.",
+      "path": "04-zona.png"
+    },
+    {
+      "alt_text": "Antes de perder contacto, el piloto declaró una emergencia y reportó problemas eléctricos, sin que eso determine la causa.",
+      "path": "05-emergencia.png"
+    },
+    {
+      "alt_text": "Todavía no hay una causa oficial ni un balance final sobre las seis personas que iban a bordo.",
+      "path": "06-no-sabemos.png"
+    },
+    {
+      "alt_text": "Los equipos planean usar sonar para buscar nuevas pistas en el fondo marino mientras continúa el operativo.",
+      "path": "07-ahora.png"
+    }
+  ],
   "publication_id": "kmx-20261004-nantucket-air-ambulance",
   "ready_to_publish": false,
   "schema_version": 1,
@@ -26,5 +55,6 @@
       "url": "https://abcnews.com/US/medical-transport-airplane-missing-off-massachusetts-coast-coast/story?id=136969608"
     }
   ],
-  "status": "editorial_ready_for_visuals"
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-04T18:15:37Z"
 }
