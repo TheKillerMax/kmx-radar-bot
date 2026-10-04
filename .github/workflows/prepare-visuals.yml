@@ -4,13 +4,19 @@ on:
   push:
     paths:
       - "approved/**/.visualize"
+      - "approved/**/visuals.json"
+      - "approved/**/visual-sources.json"
+      - "approved/**/handoff.json"
+      - "data/chatgpt_state.json"
+  schedule:
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: kmx-radar-visuals
+  group: kmx-radar-main-writer
   cancel-in-progress: false
 
 jobs:
@@ -31,10 +37,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt -e .
 
-      - name: Render and validate real licensed visuals
-        run: python -m kmxradar prepare-visuals
+      - name: Reconcile missing visual markers
+        run: python -m kmxradar reconcile-pipeline
 
-      - name: Persist visuals and Phase 2 state
+      - name: Persist reconciliation state
         shell: bash
         run: |
           set -euo pipefail
@@ -42,7 +48,24 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add approved data
           if ! git diff --cached --quiet; then
-            git commit -m "radar: complete visual production"
+            git commit -m "radar: reconcile visual pipeline"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Render and validate real licensed visuals
+        run: python -m kmxradar prepare-visuals
+
+      - name: Persist visuals and Phase 2 state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add approved data
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: persist visual pipeline result"
             git pull --rebase origin main
             git push
           fi

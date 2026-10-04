@@ -4,13 +4,19 @@ on:
   push:
     paths:
       - "approved/**/.ready"
+      - "approved/**/publication.json"
+      - "approved/**/visual-qc.json"
+      - "approved/**/visual-sources.json"
+      - "data/chatgpt_state.json"
+  schedule:
+    - cron: "12,27,42,57 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: kmx-radar-publisher
+  group: kmx-radar-main-writer
   cancel-in-progress: false
 
 env:
@@ -21,7 +27,7 @@ jobs:
   publish:
     if: github.repository_owner == 'TheKillerMax'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
@@ -35,13 +41,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt -e .
 
-      - name: Render ChatGPT SVG slides to PNG
+      - name: Reconcile missing publish markers and receipts
+        run: python -m kmxradar reconcile-pipeline
+
+      - name: Persist publish reconciliation
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add approved data
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: reconcile publish pipeline"
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Render any legacy approved media
         run: python -m kmxradar prepare-approved
 
       - name: Persist rendered media
+        shell: bash
         run: |
-          git config user.name "KMX RADAR Bot"
-          git config user.email "actions@users.noreply.github.com"
+          set -euo pipefail
           git add approved
           if ! git diff --cached --quiet; then
             git commit -m "radar: render approved publication media"
@@ -55,11 +77,14 @@ jobs:
       - name: Publish first ready package
         run: python -m kmxradar publish-approved
 
-      - name: Persist receipt and publication history
+      - name: Persist receipt, history and final state
+        if: always()
+        shell: bash
         run: |
+          set -euo pipefail
           git add approved data
           if ! git diff --cached --quiet; then
-            git commit -m "radar: record approved Instagram publication"
+            git commit -m "radar: persist Instagram publication result"
             git pull --rebase origin main
             git push
           fi

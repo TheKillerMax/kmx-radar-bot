@@ -10,8 +10,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: kmx-radar-collector
-  cancel-in-progress: true
+  group: kmx-radar-main-writer
+  cancel-in-progress: false
 
 jobs:
   collect:

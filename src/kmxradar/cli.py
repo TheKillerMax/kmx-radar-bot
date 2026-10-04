@@ -8,6 +8,7 @@ from .collector import collect_package
 from .instagram import get_account
 from .media_prepare import prepare_ready_packages
 from .publication import publish_ready_packages
+from .reconcile import reconcile_pipeline
 from .token_store import load_token, refresh_token
 from .visual_phase import prepare_visual_packages
 
@@ -19,6 +20,7 @@ def main() -> int:
     sub.add_parser("prepare-approved")
     sub.add_parser("prepare-visuals")
     sub.add_parser("publish-approved")
+    sub.add_parser("reconcile-pipeline")
     sub.add_parser("check-instagram")
     sub.add_parser("refresh-token")
     args = parser.parse_args()
@@ -38,6 +40,8 @@ def main() -> int:
         return prepare_visual_packages()
     if args.command == "publish-approved":
         return publish_ready_packages()
+    if args.command == "reconcile-pipeline":
+        return reconcile_pipeline()
     if args.command == "check-instagram":
         payload = get_account(load_token())
         print(json.dumps(payload, ensure_ascii=False, indent=2))
