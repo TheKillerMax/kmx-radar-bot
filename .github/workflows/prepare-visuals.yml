@@ -54,7 +54,24 @@ jobs:
           fi
 
       - name: Render and validate real licensed visuals
+        id: render
+        continue-on-error: true
         run: python -m kmxradar prepare-visuals
+
+      - name: Record visual failure for recovery
+        if: steps.render.outcome == 'failure'
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          state_path = Path("data/chatgpt_state.json")
+          state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+          state["phase"] = "visual_incomplete"
+          state["last_result"] = "visual_incomplete"
+          state["note"] = "GitHub visual renderer failed. The .visualize marker is retained and the recovery loop will retry after correction."
+          state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
 
       - name: Persist visuals and Phase 2 state
         if: always()
@@ -69,3 +86,7 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      - name: Fail job after persisting visual error
+        if: steps.render.outcome == 'failure'
+        run: exit 1

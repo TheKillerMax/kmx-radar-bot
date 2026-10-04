@@ -25,6 +25,43 @@ def get_account(token: str | None = None) -> dict:
     return response.json()
 
 
+def find_recent_media_by_caption(
+    ig_id: str,
+    caption: str,
+    token: str,
+    limit: int = 25,
+) -> dict | None:
+    """Return a recent Instagram media item whose caption exactly matches.
+
+    This is an idempotency safety net: if Instagram accepted a prior publish
+    but GitHub failed before persisting the receipt, the next retry can recover
+    the existing media instead of publishing a duplicate.
+    """
+    cfg = editorial_config()["instagram"]
+    endpoint = f"{cfg['graph_host']}/{cfg['api_version']}/{ig_id}/media"
+    try:
+        response = requests.get(
+            endpoint,
+            params={
+                "fields": "id,caption,timestamp,media_type,permalink",
+                "limit": limit,
+                "access_token": token,
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        items = response.json().get("data") or []
+    except Exception as exc:
+        LOG.warning("Unable to run Instagram duplicate preflight: %s", exc)
+        return None
+
+    wanted = caption.strip()
+    for item in items:
+        if str(item.get("caption") or "").strip() == wanted and item.get("id"):
+            return item
+    return None
+
+
 def _media_url(relative_path: str) -> str:
     repo = os.getenv("GITHUB_REPOSITORY", "TheKillerMax/kmx-radar-bot")
     branch = os.getenv("KMX_MEDIA_BRANCH", "main")
@@ -104,6 +141,7 @@ def publish_package(package_dir: Path, manifest: dict) -> dict:
 
     root = Path(__file__).resolve().parents[2]
     images = manifest["images"]
+    caption = str(manifest["caption"])
     urls: list[str] = []
     for item in images:
         absolute = (package_dir / item["path"]).resolve()
@@ -112,10 +150,27 @@ def publish_package(package_dir: Path, manifest: dict) -> dict:
         except ValueError as exc:
             raise RuntimeError(f"Publication image must stay inside the repository: {absolute}") from exc
         url = _media_url(rel)
-        _wait_public_url(url)
         urls.append(url)
 
-    caption = str(manifest["caption"])
+    existing = find_recent_media_by_caption(ig_id, caption, token)
+    if existing:
+        LOG.warning(
+            "Recovered existing Instagram media %s by exact caption match; skipping duplicate publish.",
+            existing.get("id"),
+        )
+        return {
+            "media_id": str(existing["id"]),
+            "container_id": None,
+            "image_urls": urls,
+            "username": account.get("username"),
+            "ig_id": ig_id,
+            "recovered_existing": True,
+            "permalink": existing.get("permalink"),
+        }
+
+    for url in urls:
+        _wait_public_url(url)
+
     ai_generated = bool(manifest.get("ai_generated", True))
 
     if len(images) == 1:

@@ -75,16 +75,48 @@ jobs:
         run: sleep 15
 
       - name: Publish first ready package
+        id: publish
+        continue-on-error: true
         run: python -m kmxradar publish-approved
 
-      - name: Persist receipt, history and final state
+      - name: Persist durable receipt and publication history
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          git add approved data
+          git config user.name "KMX RADAR Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A approved data/published.json data/state.json
           if ! git diff --cached --quiet; then
-            git commit -m "radar: persist Instagram publication result"
-            git pull --rebase origin main
-            git push
+            git commit -m "radar: persist durable Instagram receipt"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              if [ "$attempt" -eq 5 ]; then exit 1; fi
+              sleep $((attempt * 3))
+            done
           fi
+
+      - name: Persist final ChatGPT state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add data/chatgpt_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: persist final pipeline state"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push; then
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              if [ "$attempt" -eq 5 ]; then exit 1; fi
+              sleep $((attempt * 3))
+            done
+          fi
+
+      - name: Fail job after persisting publication error
+        if: steps.publish.outcome == 'failure'
+        run: exit 1
