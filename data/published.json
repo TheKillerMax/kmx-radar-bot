@@ -435,6 +435,49 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "EE. UU. crea una fuerza federal para coordinar su política de inteligencia artificial",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/01-que-paso.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/02-liderazgo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/03-equipo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/04-funcion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/05-120-dias.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/06-no-cambia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-super-intelligence-force/07-que-sigue.png"
+      ],
+      "media_id": "18171987676458774",
+      "publication_id": "kmx-20261004-super-intelligence-force",
+      "published_at": "2026-10-04T22:33:43Z",
+      "source_event_id": "01-1e285df937ef9c3d",
+      "sources": [
+        {
+          "label": "Donald Trump — anuncio en Truth Social",
+          "url": "https://truthsocial.com/@realDonaldTrump"
+        },
+        {
+          "label": "The White House — encuentro sobre Super Intelligence",
+          "url": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/"
+        },
+        {
+          "label": "Reuters — anuncio, liderazgo y plazo de 120 días",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/"
+        },
+        {
+          "label": "Associated Press — confirmación independiente",
+          "url": "https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901"
+        },
+        {
+          "label": "ABC News — anuncio y alcance declarado",
+          "url": "https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122"
+        },
+        {
+          "label": "TechCrunch — composición y contexto",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }

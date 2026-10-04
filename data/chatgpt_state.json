@@ -1,13 +1,13 @@
 {
-  "last_media_id": "18121007077933175",
+  "last_media_id": "18171987676458774",
   "last_processed_generated_at": "2026-10-04T18:36:33Z",
   "last_publication_id": "kmx-20261004-super-intelligence-force",
-  "last_result": "publishing",
+  "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Pipeline reconciler created the missing publish marker after all preflight checks passed.",
+  "note": "Publisher completed Instagram publication and recorded the receipt.",
   "pending_manifest_generated_at": null,
-  "phase": "publishing",
-  "published_at": "2026-10-04T18:26:03Z",
+  "phase": "published",
+  "published_at": "2026-10-04T22:33:43Z",
   "source_event_id": "01-1e285df937ef9c3d",
   "visuals_completed_at": "2026-10-04T22:27:31Z"
 }
