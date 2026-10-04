@@ -1,8 +1,9 @@
 {
   "last_processed_generated_at": "2026-10-03T23:44:40Z",
   "last_publication_id": "kmx-20261004-space-apps-salta",
-  "last_result": "editorial_ready_for_visuals",
-  "note": "FASE 1 completed: Space Apps Salta editorial package verified complete on main; logistics must be revalidated before visual production.",
-  "phase": "editorial_ready_for_visuals",
-  "source_event_id": "05-15a2837bbc3bec6d"
+  "last_result": "visuals_ready",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "phase": "visuals_ready",
+  "source_event_id": "05-15a2837bbc3bec6d",
+  "visuals_completed_at": "2026-10-04T08:48:13Z"
 }
