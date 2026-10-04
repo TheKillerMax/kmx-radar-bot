@@ -1,0 +1,30 @@
+{
+  "event_id": "11-0ca943b8678f8afb",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVh0UzBJSFN5ZDViMXhUNVB3Z3VWZEduWjc4UzhGYUMyZXJBMjg4bklGMVAxVEZma3EwMEQxM2N2d2t1TmZiN1U4Ti1oTElrMnBrZHdyYVNveC1NeUNuZlh4T2hPNVh3WHlsY1ZrT3hva3Zkc25fUVpHNURGaHJuVkt3RVRQNGNvdFVlNjg5eWdLMWJ4bUJTN2RlUll2dG1sVkJoV3BEdkhhTWpoV3RjWllYZ3RhVTRKb1diNlNmTVBDQW5TLVdOdV93ZENwZw?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 03:30:01 GMT",
+      "primary_hint": false,
+      "excerpt": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump EL PAÍS Elecciones del Senado estadounidense: las ocho contiendas más cerradas El Nuevo Día ¿Qué dicen las encuestas a un mes de las elecciones de medio mandato de Estados Unidos? EFE - Agencia de noticias Falta solo un mes para las elecciones en EE.UU. y Trump arriesga su gobernabilidad: qué puede pasar clarin.com Los expertos del Miller Center comparten sus previsiones cavalierdaily.com"
+    }
+  ]
+}
