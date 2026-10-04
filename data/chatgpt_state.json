@@ -2,12 +2,12 @@
   "last_media_id": "18121007077933175",
   "last_processed_generated_at": "2026-10-04T18:36:33Z",
   "last_publication_id": "kmx-20261004-super-intelligence-force",
-  "last_result": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "Editorial package reconciled in main; Phase 2 visual specification prepared with real licensed sources. Awaiting renderer/QC.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "editorial_ready_for_visuals",
+  "phase": "visuals_ready",
   "published_at": "2026-10-04T18:26:03Z",
   "source_event_id": "01-1e285df937ef9c3d",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-04T22:27:31Z"
 }

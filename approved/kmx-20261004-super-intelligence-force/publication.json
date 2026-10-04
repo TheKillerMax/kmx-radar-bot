@@ -1,14 +1,42 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261004-super-intelligence-force",
-  "source_event_id": "01-1e285df937ef9c3d",
-  "created_at": "2026-10-04T21:55:00Z",
   "ai_generated": true,
-  "status": "editorial_ready_for_visuals",
-  "ready_to_publish": false,
-  "headline": "EE. UU. crea una fuerza federal para coordinar su política de inteligencia artificial",
   "caption": "Estados Unidos tiene una nueva mesa federal para coordinar su política de inteligencia artificial: Donald Trump anunció la “Super Intelligence Force” y puso al director de Inteligencia Nacional, Jay Clayton, al frente del grupo.\n\nLa administración dice que el equipo coordinará el trabajo del Gobierno federal y su relación con empresas de IA, consumidores, organizaciones de interés público, grupos religiosos y operadores de infraestructura crítica.\n\nTambién participan Andrew Ferguson, presidente de la FTC; Emil Michael, responsable tecnológico del Pentágono; y Scott Kupor, director de la Oficina de Gestión de Personal.\n\nSegún Reuters, el grupo tiene 120 días para preparar un informe sobre riesgos y oportunidades de la IA y revisar cómo responde el Gobierno a incidentes relacionados con estos sistemas.\n\nEl anuncio llega días después de una reunión en la Casa Blanca con ejecutivos tecnológicos y un acuerdo voluntario sobre seguridad de IA. La creación de esta fuerza no es, por sí sola, una nueva ley federal ni un regulador independiente.\n\nDesliza para ver qué hará el grupo, quién lo dirige y qué todavía no está definido.\n\nFuentes: anuncio de Donald Trump, Casa Blanca, Reuters, Associated Press, ABC News y TechCrunch.\n\n#KMXRadar #InteligenciaArtificial #EstadosUnidos #SuperIntelligence #Tecnologia",
-  "images": [],
+  "created_at": "2026-10-04T21:55:00Z",
+  "headline": "EE. UU. crea una fuerza federal para coordinar su política de inteligencia artificial",
+  "images": [
+    {
+      "alt_text": "Estados Unidos anunció la Super Intelligence Force para coordinar el trabajo federal sobre inteligencia artificial; la imagen es de un encuentro previo en la Casa Blanca.",
+      "path": "01-que-paso.png"
+    },
+    {
+      "alt_text": "Retrato oficial de Jay Clayton, director de Inteligencia Nacional y responsable de liderar la nueva Super Intelligence Force.",
+      "path": "02-liderazgo.png"
+    },
+    {
+      "alt_text": "Además de Jay Clayton, el grupo incluye a Andrew Ferguson, Emil Michael y Scott Kupor.",
+      "path": "03-equipo.png"
+    },
+    {
+      "alt_text": "La fuerza coordinará el trabajo federal y la relación con consumidores, grupos de interés, infraestructura crítica y empresas de inteligencia artificial.",
+      "path": "04-funcion.png"
+    },
+    {
+      "alt_text": "El grupo tiene 120 días para preparar un informe sobre riesgos, oportunidades y capacidades federales de respuesta relacionadas con la inteligencia artificial.",
+      "path": "05-120-dias.png"
+    },
+    {
+      "alt_text": "La creación de la Super Intelligence Force no equivale por sí sola a una nueva ley federal ni crea automáticamente un regulador independiente.",
+      "path": "06-no-cambia.png"
+    },
+    {
+      "alt_text": "El siguiente hito será el informe del grupo y cualquier documento oficial que detalle recomendaciones, prioridades o medidas concretas.",
+      "path": "07-que-sigue.png"
+    }
+  ],
+  "publication_id": "kmx-20261004-super-intelligence-force",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "01-1e285df937ef9c3d",
   "sources": [
     {
       "label": "Donald Trump — anuncio en Truth Social",
@@ -34,5 +62,7 @@
       "label": "TechCrunch — composición y contexto",
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
     }
-  ]
+  ],
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-04T22:27:31Z"
 }
