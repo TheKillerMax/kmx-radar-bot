@@ -4,7 +4,7 @@
   "last_publication_id": "kmx-20261004-super-intelligence-force",
   "last_result": "publishing",
   "next_publish_retry_at": null,
-  "note": "Phase 3 preflight passed: freshness rechecked, 7-image QC passed, visual rights verified, no duplicate receipt, and rate limits allow publication.",
+  "note": "Pipeline reconciler created the missing publish marker after all preflight checks passed.",
   "pending_manifest_generated_at": null,
   "phase": "publishing",
   "published_at": "2026-10-04T18:26:03Z",
