@@ -400,6 +400,41 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Hallaron restos del avión ambulancia desaparecido frente a Nantucket; sigue la búsqueda de 6 personas",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/01-que-paso.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/02-busqueda.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/03-a-bordo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/04-zona.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/05-emergencia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/06-no-sabemos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-nantucket-air-ambulance/07-ahora.png"
+      ],
+      "media_id": "18121007077933175",
+      "publication_id": "kmx-20261004-nantucket-air-ambulance",
+      "published_at": "2026-10-04T18:26:03Z",
+      "source_event_id": "07-f79bf1435b30cf54",
+      "sources": [
+        {
+          "label": "U.S. Coast Guard — parte oficial",
+          "url": "https://www.news.uscg.mil/Press-Releases/Article/4618687/coast-guard-continues-search-for-six-people-after-locating-debris-from-missing/"
+        },
+        {
+          "label": "Associated Press — actualización del 4 de octubre",
+          "url": "https://apnews.com/article/35f4da84247adcc4d91e0e7e81b3d26e"
+        },
+        {
+          "label": "Associated Press — confirmación inicial",
+          "url": "https://apnews.com/article/ccb6014ac35e2af11879e28e6c8527df"
+        },
+        {
+          "label": "NBC Boston — actualización",
+          "url": "https://www.nbcboston.com/news/local/boston-missing-plane-search-continues-coast-guard-to-provide-update/4025303/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
