@@ -138,6 +138,34 @@ def _publish_container(ig_id: str, container_id: str, token: str) -> str:
     return str(media_id)
 
 
+def _publish_or_recover(
+    ig_id: str,
+    container_id: str,
+    caption: str,
+    token: str,
+    attempts: int = 6,
+    seconds: int = 5,
+) -> tuple[str, dict | None]:
+    try:
+        return _publish_container(ig_id, container_id, token), None
+    except Exception as original_exc:
+        # Instagram can occasionally make the media visible even when the
+        # media_publish request returns an error to the client. Before treating
+        # that as a failed publication, reconcile against recent media by the
+        # exact caption. This keeps retries idempotent and avoids duplicates.
+        for _ in range(attempts):
+            existing = find_recent_media_by_caption(ig_id, caption, token)
+            if existing and existing.get("id"):
+                LOG.warning(
+                    "Recovered Instagram media %s after media_publish returned an error; "
+                    "recording the existing post instead of retrying a duplicate.",
+                    existing.get("id"),
+                )
+                return str(existing["id"]), existing
+            time.sleep(seconds)
+        raise original_exc
+
+
 def _wait_public_url(url: str, attempts: int = 10, seconds: int = 5) -> None:
     last_error: Exception | None = None
     for _ in range(attempts):
@@ -206,13 +234,15 @@ def publish_package(package_dir: Path, manifest: dict) -> dict:
             data["is_ai_generated"] = "true"
         container = _post_media(ig_id, data, token)
         wait_until_ready(container, token)
-        media_id = _publish_container(ig_id, container, token)
+        media_id, recovered = _publish_or_recover(ig_id, container, caption, token)
         return {
             "media_id": media_id,
-            "container_id": container,
+            "container_id": None if recovered else container,
             "image_urls": urls,
             "username": account.get("username"),
             "ig_id": ig_id,
+            "recovered_after_publish_error": bool(recovered),
+            "permalink": recovered.get("permalink") if recovered else None,
         }
 
     child_ids: list[str] = []
@@ -233,12 +263,14 @@ def publish_package(package_dir: Path, manifest: dict) -> dict:
         parent_data["is_ai_generated"] = "true"
     parent = _post_media(ig_id, parent_data, token)
     wait_until_ready(parent, token)
-    media_id = _publish_container(ig_id, parent, token)
+    media_id, recovered = _publish_or_recover(ig_id, parent, caption, token)
     return {
         "media_id": media_id,
-        "container_id": parent,
+        "container_id": None if recovered else parent,
         "children": child_ids,
         "image_urls": urls,
         "username": account.get("username"),
         "ig_id": ig_id,
+        "recovered_after_publish_error": bool(recovered),
+        "permalink": recovered.get("permalink") if recovered else None,
     }
