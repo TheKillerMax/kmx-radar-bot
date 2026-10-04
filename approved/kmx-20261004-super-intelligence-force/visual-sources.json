@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-04T22:20:00Z",
+  "note": "Material real y trazable. La foto de la Casa Blanca es de contexto del 29 de septiembre de 2026 y debe rotularse ARCHIVO. El retrato de Jay Clayton es imagen oficial de referencia. No se usan fotografías de agencias comerciales ni material sintético.",
+  "assets": [
+    {
+      "key": "white_house_luncheon",
+      "source_url": "https://www.whitehouse.gov/gallery/president-donald-j-trump-hosts-a-luncheon-on-super-intelligence-september-29-2026/",
+      "direct_url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1520.jpg?w=1200",
+      "original_creator": "Official White House Photo by Daniel Torok",
+      "license_or_permission": "Public domain in the United States — government-produced materials on WhiteHouse.gov are not copyright protected under the White House Copyright Policy",
+      "attribution_required": false,
+      "attribution_text": "Official White House Photo by Daniel Torok",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Fotografía del almuerzo sobre Super Intelligence del 29 de septiembre de 2026. ARCHIVO/CONTEXTO; no documenta el anuncio del 4 de octubre."
+    },
+    {
+      "key": "jay_clayton",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Jay_Clayton_(2026).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Official_portrait_of_Jay_Clayton_%282026%29.jpg",
+      "original_creator": "Office of the Director of National Intelligence",
+      "license_or_permission": "Public domain in the United States — work prepared by an officer or employee of the U.S. Federal Government as part of official duties (17 U.S.C. § 105), as documented by Wikimedia Commons",
+      "attribution_required": false,
+      "attribution_text": "Office of the Director of National Intelligence / Wikimedia Commons",
+      "local_path": "downloaded during GitHub Actions and used as official reference portrait",
+      "retrieved_at": "2026-10-04",
+      "notes": "Retrato oficial de Jay Clayton como director de Inteligencia Nacional. IMAGEN DE REFERENCIA."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "theme": {
+    "name": "federal-ai",
+    "background": "#071018",
+    "panel": "#12222D",
+    "accent": "#56D3C4",
+    "accent2": "#6FA8FF",
+    "warm": "#F4B45B",
+    "text": "#F8FAFC",
+    "muted": "#CBD5E1"
+  },
+  "sources": {
+    "white_house_luncheon": {
+      "direct_url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929DT-1520.jpg?w=1200",
+      "credit": "Official White House Photo · Daniel Torok",
+      "archive": true
+    },
+    "jay_clayton": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Official_portrait_of_Jay_Clayton_%282026%29.jpg",
+      "credit": "ODNI / Wikimedia Commons · dominio público",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-que-paso.png",
+      "photo": "white_house_luncheon",
+      "archive": true,
+      "kicker": "QUÉ ESTÁ PASANDO",
+      "title": "EE. UU. CREA UNA FUERZA FEDERAL PARA COORDINAR SU POLÍTICA DE IA",
+      "body": "Donald Trump anunció la Super Intelligence Force, un grupo que coordinará el trabajo del Gobierno federal sobre inteligencia artificial.",
+      "callout": "La foto es del encuentro previo del 29 de septiembre, no del anuncio del 4 de octubre.",
+      "footer": "Desliza: quién dirige el grupo",
+      "alt_text": "Estados Unidos anunció la Super Intelligence Force para coordinar el trabajo federal sobre inteligencia artificial; la imagen es de un encuentro previo en la Casa Blanca."
+    },
+    {
+      "n": 2,
+      "file": "02-liderazgo.png",
+      "photo": "jay_clayton",
+      "archive": true,
+      "kicker": "QUIÉN LA DIRIGE",
+      "title": "JAY CLAYTON QUEDA AL FRENTE DEL NUEVO GRUPO",
+      "body": "Clayton es el director de Inteligencia Nacional y encabezará la coordinación de la nueva fuerza federal.",
+      "callout": "El grupo reportará al presidente y a la jefa de gabinete, Susie Wiles.",
+      "footer": "Desliza: quiénes más participan",
+      "alt_text": "Retrato oficial de Jay Clayton, director de Inteligencia Nacional y responsable de liderar la nueva Super Intelligence Force."
+    },
+    {
+      "n": 3,
+      "file": "03-equipo.png",
+      "photo": "white_house_luncheon",
+      "archive": true,
+      "kicker": "QUIÉNES PARTICIPAN",
+      "title": "EL NÚCLEO REÚNE A CUATRO ALTOS FUNCIONARIOS",
+      "people": [
+        "Andrew Ferguson — presidente de la FTC",
+        "Emil Michael — tecnología del Pentágono",
+        "Scott Kupor — director de la OPM"
+      ],
+      "footer": "Desliza: qué hará la fuerza",
+      "alt_text": "Además de Jay Clayton, el grupo incluye a Andrew Ferguson, Emil Michael y Scott Kupor."
+    },
+    {
+      "n": 4,
+      "file": "04-funcion.png",
+      "photo": "white_house_luncheon",
+      "archive": true,
+      "kicker": "QUÉ HARÁ",
+      "title": "COORDINARÁ EL TRABAJO FEDERAL Y EL CONTACTO CON ACTORES EXTERNOS",
+      "body": "El mandato anunciado incluye coordinar la relación del Gobierno con varios sectores vinculados a la inteligencia artificial.",
+      "bullets": [
+        "Consumidores y grupos de interés público",
+        "Proveedores de infraestructura crítica",
+        "Empresas de inteligencia artificial"
+      ],
+      "footer": "Desliza: el primer plazo concreto",
+      "alt_text": "La fuerza coordinará el trabajo federal y la relación con consumidores, grupos de interés, infraestructura crítica y empresas de inteligencia artificial."
+    },
+    {
+      "n": 5,
+      "file": "05-120-dias.png",
+      "photo": "jay_clayton",
+      "archive": true,
+      "kicker": "PRIMER PLAZO",
+      "title": "EL GRUPO TIENE UN HORIZONTE DE 120 DÍAS PARA SU PRIMER INFORME",
+      "stat": "120 días",
+      "stat_label": "para preparar un informe sobre riesgos, oportunidades y respuesta federal",
+      "body": "Reuters informó que el trabajo también revisará cómo responde el Gobierno a incidentes relacionados con estos sistemas.",
+      "footer": "Desliza: qué no cambia automáticamente",
+      "alt_text": "El grupo tiene 120 días para preparar un informe sobre riesgos, oportunidades y capacidades federales de respuesta relacionadas con la inteligencia artificial."
+    },
+    {
+      "n": 6,
+      "file": "06-no-cambia.png",
+      "photo": "white_house_luncheon",
+      "archive": true,
+      "kicker": "QUÉ NO CAMBIA",
+      "title": "CREAR LA FUERZA NO CAMBIA LA LEY POR SÍ SOLO",
+      "body": "El anuncio no crea automáticamente una nueva ley federal de inteligencia artificial ni un regulador independiente.",
+      "callout": "Cualquier cambio regulatorio dependerá de decisiones posteriores.",
+      "footer": "Desliza: qué sigue",
+      "alt_text": "La creación de la Super Intelligence Force no equivale por sí sola a una nueva ley federal ni crea automáticamente un regulador independiente."
+    },
+    {
+      "n": 7,
+      "file": "07-que-sigue.png",
+      "photo": "jay_clayton",
+      "archive": true,
+      "kicker": "QUÉ SIGUE",
+      "title": "EL PRÓXIMO HITO ES EL INFORME Y CUALQUIER DOCUMENTO OFICIAL POSTERIOR",
+      "body": "El alcance real del grupo se podrá evaluar cuando publique recomendaciones, prioridades y medidas concretas.",
+      "sources": [
+        "Casa Blanca",
+        "Reuters",
+        "Associated Press"
+      ],
+      "footer": "Seguiremos actualizando esta historia",
+      "alt_text": "El siguiente hito será el informe del grupo y cualquier documento oficial que detalle recomendaciones, prioridades o medidas concretas."
+    }
+  ]
+}
