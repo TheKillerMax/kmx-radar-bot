@@ -139,10 +139,24 @@ def publish_ready_packages() -> int:
         LOG.info("No approved directory.")
         return 0
 
-    ready_dirs = sorted({p.parent for p in APPROVED_DIR.glob("*/.ready")})
-    if not ready_dirs:
+    all_ready_dirs = sorted({p.parent for p in APPROVED_DIR.glob("*/.ready")})
+    if not all_ready_dirs:
         LOG.info("No .ready publication packages.")
         return 0
+
+    pipeline_state = read_json(CHATGPT_STATE_FILE, {})
+    current_id = str(pipeline_state.get("last_publication_id") or "")
+    if current_id:
+        ready_dirs = [p for p in all_ready_dirs if p.name == current_id]
+        if not ready_dirs:
+            LOG.warning(
+                "Ignoring %d stale .ready marker(s); current publication is %s",
+                len(all_ready_dirs),
+                current_id,
+            )
+            return 0
+    else:
+        ready_dirs = all_ready_dirs
 
     allowed, limit_reason, retry_at = _rate_limit_status()
     if not allowed:

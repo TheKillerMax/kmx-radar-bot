@@ -77,3 +77,29 @@ def test_reconcile_does_not_create_ready_without_qc(tmp_path, monkeypatch):
 
     assert reconcile.reconcile_publish_markers() == 0
     assert not (package / ".ready").exists()
+
+
+def test_reconcile_ignores_noncurrent_ready_candidate(tmp_path, monkeypatch):
+    approved = tmp_path / "approved"
+    data = tmp_path / "data"
+    stale = approved / "stale-package"
+    stale.mkdir(parents=True)
+    _write(stale / "publication.json", {
+        "schema_version": 1,
+        "publication_id": "stale-package",
+        "ready_to_publish": True,
+        "status": "VERIFICADO",
+        "headline": "Viejo",
+        "caption": "Texto #KMXRadar #Tema #Lugar",
+        "images": [],
+        "sources": [{"url": "https://example.org", "label": "Fuente"}],
+    })
+    _write(data / "chatgpt_state.json", {
+        "last_publication_id": "current-package",
+        "phase": "publishing",
+    })
+    monkeypatch.setattr(reconcile, "APPROVED_DIR", approved)
+    monkeypatch.setattr(reconcile, "CHATGPT_STATE_FILE", data / "chatgpt_state.json")
+
+    assert reconcile.reconcile_publish_markers() == 0
+    assert not (stale / ".ready").exists()

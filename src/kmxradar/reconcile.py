@@ -101,7 +101,10 @@ def reconcile_visual_markers() -> int:
     if not APPROVED_DIR.exists():
         return 0
 
+    current_id = str(read_json(CHATGPT_STATE_FILE, {}).get("last_publication_id") or "")
     for package_dir in sorted(p for p in APPROVED_DIR.iterdir() if p.is_dir()):
+        if current_id and package_dir.name != current_id:
+            continue
         if (package_dir / ".published.json").exists() or (package_dir / ".visualize").exists():
             continue
         manifest_path = package_dir / "publication.json"
@@ -148,7 +151,10 @@ def reconcile_publish_markers() -> int:
     if not APPROVED_DIR.exists():
         return 0
 
+    current_id = str(read_json(CHATGPT_STATE_FILE, {}).get("last_publication_id") or "")
     for package_dir in sorted(p for p in APPROVED_DIR.iterdir() if p.is_dir()):
+        if current_id and package_dir.name != current_id:
+            continue
         if (package_dir / ".published.json").exists() or (package_dir / ".ready").exists():
             continue
         manifest_path = package_dir / "publication.json"
