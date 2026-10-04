@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-04T18:15:00Z",
+  "note": "Material real y trazable. Las imágenes son de archivo o referencia y no muestran el accidente actual, salvo que se indique expresamente. Deben rotularse ARCHIVO o IMAGEN DE REFERENCIA.",
+  "assets": [
+    {
+      "key": "g100",
+      "source_url": "https://commons.wikimedia.org/wiki/File:4X-WIA_Gulfstream_G100_(21623378556).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/4X-WIA_Gulfstream_G100_%2821623378556%29.jpg",
+      "original_creator": "Tony Hisgett",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Tony Hisgett / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as reference imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Gulfstream G100 de referencia. No es la aeronave C-GJRP del incidente. IMAGEN DE REFERENCIA."
+    },
+    {
+      "key": "uscg_air",
+      "source_url": "https://commons.wikimedia.org/wiki/File:USCG_MH-60_Jayhawk_helicopter.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USCG_MH-60_Jayhawk_helicopter.jpg",
+      "original_creator": "U.S. Coast Guard / Petty Officer 2nd Class Ryan Noel",
+      "license_or_permission": "Public domain in the United States — work of a U.S. Coast Guard employee made as part of official duties",
+      "attribution_required": false,
+      "attribution_text": "U.S. Coast Guard / Petty Officer 2nd Class Ryan Noel",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Helicóptero MH-60 Jayhawk de la Guardia Costera fotografiado en 2024. ARCHIVO; no muestra el operativo actual."
+    },
+    {
+      "key": "nantucket_space",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nantucket_from_space.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nantucket_from_space.jpg",
+      "original_creator": "Terraprints.com; raw imagery NASA and/or U.S. Geological Survey",
+      "license_or_permission": "Creative Commons Attribution 2.5 Generic (CC BY 2.5), permission confirmed via Wikimedia VRT",
+      "attribution_required": true,
+      "attribution_text": "Terraprints.com / Wikimedia Commons — CC BY 2.5",
+      "local_path": "downloaded during GitHub Actions and used as archive/context imagery",
+      "retrieved_at": "2026-10-04",
+      "notes": "Imagen satelital de Nantucket de 2006. ARCHIVO; sirve para ubicar la zona."
+    }
+  ]
+}

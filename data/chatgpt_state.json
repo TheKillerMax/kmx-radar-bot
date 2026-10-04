@@ -2,10 +2,10 @@
   "last_media_id": null,
   "last_processed_generated_at": "2026-10-04T09:37:46Z",
   "last_publication_id": "kmx-20261004-nantucket-air-ambulance",
-  "last_result": "visual_incomplete",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Phase 2 recovery found no visuals.json, visual-sources.json, visual-qc.json or .visualize for the pending Nantucket package, and no phase2-* branch for this publication. The primary Visual Production task was re-enabled to regenerate Phase 2 from the verified editorial handoff; no .ready was created.",
-  "phase": "visual_incomplete",
+  "note": "Manual recovery succeeded: Nantucket story revalidated on Oct. 4, complete licensed visual package prepared on main, ready for Phase 2 renderer.",
+  "phase": "editorial_ready_for_visuals",
   "published_at": null,
   "source_event_id": "07-f79bf1435b30cf54",
   "visuals_completed_at": null

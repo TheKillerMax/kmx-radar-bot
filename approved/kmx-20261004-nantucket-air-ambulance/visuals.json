@@ -1,0 +1,124 @@
+{
+  "theme": {
+    "name": "search-and-rescue",
+    "background": "#08131C",
+    "panel": "#102736",
+    "accent": "#35D4D0",
+    "accent2": "#7DB6FF",
+    "warm": "#FFB451",
+    "text": "#F7FAFC",
+    "muted": "#C7D4DE"
+  },
+  "sources": {
+    "g100": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/4X-WIA_Gulfstream_G100_%2821623378556%29.jpg",
+      "credit": "Tony Hisgett / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    },
+    "uscg_air": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/USCG_MH-60_Jayhawk_helicopter.jpg",
+      "credit": "U.S. Coast Guard / Ryan Noel",
+      "archive": true
+    },
+    "nantucket_space": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nantucket_from_space.jpg",
+      "credit": "Terraprints.com / Wikimedia Commons · CC BY 2.5",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-que-paso.png",
+      "photo": "g100",
+      "archive": true,
+      "kicker": "QUÉ ESTÁ PASANDO",
+      "title": "HALLARON RESTOS DEL AVIÓN AMBULANCIA DESAPARECIDO",
+      "body": "La Guardia Costera confirmó que los restos frente a Nantucket pertenecen al Gulfstream G100 que volaba de Bermuda a Boston.",
+      "stat": "6 personas",
+      "stat_label": "iban a bordo",
+      "footer": "Desliza: qué sabemos hasta ahora",
+      "alt_text": "La Guardia Costera confirmó restos del Gulfstream G100 desaparecido frente a Nantucket; seis personas iban a bordo."
+    },
+    {
+      "n": 2,
+      "file": "02-busqueda.png",
+      "photo": "uscg_air",
+      "archive": true,
+      "kicker": "LA BÚSQUEDA",
+      "title": "LOS EQUIPOS SIGUEN BUSCANDO A LAS 6 PERSONAS",
+      "body": "La operación incluye aeronaves, barcos y equipos para revisar el fondo marino.",
+      "stat": "2.840 mi²",
+      "stat_label": "de océano rastreadas según la actualización más reciente",
+      "footer": "Desliza: quiénes iban a bordo",
+      "alt_text": "La búsqueda continúa con medios aéreos, marítimos y sonar; se habían rastreado unas 2.840 millas cuadradas."
+    },
+    {
+      "n": 3,
+      "file": "03-a-bordo.png",
+      "photo": "g100",
+      "archive": true,
+      "kicker": "QUIÉNES VIAJABAN",
+      "title": "CUATRO CANADIENSES Y DOS PERSONAS DE BERMUDA",
+      "body": "El avión realizaba un vuelo de transporte médico desde Bermuda hacia Boston.",
+      "callout": "Hasta la última actualización no se habían encontrado sobrevivientes.",
+      "footer": "Desliza: dónde ocurrió",
+      "alt_text": "A bordo viajaban cuatro ciudadanos canadienses y dos ciudadanos de Bermuda en un vuelo de transporte médico."
+    },
+    {
+      "n": 4,
+      "file": "04-zona.png",
+      "photo": "nantucket_space",
+      "archive": true,
+      "kicker": "DÓNDE",
+      "title": "LOS RESTOS FUERON LOCALIZADOS FRENTE A NANTUCKET",
+      "body": "Nantucket es una isla de Massachusetts en el Atlántico, al sureste de Cape Cod.",
+      "callout": "La búsqueda también se está extendiendo al fondo marino.",
+      "footer": "Desliza: qué pasó antes de perder contacto",
+      "alt_text": "Imagen satelital de Nantucket para ubicar la zona donde se localizaron restos del avión."
+    },
+    {
+      "n": 5,
+      "file": "05-emergencia.png",
+      "photo": "g100",
+      "archive": true,
+      "kicker": "ANTES DE DESAPARECER",
+      "title": "EL PILOTO DECLARÓ UNA EMERGENCIA",
+      "body": "El audio de control aéreo citado por AP y NBC indica que se reportaron problemas eléctricos antes de perder contacto.",
+      "callout": "Eso no determina por sí solo la causa del incidente.",
+      "footer": "Desliza: qué sigue sin saberse",
+      "alt_text": "Antes de perder contacto, el piloto declaró una emergencia y reportó problemas eléctricos, sin que eso determine la causa."
+    },
+    {
+      "n": 6,
+      "file": "06-no-sabemos.png",
+      "photo": "uscg_air",
+      "archive": true,
+      "kicker": "QUÉ NO SABEMOS",
+      "title": "LA CAUSA TODAVÍA NO ESTÁ DETERMINADA",
+      "bullets": [
+        "No hay una causa oficial confirmada.",
+        "No hay un balance final sobre los seis ocupantes.",
+        "Las hipótesis sobre clima o instrumentos siguen sin ser conclusiones oficiales."
+      ],
+      "footer": "Desliza: qué puede pasar ahora",
+      "alt_text": "Todavía no hay una causa oficial ni un balance final sobre las seis personas que iban a bordo."
+    },
+    {
+      "n": 7,
+      "file": "07-ahora.png",
+      "photo": "nantucket_space",
+      "archive": true,
+      "kicker": "QUÉ PUEDE PASAR AHORA",
+      "title": "EL SONAR PUEDE DAR NUEVAS PISTAS EN EL FONDO MARINO",
+      "body": "La búsqueda continúa y las autoridades pueden actualizar el área rastreada, el estado de los ocupantes y la investigación.",
+      "sources": [
+        "U.S. Coast Guard",
+        "Associated Press",
+        "NBC Boston"
+      ],
+      "footer": "Seguiremos actualizando esta historia",
+      "alt_text": "Los equipos planean usar sonar para buscar nuevas pistas en el fondo marino mientras continúa el operativo."
+    }
+  ]
+}
