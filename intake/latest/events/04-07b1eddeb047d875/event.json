@@ -1,0 +1,40 @@
+{
+  "event_id": "04-07b1eddeb047d875",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Jennifer Lawrence protagonizará 'The Flood', la próxima cinta de terror de Zach Cregger - eCartelera",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "ecartelera.com",
+    "imdb.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Jennifer Lawrence protagonizará 'The Flood', la próxima cinta de terror de Zach Cregger - eCartelera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGFhN28zR1B4WGJ1bFk3NkxnTW40bVh4c09qU3VSMTVBRS05cDkxVWJlclhnTldSS1ZpN2ZFb2k4V0xZM24xSTlfYVpHeWhqVVJtY0oyVG1mSW83Qi1DenA3alB3c2tXWUFuNWNUY2VQQzUyNkFBdXJ5RE1UY0RSTWkwSmNZS3RYNG5TVURmZVlJRkU2TklmZThDWTRpZw?oc=5",
+      "domain": "ecartelera.com",
+      "publisher": "eCartelera",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 11:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Jennifer Lawrence protagonizará 'The Flood', la próxima cinta de terror de Zach Cregger eCartelera"
+    },
+    {
+      "title": "Jennifer Lawrence liderará ‘The Flood’, la nueva incursión de Zach Cregger en el terror - imdb.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qTTh1RHowQmxtcC11UU9qNGdNSGliNTZqUEI0ZEJaV1dEVXh6Z3ZaZ3VQS1UzMWxwOTA2RXgxWVhxaDlZMUJXQ2huZkI0dko1TFdHSVdReGlTQ1pyTUw2Q2tJeEo?oc=5",
+      "domain": "imdb.com",
+      "publisher": "imdb.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 19:44:36 GMT",
+      "primary_hint": false,
+      "excerpt": "Jennifer Lawrence liderará ‘The Flood’, la nueva incursión de Zach Cregger en el terror imdb.com"
+    }
+  ]
+}

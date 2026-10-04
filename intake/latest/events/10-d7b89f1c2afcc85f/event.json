@@ -1,0 +1,30 @@
+{
+  "event_id": "10-d7b89f1c2afcc85f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Gobierno de Yemen, respaldado por Arabia Saudita, anuncia una gran ofensiva contra los hutíes apoyados por Irán - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Gobierno de Yemen, respaldado por Arabia Saudita, anuncia una gran ofensiva contra los hutíes apoyados por Irán - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYU1JNTB5ZkFMdDZ4dXZvQUUwZ1gtcFdxcGpmdGlGUmVST2lzcDF5TVprckVXZTFPdVNOVXJfWWI4dkh1NFVXMFljSFBQek5ib2Y5U0w4c1RLRkZ2Y25oZjBYVmhJaGdaalEtRHZjNEg3UnlHVnNEVVNGWVUwMmFEUzlGWnY1WDU1TE9Jd09R?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 14:23:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Gobierno de Yemen, respaldado por Arabia Saudita, anuncia una gran ofensiva contra los hutíes apoyados por Irán CNN en Español Gobierno de Yemen anuncia gran ofensiva contra los hutíes AP News Hallan a más de 70 personas fallecidas en menos de 24 horas en una provincia; ¿qué está pasando? El Heraldo de México Yemen anuncia operación para recuperar el territorio controlado por los hutíes RFI Yemen: Las fuerzas gubernamentales reivindican 97 ataques contra posiciones hutíes. Agenzia Nova"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+# Moderate mag. 4.1 earthquake - North Pacific Ocean, 73 km southwest of Cuajinicuilapa, Mexico, on Sunday, Oct 4, 2026, at 04:09 am (GMT -7) - volcanodiscovery.com
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTUtdjRKZXVKTlVrTl9KR3haaU1KY05NVmlNNFFEVktPMVJsYVJyaHkza3ZNSFlldm5GbXMzREczNm01cjQ2UEw0WjF3S0Fsd291T0R6RUdORDVkUzhLNHR4TWZPUHRJZGZXLU9tVFp5b2VqQlBkTzNYQlZ5MHFQUXJCOHlVNnJHLTV3MDBJdzBZRzVPcmI4ME5udmJhT1BRUXRCd1FB?oc=5
+- Título: Light mag. 3.5 earthquake - 25 km southeast of Tingo Maria, Departamento de Huanuco, Peru, on Sunday, Oct 4, 2026, at 04:08 pm (GMT -5) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 21:08:00 GMT
+
+Light mag. 3.5 earthquake - 25 km southeast of Tingo Maria, Departamento de Huanuco, Peru, on Sunday, Oct 4, 2026, at 04:08 pm (GMT -5) volcanodiscovery.com
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEQxRDhjLWdNTWRtMXNZZTE4MEZLTnl4bURwaXRLMW5YSzZCdTVud3ZzVm5CWXJ1SmN1SHpzZEU4VFhmalhMUE1NVU9lUUM2LVlXZlMxZTNpT3Exd28tSng2Z21HV3hUbk5BQmNBRlBlcmxneVFaMWhiOGtycWtObF9ZZ2h0QVkxSVU1Mko3Q0x6WUVEaEo1QmZlanJFamdvRXJXTVJKR3pPT3JSeV9ERFBGaWNKdnBFTWRXWm5Ic0NHay0zQVktLXM1dw?oc=5
+- Título: Moderate mag. 4.4 earthquake - North Pacific Ocean, 93 km south of Acajutla, El Salvador, on Sunday, Oct 4, 2026, at 05:36 pm (GMT -6) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 23:36:28 GMT
+
+Moderate mag. 4.4 earthquake - North Pacific Ocean, 93 km south of Acajutla, El Salvador, on Sunday, Oct 4, 2026, at 05:36 pm (GMT -6) volcanodiscovery.com
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWN1UUIxcXMtQkNGcjZraG1PT05BRkNPMm54WThhbGo4RnBCRWpHWjQycURjSmJObFZza2F2U29RTHRmWWt4S0RCcWdzZ3dkVFA4S0t6ejdkLUFydlJvUXZvOVRMTXRtUWJKSXcwUy1nVFloWHk5VDBaWUNGS2dQZ2JyaWZuU0Jjc0w5T1hxcUwyY3dSWXNOSXp3SEFFajNwY0ppa0dSSzlYMzEy?oc=5
+- Título: Light mag. 3.4 earthquake (unconfirmed) - Northern Colombia on Sunday, Oct 4, 2026, at 08:35 am (GMT -5) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 14:00:06 GMT
+
+Light mag. 3.4 earthquake (unconfirmed) - Northern Colombia on Sunday, Oct 4, 2026, at 08:35 am (GMT -5) volcanodiscovery.com
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUJKeTlPSEpzYXB0LWVuMjdaeTBvbU1vc25NWHVRX1Y2Yi00SzQ3Y2ExT2x6eS16RmFwYXNoX3NEaVhXRTloWjVCaHVwU1hUYzdwT1dHN2puUWpfRkprMmxBcTc0dm50ZmcxbVpJWFR1d2dJQjNSd0tyam1VQVllVUpMWUdqVl9jaTZPOWJuZ3BtSGh4YkNlc09yZUtxLVFtTnlSdGdHZXZqdnRZaGthVzdxX3ZuX3NJaTRB?oc=5
+- Título: Moderate mag. 4.1 earthquake - North Pacific Ocean, 73 km southwest of Cuajinicuilapa, Mexico, on Sunday, Oct 4, 2026, at 04:09 am (GMT -7) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 11:34:35 GMT
+
+Moderate mag. 4.1 earthquake - North Pacific Ocean, 73 km southwest of Cuajinicuilapa, Mexico, on Sunday, Oct 4, 2026, at 04:09 am (GMT -7) volcanodiscovery.com
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWFZVlRtMmNRNG1ZOHZpemxNX1VsbzNXMkM4akdkZFlEdFN2amFRaTJwaGtEY1kyalUzSExlOU1LQXhRcldXbkJxYnlNeVZXN2x5SDdrajRGOTJoQ0FwQlFkcW1pU0doaUlGVXFXaDJNQ1ZVMjJqVnBSelZFT1VGWkd5WnFhUmluQWNHS1BDNFc4anBvaTRtTG1LMi1USzUtaFk4Z0JYR1JuLWRk?oc=5
+- Título: Light mag. 3.4 earthquake (unconfirmed) - 49 km southeast of Pamplona, Departamento de Norte de Santander, Colombia, on Sunday, Oct 4, 2026, at 11:19 am (GMT -5) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 16:14:39 GMT
+
+Light mag. 3.4 earthquake (unconfirmed) - 49 km southeast of Pamplona, Departamento de Norte de Santander, Colombia, on Sunday, Oct 4, 2026, at 11:19 am (GMT -5) volcanodiscovery.com
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekRQTW1leGtrbXlJRkw5V0tFbXl1TjZWQmJEQURpOHpNczc0QkZibktrUDZLOHZZdktocHR6MW9tOTB1WDVuT2VhVTBSclRteU12alpveXFlSmlrVVRicTBXcVduS3dzM1pXTHFYZy1JSzVOZ1FxWXQ1X2pSZGRlZlBkYUJUczVhWnI4UnZDZmZjUXNySUp5WnJ3ZmtFMlp6TklFeVVEODFYc0ZqUlhOTjlnUDRod0VGa0VwWUM0ZDIybEQ2Wk5VRV9BU0xLdG9wcjZHTmxHaFlKeE83?oc=5
+- Título: Strong mag. 5.0 earthquake - North Pacific Ocean, Panama, on Sunday, Oct 4, 2026, at 09:06 am (GMT -5) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 14:19:37 GMT
+
+Strong mag. 5.0 earthquake - North Pacific Ocean, Panama, on Sunday, Oct 4, 2026, at 09:06 am (GMT -5) volcanodiscovery.com
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlZTXzZ5bVhldHdENy1Pb2pmSmxsUzN4M1l4WGFWdms3cXE4S29uQ0Q5NTBsWU54SWg5SjlSdGwwLVZzUkZ4eGpQUnRrTlljT3BrX3kxclB0ZWRzZ3BUaFBqNE5fRHZXWUhfX1Bta05vMTcxdl96dEYtOTQwcnVIeWdaUExWTVU4cEE3cmo2RmlSNHpVQUM2MUNQTXEwZjZtc0RTdThKNW0?oc=5
+- Título: Moderate mag. 4.2 earthquake - 277 km southwest of Potosi, Departamento de Potosi, Bolivia, on Sunday, Oct 4, 2026, at 08:07 am (La Paz time) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 12:24:43 GMT
+
+Moderate mag. 4.2 earthquake - 277 km southwest of Potosi, Departamento de Potosi, Bolivia, on Sunday, Oct 4, 2026, at 08:07 am (La Paz time) volcanodiscovery.com
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTczMi1Rdm5PajhIQVlucWRnYnQybEY4YXZ4Nm9XVGhUMWlLekJybURPNVZ1TjlFQkV1a1g3bkpVTnNBbXBwUnhxbFEtb3FycTJaSVd0Z3EyMjBiTl9xbkN1dEU3MkNwcE9DLU5qTEp4M2djei1ROUZnbTJPWTByYi1NYWFmaFpCekZFV2RwbEFwal9hVUdfSklRWmh6TDBJaFBpVnMwSWhMZTV4VnBVQldaVDlJcUZSMmktY1c0MXU?oc=5
+- Título: Moderate mag. 4.3 earthquake - Provincia del Guayas, 46 km northwest of Machala, Provincia de El Oro, Ecuador, on Sunday, Oct 4, 2026, at 03:57 am (Guayaquil time) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 09:10:45 GMT
+
+Moderate mag. 4.3 earthquake - Provincia del Guayas, 46 km northwest of Machala, Provincia de El Oro, Ecuador, on Sunday, Oct 4, 2026, at 03:57 am (Guayaquil time) volcanodiscovery.com
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVVlYV9naHdiVjhJcUtQemRYVW9teTgtYnRGd2FYYVo4VHh6TFZ3V0QtY1c2dloyblRuQTE2dWNHcVNZSUc2RFplekJqRERoME1NWVNBeHVhVGJzZy05X09fVWZPTVBZSFd3UmhNdXV6WWo3aDRzajVGUWNsa0c1NVA3VXVjZ2U0aDE3YUFwV3J4elUxZFNsUllSTWZhWXVRWXV0aHpVdUVLTDV0cW91NEpzWjk?oc=5
+- Título: Moderate mag. 4.0 earthquake (unconfirmed) - North Pacific Ocean, 68 km south of Escuintla, Guatemala, on Sunday, Oct 4, 2026, at 06:00 am (GMT -6) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 12:41:24 GMT
+
+Moderate mag. 4.0 earthquake (unconfirmed) - North Pacific Ocean, 68 km south of Escuintla, Guatemala, on Sunday, Oct 4, 2026, at 06:00 am (GMT -6) volcanodiscovery.com
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmVpektjREhRd3M2MHYxWk8tX3N4T2J2b3EwTzlQV3l6Y3pjMG5zMzBjb1hXTVZLSWlVNlF3UnlKaUtFbERlVmlGTjdlVVZIbDI4VTFFRUpGdHlheFFpa0FOUU12bUdjc0VWTmlrUC0yV2hhT1RLVHNIYkJZbGhkc1dhRmtXN1ItQzB5T0h3SVJmcWl3dGVESEo1bHNDVW1ud1BNdENWdF83SDZlbEJicmpLYlc4c0swY3c?oc=5
+- Título: Moderate mag. 4.2 earthquake - North Pacific Ocean, 187 km southwest of Mapastepec, Estado de Chiapas, Mexico, on Saturday, Oct 3, 2026, at 08:14 pm (GMT -6) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 01:44:50 GMT
+
+Moderate mag. 4.2 earthquake - North Pacific Ocean, 187 km southwest of Mapastepec, Estado de Chiapas, Mexico, on Saturday, Oct 3, 2026, at 08:14 pm (GMT -6) volcanodiscovery.com
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOSG5ucm9hMzUtTUhvUkRYc0RZdDdlVkItdUI4eTBERVpERTBQVXNVSnRIQU9QaFgyWnhuSkV5Ty1MUGF6Q0t6MDB3ZkhvQTNDQnVoQV9SZzNJUnJpOFdCdnFfOHlhdXExblRUcHdsanNLRFpjUWhEcE5qRERudkkwTmVzem5FMVpvbFVqSTRIZ2RScVhYa05GbUJWQXA1WFBxNWg5VHZGdGhrX2RUdFNwSjFWZXJkeVRLQm9RWkgtNkhyUTMzT2tXa25hdw?oc=5
+- Título: Moderate mag. 4.2 earthquake - North Pacific Ocean, 69 km southwest of Puerto El Triunfo, El Salvador, on Sunday, Oct 4, 2026, at 12:27 am (GMT -6) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 06:41:32 GMT
+
+Moderate mag. 4.2 earthquake - North Pacific Ocean, 69 km southwest of Puerto El Triunfo, El Salvador, on Sunday, Oct 4, 2026, at 12:27 am (GMT -6) volcanodiscovery.com
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFNTUTNSdy01c0lvMTN3bDNtQ3J1Q1FlUWl1MTdsME5mMHROdVA3MDRsRXo1VkRwbkxXemg5al9CWTBBVmhlaTVmaUllRHNwbWJhb2FIWU5oOFRIRmRJV1FxVUxOeFRzTDJlU1JmM2kwLV9SMlVQTXBlWHpjcEZPSEREX1BiSHVtYWlOS3hGSmtFaTB2TlJ6S0xGMTE2bmdENTJFYVdPZ3gxTl9PdWtMakcyZ0xTRnluU3dtWnJCbEJINnZHMGFOUUdsV0haVVdi?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 143 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 4, 2026, at 02:03 am (GMT -6) - volcanodiscovery.com
+- Fecha detectada: Sun, 04 Oct 2026 08:14:52 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 143 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 4, 2026, at 02:03 am (GMT -6) volcanodiscovery.com

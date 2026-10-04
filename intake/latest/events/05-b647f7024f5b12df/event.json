@@ -1,0 +1,40 @@
+{
+  "event_id": "05-b647f7024f5b12df",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Cuántos pasos hay que caminar por día: las recomendaciones científicas y los beneficios para la salud - Portuguesa Reporta",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "noticiasdebariloche.com.ar",
+    "portuguesareporta.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Cuántos pasos hay que caminar por día: las recomendaciones científicas y los beneficios para la salud - Portuguesa Reporta",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUFVU29kclFsN0lBNHY3cV9yX3ltaWZpN2ZNWG9aN1hwQzBVaHNMLUVZY2xMNUhTbXNSZFRJY2I1Q2FaNVV5TGtUcDZSakZsVExUd2tJbXc3N29OcUVNaFZKLWVSSGtjdmlncjZiWTJtOGgxZUFGQV9UU1pVVTY3RVlKelRhSXJjNXJYdDdKdGh5SUlfUEpCSC1GWUtJWkxVdlNTeFZVRVVGcU1vd0ljM1V4eUNnZW0yUTZHczNlUElJRWhWMi1kOVY1TXB3QUJLRG1R?oc=5",
+      "domain": "portuguesareporta.com",
+      "publisher": "Portuguesa Reporta",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 22:58:29 GMT",
+      "primary_hint": false,
+      "excerpt": "Cuántos pasos hay que caminar por día: las recomendaciones científicas y los beneficios para la salud Portuguesa Reporta"
+    },
+    {
+      "title": "Cuántos pasos hay que caminar por día: las recomendaciones científicas y los beneficios para la salud - noticiasdebariloche.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2w0Y0NkalJFOGtNM0F3VHFUSHJfUXFtMmFBSk1oX1BmRTlzUjRjV1NYRF9YZ3N6LUpxSFNQaVNONEF6ZXpiVHMyQ0xobk1wcFFuZWdkX0pJc01yeGRoWV84MXVSVUZoanNhOWZNbkR3MHdFOWJ3Y3FkOHdVOXJUd05QbWk2S2RYZGF4c2dOWmpIZVNTSV9UbzlPMURXM2FsNXFNNkt4b19uMEF2VkNyOFktWHVCSjJaRG5pZndTeHIzVzN2T3JFdlhtNEx5MzJySXJjMjVMVFhPZDhw0gHcAUFVX3lxTE1XbDRjQ2RqUkU4a00zQXdUcVRIcl9RcW0yYUFKTWhfUGZFOXNSNGNXU1hEX1hnc3otSnFIU1BpU040QXplemJUczJDTGhuTXBwUW5lZ2RfSklzTXJ4ZGhZXzgxdVJVRmhqc2E5Zk1uRHcwd0U5YndjcWQ4d1U5clR3TlBtaTZLZFhkYXhzZ05aakhlU1NJX1RvOU8xRFczYWw1cU02S3hvX24wQXZWQ3I4WS1YdUJKMlpEbmlmd1N4cjNXM3ZPckV2WG00THkzMnJJcmMyNUxUWE9kOHA?oc=5",
+      "domain": "noticiasdebariloche.com.ar",
+      "publisher": "noticiasdebariloche.com.ar",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 18:11:04 GMT",
+      "primary_hint": false,
+      "excerpt": "Cuántos pasos hay que caminar por día: las recomendaciones científicas y los beneficios para la salud noticiasdebariloche.com.ar"
+    }
+  ]
+}

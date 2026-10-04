@@ -2,9 +2,9 @@
 
 - Categoría: TECH
 - Riesgo: low
-- Estado de entrada: SIN CONFIRMAR
+- Estado de entrada: EN DESARROLLO
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 3
+- Dominios independientes detectados: 4
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -17,7 +17,7 @@
 Donald Trump Creates Super Intelligence Force to Lead U.S. AI Strategy; Who Is Jay Clayton? Revista Merca2.0
 
 ### Fuente 2: negocios.com
-- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVWTTE0WkhiT0RQam81V2ZWYmxxS0h5bUgydVNwNU9XZXM5RGE1dGROZWpqV2JnT2IxYTJhZ21PckFJZVNZRXRYdXZBSmdnQnJybFdjYU5kMkdzWm81Z2R2dHpob3ZuNlhiUVNyNGtKOU9HVWg1YjIwa2lZdEI4RE82ajZrN1U0S1habE4yNWJDRWRnWEptZXE1SDljY3lhdW1xWlZHNXJUSlV1d1dN?oc=5
+- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGY0Z2NBZVFoM2xncGl6Yk8wdWtmUmhrb2xIeEpodGlZX3VuWjVpaGlNR1JLYTdpZ21yQVIwRkczSVJGZnNDUTJmQ2tkVFByNlZvd3l3QnM0c01CVEpIQkt1MXFPeXRvSmhGMm9IVkI2TG1xQUZwUFZoazlNQURqT0YxSTBrXzdnajhEZjRwMFFrclVDWUdnWmJPWkFKR0Z4dkNoMHUxNDV0Zw?oc=5
 - Título: Trump crea una ‘Super Intelligence Force’ - Negocios.com
 - Fecha detectada: Sun, 04 Oct 2026 16:14:10 GMT
 
@@ -30,9 +30,9 @@ Trump crea una ‘Super Intelligence Force’ Negocios.com
 
 Trump lanza la Super Intelligence Force: qué cambia para tu startup El Ecosistema Startup
 
-### Fuente 4: merca20.com
-- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkVtUzczWGxLbDdSeVV5T2UyQ2g1djNaMUt4SkIta04wb2tDTUhGVF9SZDlnbEJVcVQ4dEFFbm0wV3NvSnF4UnNodUNtTlNJakZ5V3Z1ejRkZUJnV1VrdWx6aFpNaTQycnp6aXBzTnBGS0NEVHJnaklpUE9sZi11aVp6bGJsbnBoYmZlVnpZSjlyckgwZGhZVkhSSy1WT2NiVjM4TEdJbElMQQ?oc=5
-- Título: Donald Trump crea la Super Intelligence Force; ¿quién es Jay Clayton, su nuevo líder? - Revista Merca2.0
-- Fecha detectada: Sun, 04 Oct 2026 16:16:53 GMT
+### Fuente 4: cholilaonline.ar
+- URL: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTERxNDQ5T2Z6ejZKYklhOFJHclZPaGlYTU1sOXo1MXR5SzRzTEM5M09vdllVMDRkTlJYYzlfamlIN3Yxd2NlSWNkaFFuMEFmQTJVd3ROR2l5eXdfeVlMNVNPbEd6c2hxSDlvTEN3cGxrNlZROHEtZW01aEZjQ01fdWowVjJUcWNwVHdOV0VIcWZYVmxzY05wRnUxLUNMZWM4djk1UmJyN2QybGZQLVZ0QUI1cl82dThMR1RFeXVWOFVTQVBXYVhuYWpTb1JQazBGRGFWX3FVR3BHcTR3cnVWaXR1NEZmUQ?oc=5
+- Título: EE.UU. crea la “Super Intelligence Force”: la fuerza especial de Donald Trump para liderar la Inteligencia Artificial - » Cholila Online
+- Fecha detectada: Sun, 04 Oct 2026 17:33:58 GMT
 
-Donald Trump crea la Super Intelligence Force; ¿quién es Jay Clayton, su nuevo líder? Revista Merca2.0
+EE.UU. crea la “Super Intelligence Force”: la fuerza especial de Donald Trump para liderar la Inteligencia Artificial » Cholila Online
