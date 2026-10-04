@@ -1,9 +1,12 @@
 {
+  "last_media_id": "17910470235553024",
   "last_processed_generated_at": "2026-10-03T23:44:40Z",
   "last_publication_id": "kmx-20261004-space-apps-salta",
-  "last_result": "publishing",
-  "note": "Self-healing pipeline v2 enabled; retrying pending approved publication after eliminating stale-checkout/rebase conflicts.",
-  "phase": "publishing",
+  "last_result": "published",
+  "next_publish_retry_at": null,
+  "note": "Publisher completed Instagram publication and recorded the receipt.",
+  "phase": "published",
+  "published_at": "2026-10-04T09:19:29Z",
   "source_event_id": "05-15a2837bbc3bec6d",
   "visuals_completed_at": "2026-10-04T08:48:13Z"
 }
