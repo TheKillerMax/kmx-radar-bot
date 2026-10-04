@@ -13,6 +13,7 @@ from .utils import read_json, utcnow_iso, write_json
 
 LOG = logging.getLogger(__name__)
 STATE_FILE = DATA_DIR / "chatgpt_state.json"
+RENDERABLE_PHASES = {"editorial_ready_for_visuals", "visual_incomplete"}
 
 
 def _validate_rights(package_dir: Path) -> list[dict]:
@@ -113,9 +114,9 @@ def prepare_visual_packages() -> int:
     for marker in markers:
         package_dir = marker.parent
         phase = _phase_for(package_dir)
-        if phase != "editorial_ready_for_visuals":
+        if phase not in RENDERABLE_PHASES:
             raise RuntimeError(
-                f"{package_dir.name}: expected editorial_ready_for_visuals, got {phase!r}"
+                f"{package_dir.name}: expected one of {sorted(RENDERABLE_PHASES)}, got {phase!r}"
             )
 
         manifest_path = package_dir / "publication.json"

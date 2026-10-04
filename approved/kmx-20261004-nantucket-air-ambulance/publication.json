@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261004-nantucket-air-ambulance",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "07-f79bf1435b30cf54",
   "sources": [
@@ -43,18 +43,19 @@
       "url": "https://www.news.uscg.mil/Press-Releases/Article/4618687/coast-guard-continues-search-for-six-people-after-locating-debris-from-missing/"
     },
     {
-      "label": "Associated Press — confirmación independiente",
-      "url": "https://apnews.com/article/plane-search-bermuda-boston-nantucket-ccb6014ac35e2af11879e28e6c8527df"
+      "label": "Associated Press — actualización del 4 de octubre",
+      "url": "https://apnews.com/article/35f4da84247adcc4d91e0e7e81b3d26e"
+    },
+    {
+      "label": "Associated Press — confirmación inicial",
+      "url": "https://apnews.com/article/ccb6014ac35e2af11879e28e6c8527df"
     },
     {
       "label": "NBC Boston — actualización",
-      "url": "https://www.nbcboston.com/news/local/coast-guard-search-nantucket-missing-medical-plane-boston-bermuda-faa/4025253/"
-    },
-    {
-      "label": "ABC News — confirmación independiente",
-      "url": "https://abcnews.com/US/medical-transport-airplane-missing-off-massachusetts-coast-coast/story?id=136969608"
+      "url": "https://www.nbcboston.com/news/local/boston-missing-plane-search-continues-coast-guard-to-provide-update/4025303/"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-04T18:15:37Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-04T18:15:37Z",
+  "approved_at": "2026-10-04T18:18:00Z"
 }
