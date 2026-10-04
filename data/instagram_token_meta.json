@@ -1,4 +1,5 @@
 {
-  "source": "github-secret",
-  "updated_at": "2026-10-03T01:20:26Z"
+  "expires_in": 5184000,
+  "source": "refresh",
+  "updated_at": "2026-10-04T13:24:29Z"
 }
