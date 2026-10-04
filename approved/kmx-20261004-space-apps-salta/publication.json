@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261004-space-apps-salta",
+  "source_event_id": "05-15a2837bbc3bec6d",
+  "created_at": "2026-10-04T03:31:01Z",
+  "headline": "Salta será sede del NASA Space Apps Challenge el 14 y 15 de noviembre",
+  "caption": "Salta se suma al NASA Space Apps Challenge 2026: el encuentro se realizará el 14 y 15 de noviembre y la inscripción es gratuita.\n\nNo hace falta ser programador ni llegar con un equipo armado. La propuesta reúne a personas de distintas disciplinas para trabajar en equipo con datos abiertos de NASA y otras agencias espaciales y convertirlos en proyectos sobre problemas de la Tierra y el espacio.\n\nTambién habrá talleres preparatorios y mentores durante el evento.\n\nLa edición global de 2026 tiene como lema “The Next Frontier” y la organización oficial mantiene abiertas las inscripciones.\n\nDesliza para ver cómo funciona y qué todavía falta por confirmar en la sede local.\n\nFuentes: Gobierno de Salta, NASA Space Apps Challenge, CONAE y El Tribuno.\n\n#KMXRadar #SpaceApps #Salta #CienciaYTecnologia",
+  "sources": [
+    {
+      "label": "Gobierno de Salta — convocatoria local",
+      "url": "https://www.salta.gob.ar/prensa/noticias/desafios-de-la-nasa-en-salta-asi-pueden-participar-estudiantes-profesionales-y-mentes-curiosas-110273"
+    },
+    {
+      "label": "NASA Space Apps Challenge — edición 2026",
+      "url": "https://www.spaceappschallenge.org/2026/"
+    },
+    {
+      "label": "CONAE — convocatoria argentina",
+      "url": "https://www.argentina.gob.ar/node/515227"
+    },
+    {
+      "label": "El Tribuno — confirmación independiente",
+      "url": "https://www.eltribuno.com/salta/2026-9-29-22-31-0-salta-se-suma-a-un-encuentro-para-resolver-desafios-de-la-nasa"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-salta-space-apps.png",
+      "alt_text": "Salta será sede del NASA Space Apps Challenge 2026 el 14 y 15 de noviembre; la inscripción está abierta y es gratuita."
+    },
+    {
+      "path": "02-quien-puede.png",
+      "alt_text": "La sede de Salta está abierta a personas de distintas disciplinas; no es necesario saber programar ni tener equipo previo."
+    },
+    {
+      "path": "03-como-funciona.png",
+      "alt_text": "Durante dos días los participantes forman equipos y desarrollan soluciones a desafíos de la Tierra y el espacio con datos abiertos."
+    },
+    {
+      "path": "04-inscripcion.png",
+      "alt_text": "La inscripción al NASA Space Apps Challenge 2026 está abierta en el sitio oficial."
+    },
+    {
+      "path": "05-datos-abiertos.png",
+      "alt_text": "Los proyectos utilizan datos abiertos y recursos científicos de NASA y agencias espaciales asociadas."
+    },
+    {
+      "path": "06-salta.png",
+      "alt_text": "Salta contará con talleres preparatorios y mentores antes y durante el encuentro."
+    },
+    {
+      "path": "07-por-confirmar.png",
+      "alt_text": "La sede local debe revalidar sus detalles logísticos antes de la publicación final."
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "ai_generated": true
+}
