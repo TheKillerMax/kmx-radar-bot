@@ -1,6 +1,6 @@
 {
   "ai_generated": true,
-  "caption": "Salta se suma al NASA Space Apps Challenge 2026: el encuentro se realizará el 14 y 15 de noviembre y la inscripción es gratuita.\n\nNo hace falta ser programador ni llegar con un equipo armado. La propuesta reúne a personas de distintas disciplinas para trabajar en equipo con datos abiertos de NASA y otras agencias espaciales y convertirlos en proyectos sobre problemas de la Tierra y el espacio.\n\nTambién habrá talleres preparatorios y mentores durante el evento.\n\nLa edición global de 2026 tiene como lema “The Next Frontier” y la organización oficial mantiene abiertas las inscripciones.\n\nDesliza para ver cómo funciona y qué todavía falta por confirmar en la sede local.\n\nFuentes: Gobierno de Salta, NASA Space Apps Challenge, CONAE y El Tribuno.\n\n#KMXRadar #SpaceApps #Salta #CienciaYTecnologia",
+  "caption": "Salta se suma al NASA Space Apps Challenge 2026: el encuentro se realizará el 14 y 15 de noviembre y la inscripción es gratuita.\n\nNo hace falta ser programador ni llegar con un equipo armado. La propuesta reúne a personas de distintas disciplinas para trabajar en equipo con datos abiertos de NASA y otras agencias espaciales y convertirlos en proyectos sobre problemas de la Tierra y el espacio.\n\nTambién habrá talleres preparatorios y mentores durante el evento.\n\nLa edición global de 2026 tiene como lema “The Next Frontier” y la organización oficial mantiene abiertas las inscripciones.\n\nDesliza para ver cómo funciona y qué todavía falta por confirmar en la sede local.\n\nFuentes: Gobierno de Salta, NASA Space Apps Challenge, CONAE y El Tribuno.\n\n#KMXRadar #NASA #SpaceApps #Salta #CienciaYTecnologia",
   "created_at": "2026-10-04T03:31:01Z",
   "headline": "Salta será sede del NASA Space Apps Challenge el 14 y 15 de noviembre",
   "images": [
@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261004-space-apps-salta",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "05-15a2837bbc3bec6d",
   "sources": [
@@ -55,6 +55,7 @@
       "url": "https://www.eltribuno.com/salta/2026-9-29-22-31-0-salta-se-suma-a-un-encuentro-para-resolver-desafios-de-la-nasa"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-04T08:48:13Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-04T08:48:13Z",
+  "approved_at": "2026-10-04T08:55:00Z"
 }
