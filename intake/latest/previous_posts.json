@@ -365,6 +365,41 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Salta será sede del NASA Space Apps Challenge el 14 y 15 de noviembre",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/01-salta-space-apps.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/02-quien-puede.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/03-como-funciona.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/04-inscripcion.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/05-datos-abiertos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/06-salta.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261004-space-apps-salta/07-por-confirmar.png"
+      ],
+      "media_id": "17910470235553024",
+      "publication_id": "kmx-20261004-space-apps-salta",
+      "published_at": "2026-10-04T09:19:29Z",
+      "source_event_id": "05-15a2837bbc3bec6d",
+      "sources": [
+        {
+          "label": "Gobierno de Salta — convocatoria local",
+          "url": "https://www.salta.gob.ar/prensa/noticias/desafios-de-la-nasa-en-salta-asi-pueden-participar-estudiantes-profesionales-y-mentes-curiosas-110273"
+        },
+        {
+          "label": "NASA Space Apps Challenge — edición 2026",
+          "url": "https://www.spaceappschallenge.org/2026/"
+        },
+        {
+          "label": "CONAE — convocatoria argentina",
+          "url": "https://www.argentina.gob.ar/node/515227"
+        },
+        {
+          "label": "El Tribuno — confirmación independiente",
+          "url": "https://www.eltribuno.com/salta/2026-9-29-22-31-0-salta-se-suma-a-un-encuentro-para-resolver-desafios-de-la-nasa"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }

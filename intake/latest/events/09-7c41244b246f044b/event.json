@@ -1,0 +1,30 @@
+{
+  "event_id": "09-7c41244b246f044b",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Un tribunal federal bloquea temporalmente el muro fronterizo del Gobierno de Trump en la región de Big Bend, Texas - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Un tribunal federal bloquea temporalmente el muro fronterizo del Gobierno de Trump en la región de Big Bend, Texas - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjdaQ25XejdjTktWNWtiOFprUF9RM1JrNDd6My1iOThZQ0hkanNtaWRLWnFzTmR2ZTBrSUM4amN6RWtnN1MtT2NTVEpmTXVid01laUtwNEhqbkFWaEp6cE1scm5Qemw5dGFtMGdGOVV1ZVA0X3NDRXNUYjhMVUJ1WkMtNTg0Vm5zRVZkMU9FQU1tVTctTE9RLQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 02 Oct 2026 21:49:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Un tribunal federal bloquea temporalmente el muro fronterizo del Gobierno de Trump en la región de Big Bend, Texas CNN en Español Jueza bloquea temporalmente construcción de muro fronterizo en la región de Big Bend, Texas AP News Corte federal bloquea temporalmente muro fronterizo de Trump en Big Bend, Texas San Antonio Express-News Suspende juez temporalmente la construcción de muro fronterizo en el parque nacional Big Bend Univision Un tribunal federal bloquea temporalmente el muro fronterizo de la Administración Trump en la región de Big Bend, Texas telemundo.com"
+    }
+  ]
+}

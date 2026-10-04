@@ -1,0 +1,30 @@
+{
+  "event_id": "10-97490df60505fde6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los ataques mortales de osos están causando conmoción en la Siberia rusa. ¿Por qué ahora? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los ataques mortales de osos están causando conmoción en la Siberia rusa. ¿Por qué ahora? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wTnRJVWFnZ0ItR2JWQ1J5T3F5NEVJcDA2cERHTFNxbFZ0NmhzYzVTTHpFNzVYSGJBTmVtV1p6ZElyT2Z6MW1YdEJZN2NuM2lFdEJnMmxfQkZmTnBNNEoyZ2k2MVUwOHdVUVo1T3dXbEZjLWI5Q1MzNg?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 03 Oct 2026 13:21:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los ataques mortales de osos están causando conmoción en la Siberia rusa. ¿Por qué ahora? CNN en Español"
+    }
+  ]
+}
