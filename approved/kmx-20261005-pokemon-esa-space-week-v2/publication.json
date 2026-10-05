@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261005-pokemon-esa-space-week-v2",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "03-38637e179f4d620b",
   "sources": [
@@ -55,6 +55,7 @@
       "url": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-05T16:22:38Z"
+  "status": "CORRECCIÓN",
+  "visuals_completed_at": "2026-10-05T16:22:38Z",
+  "approved_at": "2026-10-05T16:23:00Z"
 }

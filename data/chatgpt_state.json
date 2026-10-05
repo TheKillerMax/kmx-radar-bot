@@ -1,13 +1,13 @@
 {
-  "last_media_id": "17910038973554419",
+  "last_media_id": null,
   "last_processed_generated_at": "2026-10-04T23:55:47Z",
   "last_publication_id": "kmx-20261005-pokemon-esa-space-week-v2",
-  "last_result": "visuals_ready",
+  "last_result": "publishing",
   "next_publish_retry_at": null,
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "note": "Pikachu v2 correction approved after Unicode/Spanish orthography QC and visual QC pass.",
   "pending_manifest_generated_at": null,
-  "phase": "visuals_ready",
-  "published_at": "2026-10-05T11:39:02Z",
+  "phase": "publishing",
+  "published_at": null,
   "source_event_id": "03-38637e179f4d620b",
   "visuals_completed_at": "2026-10-05T16:22:38Z"
 }
