@@ -1,13 +1,10 @@
 {
-  "last_media_id": "18097352330387448",
-  "last_processed_generated_at": "2026-10-04T23:55:47Z",
-  "last_publication_id": "kmx-20261005-pokemon-esa-space-week-v2",
-  "last_result": "published",
+  "last_processed_generated_at": "2026-10-05T10:18:22Z",
+  "last_publication_id": "kmx-20261005-elecciones-espana",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Publisher completed Instagram publication and recorded the receipt.",
+  "note": "FASE 1 reconciliada desde handoff existente del mismo manifest; paquete completo verificado en main con Unicode español correcto. No se creó .visualize ni .ready.",
   "pending_manifest_generated_at": null,
-  "phase": "published",
-  "published_at": "2026-10-05T16:26:00Z",
-  "source_event_id": "03-38637e179f4d620b",
-  "visuals_completed_at": "2026-10-05T16:22:38Z"
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "05-605926558b300a88"
 }
