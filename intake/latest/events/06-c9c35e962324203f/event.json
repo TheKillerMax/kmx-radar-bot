@@ -1,0 +1,40 @@
+{
+  "event_id": "06-c9c35e962324203f",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Trump crea una “Fuerza de Superinteligencia (SIF)” para coordinar la estrategia de EU sobre inteligencia artificial - Alcanzando el Conocimiento",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "alcanzandoelconocimiento.com",
+    "diariodelhuila.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Trump crea una “Fuerza de Superinteligencia (SIF)” para coordinar la estrategia de EU sobre inteligencia artificial - Alcanzando el Conocimiento",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWnVVcThMRDZpQWF2QVlWck5CaHZ5WmsxSThOSnFrQ2owdzhPTDhodW52c0VlS0NQbkFTRGRnSFlLYVA4VGxGNFgtU1p1dHVTS2I2ZFVOQVFBMFE5WDZ5d0JFUXJnUEtnMmppR1hqZUE5SndSQmVhbmVrQklkVHNXV2NZdmQ3UTJJUnY4cFQtR05CRTE4cFFJdGwxQVFzcjZ5S084aWx6MndyamVXM0hhbm5Qdjl4eUVGRl83T0JWbzRFM1h4Vmk3Y3NWUXVTMnVNeVY4ZF9kNTRUWG5reHdPcDh1MUR0XzVlZTRBYUxPSnFmTDZVZUJJ?oc=5",
+      "domain": "alcanzandoelconocimiento.com",
+      "publisher": "Alcanzando el Conocimiento",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 06:34:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump crea una “Fuerza de Superinteligencia (SIF)” para coordinar la estrategia de EU sobre inteligencia artificial Alcanzando el Conocimiento"
+    },
+    {
+      "title": "Trump crea la ‘Fuerza de la Superinteligencia’ para coordinar la estrategia de IA en EE. UU. - Diario del Huila",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGJzZFZfb2lQaFNNcHRVM180ekl5OHpkQm5jTGRWQkxUZkgtNXBKclhneU5UUkllci1VWEF6ZTA0QXktclVBMV9pSUxiVDcxRENucVdkLWFiM2o5UklZbVdydnFGUGt5NUF4dVY0S3hjX2M2SHlGOTlzRUh6dF8ta2dScHN5ZU1INUpqNXh2cnNQMUhReUV4d2s1RmN4REdlT2FzbkVrTFdhQklUVlNlVHB6UkZPcDQ?oc=5",
+      "domain": "diariodelhuila.com",
+      "publisher": "Diario del Huila",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 02:26:15 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump crea la ‘Fuerza de la Superinteligencia’ para coordinar la estrategia de IA en EE. UU. Diario del Huila"
+    }
+  ]
+}

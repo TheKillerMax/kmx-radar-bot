@@ -1,0 +1,30 @@
+{
+  "event_id": "12-52769017ef059ace",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Cronología de las acusaciones de violación grupal en la Universidad de Cornell - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Cronología de las acusaciones de violación grupal en la Universidad de Cornell - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmIzV0dfNTNYcHRlUHItbnlJTTNWWGVpU2I2dUV3bjJ1VjIzQ1Z6WEtFV2xDT25NMTlBYmJveExyaDVwcWh3Y1NHZlZLQ3B0UlhsX21jWkZrN3I2T3RjdElsT2xVWXYyUV9iVGRKR2hCTUVpbFhIcVZFZjA4QzNFNzlwUXp5YVd3TGhJ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 18:47:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Cronología de las acusaciones de violación grupal en la Universidad de Cornell CNN en Español Publicaciones de solidaridad con \"Jane Doe\" inundan las redes tras demanda por violación en Cornell San Antonio Express-News El ambiente en la Universidad de Cornell se tensa más y crece la presión sobre quienes investigaron la acusación de violación News Channel 3-12 Policía de Cornell realizó una detención por drogas horas antes de una presunta agresión sexual Telemundo New York Así sancionó Cornell a los siete acusados de agredir sexualmente a una estudiante nytimes.com"
+    }
+  ]
+}

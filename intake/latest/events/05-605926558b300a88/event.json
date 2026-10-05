@@ -1,0 +1,40 @@
+{
+  "event_id": "05-605926558b300a88",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Spain's PM Pedro Sánchez calls snap general election for 29 November - Sur in English",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "surinenglish.com",
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Spain's PM Pedro Sánchez calls snap general election for 29 November - Sur in English",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0V3ZkRZSmN4ZEMyZGFIRWhUV3hnbzE3cVo1SUw2cnRVTXh0ZzB5aXAzRmFITzFkWmtPNjRVbFYyNHdhbS1iNEtSOUNfdnJpRHdkQ2dtcjQzLXJKRUlTU1JjUHRpQkZpRTFRZHdKVDMzaXBHU3UxZjloc1pkOHRyM1NxWXNuLUJuZzVCVERkR0ZIamtPUmZNVVVsSXYxUjRhTUtUWE9rNVFJdw?oc=5",
+      "domain": "surinenglish.com",
+      "publisher": "Sur in English",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 07:20:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Spain's PM Pedro Sánchez calls snap general election for 29 November Sur in English"
+    },
+    {
+      "title": "Pedro Sánchez calls snap general election for 29 November - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTBZYnpaVU43ZUdJWVpjVG1GdXMwRGYzb1A1am5DMEg5Yl9TalJQVHVsTW1SUGk2TlIyVEYxd3FzYVE0dFZHRENQeTFhV3NvelNmM01mUEtSTEY4VVpXZ1Z5VlRzNlpvRllGS0lMOUc1dEJhc2pMaFVtMTdwZDNSVENmeEY4NnFKRDZv0gGQAUFVX3lxTE1lVi1iY3pKV2p0THJYbnVOTERjS1B6MmJwbUQ2WTV5bklkVFFIZGtwZFNTVVdrLTJCaXdWeEFSQVh4bWdaclEtalpwVjgxSWtKUHhuZldwSTNtdF9OcFRETDhVTGJIdTAwendMQjVKVzdrbGNzZEtIMkZBR0R4WnlBcXNPREl2aDY1TzdKYWZuZg?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 07:57:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Pedro Sánchez calls snap general election for 29 November todoalicante.es"
+    }
+  ]
+}
