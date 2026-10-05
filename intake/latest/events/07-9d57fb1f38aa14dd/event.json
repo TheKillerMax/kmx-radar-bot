@@ -1,0 +1,28 @@
+{
+  "event_id": "07-9d57fb1f38aa14dd",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Warning for November 3, 2026 State Election - trumbull-ct.gov",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "trumbull-ct.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Warning for November 3, 2026 State Election - trumbull-ct.gov",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMTh0TlNRT3VISUxqQlBTRjl2UmM1ZmxnbUNvUVpBYlI0dmtycm9zXzdvQl9Ed21oN3RqUi1Dc2pCTHRCZ1JIZFZPdFBjcnNvRUYxZjViV2FibU9BdmdiRUsyUnNLT1E?oc=5",
+      "domain": "trumbull-ct.gov",
+      "publisher": "trumbull-ct.gov",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 13:39:20 GMT",
+      "primary_hint": false,
+      "excerpt": "Warning for November 3, 2026 State Election trumbull-ct.gov"
+    }
+  ]
+}

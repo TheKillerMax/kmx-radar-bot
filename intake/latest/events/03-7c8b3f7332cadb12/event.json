@@ -1,0 +1,40 @@
+{
+  "event_id": "03-7c8b3f7332cadb12",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Los bancos centrales de Marruecos y de Emiratos Árabes Unidos firman acuerdos de cooperación bancaria y sobre sistemas de pago - Yabiladi.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.rue20.com",
+    "es.yabiladi.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Los bancos centrales de Marruecos y de Emiratos Árabes Unidos firman acuerdos de cooperación bancaria y sobre sistemas de pago - Yabiladi.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0FxdS1CMjRfcVp2dk5aeHFyazcwbWxCaktjdW5TbkRSb2Eta0xJVVdSSFN4LWJxVVE4Zk45VkptSjEwendiN2JZMzZUelN6YnJJNG5wYWdYSDh4dmU4czU1YlUwYTJGRnROdm0wX2pOM1BYM1hRX09pMzFfSnFMcnFfQ0RiUUhYa2FSQUVvYXZfbnJoMU5WZngtdw?oc=5",
+      "domain": "es.yabiladi.com",
+      "publisher": "Yabiladi.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 15:29:52 GMT",
+      "primary_hint": false,
+      "excerpt": "Los bancos centrales de Marruecos y de Emiratos Árabes Unidos firman acuerdos de cooperación bancaria y sobre sistemas de pago Yabiladi.com"
+    },
+    {
+      "title": "Marruecos y Emiratos refuerzan su cooperación bancaria y financiera - es.rue20.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2pyRjRlVXdPc1Npal9NRE5nVlpPYkoxX2M5SWp2MVpCXzRkNEt4WnpaQkJ0ZHEwNzc4VThNTG5EODBZekRLNUxDWUJEbWNCaThJaFRMWm9QVUNYQlgyMnR4MUNXTTBndnVSOUFSWXliWWlNQnFpc2ZHRlVmd1hmTXlNVWZORnRXZkRqOEtONDItU1FiUU9RVE9FN0Z3aXc4WkE?oc=5",
+      "domain": "es.rue20.com",
+      "publisher": "es.rue20.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 13:00:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Marruecos y Emiratos refuerzan su cooperación bancaria y financiera es.rue20.com"
+    }
+  ]
+}

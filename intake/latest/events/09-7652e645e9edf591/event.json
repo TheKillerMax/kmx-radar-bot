@@ -1,0 +1,149 @@
+{
+  "event_id": "09-7652e645e9edf591",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Moderate mag. 4.1 earthquake - 48 km south of Pasto, Departamento de Narino, Colombia, on Sunday, Oct 4, 2026, at 09:22 pm (GMT -5) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 26,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Volcanic activity worldwide 5 Oct 2026: Santiaguito volcano, Fuego, Krakatau, Semeru, Sheveluch, Ibu... - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbFd1THpwNmxaanFyaGlNel9XeVZDcEVyLUQ4MkEwY1NrWXNkdG5ZbTJDUGI2ZnJTMld4Y2JsaFFBblNIYk5hUkl6VkhCbWY3TmZCNDdtRkN3UF8xbzRhcnNnLVJFbjVDUTJTaXU1MXYxTVFKYzRvRlNlNjUtOFJ0V0tCTENyLUVUOUQ1RnBFSXVVeldsbTZnSmxWQ01wQXk0LVRvLTFKcGRkMDBFQUNoY2JBS3d5VVh1TkI3UnBnSEhGdURtRjZqZklWYk5YN2stY0tVMmVmUnhFZ2FuVGJtQnlWdkM4NEdSS1NsSU5lOWY0Qzg3OGRN?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 21:04:37 GMT",
+      "primary_hint": false,
+      "excerpt": "Volcanic activity worldwide 5 Oct 2026: Santiaguito volcano, Fuego, Krakatau, Semeru, Sheveluch, Ibu... Volcano Discovery"
+    },
+    {
+      "title": "Kilauea - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 00:00:20 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilauea Volcano Discovery"
+    },
+    {
+      "title": "Small magnitude 3.1 earthquake 36 miles northwest of Bairnsdale, Victoria, Australia - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMThpRUJ3Ni1BTm1QcDgxemkwM3hYazkzSTZlLUhCVzhUUVpXZ0FzeF90S1ZTU0Z0dTNWd2YxaWw1YTdZWWxFQzVLY2NpYTU5a1VmbGdRWFJwd0VmUmM1MExQWXRzTWY4eTBGRWtQY2pfcHRKX2VGVGg5dFR5cHFJM2RUUWJORmN4SURFTTlqQWxVdTdCc2FMM1c5YlcwV3FER3Y1WTBqc3VwSWJ0WlY4ZWRMVlpzbEFSZm9nRzFudGxWeDZUSlhaMFptWlMzVnhNdWQzZWlQd1NwR1BaYUE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 06:48:59 GMT",
+      "primary_hint": false,
+      "excerpt": "Small magnitude 3.1 earthquake 36 miles northwest of Bairnsdale, Victoria, Australia Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.6 earthquake (unconfirmed) - 37 km south of Bucaramanga, Departamento de Santander, Colombia, on Monday, Oct 5, 2026, at 04:57 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXdIY1BsZktRMGJrN1MtbEJTSmM5blVoUUFmaXZ5c0lCMlNVdERoYjk3UDBoUUxldWFOMHd2UkRoTGU3aVlGbVdtNkdMbWs5bDdrWGRRUEQ1bURwNmRJcVJEUGJ3cFhtZG9mRmVmOWR6RGtUTlhrblN1LWVNcEpINkdDQVhDX1Myb2RuT3NmcUFVQTBqX1Q3Z0F2Rk5mczFHYk1uVGFiOEpPSjc0?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 10:24:49 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.6 earthquake (unconfirmed) - 37 km south of Bucaramanga, Departamento de Santander, Colombia, on Monday, Oct 5, 2026, at 04:57 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake - 42 km southeast of Machala, Provincia de El Oro, Ecuador, on Sunday, Oct 4, 2026, at 11:58 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMk5jUmVPRVdTX01mUkZaS1FOdElwcXRHVmptQ0dndHktZ1pMYjhROVctUFhEWlowNkN2ejZGNVg4aDBNOVBIM0pnaEQ3MkRDbEVERzA5MGxFT1VCOUk3ZUVacnQ1OEhvS0x2WDA2RXZ1WE9oemxDbHR0Ull6RmVtUkNILWwwaGEwdWM0bnZBWF92WGl0UTFmR3JMQVRpSDQ5UFYtZ2RGSmh0Z0hsejdiS0ZR?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 05:05:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake - 42 km southeast of Machala, Provincia de El Oro, Ecuador, on Sunday, Oct 4, 2026, at 11:58 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.0 earthquake (unconfirmed) - Northern Colombia on Monday, Oct 5, 2026, at 01:00 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTNQM1NtQlFobnBIb092VnFkcGt5LUpiUkVnREdlcFkweF9INnM1aFVSdUc3eDMwT19xWkVzamE2aVJFLVQ0QTFGMGQ2VDVSX295em5SbHVnMEY4UXVRNnFIaGdSTUxHdWJEZkNsb2htaUdKbGJUU3FJVHpmVExKMnVjYzBSR25kSk9BQTJEMC1NT3lqYTAxTF9Ub1poaUd5YTIwS1B3cTc2clNC?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 06:45:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.0 earthquake (unconfirmed) - Northern Colombia on Monday, Oct 5, 2026, at 01:00 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.3 earthquake (unconfirmed) - 33 km south of Bucaramanga, Departamento de Santander, Colombia, on Sunday, Oct 4, 2026, at 11:25 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXc2a0ZvWW55eWNDbjBiU1RzRXU2a2ZvLVJrQm5XdFR1N2RCVEZYSHRralFKaVlxTDhhZ0hLeTI1a3JSMGx0cF8xcmpCcDlDVC11R1dzMk9MTFZwNzRsTV84RUJKcTYyWFVqOWxJS1RtLWtQdkZfZUJwbW4wRXdqZ0x3WTRvTFBOQTRIcHAwcmVKblFWOVJLUlFlUWlSNzlqRVZSZE5UUUVhbHNk?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 04:49:31 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.3 earthquake (unconfirmed) - 33 km south of Bucaramanga, Departamento de Santander, Colombia, on Sunday, Oct 4, 2026, at 11:25 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.1 earthquake - 48 km south of Pasto, Departamento de Narino, Colombia, on Sunday, Oct 4, 2026, at 09:22 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTnFURzV6NFl1c3BjRTZjenRnRWRGZ0dfckQzS2pRN0RzckczZ09kLVBaMlM2WU5IMVhiVWF3MmdOT3JZNHhXTnZmZWRYM2FPVXp3ZzZ4eWFCY1BDVmh6N1hpZndPcWZIVXVGbnY4TDZDd045aWZXaU1DQ01fbmJvYWZUenBmOGZvLWNHRzEyVGM4UXVFZWZLUmxGUkNBeDh5Z2dRRUNuSzRVU01WWWFNZm12V19PRzZGMDQ1YjI4b2s4VUVUSTROVGxwTHhiUkZwR3NJ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 02:54:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.1 earthquake - 48 km south of Pasto, Departamento de Narino, Colombia, on Sunday, Oct 4, 2026, at 09:22 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.3 earthquake - North Pacific Ocean, 79 km south of Acajutla, El Salvador, on Sunday, Oct 4, 2026, at 05:36 pm (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEQxRDhjLWdNTWRtMXNZZTE4MEZLTnl4bURwaXRLMW5YSzZCdTVud3ZzVm5CWXJ1SmN1SHpzZEU4VFhmalhMUE1NVU9lUUM2LVlXZlMxZTNpT3Exd28tSng2Z21HV3hUbk5BQmNBRlBlcmxneVFaMWhiOGtycWtObF9ZZ2h0QVkxSVU1Mko3Q0x6WUVEaEo1QmZlanJFamdvRXJXTVJKR3pPT3JSeV9ERFBGaWNKdnBFTWRXWm5Ic0NHay0zQVktLXM1dw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 23:49:31 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.3 earthquake - North Pacific Ocean, 79 km south of Acajutla, El Salvador, on Sunday, Oct 4, 2026, at 05:36 pm (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 41 km south of Salina Cruz, Estado de Oaxaca, Mexico, on Monday, Oct 5, 2026, at 04:20 am (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUDZEakNVT3RjQ3VmZy01ZEZIVFNvdmQ5d09tYXVSbGVsV1lfY292eFZCZjRWQWpKLUtFSUVDY29XYk11UkJ6YWI3VDZGbUtoSlVBYnRRT2R2M2xwdDIwR2RwZjd0bGE5ZjBzdzgxaUUwU2NIOWNxdzNoX1hYMmFFb2otYnc0bElVNlBBbi1yVG5TZkl5Z1JNdTRYaW9RdWs4ZVFobjRGcnNlS1NKYVRTaVRYWQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 10:49:37 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 41 km south of Salina Cruz, Estado de Oaxaca, Mexico, on Monday, Oct 5, 2026, at 04:20 am (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Etna - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWnlqajhtaEpUS0hGQURaWkc2dGRwT09kWjAxZ1FfNFc0T1p6SmNIb2NKVExJbFN5WXpWTTU3cy1za1hUUG14NVNZYU9oZVRKMzFwSW5lbW8?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 18:04:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Etna Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.0 earthquake (unconfirmed) - Estado de Veracruz-Llave, Mexico, on Monday, Oct 5, 2026, at 04:44 pm (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEJVcXhlc1dwUk1hZXo2SFVVZmh3LUpJTG1vT2dITWg3dmVlNzVpckNuUXJLUW1FLWp0MGc3RUlfbGQ1YlFmUUc3Z2tsS0F5a0E0Z3R2LUF4VmFrNG81RHdiMkF4dlJhMHBnbmFhTFhQQnF3ZjFtX29qbkl4ZmNFNjZQREdydk5RM0hFejNvdmN5QUp2Z0QybUhpc3Y3Sjk3ZkMzVzNPVnI?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 16:53:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.0 earthquake (unconfirmed) - Estado de Veracruz-Llave, Mexico, on Monday, Oct 5, 2026, at 04:44 pm (Universal Time) Volcano Discovery"
+    }
+  ]
+}
