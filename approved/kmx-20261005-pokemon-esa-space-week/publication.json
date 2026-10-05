@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261005-pokemon-esa-space-week",
+  "source_event_id": "03-38637e179f4d620b",
+  "created_at": "2026-10-05T03:31:00Z",
+  "headline": "Un peluche de Pikachu pasó 67 días en la Estación Espacial Internacional y ahora protagoniza una campaña de la ESA",
+  "caption": "Un peluche de Pikachu pasó 67 días a bordo de la Estación Espacial Internacional y completó unas 1.040 vueltas a la Tierra, según la Agencia Espacial Europea.\\n\\nEl viaje ocurrió entre el 11 de abril y el 17 de junio de 2026 durante la misión de la astronauta Sophie Adenot. No fue una misión científica de Pokémon: el peluche formó parte de una colaboración de divulgación entre The Pokémon Company International y la Agencia Espacial Europea.\\n\\nAhora esa colaboración está activa por la Semana Mundial del Espacio, del 4 al 10 de octubre. Incluye exposiciones en centros espaciales y museos de Europa, además de una activación especial de Pokémon GO en sedes participantes.\\n\\nLa exposición seguirá pasando por distintos museos europeos hasta abril de 2027. La actividad de Pokémon GO en museos participantes está prevista hasta el 30 de abril de 2027.\\n\\nDesliza para ver qué viajó realmente al espacio, qué está pasando ahora y qué actividades forman parte de la colaboración.\\n\\nFuentes: Agencia Espacial Europea, Pokémon y Space.com.\\n\\n#KMXRadar #WorldSpaceWeek #Pokemon #Pikachu #ESA",
+  "images": [
+    {
+      "path": "01-pikachu-en-la-iss.png",
+      "alt_text": "Un peluche de Pikachu estuvo 67 días en la Estación Espacial Internacional como parte de una colaboración entre Pokémon y la Agencia Espacial Europea."
+    },
+    {
+      "path": "02-que-pasa-ahora.png",
+      "alt_text": "La colaboración entre Pokémon y la Agencia Espacial Europea está activa durante la Semana Mundial del Espacio, del 4 al 10 de octubre de 2026."
+    },
+    {
+      "path": "03-67-dias.png",
+      "alt_text": "El peluche de Pikachu estuvo en órbita del 11 de abril al 17 de junio de 2026 y completó aproximadamente 1.040 vueltas a la Tierra."
+    },
+    {
+      "path": "04-no-fue-mision-cientifica.png",
+      "alt_text": "El viaje del peluche de Pikachu fue parte de una campaña educativa y de divulgación, no una misión científica de Pokémon."
+    },
+    {
+      "path": "05-exposiciones.png",
+      "alt_text": "La colaboración incluye exposiciones sobre espacio y Pokémon en centros de la Agencia Espacial Europea y museos de Europa hasta abril de 2027."
+    },
+    {
+      "path": "06-pokemon-go.png",
+      "alt_text": "Pokémon GO ofrece actividades especiales en centros espaciales y museos participantes como parte de la colaboración con la Agencia Espacial Europea."
+    },
+    {
+      "path": "07-que-sigue.png",
+      "alt_text": "Las exposiciones seguirán rotando por sedes europeas y la activación de Pokémon GO en museos participantes está prevista hasta el 30 de abril de 2027."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Agencia Espacial Europea — colaboración, viaje del peluche y programación",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
+    },
+    {
+      "label": "Pokémon — Semana Mundial del Espacio 2026",
+      "url": "https://www.pokemon.com/uk/news/pokemon-and-the-european-space-agency-celebrate-world-space-week-2026"
+    },
+    {
+      "label": "Space.com — confirmación independiente",
+      "url": "https://www.space.com/entertainment/pikachu-in-space-new-esa-pokemon-partnership-sends-the-electric-mouse-to-the-iss"
+    },
+    {
+      "label": "ESA — licencia y condiciones de uso de imágenes",
+      "url": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+    }
+  ],
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}
