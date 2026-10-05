@@ -383,3 +383,19 @@ Antes de crear `.ready`:
 - sustituir etiquetas genéricas por otras más precisas cuando exista una opción mejor.
 
 Si no se puede justificar por qué una etiqueta ayuda a clasificar o descubrir la publicación, no se usa.
+
+## 24. Ortografía y Unicode español
+
+Todo texto público en español de KMX RADAR debe conservar la ortografía española completa en **UTF-8/Unicode normalizado (NFC)**.
+
+### Regla bloqueante
+- Nunca transliterar texto público a ASCII ni eliminar diacríticos para simplificar render, almacenamiento o compatibilidad.
+- Conservar cuando correspondan: **á, é, í, ó, ú, ü, ñ, ¿, ¡** y sus variantes en mayúscula.
+- La regla aplica a `headline`, `caption`, `alt_text` y a todo texto visible de `visuals.json`: `kicker`, `title`, `body`, `bullets`, `callout`, `footer`, `stat`, `stat_label` y fuentes visibles.
+- Los identificadores técnicos (`publication_id`, filenames, rutas, slugs y claves internas) pueden permanecer en ASCII.
+- Antes de aprobar visuales o crear `.ready`, revisar cadena por cadena y comparar el texto visual con `publication.json` para detectar pérdida de caracteres.
+- Son errores de calidad bloqueantes degradaciones como **campana** por **campaña**, **acompano** por **acompañó/acompaño**, **Pokemon** por **Pokémon**, **mision** por **misión**, **estacion** por **estación**, **dias** por **días**, **orbita** por **órbita** o **QUE PASO** por **QUÉ PASÓ** cuando el contexto exige esas grafías.
+- Si se detecta una degradación de Unicode/ortografía antes de publicar, el paquete debe volver a `visual_incomplete` o quedar `publish_blocked` hasta corregirse.
+
+Esta revisión forma parte del preflight visual y tiene la misma prioridad bloqueante que overflow, texto cortado, derechos o QC visual.
+
