@@ -4,7 +4,7 @@
   "last_publication_id": "kmx-20261005-pokemon-esa-space-week",
   "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Publisher completed Instagram publication and recorded the receipt.",
+  "note": "Pipeline reconciler confirmed the Instagram receipt and publication history.",
   "pending_manifest_generated_at": null,
   "phase": "published",
   "published_at": "2026-10-05T11:39:02Z",
