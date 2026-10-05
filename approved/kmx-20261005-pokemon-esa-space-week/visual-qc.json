@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-05T05:11:02Z",
+  "checks": [
+    "renderer completed without overflow/fit exceptions",
+    "all files exist",
+    "all files are 1080x1350",
+    "every image has alt text",
+    "visual-sources.json contains explicit source, creator, and license/permission",
+    "every rendered source matches a licensed visual-sources.json asset",
+    "visuals.json contains 6 to 10 complete slides",
+    "official assets/logo.png is used by renderer"
+  ],
+  "file_count": 7,
+  "files": [
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "01-pikachu-en-la-iss.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "02-que-pasa-ahora.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "03-67-dias.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "04-no-fue-mision-cientifica.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "05-exposiciones.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "06-pokemon-go.png",
+      "width": 1080
+    },
+    {
+      "exists": true,
+      "height": 1350,
+      "path": "07-que-sigue.png",
+      "width": 1080
+    }
+  ],
+  "format": "1080x1350",
+  "result": "pass"
+}

@@ -2,12 +2,12 @@
   "last_media_id": null,
   "last_processed_generated_at": "2026-10-04T23:55:47Z",
   "last_publication_id": "kmx-20261005-pokemon-esa-space-week",
-  "last_result": "visual_incomplete",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "Phase 2 prepared complete visual-sources.json and visuals.json for kmx-20261005-pokemon-esa-space-week, but GitHub safety controls blocked advancing the atomic commit to main and also blocked the PR fallback. No .visualize/.ready was created. Temporary branch phase2-pokemon-esa-recover contains commit 09a604a3f157c8308a4f76afda621198524190ea and must not be treated as delivered until merged to main.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "visuals_ready",
   "published_at": null,
   "source_event_id": "03-38637e179f4d620b",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-05T05:11:02Z"
 }
