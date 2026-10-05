@@ -1,13 +1,13 @@
 {
-  "last_media_id": null,
+  "last_media_id": "17910038973554419",
   "last_processed_generated_at": "2026-10-04T23:55:47Z",
   "last_publication_id": "kmx-20261005-pokemon-esa-space-week",
-  "last_result": "publishing",
+  "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Recovered Phase 3 validation: normalized escaped newline sequences in the Instagram caption so #KMXRadar is parsed correctly. All other Phase 3 checks remain passed; .ready retained for retry.",
+  "note": "Publisher completed Instagram publication and recorded the receipt.",
   "pending_manifest_generated_at": null,
-  "phase": "publishing",
-  "published_at": null,
+  "phase": "published",
+  "published_at": "2026-10-05T11:39:02Z",
   "source_event_id": "03-38637e179f4d620b",
   "visuals_completed_at": "2026-10-05T05:11:02Z"
 }
