@@ -1,0 +1,123 @@
+{
+  "theme": {
+    "name": "pokemon-space-week",
+    "background": "#07111E",
+    "panel": "#10263A",
+    "accent": "#F4D84A",
+    "accent2": "#7DB6FF",
+    "warm": "#FF9D45",
+    "text": "#F7FAFC",
+    "muted": "#C7D4DE"
+  },
+  "sources": {
+    "pikachu_cupola": {
+      "direct_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_pillars.jpg",
+      "credit": "ESA/NASA - S. Adenot | ESA Standard Licence",
+      "archive": true
+    },
+    "sophie_pikachu_eac": {
+      "direct_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/sophie_adenot_with_astronaut_pikachu_plush_at_the_european_astronaut_centre/27530081-1-eng-GB/Sophie_Adenot_with_Astronaut_Pikachu_plush_at_the_European_Astronaut_Centre_pillars.jpg",
+      "credit": "ESA - A. Conigli - D. Dos Santos | ESA Standard Licence",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-pikachu-en-la-iss.png",
+      "photo": "pikachu_cupola",
+      "archive": true,
+      "kicker": "QUE PASO",
+      "title": "UN PELUCHE DE PIKACHU PASO 67 DIAS EN LA ESTACION ESPACIAL",
+      "body": "Viajo durante la mision de la astronauta Sophie Adenot y ya regreso a la Tierra.",
+      "stat": "67 dias",
+      "stat_label": "en orbita, del 11 de abril al 17 de junio de 2026",
+      "footer": "Desliza: por que vuelve a ser noticia ahora",
+      "alt_text": "Un peluche de Pikachu estuvo 67 dias en la Estacion Espacial Internacional como parte de una colaboracion entre Pokemon y la Agencia Espacial Europea."
+    },
+    {
+      "n": 2,
+      "file": "02-que-pasa-ahora.png",
+      "photo": "sophie_pikachu_eac",
+      "archive": true,
+      "kicker": "QUE PASA AHORA",
+      "title": "POKEMON Y LA ESA ACTIVARON UNA COLABORACION POR LA SEMANA MUNDIAL DEL ESPACIO",
+      "body": "La campana combina divulgacion espacial, exposiciones en Europa y actividades para acercar el espacio a nuevas audiencias.",
+      "callout": "La Semana Mundial del Espacio 2026 se celebra del 4 al 10 de octubre.",
+      "footer": "Desliza: cuanto recorrio el peluche",
+      "alt_text": "La colaboracion entre Pokemon y la Agencia Espacial Europea esta activa durante la Semana Mundial del Espacio, del 4 al 10 de octubre de 2026."
+    },
+    {
+      "n": 3,
+      "file": "03-67-dias.png",
+      "photo": "pikachu_cupola",
+      "archive": true,
+      "kicker": "EL VIAJE",
+      "title": "APROXIMADAMENTE 1.040 VUELTAS A LA TIERRA",
+      "stat": "~1.040",
+      "stat_label": "orbitas completadas durante 67 dias en el espacio",
+      "body": "La ESA situa la estancia del peluche entre el 11 de abril y el 17 de junio de 2026.",
+      "footer": "Desliza: que significa y que no",
+      "alt_text": "El peluche de Pikachu estuvo en orbita del 11 de abril al 17 de junio de 2026 y completo aproximadamente 1.040 vueltas a la Tierra."
+    },
+    {
+      "n": 4,
+      "file": "04-no-fue-mision-cientifica.png",
+      "photo": "pikachu_cupola",
+      "archive": true,
+      "kicker": "QUE NO SIGNIFICA",
+      "title": "NO FUE UNA MISION CIENTIFICA DE POKEMON",
+      "bullets": [
+        "El peluche acompano la mision de Sophie Adenot.",
+        "La colaboracion es educativa y de divulgacion.",
+        "Pokemon no participa en operaciones tecnicas de la estacion."
+      ],
+      "footer": "Desliza: donde se vera la exposicion",
+      "alt_text": "El viaje del peluche de Pikachu fue parte de una campana educativa y de divulgacion, no una mision cientifica de Pokemon."
+    },
+    {
+      "n": 5,
+      "file": "05-exposiciones.png",
+      "photo": "sophie_pikachu_eac",
+      "archive": true,
+      "kicker": "DONDE",
+      "title": "LA EXPOSICION RECORRERA CENTROS Y MUSEOS DE EUROPA",
+      "body": "La ESA anuncio sedes propias y museos asociados en varios paises europeos.",
+      "callout": "La programacion seguira rotando por distintas sedes hasta abril de 2027.",
+      "footer": "Desliza: que pasa con Pokemon GO",
+      "alt_text": "La colaboracion incluye exposiciones sobre espacio y Pokemon en centros de la Agencia Espacial Europea y museos de Europa hasta abril de 2027."
+    },
+    {
+      "n": 6,
+      "file": "06-pokemon-go.png",
+      "photo": "sophie_pikachu_eac",
+      "archive": true,
+      "kicker": "POKEMON GO",
+      "title": "HAY ACTIVIDADES ESPECIALES EN MUSEOS PARTICIPANTES",
+      "body": "La activacion esta pensada para visitantes de centros de ciencia y espacio incluidos en la colaboracion.",
+      "stat": "30 abr. 2027",
+      "stat_label": "fecha prevista de cierre de la activacion en museos participantes",
+      "footer": "Desliza: que sigue despues de esta semana",
+      "alt_text": "Pokemon GO ofrece actividades especiales en centros espaciales y museos participantes como parte de la colaboracion con la Agencia Espacial Europea."
+    },
+    {
+      "n": 7,
+      "file": "07-que-sigue.png",
+      "photo": "pikachu_cupola",
+      "archive": true,
+      "kicker": "QUE SIGUE",
+      "title": "LA CAMPANA CONTINUA DESPUES DE ESTA SEMANA",
+      "bullets": [
+        "World Space Week: 4-10 de octubre de 2026.",
+        "Exposiciones europeas: hasta abril de 2027.",
+        "Pokemon GO en museos participantes: hasta 30 de abril de 2027."
+      ],
+      "sources": [
+        "ESA",
+        "Pokemon"
+      ],
+      "footer": "Seguiremos revalidando fechas y sedes",
+      "alt_text": "Las exposiciones seguiran rotando por sedes europeas y la activacion de Pokemon GO en museos participantes esta prevista hasta el 30 de abril de 2027."
+    }
+  ]
+}
