@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261005-elecciones-espana",
+  "source_event_id": "05-605926558b300a88",
+  "created_at": "2026-10-05T15:56:00Z",
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "Pedro Sánchez convoca elecciones generales en España para el 29 de noviembre",
+  "caption": "España celebrará elecciones generales anticipadas el domingo 29 de noviembre de 2026.\n\nPedro Sánchez anunció este 5 de octubre que convocaría un Consejo de Ministros extraordinario para disolver las Cortes Generales y llamar a las urnas.\n\nLa convocatoria llega después de que el Congreso rechazara medidas del Gobierno sobre vivienda y en medio de protestas por el acceso a la vivienda. Reuters, Associated Press y El País confirmaron de forma independiente la fecha anunciada.\n\nLa votación se adelanta respecto del calendario ordinario de 2027. Este post explica qué está confirmado, el contexto de la convocatoria y qué sigue en el calendario electoral.\n\nFuentes: La Moncloa, Reuters, Associated Press y El País.\n\n#KMXRadar #EleccionesGenerales #España #PedroSánchez",
+  "images": [],
+  "sources": [
+    {
+      "label": "La Moncloa — anuncio oficial",
+      "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051026-sanchez-convocatoria-elecciones.aspx"
+    },
+    {
+      "label": "Reuters — confirmación independiente",
+      "url": "https://www.reuters.com/world/europe/spanish-pm-sanchez-calls-snap-election-november-29-2026-10-05/"
+    },
+    {
+      "label": "Associated Press — confirmación independiente",
+      "url": "https://apnews.com/article/spain-sanchez-election-housing-7d8347e35f1a9e2965ea5b0f8c012bd8"
+    }
+  ]
+}
