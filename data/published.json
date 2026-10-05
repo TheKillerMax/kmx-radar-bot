@@ -513,6 +513,41 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Un peluche de Pikachu pasó 67 días en la Estación Espacial Internacional y ahora protagoniza una campaña de la ESA",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/01-pikachu-en-la-iss.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/02-que-pasa-ahora.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/03-67-dias.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/04-no-fue-mision-cientifica.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/05-exposiciones.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/06-pokemon-go.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261005-pokemon-esa-space-week-v2/07-que-sigue.png"
+      ],
+      "media_id": "18097352330387448",
+      "publication_id": "kmx-20261005-pokemon-esa-space-week-v2",
+      "published_at": "2026-10-05T16:26:00Z",
+      "source_event_id": "03-38637e179f4d620b",
+      "sources": [
+        {
+          "label": "Agencia Espacial Europea — colaboración, viaje del peluche y programación",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
+        },
+        {
+          "label": "Pokémon — Semana Mundial del Espacio 2026",
+          "url": "https://www.pokemon.com/uk/news/pokemon-and-the-european-space-agency-celebrate-world-space-week-2026"
+        },
+        {
+          "label": "Space.com — confirmación independiente",
+          "url": "https://www.space.com/entertainment/pikachu-in-space-new-esa-pokemon-partnership-sends-the-electric-mouse-to-the-iss"
+        },
+        {
+          "label": "ESA — licencia y condiciones de uso de imágenes",
+          "url": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+        }
+      ],
+      "status": "CORRECCIÓN"
     }
   ]
 }
