@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-06T16:28:00Z",
+  "note": "Material real y trazable. La fotografía naval es ARCHIVO de enero de 2026 y no documenta los combates de octubre. El mapa es una IMAGEN DE REFERENCIA y no representa líneas actuales de control territorial.",
+  "assets": [
+    {
+      "key": "bab_ship",
+      "source_url": "https://www.dvidshub.net/image/9483379/uss-roosevelt-ddg-80-transits-bab-el-mandeb",
+      "direct_url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2601/9483379/1000w_q95.jpg",
+      "original_creator": "Mass Communication Specialist 1st Class Indra Beaufort / U.S. Navy",
+      "license_or_permission": "Public domain — U.S. Navy work identified by DVIDS; reuse subject to DVIDS copyright restrictions",
+      "attribution_required": true,
+      "attribution_text": "U.S. Navy photo by Mass Communication Specialist 1st Class Indra Beaufort / DVIDS — Public Domain",
+      "local_path": "downloaded during GitHub Actions and used as archive/reference imagery",
+      "retrieved_at": "2026-10-06",
+      "notes": "USS Roosevelt (DDG 80) transitando Bab el Mandeb el 12 de enero de 2026. ARCHIVO; no muestra la ofensiva del 5–6 de octubre de 2026."
+    },
+    {
+      "key": "bab_map",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Map_of_Bab-el-Mandeb.png",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Map_of_Bab-el-Mandeb.png",
+      "original_creator": "Archer90; map information from OpenStreetMap contributors",
+      "license_or_permission": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0); OpenStreetMap data under ODbL",
+      "attribution_required": true,
+      "attribution_text": "Archer90 / Wikimedia Commons — CC BY-SA 3.0; OpenStreetMap contributors — ODbL",
+      "local_path": "downloaded during GitHub Actions and used as reference map",
+      "retrieved_at": "2026-10-06",
+      "notes": "Mapa de referencia de Bab el Mandeb publicado en 2015. IMAGEN DE REFERENCIA; no representa el frente ni líneas de control territorial de octubre de 2026."
+    }
+  ]
+}

@@ -4,64 +4,66 @@
   "source_event_id": "08-fa185e7079878c00",
   "ready_to_publish": false,
   "status": "editorial_ready_for_visuals",
-  "headline": "Fuerzas del Gobierno de Yemen recuperan posiciones junto a Bab el Mandeb; los hutíes niegan la retirada",
-  "caption": "Fuerzas del Gobierno de Yemen recuperaron posiciones junto al estrecho de Bab el Mandeb, una ruta que conecta el mar Rojo con el golfo de Adén. El Gobierno asegura que controla el paso marítimo; los hutíes niegan haber retrocedido en esos términos y la situación sigue en desarrollo.\n\nReuters y Associated Press confirmaron avances de fuerzas respaldadas por Arabia Saudí en zonas de Dhubab y otros puntos próximos al estrecho. La agencia estatal SABA atribuyó a las Fuerzas Armadas yemeníes la afirmación de control total.\n\nBab el Mandeb importa fuera de Yemen porque forma parte de la ruta marítima entre el océano Índico, el mar Rojo y el canal de Suez. Un cambio en el terreno puede modificar el riesgo para los buques, pero no significa por sí solo que la ruta sea segura ni que la guerra haya terminado.\n\nEste post separa lo confirmado, lo declarado por cada bando y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press, Organización Marítima Internacional y Naciones Unidas.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
+  "headline": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha; el alcance sigue disputado",
+  "caption": "Fuerzas del Gobierno de Yemen, respaldadas por Arabia Saudí, avanzaron por la costa occidental y el Gobierno afirma haber retomado Bab el Mandeb y Mocha. Reuters y Associated Press confirman avances y la recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente y los hutíes disputan esa versión.\n\nBab el Mandeb conecta el mar Rojo con el golfo de Adén y forma parte de la ruta marítima hacia el canal de Suez. Un cambio territorial puede modificar el riesgo para buques, seguros y cadenas logísticas, pero no significa por sí solo que la navegación sea segura ni que la guerra haya terminado.\n\nLa situación sigue en desarrollo. Este post separa lo confirmado, lo declarado por las partes y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press y Organización Marítima Internacional.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
   "ai_generated": true,
   "created_at": "2026-10-06T15:26:35Z",
+  "updated_at": "2026-10-06T16:28:00Z",
+  "freshness_note": "Actualizado antes de FASE 2 con la declaración oficial sobre Mocha y las verificaciones independientes más recientes; se mantiene explícita la falta de verificación independiente completa del alcance territorial.",
   "sources": [
     {
       "url": "https://www.sabanew.net/story/en/153497",
-      "label": "SABA — recuperación de Dhubab y zonas próximas a Bab el Mandeb"
+      "label": "SABA — recuperación de Dhubab y posiciones próximas a Bab el Mandeb"
     },
     {
-      "url": "https://mail.sabanew.net/story/en/153498",
-      "label": "SABA — declaración oficial sobre control del estrecho"
+      "url": "https://sabanew.net/story/en/153498",
+      "label": "SABA — declaración oficial sobre Bab el Mandeb"
+    },
+    {
+      "url": "https://mail.sabanew.net/story/ar/153511",
+      "label": "SABA — declaración oficial sobre Mocha"
     },
     {
       "url": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/",
-      "label": "Reuters — confirmación independiente de avances en Dhubab"
+      "label": "Reuters — avances y límites de la verificación independiente"
     },
     {
       "url": "https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32",
-      "label": "Associated Press — avances alrededor del estrecho"
+      "label": "Associated Press — recuperación de varias zonas alrededor del estrecho"
     },
     {
       "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx",
       "label": "Organización Marítima Internacional — contexto de la ruta del mar Rojo"
-    },
-    {
-      "url": "https://yemen.un.org/en/323279-who-scales-health-response-escalating-conflict-deepens-health-needs-yemen",
-      "label": "Naciones Unidas en Yemen — contexto humanitario"
     }
   ],
   "images": [
     {
       "path": "01-que-esta-pasando.png",
-      "alt_text": "Fuerzas del Gobierno de Yemen recuperaron posiciones junto al estrecho de Bab el Mandeb; los hutíes niegan haberse retirado en esos términos y la situación sigue en desarrollo."
+      "alt_text": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha tras una ofensiva respaldada por Arabia Saudí; el alcance exacto del control sigue disputado."
     },
     {
       "path": "02-donde-esta.png",
-      "alt_text": "Mapa de Bab el Mandeb entre Yemen y el Cuerno de África, que conecta el mar Rojo con el golfo de Adén y la ruta hacia el canal de Suez."
+      "alt_text": "Mapa de referencia de Bab el Mandeb entre Yemen y Yibuti, en la conexión entre el mar Rojo y el golfo de Adén."
     },
     {
       "path": "03-que-sabemos.png",
-      "alt_text": "Resumen de hechos confirmados: fuerzas gubernamentales yemeníes avanzaron en Dhubab y zonas próximas al estrecho con respaldo saudí."
+      "alt_text": "Reuters y Associated Press confirman avances y recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente."
     },
     {
       "path": "04-que-dice-cada-lado.png",
-      "alt_text": "Comparación entre la afirmación del Gobierno yemení sobre el control de Bab el Mandeb y la negativa de los hutíes a reconocer la retirada descrita por sus adversarios."
+      "alt_text": "El Gobierno de Yemen afirma controlar Bab el Mandeb y Mocha; los hutíes disputan el alcance de esas ganancias."
     },
     {
       "path": "05-por-que-importa.png",
-      "alt_text": "Diagrama de la ruta marítima entre el océano Índico, el golfo de Adén, el mar Rojo y el canal de Suez para explicar por qué Bab el Mandeb importa al comercio."
+      "alt_text": "Bab el Mandeb forma parte de la ruta marítima entre el océano Índico, el golfo de Adén, el mar Rojo y el canal de Suez."
     },
     {
       "path": "06-que-no-cambia.png",
-      "alt_text": "La guerra en Yemen continúa, los hutíes mantienen Saná y amplias zonas del noroeste y el riesgo marítimo no desaparece automáticamente."
+      "alt_text": "La guerra en Yemen y la crisis humanitaria continúan, y la seguridad marítima no depende únicamente del control terrestre."
     },
     {
       "path": "07-que-puede-pasar.png",
-      "alt_text": "Próximos puntos a vigilar: si los avances se mantienen, si cambian las alertas para la navegación y si aparecen nuevas verificaciones independientes."
+      "alt_text": "Las próximas señales son si los avances se consolidan, si aparecen nuevas verificaciones independientes y si cambian las alertas de navegación."
     }
   ]
 }
