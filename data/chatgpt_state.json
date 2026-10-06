@@ -1,11 +1,11 @@
 {
   "last_processed_generated_at": "2026-10-05T21:58:08Z",
   "last_publication_id": "kmx-20261006-chatgpt-anuncios-visuales",
-  "last_result": "visuals_ready",
+  "last_result": "phase3_approved",
   "next_publish_retry_at": null,
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "note": "Phase 3 approved: official OpenAI announcement and Help Center revalidated on 2026-10-06; 7/7 rendered images exist and visual QC passed at 1080x1350; both external visuals are verified CC BY 2.0 Wikimedia Commons assets; public Spanish text is UTF-8 NFC with no detected accent loss; hashtags refined to #KMXRadar #ChatGPT #OpenAI #ChatGPTAds #InteligenciaArtificial. Waiting for publisher receipt.",
   "pending_manifest_generated_at": null,
-  "phase": "visuals_ready",
+  "phase": "publishing",
   "source_event_id": "04-94296047657e4a5a",
   "visuals_completed_at": "2026-10-06T04:34:47Z"
 }

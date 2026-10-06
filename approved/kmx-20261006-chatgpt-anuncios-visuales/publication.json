@@ -1,6 +1,6 @@
 {
   "ai_generated": true,
-  "caption": "OpenAI anunció que probará anuncios visuales en ChatGPT durante la generación de imágenes.\n\nLa prueba empezará más adelante en octubre de 2026 en Estados Unidos con un grupo inicial de anunciantes. OpenAI dice que las piezas patrocinadas estarán claramente identificadas, separadas de la imagen que estés creando y que no cambiarán las respuestas de ChatGPT.\n\nSegún el Centro de ayuda de OpenAI, los anuncios pueden aparecer en Free y Go; Plus, Pro, Business, Enterprise y Edu siguen sin anuncios. La empresa también afirma que los anunciantes no reciben tus conversaciones privadas.\n\nEste post explica qué cambia, qué no cambia y qué falta por saber antes de que el nuevo formato se amplíe.\n\nFuentes: OpenAI, TechCrunch, The Verge y Cinco Días.\n\n#KMXRadar #ChatGPT #OpenAI #PublicidadDigital #InteligenciaArtificial",
+  "caption": "OpenAI anunció que probará anuncios visuales en ChatGPT durante la generación de imágenes.\n\nLa prueba empezará más adelante en octubre de 2026 en Estados Unidos con un grupo inicial de anunciantes. OpenAI dice que las piezas patrocinadas estarán claramente identificadas, separadas de la imagen que estés creando y que no cambiarán las respuestas de ChatGPT.\n\nSegún el Centro de ayuda de OpenAI, los anuncios pueden aparecer en Free y Go; Plus, Pro, Business, Enterprise y Edu siguen sin anuncios. La empresa también afirma que los anunciantes no reciben tus conversaciones privadas.\n\nEste post explica qué cambia, qué no cambia y qué falta por saber antes de que el nuevo formato se amplíe.\n\nFuentes: OpenAI, TechCrunch, The Verge y Cinco Días.\n\n#KMXRadar #ChatGPT #OpenAI #ChatGPTAds #InteligenciaArtificial",
   "created_at": "2026-10-06T03:34:43Z",
   "headline": "OpenAI probará anuncios visuales en ChatGPT cuando generes imágenes",
   "images": [
@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261006-chatgpt-anuncios-visuales",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "04-94296047657e4a5a",
   "sources": [
@@ -55,6 +55,17 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-06T04:34:47Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-06T04:34:47Z",
+  "approved_at": "2026-10-06T05:28:11Z",
+  "phase3_qc": {
+    "checked_at": "2026-10-06T05:28:11Z",
+    "freshness": "pass",
+    "visual_qc": "pass",
+    "visual_rights": "pass",
+    "unicode_nfc": "pass",
+    "spanish_orthography": "pass",
+    "duplicate_publication_id": "pass",
+    "hashtags": "pass"
+  }
 }
