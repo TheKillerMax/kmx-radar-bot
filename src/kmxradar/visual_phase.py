@@ -3,6 +3,8 @@ from __future__ import annotations
 from pathlib import Path
 import json
 import logging
+import re
+import unicodedata
 
 from PIL import Image
 
@@ -45,6 +47,133 @@ def _phase_for(package_dir: Path) -> str:
     return str(handoff.get("phase") or "")
 
 
+PUBLIC_TEXT_FIELDS = {
+    "kicker",
+    "title",
+    "body",
+    "bullets",
+    "callout",
+    "footer",
+    "stat_label",
+    "sources",
+    "alt_text",
+}
+
+# Accentless spellings that are unambiguously invalid in normal Spanish public copy.
+_ALWAYS_DEGRADED_SPANISH = {
+    "acompano": "acompaño/acompañó",
+    "pokemon": "Pokémon",
+    "mision": "misión",
+    "estacion": "estación",
+    "dias": "días",
+    "orbita": "órbita",
+}
+
+# Accentless forms that are legitimate Spanish words in other contexts and therefore
+# must not be rejected solely by token comparison.
+_AMBIGUOUS_ACCENTLESS = {
+    "si", "que", "como", "cuando", "donde", "quien", "cual", "cuanto",
+    "aun", "solo", "el", "tu", "mi", "de", "mas", "se", "te",
+}
+
+
+def _flatten_public_strings(value) -> list[str]:
+    if isinstance(value, str):
+        return [value]
+    if isinstance(value, list):
+        result: list[str] = []
+        for item in value:
+            result.extend(_flatten_public_strings(item))
+        return result
+    return []
+
+
+def _publication_public_text(package_dir: Path) -> str:
+    manifest = read_json(package_dir / "publication.json", {})
+    parts = [
+        str(manifest.get("headline") or ""),
+        str(manifest.get("caption") or ""),
+    ]
+    images = manifest.get("images") or []
+    if isinstance(images, list):
+        for image in images:
+            if isinstance(image, dict):
+                parts.append(str(image.get("alt_text") or ""))
+    return "\n".join(parts)
+
+
+def _strip_diacritics(value: str) -> str:
+    return "".join(
+        ch for ch in unicodedata.normalize("NFD", value)
+        if unicodedata.category(ch) != "Mn"
+    )
+
+
+def _validate_spanish_unicode(package_dir: Path, slides: list[dict]) -> None:
+    publication_text = _publication_public_text(package_dir)
+    canonical_by_ascii: dict[str, set[str]] = {}
+    for token in re.findall(r"[^\W\d_]+", publication_text, flags=re.UNICODE):
+        stripped = _strip_diacritics(token)
+        if stripped != token:
+            canonical_by_ascii.setdefault(stripped.casefold(), set()).add(token)
+
+    publication_lower = publication_text.casefold()
+    for idx, spec in enumerate(slides, start=1):
+        for field in PUBLIC_TEXT_FIELDS:
+            for text in _flatten_public_strings(spec.get(field)):
+                if unicodedata.normalize("NFC", text) != text:
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} is not Unicode NFC"
+                    )
+                if "\ufffd" in text:
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} contains replacement characters"
+                    )
+                if "?" in text and "¿" not in text:
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} uses '?' without Spanish opening '¿'"
+                    )
+                if "!" in text and "¡" not in text:
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} uses '!' without Spanish opening '¡'"
+                    )
+
+                lowered = text.casefold()
+                for bad, expected in _ALWAYS_DEGRADED_SPANISH.items():
+                    if re.search(rf"(?<!\w){re.escape(bad)}(?!\w)", lowered, flags=re.UNICODE):
+                        raise RuntimeError(
+                            f"{package_dir.name}: slide {idx} field {field!r} contains degraded Spanish "
+                            f"{bad!r}; expected {expected!r}"
+                        )
+
+                # "campana" is a valid word (bell), so only reject it when the publication
+                # establishes "campaña" as the intended lexical item.
+                if "campaña" in publication_lower and re.search(
+                    r"(?<!\w)campana(?!\w)", lowered, flags=re.UNICODE
+                ):
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} lost ñ in 'campaña'"
+                    )
+
+                # A label such as QUE PASO is a common ASCII degradation of QUÉ PASÓ.
+                if re.search(r"(?<!\w)que\s+paso(?!\w)", lowered, flags=re.UNICODE):
+                    raise RuntimeError(
+                        f"{package_dir.name}: slide {idx} field {field!r} must use 'QUÉ PASÓ' when interrogative"
+                    )
+
+                for token in re.findall(r"[^\W\d_]+", text, flags=re.UNICODE):
+                    ascii_key = _strip_diacritics(token).casefold()
+                    if ascii_key in _AMBIGUOUS_ACCENTLESS:
+                        continue
+                    canon = canonical_by_ascii.get(ascii_key)
+                    if canon and _strip_diacritics(token) == token:
+                        expected = sorted(canon)[0]
+                        raise RuntimeError(
+                            f"{package_dir.name}: slide {idx} field {field!r} lost a diacritic in "
+                            f"{token!r}; publication.json uses {expected!r}"
+                        )
+
+
 def _validate_visual_spec(package_dir: Path, visuals: dict, rights_assets: list[dict]) -> list[dict]:
     slides = visuals.get("slides")
     if not isinstance(slides, list) or not (6 <= len(slides) <= 10):
@@ -52,6 +181,8 @@ def _validate_visual_spec(package_dir: Path, visuals: dict, rights_assets: list[
             f"{package_dir.name}: visuals.json must contain 6 to 10 complete slides; "
             f"got {0 if not isinstance(slides, list) else len(slides)}"
         )
+
+    _validate_spanish_unicode(package_dir, slides)
 
     sources = visuals.get("sources")
     if not isinstance(sources, dict) or not sources:
