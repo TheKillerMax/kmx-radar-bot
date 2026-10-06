@@ -1,8 +1,8 @@
 {
   "ai_generated": true,
-  "caption": "Fuerzas del Gobierno de Yemen, respaldadas por Arabia Saudí, avanzaron por la costa occidental y el Gobierno afirma haber retomado Bab el Mandeb y Mocha. Reuters y Associated Press confirman avances y la recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente y los hutíes disputan esa versión.\n\nBab el Mandeb conecta el mar Rojo con el golfo de Adén y forma parte de la ruta marítima hacia el canal de Suez. Un cambio territorial puede modificar el riesgo para buques, seguros y cadenas logísticas, pero no significa por sí solo que la navegación sea segura ni que la guerra haya terminado.\n\nLa situación sigue en desarrollo. Este post separa lo confirmado, lo declarado por las partes y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press y Organización Marítima Internacional.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
+  "caption": "Fuerzas del Gobierno de Yemen, respaldadas por Arabia Saudí, avanzaron por la costa occidental y el Gobierno afirma haber retomado Bab el Mandeb y Mocha. Reuters y Associated Press confirman avances y la recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente y los hutíes disputan esa versión.\n\nBab el Mandeb conecta el mar Rojo con el golfo de Adén y forma parte de la ruta marítima hacia el canal de Suez. Un cambio territorial puede modificar el riesgo para buques, seguros y cadenas logísticas, pero no significa por sí solo que la navegación sea segura ni que la guerra haya terminado.\n\nLa situación sigue en desarrollo. Este post separa lo confirmado, lo declarado por las partes y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press y Organización Marítima Internacional.\n\n#KMXRadar #Yemen #BabAlMandeb #RedSea #Geopolítica",
   "created_at": "2026-10-06T15:26:35Z",
-  "freshness_note": "Actualizado antes de FASE 2 con la declaración oficial sobre Mocha y las verificaciones independientes más recientes; se mantiene explícita la falta de verificación independiente completa del alcance territorial.",
+  "freshness_note": "Revalidado el 6 de octubre de 2026 antes de publicar: Reuters y AP siguen confirmando avances gubernamentales y la recuperación de varias zonas; el Gobierno afirma controlar Bab el Mandeb y Mocha, mientras Reuters no puede verificar de forma independiente todo el alcance y los hutíes disputan la versión. La situación sigue en desarrollo.",
   "headline": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha; el alcance sigue disputado",
   "images": [
     {
@@ -35,7 +35,7 @@
     }
   ],
   "publication_id": "kmx-20261006-yemen-bab-el-mandeb",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "08-fa185e7079878c00",
   "sources": [
@@ -64,7 +64,8 @@
       "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx"
     }
   ],
-  "status": "visuals_ready",
+  "status": "VERIFICADO",
   "updated_at": "2026-10-06T16:28:00Z",
-  "visuals_completed_at": "2026-10-06T17:18:51Z"
+  "visuals_completed_at": "2026-10-06T17:18:51Z",
+  "approved_at": "2026-10-06T17:26:20Z"
 }
