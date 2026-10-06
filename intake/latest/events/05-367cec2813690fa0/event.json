@@ -1,0 +1,30 @@
+{
+  "event_id": "05-367cec2813690fa0",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El jefe saliente de prisiones de Tennessee tenía un historial de errores en ejecuciones antes de Christa Pike, según reportes - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El jefe saliente de prisiones de Tennessee tenía un historial de errores en ejecuciones antes de Christa Pike, según reportes - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZVJIdERZcEdJeXo4RGdDeVA3aDRmLTFyeHlXalBBaDd2RnFMY3lDOFRKbEkzeWQyNXNhdG5RMmNxdUNyOW94VzQ3NV81LWJkSmlCOFF6RnpWbG9FZlVmSkFzdE9WUlpPVGx4bjhINE0tdnF1MHNhLXM0Sk82UGNydWFMd0t4U3V3QU13?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 10:14:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El jefe saliente de prisiones de Tennessee tenía un historial de errores en ejecuciones antes de Christa Pike, según reportes CNN en Español Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos BBC Ejecucion fallida de convicta hace décadas en Tennessee KGET.com El fallo en la ejecución de Christa Pike salva la vida al asesino que pagó la fianza de la víctima solo para matarla Fox News El jefe de prisiones de Tennessee dimite tras el fallido intento de ejecución de Christa Pike Democracy Now!"
+    }
+  ]
+}

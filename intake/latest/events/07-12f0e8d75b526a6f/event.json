@@ -1,0 +1,30 @@
+{
+  "event_id": "07-12f0e8d75b526a6f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Policía de Cornell buscó registros telefónicos de Jane Doe que, según su abogado, no llegaron a la Fiscalía - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Policía de Cornell buscó registros telefónicos de Jane Doe que, según su abogado, no llegaron a la Fiscalía - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEFKREFiTnRDUDAxR2NpTmdLRldMWXdnRlBkdFpzTXBrNnJTaG00anJhQkVvcTAySUpsMDNuYVFqcDFWdlR6eGZOSi1UTVRjdVdFZWFBbmthRGdWVnk2b3dMZHNta3NfWDcyZ1VjYkFCb3VhT01peXNCOHNteGROalJfUTdZeWUwYnAwZEVKQQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 19:20:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Policía de Cornell buscó registros telefónicos de Jane Doe que, según su abogado, no llegaron a la Fiscalía CNN en Español Edificio de Cornell aparece con grafitis que critican respuesta a denuncia de violación grupal San Antonio Express-News Exclusivo: profesores de Cornell preparan moción de censura contra la administración por el presunto caso de agresión sexual CNN en Español Publicaciones de solidaridad con “Jane Doe” inundan las redes tras demanda por violación en Cornell Chicago Tribune Arrestado miembro de Cornell 7 que fue transferido a Nova Southeastern WPLG Local 10"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "10-1dc9a7d0d824fd32",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "\"Me toca el corazón\": los 'rescatistas' de comida en Miami - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "\"Me toca el corazón\": los 'rescatistas' de comida en Miami - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSkhGRnpzX0k1OVN2RnN5WDRLVGpsQlRVZlQxRTI5NW03YXJoeXdhZURVZGtwM3kweWJNQ1E5cXgzbU1TMnhsX0tIQ0VoWEJVNnNKT21janhlOTA40gFiQVVfeXFMTUo0MllNRXhEMGFVaGI0WkYxYzkxVE9rV2lOZ05KX1FIbnFuSVRDUjluU1NWTnZaek1FSGppQ2U4ejE5b1NGelZlYTFsak4wRllaQURxVjgzb0IyOGhwZzhTR1E?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 22:06:07 GMT",
+      "primary_hint": false,
+      "excerpt": "\"Me toca el corazón\": los 'rescatistas' de comida en Miami BBC"
+    }
+  ]
+}
