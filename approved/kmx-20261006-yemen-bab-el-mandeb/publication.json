@@ -1,69 +1,70 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261006-yemen-bab-el-mandeb",
-  "source_event_id": "08-fa185e7079878c00",
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals",
-  "headline": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha; el alcance sigue disputado",
-  "caption": "Fuerzas del Gobierno de Yemen, respaldadas por Arabia Saudí, avanzaron por la costa occidental y el Gobierno afirma haber retomado Bab el Mandeb y Mocha. Reuters y Associated Press confirman avances y la recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente y los hutíes disputan esa versión.\n\nBab el Mandeb conecta el mar Rojo con el golfo de Adén y forma parte de la ruta marítima hacia el canal de Suez. Un cambio territorial puede modificar el riesgo para buques, seguros y cadenas logísticas, pero no significa por sí solo que la navegación sea segura ni que la guerra haya terminado.\n\nLa situación sigue en desarrollo. Este post separa lo confirmado, lo declarado por las partes y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press y Organización Marítima Internacional.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
   "ai_generated": true,
+  "caption": "Fuerzas del Gobierno de Yemen, respaldadas por Arabia Saudí, avanzaron por la costa occidental y el Gobierno afirma haber retomado Bab el Mandeb y Mocha. Reuters y Associated Press confirman avances y la recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente y los hutíes disputan esa versión.\n\nBab el Mandeb conecta el mar Rojo con el golfo de Adén y forma parte de la ruta marítima hacia el canal de Suez. Un cambio territorial puede modificar el riesgo para buques, seguros y cadenas logísticas, pero no significa por sí solo que la navegación sea segura ni que la guerra haya terminado.\n\nLa situación sigue en desarrollo. Este post separa lo confirmado, lo declarado por las partes y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press y Organización Marítima Internacional.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
   "created_at": "2026-10-06T15:26:35Z",
-  "updated_at": "2026-10-06T16:28:00Z",
   "freshness_note": "Actualizado antes de FASE 2 con la declaración oficial sobre Mocha y las verificaciones independientes más recientes; se mantiene explícita la falta de verificación independiente completa del alcance territorial.",
-  "sources": [
-    {
-      "url": "https://www.sabanew.net/story/en/153497",
-      "label": "SABA — recuperación de Dhubab y posiciones próximas a Bab el Mandeb"
-    },
-    {
-      "url": "https://sabanew.net/story/en/153498",
-      "label": "SABA — declaración oficial sobre Bab el Mandeb"
-    },
-    {
-      "url": "https://mail.sabanew.net/story/ar/153511",
-      "label": "SABA — declaración oficial sobre Mocha"
-    },
-    {
-      "url": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/",
-      "label": "Reuters — avances y límites de la verificación independiente"
-    },
-    {
-      "url": "https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32",
-      "label": "Associated Press — recuperación de varias zonas alrededor del estrecho"
-    },
-    {
-      "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx",
-      "label": "Organización Marítima Internacional — contexto de la ruta del mar Rojo"
-    }
-  ],
+  "headline": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha; el alcance sigue disputado",
   "images": [
     {
-      "path": "01-que-esta-pasando.png",
-      "alt_text": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha tras una ofensiva respaldada por Arabia Saudí; el alcance exacto del control sigue disputado."
+      "alt_text": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha tras una ofensiva respaldada por Arabia Saudí; el alcance exacto del control sigue disputado.",
+      "path": "01-que-esta-pasando.png"
     },
     {
-      "path": "02-donde-esta.png",
-      "alt_text": "Mapa de referencia de Bab el Mandeb entre Yemen y Yibuti, en la conexión entre el mar Rojo y el golfo de Adén."
+      "alt_text": "Mapa de referencia de Bab el Mandeb entre Yemen y Yibuti, en la conexión entre el mar Rojo y el golfo de Adén.",
+      "path": "02-donde-esta.png"
     },
     {
-      "path": "03-que-sabemos.png",
-      "alt_text": "Reuters y Associated Press confirman avances y recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente."
+      "alt_text": "Reuters y Associated Press confirman avances y recuperación de varias zonas, pero el alcance total del control no está verificado de forma independiente.",
+      "path": "03-que-sabemos.png"
     },
     {
-      "path": "04-que-dice-cada-lado.png",
-      "alt_text": "El Gobierno de Yemen afirma controlar Bab el Mandeb y Mocha; los hutíes disputan el alcance de esas ganancias."
+      "alt_text": "El Gobierno de Yemen afirma controlar Bab el Mandeb y Mocha; los hutíes disputan el alcance de esas ganancias.",
+      "path": "04-que-dice-cada-lado.png"
     },
     {
-      "path": "05-por-que-importa.png",
-      "alt_text": "Bab el Mandeb forma parte de la ruta marítima entre el océano Índico, el golfo de Adén, el mar Rojo y el canal de Suez."
+      "alt_text": "Bab el Mandeb forma parte de la ruta marítima entre el océano Índico, el golfo de Adén, el mar Rojo y el canal de Suez.",
+      "path": "05-por-que-importa.png"
     },
     {
-      "path": "06-que-no-cambia.png",
-      "alt_text": "La guerra en Yemen y la crisis humanitaria continúan, y la seguridad marítima no depende únicamente del control terrestre."
+      "alt_text": "La guerra en Yemen y la crisis humanitaria continúan, y la seguridad marítima no depende únicamente del control terrestre.",
+      "path": "06-que-no-cambia.png"
     },
     {
-      "path": "07-que-puede-pasar.png",
-      "alt_text": "Las próximas señales son si los avances se consolidan, si aparecen nuevas verificaciones independientes y si cambian las alertas de navegación."
+      "alt_text": "Las próximas señales son si los avances se consolidan, si aparecen nuevas verificaciones independientes y si cambian las alertas de navegación.",
+      "path": "07-que-puede-pasar.png"
     }
-  ]
+  ],
+  "publication_id": "kmx-20261006-yemen-bab-el-mandeb",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "08-fa185e7079878c00",
+  "sources": [
+    {
+      "label": "SABA — recuperación de Dhubab y posiciones próximas a Bab el Mandeb",
+      "url": "https://www.sabanew.net/story/en/153497"
+    },
+    {
+      "label": "SABA — declaración oficial sobre Bab el Mandeb",
+      "url": "https://sabanew.net/story/en/153498"
+    },
+    {
+      "label": "SABA — declaración oficial sobre Mocha",
+      "url": "https://mail.sabanew.net/story/ar/153511"
+    },
+    {
+      "label": "Reuters — avances y límites de la verificación independiente",
+      "url": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/"
+    },
+    {
+      "label": "Associated Press — recuperación de varias zonas alrededor del estrecho",
+      "url": "https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32"
+    },
+    {
+      "label": "Organización Marítima Internacional — contexto de la ruta del mar Rojo",
+      "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx"
+    }
+  ],
+  "status": "visuals_ready",
+  "updated_at": "2026-10-06T16:28:00Z",
+  "visuals_completed_at": "2026-10-06T17:18:51Z"
 }

@@ -2,12 +2,12 @@
   "last_media_id": "18136579300649515",
   "last_processed_generated_at": "2026-10-06T10:06:25Z",
   "last_publication_id": "kmx-20261006-yemen-bab-el-mandeb",
-  "last_result": "visual_incomplete",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 2 preparó y validó un paquete visual completo, pero los controles de seguridad de la integración bloquearon avanzar el commit 42527367e67d5c7b75d0d54979135a9dfb3bdb99 a main. Los archivos completos quedaron en la rama temporal phase2-yemen-bab-recover-20261006; no se creó .visualize, .ready ni se publicó. Reanudar solo cuando pueda integrarse ese commit en main y verificarlo allí.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "visuals_ready",
   "published_at": null,
   "source_event_id": "08-fa185e7079878c00",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-06T17:18:51Z"
 }
