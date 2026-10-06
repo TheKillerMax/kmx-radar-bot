@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261006-ultraprocesados-infancia",
+  "source_event_id": "02-7121203c5f85dd2d",
+  "created_at": "2026-10-06T21:58:00Z",
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "Un estudio español relaciona el consumo de ultraprocesados en niños con hábitos familiares y de estilo de vida",
+  "caption": "Un estudio del proyecto INMA encontró asociaciones entre el consumo de alimentos ultraprocesados en niños españoles de 8 y 12 años y varios factores familiares y de estilo de vida.\n\nEntre los patrones observados aparecen un mayor consumo materno de ultraprocesados durante el embarazo y más tiempo frente al televisor. Algunas asociaciones cambiaron según la edad y el sexo, y el consumo previo de ultraprocesados también se relacionó con el consumo posterior.\n\nEl trabajo, publicado en BMC Public Health, analizó 1.565 participantes en la visita de 8 años y 314 en la de 12 años. Es un estudio observacional: identifica asociaciones, pero no demuestra que una conducta concreta cause por sí sola un mayor consumo.\n\nDesliza para ver qué encontró el estudio, qué límites tiene y por qué importa distinguir asociación de causalidad.\n\nFuentes: BMC Public Health, PubMed, proyecto INMA/UMH e ISABIAL.\n\n#KMXRadar #NutriciónInfantil #Ultraprocesados #SaludPública",
+  "images": [],
+  "sources": [
+    {
+      "label": "BMC Public Health — artículo original",
+      "url": "https://link.springer.com/article/10.1186/s12889-026-28008-6"
+    },
+    {
+      "label": "PubMed — registro del estudio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42316104/"
+    },
+    {
+      "label": "ISABIAL / UMH — contexto del grupo investigador",
+      "url": "https://isabial.es/en/isabial-researchers-identify-predictors-of-ultra%E2%80%91processed-food-consumption-in-4-year-old-spanish-children/"
+    },
+    {
+      "label": "Diario de Alicante — cobertura del estudio de 8–12 años",
+      "url": "https://diariodealicante.net/ultraprocesados-ninos-estudio-umh/"
+    }
+  ]
+}
