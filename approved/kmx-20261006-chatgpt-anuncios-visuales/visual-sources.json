@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-06T04:31:15Z",
+  "note": "Material real y trazable usado como ARCHIVO/IMAGEN DE REFERENCIA. Las fotografías son de 2023 y no documentan el nuevo formato de anuncios visuales anunciado por OpenAI en octubre de 2026.",
+  "assets": [
+    {
+      "key": "chatgpt_phone",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_and_laptop_(52917381683).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Smartphone_with_ChatGPT_app_and_laptop_%2852917381683%29.jpg",
+      "original_creator": "Jernej Furman",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Jernej Furman / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/reference imagery",
+      "retrieved_at": "2026-10-06",
+      "notes": "Fotografía real de 2023 de un teléfono con ChatGPT frente a un portátil. ARCHIVO/IMAGEN DE REFERENCIA; no muestra el formato publicitario visual de 2026."
+    },
+    {
+      "key": "chatgpt_magnifier",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ChatGPT_with_magnifying_glass_(52917074604).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/ChatGPT_with_magnifying_glass_%2852917074604%29.jpg",
+      "original_creator": "Jernej Furman",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "Jernej Furman / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/reference imagery",
+      "retrieved_at": "2026-10-06",
+      "notes": "Fotografía real de 2023 de ChatGPT visto a través de una lupa. ARCHIVO/IMAGEN DE REFERENCIA; no muestra el nuevo formato de anuncios visuales."
+    }
+  ]
+}

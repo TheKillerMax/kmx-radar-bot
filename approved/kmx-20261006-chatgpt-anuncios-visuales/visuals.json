@@ -1,0 +1,133 @@
+{
+  "theme": {
+    "name": "chatgpt-anuncios-visuales",
+    "background": "#07111F",
+    "panel": "#10243A",
+    "accent": "#4AD7D1",
+    "accent2": "#7AA7FF",
+    "warm": "#FFB85C",
+    "text": "#F7FAFC",
+    "muted": "#C6D3DF"
+  },
+  "sources": {
+    "chatgpt_phone": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Smartphone_with_ChatGPT_app_and_laptop_%2852917381683%29.jpg",
+      "credit": "Jernej Furman / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    },
+    "chatgpt_magnifier": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/ChatGPT_with_magnifying_glass_%2852917074604%29.jpg",
+      "credit": "Jernej Furman / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-anuncios-visuales.png",
+      "photo": "chatgpt_phone",
+      "archive": true,
+      "kicker": "QUÉ ESTÁ PASANDO",
+      "title": "CHATGPT PROBARÁ ANUNCIOS VISUALES AL GENERAR IMÁGENES",
+      "stat": "OCTUBRE",
+      "stat_label": "la prueba empieza más adelante este mes en Estados Unidos",
+      "footer": "Desliza: cómo aparecerán",
+      "sources": [
+        "OpenAI"
+      ],
+      "alt_text": "OpenAI probará anuncios visuales en ChatGPT durante la generación de imágenes más adelante en octubre de 2026 en Estados Unidos."
+    },
+    {
+      "n": 2,
+      "file": "02-como-apareceran.png",
+      "photo": "chatgpt_magnifier",
+      "archive": true,
+      "kicker": "CÓMO APARECERÁN",
+      "title": "EL ANUNCIO IRÁ SEPARADO DE LA IMAGEN QUE ESTÁS CREANDO",
+      "body": "OpenAI dice que estará claramente identificado como contenido patrocinado.",
+      "callout": "ESQUEMA EDITORIAL · NO ES UNA CAPTURA DEL NUEVO FORMATO",
+      "footer": "Desliza: quién puede ver anuncios",
+      "sources": [
+        "OpenAI"
+      ],
+      "alt_text": "El nuevo anuncio visual de ChatGPT aparecerá identificado y separado de la imagen que la persona esté generando."
+    },
+    {
+      "n": 3,
+      "file": "03-quien-puede-verlos.png",
+      "photo": "chatgpt_phone",
+      "archive": true,
+      "kicker": "QUIÉN PUEDE VERLOS",
+      "title": "FREE Y GO PUEDEN MOSTRAR ANUNCIOS",
+      "body": "Según OpenAI, Plus, Pro, Business, Enterprise y Edu no muestran anuncios.",
+      "footer": "Desliza: qué no cambia",
+      "sources": [
+        "OpenAI Help Center"
+      ],
+      "alt_text": "Los planes Free y Go pueden mostrar anuncios; Plus, Pro, Business, Enterprise y Edu no muestran anuncios según OpenAI."
+    },
+    {
+      "n": 4,
+      "file": "04-no-cambia-respuesta.png",
+      "photo": "chatgpt_magnifier",
+      "archive": true,
+      "kicker": "QUÉ NO CAMBIA",
+      "title": "OPENAI AFIRMA QUE LA PUBLICIDAD NO CAMBIA LAS RESPUESTAS",
+      "body": "Los anuncios funcionan en sistemas separados y los anunciantes no pueden alterar ni ordenar las respuestas de ChatGPT.",
+      "footer": "Desliza: qué pasa con tus conversaciones",
+      "sources": [
+        "OpenAI",
+        "OpenAI Help Center"
+      ],
+      "alt_text": "OpenAI afirma que los anuncios no influyen en las respuestas de ChatGPT y funcionan en sistemas separados."
+    },
+    {
+      "n": 5,
+      "file": "05-privacidad.png",
+      "photo": "chatgpt_phone",
+      "archive": true,
+      "kicker": "PRIVACIDAD",
+      "title": "LOS ANUNCIANTES NO RECIBEN TUS CONVERSACIONES",
+      "body": "OpenAI dice que solo reciben métricas agregadas y no identificables sobre el rendimiento de sus anuncios.",
+      "footer": "Desliza: qué falta por saber",
+      "sources": [
+        "OpenAI Help Center"
+      ],
+      "alt_text": "OpenAI afirma que los anunciantes no acceden a las conversaciones y reciben métricas agregadas de rendimiento."
+    },
+    {
+      "n": 6,
+      "file": "06-por-confirmar.png",
+      "photo": "chatgpt_magnifier",
+      "archive": true,
+      "kicker": "QUÉ FALTA POR SABER",
+      "title": "AÚN NO HAY UNA FECHA EXACTA DE INICIO",
+      "bullets": [
+        "La prueba empezará más adelante en octubre.",
+        "No se publicó la lista completa de anunciantes.",
+        "Tampoco hay un calendario global para este formato."
+      ],
+      "footer": "Desliza: qué puede pasar después",
+      "sources": [
+        "OpenAI"
+      ],
+      "alt_text": "OpenAI aún no ha dado una fecha exacta de inicio, la lista completa de anunciantes ni un calendario global del nuevo formato."
+    },
+    {
+      "n": 7,
+      "file": "07-que-puede-pasar.png",
+      "photo": "chatgpt_phone",
+      "archive": true,
+      "kicker": "QUÉ PUEDE PASAR DESPUÉS",
+      "title": "OPENAI EVALUARÁ LA PRUEBA ANTES DE AMPLIARLA",
+      "body": "El formato, los controles y el alcance pueden cambiar mientras OpenAI aprende de la prueba.",
+      "callout": "Guarda este post para revisar qué cambia cuando empiece la prueba.",
+      "footer": "Fuentes verificadas: OpenAI y Centro de ayuda",
+      "sources": [
+        "OpenAI",
+        "OpenAI Help Center"
+      ],
+      "alt_text": "OpenAI evaluará la prueba de anuncios visuales antes de una posible expansión y podrá cambiar el formato, los controles o el alcance."
+    }
+  ]
+}
