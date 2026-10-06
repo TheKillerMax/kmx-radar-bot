@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-06T22:34:00Z",
+  "note": "Material real y trazable usado como ARCHIVO/IMAGEN DE REFERENCIA. Las fotografías no documentan a participantes del estudio INMA.",
+  "assets": [
+    {
+      "key": "junk_food_nci",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grocery_bag_of_junk_foods.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grocery_bag_of_junk_foods.jpg",
+      "original_creator": "Bill Branson / National Cancer Institute",
+      "license_or_permission": "Dominio público de Estados Unidos (obra del National Institutes of Health / National Cancer Institute; la fuente indica ausencia de restricciones de reutilización)",
+      "attribution_required": false,
+      "attribution_text": "Bill Branson / National Cancer Institute — dominio público",
+      "local_path": "downloaded during GitHub Actions and used as archive/reference imagery",
+      "retrieved_at": "2026-10-06",
+      "notes": "Fotografía real de archivo de 1989 con alimentos de distinto grado de procesamiento. IMAGEN DE REFERENCIA; no representa una medición del proyecto INMA."
+    },
+    {
+      "key": "television_archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Old_TV_set_(3804053850).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_TV_set_%283804053850%29.jpg",
+      "original_creator": "tomislav medak",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "attribution_required": true,
+      "attribution_text": "tomislav medak / Wikimedia Commons — CC BY 2.0",
+      "local_path": "downloaded during GitHub Actions and used as archive/reference imagery",
+      "retrieved_at": "2026-10-06",
+      "notes": "Fotografía real de archivo de un televisor. IMAGEN DE REFERENCIA; ilustra la variable de tiempo frente al televisor sin representar una visita del estudio."
+    }
+  ]
+}

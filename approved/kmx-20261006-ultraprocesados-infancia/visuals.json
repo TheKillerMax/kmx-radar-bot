@@ -1,0 +1,125 @@
+{
+  "theme": {
+    "name": "ultraprocesados-infancia",
+    "background": "#07111F",
+    "panel": "#10243A",
+    "accent": "#4AD7D1",
+    "accent2": "#7AA7FF",
+    "warm": "#FFB85C",
+    "text": "#F7FAFC",
+    "muted": "#C6D3DF"
+  },
+  "sources": {
+    "junk_food_nci": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Grocery_bag_of_junk_foods.jpg",
+      "credit": "Bill Branson / National Cancer Institute · dominio público",
+      "archive": true
+    },
+    "television_archive": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_TV_set_%283804053850%29.jpg",
+      "credit": "tomislav medak / Wikimedia Commons · CC BY 2.0",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-habitos-familiares.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "ESTUDIO INMA",
+      "title": "HÁBITOS FAMILIARES SE ASOCIAN CON MÁS CONSUMO DE ULTRAPROCESADOS",
+      "stat": "1.565",
+      "stat_label": "participantes analizados en la visita de 8 años",
+      "callout": "ASOCIACIÓN ≠ CAUSALIDAD",
+      "footer": "Desliza: cómo se estudió",
+      "sources": ["BMC Public Health"],
+      "alt_text": "El estudio INMA encontró asociaciones entre hábitos familiares y mayor consumo de alimentos ultraprocesados en población infantil española; el análisis no demuestra causalidad."
+    },
+    {
+      "n": 2,
+      "file": "02-muestra.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "MUESTRA",
+      "title": "DOS VISITAS, DOS TAMAÑOS DE MUESTRA",
+      "stat": "1.565",
+      "stat_label": "participantes analizados a los 8 años",
+      "body": "A los 12 años, el análisis incluyó 314 participantes.",
+      "callout": "La muestra menor a los 12 años reduce la precisión de algunas estimaciones.",
+      "footer": "Desliza: consumo a los 8 años",
+      "sources": ["BMC Public Health"],
+      "alt_text": "El estudio analizó 1.565 participantes a los 8 años y 314 participantes a los 12 años."
+    },
+    {
+      "n": 3,
+      "file": "03-consumo-8-anos.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "A LOS 8 AÑOS",
+      "title": "LOS ULTRAPROCESADOS PROMEDIARON 282,2 G AL DÍA",
+      "stat": "25,4 %",
+      "stat_label": "de la ingesta diaria total medida por cantidad",
+      "body": "Dulces y bebidas fueron los principales grupos dentro del consumo de ultraprocesados.",
+      "footer": "Desliza: consumo a los 12 años",
+      "sources": ["BMC Public Health"],
+      "alt_text": "A los 8 años, el consumo medio de ultraprocesados fue de 282,2 gramos al día y representó el 25,4 por ciento de la ingesta diaria total medida por cantidad."
+    },
+    {
+      "n": 4,
+      "file": "04-consumo-12-anos.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "A LOS 12 AÑOS",
+      "title": "EL PROMEDIO BAJÓ A 251,6 G AL DÍA",
+      "stat": "20,2 %",
+      "stat_label": "de la ingesta diaria total medida por cantidad",
+      "body": "Los alimentos dulces fueron el principal grupo dentro del consumo de ultraprocesados.",
+      "footer": "Desliza: factor familiar",
+      "sources": ["BMC Public Health"],
+      "alt_text": "A los 12 años, el consumo medio de ultraprocesados fue de 251,6 gramos al día y representó el 20,2 por ciento de la ingesta diaria total medida por cantidad."
+    },
+    {
+      "n": 5,
+      "file": "05-consumo-materno.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "FACTOR FAMILIAR",
+      "title": "MÁS CONSUMO MATERNO DURANTE EL EMBARAZO SE ASOCIÓ CON MÁS CONSUMO INFANTIL",
+      "body": "La asociación apareció tanto a los 8 como a los 12 años en los modelos del estudio.",
+      "callout": "El resultado identifica una asociación estadística; no prueba una causa directa.",
+      "footer": "Desliza: tiempo frente al televisor",
+      "sources": ["BMC Public Health"],
+      "alt_text": "Un mayor consumo materno de ultraprocesados durante el embarazo se asoció con mayor consumo en la descendencia a los 8 y 12 años; el estudio no demuestra una relación causal directa."
+    },
+    {
+      "n": 6,
+      "file": "06-television.png",
+      "photo": "television_archive",
+      "archive": true,
+      "kicker": "TIEMPO FRENTE AL TELEVISOR",
+      "title": "MÁS TELEVISIÓN TAMBIÉN SE ASOCIÓ CON MAYOR CONSUMO",
+      "body": "La asociación se observó a los 8 y 12 años. El estudio no demuestra que ver televisión sea la causa.",
+      "footer": "Desliza: límite principal",
+      "sources": ["BMC Public Health"],
+      "alt_text": "Más tiempo frente al televisor se asoció con mayor consumo de ultraprocesados a los 8 y 12 años, sin demostrar que ver televisión sea la causa."
+    },
+    {
+      "n": 7,
+      "file": "07-no-causalidad.png",
+      "photo": "junk_food_nci",
+      "archive": true,
+      "kicker": "LÍMITE PRINCIPAL",
+      "title": "EL DISEÑO OBSERVACIONAL NO DEMUESTRA CAUSALIDAD",
+      "bullets": [
+        "La dieta se estimó con cuestionarios de frecuencia alimentaria.",
+        "La muestra de 12 años fue mucho menor.",
+        "Puede haber factores no medidos que influyan en las asociaciones."
+      ],
+      "callout": "El estudio identifica patrones; no una causa única.",
+      "footer": "Fuente principal: BMC Public Health",
+      "sources": ["BMC Public Health"],
+      "alt_text": "El estudio es observacional y no demuestra causalidad; usa cuestionarios de frecuencia alimentaria, tiene una muestra menor a los 12 años y puede estar afectado por factores no medidos."
+    }
+  ]
+}
