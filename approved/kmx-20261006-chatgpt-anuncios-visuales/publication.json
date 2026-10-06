@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261006-chatgpt-anuncios-visuales",
+  "source_event_id": "04-94296047657e4a5a",
+  "created_at": "2026-10-06T03:34:43Z",
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "OpenAI probará anuncios visuales en ChatGPT cuando generes imágenes",
+  "caption": "OpenAI anunció que probará anuncios visuales en ChatGPT durante la generación de imágenes.\n\nLa prueba empezará más adelante en octubre de 2026 en Estados Unidos con un grupo inicial de anunciantes. OpenAI dice que las piezas patrocinadas estarán claramente identificadas, separadas de la imagen que estés creando y que no cambiarán las respuestas de ChatGPT.\n\nSegún el Centro de ayuda de OpenAI, los anuncios pueden aparecer en Free y Go; Plus, Pro, Business, Enterprise y Edu siguen sin anuncios. La empresa también afirma que los anunciantes no reciben tus conversaciones privadas.\n\nEste post explica qué cambia, qué no cambia y qué falta por saber antes de que el nuevo formato se amplíe.\n\nFuentes: OpenAI, TechCrunch, The Verge y Cinco Días.\n\n#KMXRadar #ChatGPT #OpenAI #PublicidadDigital #InteligenciaArtificial",
+  "images": [],
+  "sources": [
+    {
+      "label": "OpenAI — anuncio oficial",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/"
+    },
+    {
+      "label": "OpenAI Help Center — anuncios en ChatGPT",
+      "url": "https://help.openai.com/en/articles/20001047-ads-in-chatgpt"
+    },
+    {
+      "label": "TechCrunch — confirmación independiente",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+      "label": "The Verge — confirmación independiente",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+    }
+  ]
+}
