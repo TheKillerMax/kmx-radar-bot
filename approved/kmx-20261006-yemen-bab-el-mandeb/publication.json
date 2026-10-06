@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261006-yemen-bab-el-mandeb",
+  "source_event_id": "08-fa185e7079878c00",
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "Fuerzas del Gobierno de Yemen recuperan posiciones junto a Bab el Mandeb; los hutíes niegan la retirada",
+  "caption": "Fuerzas del Gobierno de Yemen recuperaron posiciones junto al estrecho de Bab el Mandeb, una ruta que conecta el mar Rojo con el golfo de Adén. El Gobierno asegura que controla el paso marítimo; los hutíes niegan haber retrocedido en esos términos y la situación sigue en desarrollo.\n\nReuters y Associated Press confirmaron avances de fuerzas respaldadas por Arabia Saudí en zonas de Dhubab y otros puntos próximos al estrecho. La agencia estatal SABA atribuyó a las Fuerzas Armadas yemeníes la afirmación de control total.\n\nBab el Mandeb importa fuera de Yemen porque forma parte de la ruta marítima entre el océano Índico, el mar Rojo y el canal de Suez. Un cambio en el terreno puede modificar el riesgo para los buques, pero no significa por sí solo que la ruta sea segura ni que la guerra haya terminado.\n\nEste post separa lo confirmado, lo declarado por cada bando y lo que todavía no puede comprobarse de forma independiente.\n\nFuentes: Gobierno de Yemen/SABA, Reuters, Associated Press, Organización Marítima Internacional y Naciones Unidas.\n\n#KMXRadar #Yemen #BabElMandeb #MarRojo #Geopolítica",
+  "ai_generated": true,
+  "created_at": "2026-10-06T15:26:35Z",
+  "sources": [
+    {
+      "url": "https://www.sabanew.net/story/en/153497",
+      "label": "SABA — recuperación de Dhubab y zonas próximas a Bab el Mandeb"
+    },
+    {
+      "url": "https://mail.sabanew.net/story/en/153498",
+      "label": "SABA — declaración oficial sobre control del estrecho"
+    },
+    {
+      "url": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/",
+      "label": "Reuters — confirmación independiente de avances en Dhubab"
+    },
+    {
+      "url": "https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32",
+      "label": "Associated Press — avances alrededor del estrecho"
+    },
+    {
+      "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx",
+      "label": "Organización Marítima Internacional — contexto de la ruta del mar Rojo"
+    },
+    {
+      "url": "https://yemen.un.org/en/323279-who-scales-health-response-escalating-conflict-deepens-health-needs-yemen",
+      "label": "Naciones Unidas en Yemen — contexto humanitario"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-que-esta-pasando.png",
+      "alt_text": "Fuerzas del Gobierno de Yemen recuperaron posiciones junto al estrecho de Bab el Mandeb; los hutíes niegan haberse retirado en esos términos y la situación sigue en desarrollo."
+    },
+    {
+      "path": "02-donde-esta.png",
+      "alt_text": "Mapa de Bab el Mandeb entre Yemen y el Cuerno de África, que conecta el mar Rojo con el golfo de Adén y la ruta hacia el canal de Suez."
+    },
+    {
+      "path": "03-que-sabemos.png",
+      "alt_text": "Resumen de hechos confirmados: fuerzas gubernamentales yemeníes avanzaron en Dhubab y zonas próximas al estrecho con respaldo saudí."
+    },
+    {
+      "path": "04-que-dice-cada-lado.png",
+      "alt_text": "Comparación entre la afirmación del Gobierno yemení sobre el control de Bab el Mandeb y la negativa de los hutíes a reconocer la retirada descrita por sus adversarios."
+    },
+    {
+      "path": "05-por-que-importa.png",
+      "alt_text": "Diagrama de la ruta marítima entre el océano Índico, el golfo de Adén, el mar Rojo y el canal de Suez para explicar por qué Bab el Mandeb importa al comercio."
+    },
+    {
+      "path": "06-que-no-cambia.png",
+      "alt_text": "La guerra en Yemen continúa, los hutíes mantienen Saná y amplias zonas del noroeste y el riesgo marítimo no desaparece automáticamente."
+    },
+    {
+      "path": "07-que-puede-pasar.png",
+      "alt_text": "Próximos puntos a vigilar: si los avances se mantienen, si cambian las alertas para la navegación y si aparecen nuevas verificaciones independientes."
+    }
+  ]
+}
