@@ -1,10 +1,10 @@
 {
-  "last_processed_generated_at": "2026-10-05T10:18:22Z",
-  "last_publication_id": "kmx-20261005-elecciones-espana",
-  "last_result": "visual_incomplete",
+  "last_processed_generated_at": "2026-10-05T21:58:08Z",
+  "last_publication_id": "kmx-20261006-chatgpt-anuncios-visuales",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 2 bloqueada antes de cualquier escritura parcial: la integración de GitHub rechazó por controles de seguridad la escritura atómica de visual-sources.json + visuals.json para el paquete electoral. Los 5 archivos de FASE 1 están completos en main; las fuentes visuales y el copy Unicode fueron preparados y validados en memoria, pero no se persistieron. No se creó .visualize, .ready ni se publicó.",
+  "note": "FASE 1 completada: paquete editorial completo y verificado en main para el intake actual. No se creó .ready ni .visualize y no se publicó.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
-  "source_event_id": "05-605926558b300a88"
+  "phase": "editorial_ready_for_visuals",
+  "source_event_id": "04-94296047657e4a5a"
 }
