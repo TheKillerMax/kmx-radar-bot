@@ -1,0 +1,42 @@
+{
+  "event_id": "03-fcf03239164a4655",
+  "category": "VERIFICACIÓN",
+  "risk": "medium",
+  "canonical_title": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo - Reuters",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "chequeado.com",
+    "reuters.com"
+  ],
+  "high_trust_domains": [
+    "reuters.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDBETGFfUm9VTTZiakNPQjY0TTFBa2puMGNXR1ZSRlQzbDVZWWtSVGMyM2I2WXJGREk1Vk1nbzdRZV9kUFk5SEtQbjBiZWJ5RHFTWXRSZDR3ZTdZSmZGUGwtakJfTDVYNnFYU3hiaFJJdDdjdTlGelZ0VmRqdzEyaE14UUZDYXlp?oc=5",
+      "domain": "reuters.com",
+      "publisher": "Reuters",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 18:26:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo Reuters"
+    },
+    {
+      "title": "Es falso que Lula da Silva tiró la bandera brasileña al suelo después de votar en las elecciones 2026 - Chequeado",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVNTVFNqQTBfaVkxbUlPc1hKRXNjMTlvYjNlSmNEMnoyWkV5S1RmZlRYSUxUZFRTcFhTb2pFcWVpSkNXNXpiZTQ2cWp1aEN5Y3JXdk85Y3pjdVk4VVFYdjkxVnVLRk5XamJWNjRlZWpSdmVZY3pSTHZNNlVqR2JqLVRqamxmd3BfVFBMX0NqeFUwWlJfUTkyNkdCbmJjdElsdC1zNTdyZ0JqX3A3UUJsclBEaFM4Q2tweC1UZVBjTFpNMUVvSUo5Zmc0VzBDcGFxRF9KdTdhM3N2YlE?oc=5",
+      "domain": "chequeado.com",
+      "publisher": "Chequeado",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 04 Oct 2026 20:49:08 GMT",
+      "primary_hint": false,
+      "excerpt": "Es falso que Lula da Silva tiró la bandera brasileña al suelo después de votar en las elecciones 2026 Chequeado"
+    }
+  ]
+}

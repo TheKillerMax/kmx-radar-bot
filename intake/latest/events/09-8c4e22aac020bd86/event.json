@@ -1,0 +1,116 @@
+{
+  "event_id": "09-8c4e22aac020bd86",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Sakurajima aviso de ceniza volcánica: sin penacho observado al 6 oct. 2026, 18:00 UTC - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 9,
+  "rank_signal": 0.355,
+  "sources": [
+    {
+      "title": "Sakurajima aviso de ceniza volcánica: sin penacho observado al 6 oct. 2026, 18:00 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjdtOUw1eUc3SlJGdlJ1bVRiRjY4RVlYVXlaeWRfQWNRei11V0N4WFp3aE1EY2JUYkJQWU9aalE4bTN3Z3FpdVAtSGctNzMtVWRaTkQwZFJsYTBDUlh3TUFzb1JlWXZLMEREWWhLUS1aZzlleVU2RmM4YzhzYnFyelRXXzhTdjZtYVZISnQzMW5BSElPcGxaeHNVYw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 18:45:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Sakurajima aviso de ceniza volcánica: sin penacho observado al 6 oct. 2026, 18:00 UTC Volcano Discovery"
+    },
+    {
+      "title": "Manam: aviso de ceniza volcánica — nube hasta 7.000 ft (2.100 m) a fecha de 5 oct., 22:00 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcy1QMldSNWk5MUVkOWdKZW5FUVc0cUxvaU56MUtqR0FRRHBsakdMYktHVWRPcGxoaXV5SkpWSFEwSWVzMk9nYzVVT1JoUG9hN054aGd2aS1ZQmhMNmhIYUFITURFNlN3ZVUzaTlDYXdFYXZKY2pCTjg3NkprSlJ4M2YzSTROTjV6dG5SZkdGVER2TW8?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 22:33:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Manam: aviso de ceniza volcánica — nube hasta 7.000 ft (2.100 m) a fecha de 5 oct., 22:00 UTC Volcano Discovery"
+    },
+    {
+      "title": "Krakatoa: aviso de ceniza volcánica — nube hasta 5.000 ft (1.500 m) a fecha de 6 oct., 13:33 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2pRSHBkQWlyWmdid0NTWmdvV3BYemxDQTdmdTRJOUlHV2JlNkgwOVFhUTZQZEJjYW9vekxpdUN1XzViM0hMM3lqcGViRmNnSGdHRUNrYWJHRTFsN2hlbnptVkRYX0t0Q0ktSnVBbHRJQkw0cXVlWlFRTGZaTEIwOVNrNjFmUWxGZGx0cUpGMXR5eklKcmZ4MVk5UGFrUQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 13:52:58 GMT",
+      "primary_hint": false,
+      "excerpt": "Krakatoa: aviso de ceniza volcánica — nube hasta 5.000 ft (1.500 m) a fecha de 6 oct., 13:33 UTC Volcano Discovery"
+    },
+    {
+      "title": "Fuego aviso de ceniza volcánica - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2M1dTZIV1h6RUczeXUtd1dEZ09rLUVvUUVTbUFaWVd1QmxqM1p3eHJjUGxyVURteDZQNjVtN2pQNFVHVUduS0p1TXh0WFdHRGJ5Vk83R0V6c1loRDJvcWh1VkswWGxtQUZmT3lYOThGSng0SHY0WlBfNmluYWFjR1RjVkxObW1lWE9YUFJBQXNsMTU4NFE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 09:22:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Fuego aviso de ceniza volcánica Volcano Discovery"
+    },
+    {
+      "title": "Ibu: aviso de ceniza volcánica — nube hasta 7.000 ft (2.100 m) a fecha de 5 oct., 21:43 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUVFby1oNVZiZnZHUE5yLWEtekpaTWdNcWNBWXYxU2l3RXF6Ymw2a0tMOHo1QlNHc3hoblhVY2hjSHpUY21XZW5PNDlJVGlPdi1aM09XMk80RFBGaEdFbkxnY2I1SlFucUphNjhUU05sblI2aEs0dW90RkRFZlpKc0VKVFEzeXVpbmhqODRVTGoyWnc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 21:51:36 GMT",
+      "primary_hint": false,
+      "excerpt": "Ibu: aviso de ceniza volcánica — nube hasta 7.000 ft (2.100 m) a fecha de 5 oct., 21:43 UTC Volcano Discovery"
+    },
+    {
+      "title": "Sabancaya aviso de ceniza volcánica: sin penacho de ceniza observado al 06/10/2026, 13:40 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnA3SjIwNFJqYzZjUGJIVkJBVmpSMnZaOW44YW9HRVZ0bnBUOGh2ZUtVT1lTSFp0c3RFZ3VsYTd2T3lBa3ktbTBNZjJDLTlXQWM3RllUazBobzBSWHlVRVZoT3RuNWx1aEREVVhwb0FGSGtheWttaUxodjFPS0I3QzRuQTNUUHdrbXk3N0Y0NTZFcVNtX0VMTkln?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 16:06:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Sabancaya aviso de ceniza volcánica: sin penacho de ceniza observado al 06/10/2026, 13:40 UTC Volcano Discovery"
+    },
+    {
+      "title": "Sangay: aviso de ceniza volcánica — nube hasta 21.000 ft (6.400 m) a fecha de 6 oct., 05:20 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnRZaDdqMG9tVFE0R0hFVTk5d2syZFhRcTY0b1B2U1lqUmZCSkFwNHVCZHhhYmVvTHczNFZJa0Q4QmdrcnNYUTl6R21ERHFiaG5rNjN2U011OHBjOWlTc1ZkaDE0RlQwd2Q1THcxeHZqZWNsb1NoY2hoTXBrbFhaVlNsUkFtdllhRWRtQnhSazY1R1ZnMGc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 05:59:50 GMT",
+      "primary_hint": false,
+      "excerpt": "Sangay: aviso de ceniza volcánica — nube hasta 21.000 ft (6.400 m) a fecha de 6 oct., 05:20 UTC Volcano Discovery"
+    },
+    {
+      "title": "Karangetang: aviso de ceniza volcánica — nube hasta 8.000 ft (2.400 m) a fecha de 6 oct., 08:36 UTC - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlduQXZtSUNzd29jVUc4a1duUnBiRFNiQ1B4SWdSYnZWRm0tUkk1QXY0VTNKYVNkZTdRMGxtNi1Gd3VnS1o2c1hOY29kQWJJODJLLXFHYlRMcDJTNnRrazhTNmx0NWUyT0dXNDRNYUloV2ZkS2tiNGRzck1YbmNlNDlVSEhBMWxIVHBvVl9rUmhBVTlydTdjNmxB?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 08:49:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Karangetang: aviso de ceniza volcánica — nube hasta 8.000 ft (2.400 m) a fecha de 6 oct., 08:36 UTC Volcano Discovery"
+    },
+    {
+      "title": "Reventador aviso de ceniza volcánica - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVEtNW9lZzNFSThXLW9qY09DOXdlTTc0QUhjcnRLcjJYWVBwdjIwWkpCQjI2eU1fdEc2WGdCeFFaVnRzUEZ4d1FoTDE5OGdEUWgwMzBuV25RQXV1Q3dhaWt3cVFvc3lzUUVzX1JxQzZBdUZ0ZElLSmFrRjNOZ2c0MGlwT3ZZWHg3SHFORTNDNGVlTjIyb3NJaXhsR3d4LV9qdnc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 17:05:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Reventador aviso de ceniza volcánica Volcano Discovery"
+    }
+  ]
+}

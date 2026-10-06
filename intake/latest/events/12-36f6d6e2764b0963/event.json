@@ -1,0 +1,30 @@
+{
+  "event_id": "12-36f6d6e2764b0963",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump califica de \"gran victoria\" la ventaja de Bolsonaro en las elecciones pero prevé una segunda vuelta reñida - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump califica de \"gran victoria\" la ventaja de Bolsonaro en las elecciones pero prevé una segunda vuelta reñida - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnRDOHdqRVR3eW9hNWdXeVVxNnlRYXl4NDNGUzZVQUZCQmV5ZEVuUjB5WENpa1diZFR6UG1Ia2RhQk9Ed3hPSHpDcmhmOWFWUFNBdE1ILUxicjZFZEM0TEoxQnJGNTRMVTRmNUlBdk5RUjBqSnF2bE9VUzdVQ0l2VjJZd0xfMnEyR1haRjU2VkU0TTVsN21HVFFuczhDX2k3ZFZISnZQZ1p6WnU4T3JYaXRCbw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 05 Oct 2026 21:53:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump califica de \"gran victoria\" la ventaja de Bolsonaro en las elecciones pero prevé una segunda vuelta reñida CNN en Español Advierten que avances de la ultraderecha en el Congreso de Brasil amenazan protecciones ambientales AP News Lula pretende movilizar a los abstencionistas para consumar el milagro y vencer a Bolsonaro en Brasil EL PAÍS Ajuste necesario, pero improbable El Financiero Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después BBC"
+    }
+  ]
+}

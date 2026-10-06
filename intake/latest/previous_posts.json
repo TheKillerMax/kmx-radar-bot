@@ -583,6 +583,49 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "El Gobierno de Yemen afirma haber retomado Bab el Mandeb y Mocha; el alcance sigue disputado",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/01-que-esta-pasando.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/02-donde-esta.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/03-que-sabemos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/04-que-dice-cada-lado.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/05-por-que-importa.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/06-que-no-cambia.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-yemen-bab-el-mandeb/07-que-puede-pasar.png"
+      ],
+      "media_id": "18118001399050923",
+      "publication_id": "kmx-20261006-yemen-bab-el-mandeb",
+      "published_at": "2026-10-06T17:31:20Z",
+      "source_event_id": "08-fa185e7079878c00",
+      "sources": [
+        {
+          "label": "SABA — recuperación de Dhubab y posiciones próximas a Bab el Mandeb",
+          "url": "https://www.sabanew.net/story/en/153497"
+        },
+        {
+          "label": "SABA — declaración oficial sobre Bab el Mandeb",
+          "url": "https://sabanew.net/story/en/153498"
+        },
+        {
+          "label": "SABA — declaración oficial sobre Mocha",
+          "url": "https://mail.sabanew.net/story/ar/153511"
+        },
+        {
+          "label": "Reuters — avances y límites de la verificación independiente",
+          "url": "https://www.reuters.com/world/yemeni-government-forces-seize-district-by-bab-el-mandeb-military-sources-say-2026-10-05/"
+        },
+        {
+          "label": "Associated Press — recuperación de varias zonas alrededor del estrecho",
+          "url": "https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32"
+        },
+        {
+          "label": "Organización Marítima Internacional — contexto de la ruta del mar Rojo",
+          "url": "https://www.imo.org/en/ourwork/security/pages/redseaproject.aspx"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
