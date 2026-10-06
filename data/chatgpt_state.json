@@ -1,9 +1,10 @@
 {
   "last_processed_generated_at": "2026-10-06T20:10:33Z",
   "last_publication_id": "kmx-20261006-ultraprocesados-infancia",
-  "last_result": "editorial_ready_for_visuals",
-  "note": "Phase 1 completed for the latest intake. The five-file editorial package is verified in main; no .visualize or .ready was created.",
+  "last_result": "visuals_ready",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "editorial_ready_for_visuals",
-  "source_event_id": "02-7121203c5f85dd2d"
+  "phase": "visuals_ready",
+  "source_event_id": "02-7121203c5f85dd2d",
+  "visuals_completed_at": "2026-10-06T22:33:45Z"
 }

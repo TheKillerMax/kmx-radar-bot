@@ -1,14 +1,42 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261006-ultraprocesados-infancia",
-  "source_event_id": "02-7121203c5f85dd2d",
-  "created_at": "2026-10-06T21:58:00Z",
   "ai_generated": true,
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals",
-  "headline": "Un estudio español relaciona el consumo de ultraprocesados en niños con hábitos familiares y de estilo de vida",
   "caption": "Un estudio del proyecto INMA encontró asociaciones entre el consumo de alimentos ultraprocesados en niños españoles de 8 y 12 años y varios factores familiares y de estilo de vida.\n\nEntre los patrones observados aparecen un mayor consumo materno de ultraprocesados durante el embarazo y más tiempo frente al televisor. Algunas asociaciones cambiaron según la edad y el sexo, y el consumo previo de ultraprocesados también se relacionó con el consumo posterior.\n\nEl trabajo, publicado en BMC Public Health, analizó 1.565 participantes en la visita de 8 años y 314 en la de 12 años. Es un estudio observacional: identifica asociaciones, pero no demuestra que una conducta concreta cause por sí sola un mayor consumo.\n\nDesliza para ver qué encontró el estudio, qué límites tiene y por qué importa distinguir asociación de causalidad.\n\nFuentes: BMC Public Health, PubMed, proyecto INMA/UMH e ISABIAL.\n\n#KMXRadar #NutriciónInfantil #Ultraprocesados #SaludPública",
-  "images": [],
+  "created_at": "2026-10-06T21:58:00Z",
+  "headline": "Un estudio español relaciona el consumo de ultraprocesados en niños con hábitos familiares y de estilo de vida",
+  "images": [
+    {
+      "alt_text": "El estudio INMA encontró asociaciones entre hábitos familiares y mayor consumo de alimentos ultraprocesados en población infantil española; el análisis no demuestra causalidad.",
+      "path": "01-habitos-familiares.png"
+    },
+    {
+      "alt_text": "El estudio analizó 1.565 participantes a los 8 años y 314 participantes a los 12 años.",
+      "path": "02-muestra.png"
+    },
+    {
+      "alt_text": "A los 8 años, el consumo medio de ultraprocesados fue de 282,2 gramos al día y representó el 25,4 por ciento de la ingesta diaria total medida por cantidad.",
+      "path": "03-consumo-8-anos.png"
+    },
+    {
+      "alt_text": "A los 12 años, el consumo medio de ultraprocesados fue de 251,6 gramos al día y representó el 20,2 por ciento de la ingesta diaria total medida por cantidad.",
+      "path": "04-consumo-12-anos.png"
+    },
+    {
+      "alt_text": "Un mayor consumo materno de ultraprocesados durante el embarazo se asoció con mayor consumo en la descendencia a los 8 y 12 años; el estudio no demuestra una relación causal directa.",
+      "path": "05-consumo-materno.png"
+    },
+    {
+      "alt_text": "Más tiempo frente al televisor se asoció con mayor consumo de ultraprocesados a los 8 y 12 años, sin demostrar que ver televisión sea la causa.",
+      "path": "06-television.png"
+    },
+    {
+      "alt_text": "El estudio es observacional y no demuestra causalidad; usa cuestionarios de frecuencia alimentaria, tiene una muestra menor a los 12 años y puede estar afectado por factores no medidos.",
+      "path": "07-no-causalidad.png"
+    }
+  ],
+  "publication_id": "kmx-20261006-ultraprocesados-infancia",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "02-7121203c5f85dd2d",
   "sources": [
     {
       "label": "BMC Public Health — artículo original",
@@ -26,5 +54,7 @@
       "label": "Diario de Alicante — cobertura del estudio de 8–12 años",
       "url": "https://diariodealicante.net/ultraprocesados-ninos-estudio-umh/"
     }
-  ]
+  ],
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-06T22:33:45Z"
 }
