@@ -1,11 +1,13 @@
 {
+  "last_media_id": "18136579300649515",
   "last_processed_generated_at": "2026-10-05T21:58:08Z",
   "last_publication_id": "kmx-20261006-chatgpt-anuncios-visuales",
-  "last_result": "publishing",
+  "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Pipeline reconciler created the missing publish marker after all preflight checks passed.",
+  "note": "Publisher completed Instagram publication and recorded the receipt.",
   "pending_manifest_generated_at": null,
-  "phase": "publishing",
+  "phase": "published",
+  "published_at": "2026-10-06T05:33:22Z",
   "source_event_id": "04-94296047657e4a5a",
   "visuals_completed_at": "2026-10-06T04:34:47Z"
 }
