@@ -2,7 +2,7 @@
   "last_processed_generated_at": "2026-10-06T20:10:33Z",
   "last_publication_id": "kmx-20261006-ultraprocesados-infancia",
   "last_result": "publishing",
-  "note": "Phase 3 approved after blocking QC: package complete, 7/7 images present at 1080x1350, visual rights verified, Spanish Unicode/NFC and diacritics passed, no duplicate publication_id, discovery hashtags reviewed.",
+  "note": "Pipeline reconciler created the missing publish marker after all preflight checks passed.",
   "pending_manifest_generated_at": null,
   "phase": "publishing",
   "source_event_id": "02-7121203c5f85dd2d",
