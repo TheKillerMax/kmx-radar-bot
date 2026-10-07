@@ -1,0 +1,59 @@
+{
+  "ai_generated": true,
+  "caption": "La NASA publicó una nueva panorámica del amanecer en Marte tomada por su robot explorador Curiosity. La foto muestra rocas lejanas iluminadas por la mañana en el monte Sharp, dentro del cráter Gale.\n\nLa imagen no se tomó esta semana: Curiosity la captó el 11 de agosto de 2026 y la NASA la difundió el 6 de octubre. Son seis fotografías de su cámara Mastcam unidas en una sola vista.\n\nEn el horizonte aparecen crestas de roca que el viento fue esculpiendo durante muchísimo tiempo. Los científicos todavía investigan cómo se formó esa capa. Una posibilidad es que contenga ceniza de antiguas erupciones, pero no está confirmado.\n\nLa NASA espera que Curiosity llegue a la base de esas rocas en 2027 para estudiarlas de cerca. Es un objetivo previsto, no una llegada que ya haya ocurrido.\n\nDesliza para ver la imagen real, cuándo se tomó y qué busca descubrir la misión.\n\nFoto: NASA/JPL-Caltech/MSSS. Fuentes: NASA/JPL, Reuters y CNN Chile.\n\n#KMXRadar #Marte #CuriosityRover #NASA",
+  "created_at": "2026-10-07T21:33:21Z",
+  "headline": "La NASA muestra un amanecer en Marte captado por el robot Curiosity",
+  "images": [
+    {
+      "path": "01-amanecer-en-marte.png",
+      "alt_text": "Panorámica real del amanecer en Marte captada por Curiosity, robot explorador de la NASA, el 11 de agosto de 2026 y difundida en octubre. Las colinas lejanas están iluminadas por la mañana."
+    },
+    {
+      "path": "02-que-muestra-la-foto.png",
+      "alt_text": "Recorte de la panorámica oficial de Marte donde aparecen crestas rocosas moldeadas por el viento en el monte Sharp, fotografiadas desde lejos por Curiosity."
+    },
+    {
+      "path": "03-cuando-se-tomo.png",
+      "alt_text": "Cronología: Curiosity captó seis fotografías del amanecer marciano el 11 de agosto de 2026; la NASA difundió la panorámica el 6 de octubre de 2026."
+    },
+    {
+      "path": "04-donde-esta.png",
+      "alt_text": "Diagrama informativo, sin escala, de Marte con el cráter Gale y el monte Sharp, zona donde trabaja el robot Curiosity de la NASA desde 2012."
+    },
+    {
+      "path": "05-que-investigan.png",
+      "alt_text": "Fotografía de las crestas de roca marcianas. Los científicos investigan su origen; la posible ceniza de antiguos volcanes es una hipótesis no confirmada."
+    },
+    {
+      "path": "06-que-sigue.png",
+      "alt_text": "Panorámica real de las rocas lejanas de Marte con una línea de tiempo que señala el objetivo previsto para 2027: Curiosity espera llegar a su base para examinarlas."
+    }
+  ],
+  "publication_id": "kmx-20261007-curiosity-amanecer-marte",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "01-a9885e24dd72912d",
+  "sources": [
+    {
+      "label": "NASA/JPL — anuncio oficial del 6 de octubre de 2026",
+      "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-catches-stunning-martian-dawn/"
+    },
+    {
+      "label": "NASA Science — ficha de imagen PIA25629 del 7 de octubre",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
+    },
+    {
+      "label": "Reuters — cobertura independiente del 7 de octubre",
+      "url": "https://www.reuters.com/science/nasa-rover-takes-striking-image-dawns-early-light-mars-2026-10-07/"
+    },
+    {
+      "label": "CNN Chile — corroboración periodística del 7 de octubre",
+      "url": "https://www.cnnchile.com/mundo/curiosity-nasa-amanecer-marte-yardangs-monte-sharp/"
+    },
+    {
+      "label": "NASA JPL — política oficial de uso de imágenes",
+      "url": "https://www.jpl.nasa.gov/jpl-image-use-policy/"
+    }
+  ],
+  "status": "editorial_ready_for_visuals"
+}
