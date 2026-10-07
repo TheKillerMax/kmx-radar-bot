@@ -1,13 +1,13 @@
 {
   "last_media_id": "18011277323964942",
-  "last_processed_generated_at": "2026-10-06T20:10:33Z",
-  "last_publication_id": "kmx-20261006-ultraprocesados-infancia",
-  "last_result": "published",
+  "last_processed_generated_at": "2026-10-07T20:34:01Z",
+  "last_publication_id": "kmx-20261007-curiosity-amanecer-marte",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Pipeline reconciler confirmed the Instagram receipt and publication history.",
+  "note": "FASE 1 verificada en main; producción visual pendiente.",
   "pending_manifest_generated_at": null,
-  "phase": "published",
-  "published_at": "2026-10-07T05:38:04Z",
-  "source_event_id": "02-7121203c5f85dd2d",
-  "visuals_completed_at": "2026-10-06T22:33:45Z"
+  "phase": "editorial_ready_for_visuals",
+  "published_at": null,
+  "source_event_id": "01-a9885e24dd72912d",
+  "visuals_completed_at": null
 }
