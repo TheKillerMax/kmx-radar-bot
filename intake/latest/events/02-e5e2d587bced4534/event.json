@@ -1,30 +1,30 @@
 {
-  "event_id": "02-7121203c5f85dd2d",
+  "event_id": "02-e5e2d587bced4534",
   "category": "SALUD",
   "risk": "high",
-  "canonical_title": "Estos factores familiares y de estilo de vida se relacionan con consumir ultraprocesados en la infancia - Infosalus",
+  "canonical_title": "Un estudio liderado por la UMH analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia - Cadena SER",
   "intake_status": "SIN CONFIRMAR",
-  "verification_signal": 0.495,
+  "verification_signal": 0.52,
   "primary_source_present": false,
   "independent_domains": [
     "cadenaser.com",
-    "infosalus.com",
+    "ondacero.es",
     "todoalicante.es"
   ],
   "high_trust_domains": [],
-  "article_count": 3,
-  "rank_signal": 0.6,
+  "article_count": 4,
+  "rank_signal": 0.635,
   "sources": [
     {
-      "title": "Estos factores familiares y de estilo de vida se relacionan con consumir ultraprocesados en la infancia - Infosalus",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1Z0Z0dTNlVuR1pIczZuOUdTQllyLU54UXpXZ3pTRWdFZ1hzQjFMaHJudFFQaXdVa2lTa2ZtS3phaFMyTU5wdXRraHBGX1hxamViS0JCcGdCYjYzMnljMWlNY2ZUYmJWLW5pYkxzYmhaaDZubU1BOVNRVXhqblBtR2w0Y2xjMGZEeU9iNDJJMnJqQlRkMU1ocDNTRDVlMTFwWHhIMnVOTS1feVlDSy1HX2g5aGY2ODhZU3QzNkk5MTdEQzZqNTlEcXlieUU4MmxNMV9aa0RrTQ?oc=5",
-      "domain": "infosalus.com",
-      "publisher": "Infosalus",
+      "title": "Un estudio liderado por la UMH analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOLWp1bFhkVE1Rdm94RGtmQ3BPbnFzSFJ5RTAzNmZCLUxNUDJpZ2JrQVZERDBGZnk1dUxwRWNQazBTYW1jTkhJWDhucmRVeVMwXy1hc3cwM3ZXX3VpZmZvbnpyVTQ1ZXBNd3B2U2llXzc1cHpJa0g2NTd1Q0ViWDBBZ0xVSGNXMzJpLXpGZEpjWC0wSnNjeW5sTG1IQjdWdHJGZUdQb2VfVTFiNThCei1VNnlPOVpjZmNYUkNTQmd4R3E0UXlRQWNnMzg2WVpuM1drcTBZbWhIc2hPcDVCVGlsSGsxSlppRlFKRnFXZFpkRER6REtxc3hYMkpFTmNzLW91YVRoMTVVcWJZeWZHWWx0b2ZjSmJsVkpwX0ZUY3dKVHo1YjlUWWR2bXpYdVhJZW80X0x5TlhjaHNfNVdjbUZ1YUxwcV8zYldXLTAw0gHLAkFVX3lxTE4tanVsWGRUTVF2b3hEa2ZDcE9ucXNIUnlFMDM2ZkItTE1QMmlnYmtBVkREMEZmeTV1THBFY1BrMFNhbWNOSElYOG5yZFV5UzBfLWFzdzAzdldfdWlmZm9uenJVNDVlcE13cHZTaWVfNzVweklrSDY1N3VDRWJYMEFnTFVIY1czMmktekZkSmNYLTBKc2N5bmxMbUhCN1Z0ckZlR1BvZV9VMWI1OEJ6LVU2eU85WmNmY1hSQ1NCZ3hHcTRReVFBY2czODZZWm4zV2txMFltaEhzaE9wNUJUaWxIazFKWmlGUUpGcVdkWmRERHpES3FzeFgySkVOY3Mtb3VhVGgxNVVxYll5ZkdZbHRvZmNKYmxWSnBfRlRjd0pUejViOVRZZHZtelh1WEllbzRfTHlOWGNoc181V2NtRnVhTHBxXzNiV1ctMDA?oc=5",
+      "domain": "cadenaser.com",
+      "publisher": "Cadena SER",
       "language": "es",
       "source_country": "",
-      "seen_at": "Tue, 06 Oct 2026 09:54:12 GMT",
+      "seen_at": "Tue, 06 Oct 2026 14:18:27 GMT",
       "primary_hint": false,
-      "excerpt": "Estos factores familiares y de estilo de vida se relacionan con consumir ultraprocesados en la infancia Infosalus"
+      "excerpt": "Un estudio liderado por la UMH analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia Cadena SER"
     },
     {
       "title": "Un estudio liderado por la Universidad Miguel Hernández de Elche analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia - Cadena SER",
@@ -47,6 +47,17 @@
       "seen_at": "Tue, 06 Oct 2026 14:20:46 GMT",
       "primary_hint": false,
       "excerpt": "La UMH vincula el consumo de ultraprocesados en menores con hábitos familiares y estilo de vida todoalicante.es"
+    },
+    {
+      "title": "Un estudio liderado por la UMH de Elche analiza los factores familiares y de estilo de vida que se relacionan con consumir ultraprocesados en la infancia - Onda Cero",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNXzhHSzI5YzJ4S2xWU09aYTYyQjVHME9lTjV3cE8yYXJDY2dkVHRTaGd2ODk3dUV1RlZDTUIyMnhJUks3bGxTR1d5ZEJaVWhRZ2c4V0VfM3RsY2hvc0lZdE52aTNjYXJJZTl0OEsxLXZHLVJmNk90Y1d6REIxZTlYZ2FfZnYtM0IxQk5QQUt2eVlDZXF1ZlV2NmNscVY0d3hjVzczQkdBa2h4SVNxT3pmV0Q2NHFDVjVDWXhlR2JLb2VDclg1V3JNOW5LdGNTODJxU2NJblZCdzgxS3JhRkVVMWlFNTlTamdSaXJrWmplTWI5MlAyUlJFOWQtRmpSNXZZUHV0VVA0czFyUE81M0kycGRpX3U4SlNhU1JwR0ZxUnBOZXA2d2RaXzJreDBlTG9zcmF0WFAyYTAzN0pXajBCS1RPajk?oc=5",
+      "domain": "ondacero.es",
+      "publisher": "Onda Cero",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 12:54:05 GMT",
+      "primary_hint": false,
+      "excerpt": "Un estudio liderado por la UMH de Elche analiza los factores familiares y de estilo de vida que se relacionan con consumir ultraprocesados en la infancia Onda Cero"
     }
   ]
 }

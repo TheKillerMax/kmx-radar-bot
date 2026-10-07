@@ -1,5 +1,5 @@
 {
-  "event_id": "08-410ed299eb05f2ff",
+  "event_id": "05-10cab66ad6f13436",
   "category": "MUNDO",
   "risk": "medium",
   "canonical_title": "Moderate mag. 4.1 earthquake - 32 km northwest of Cintalapa de Figueroa, Estado de Chiapas, Mexico, on Tuesday, Oct 6, 2026, at 12:52 am (GMT -6) - Volcano Discovery",
@@ -10,19 +10,30 @@
     "volcanodiscovery.com"
   ],
   "high_trust_domains": [],
-  "article_count": 11,
-  "rank_signal": 0.375,
+  "article_count": 12,
+  "rank_signal": 0.385,
   "sources": [
     {
-      "title": "Moderate mag. 4.1 earthquake - Off Coast OF Costa Rica on Tuesday, Oct 6, 2026, at 10:03 am (GMT -6) - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDIxb0lydmZ1cWFmUUZlbUpTMXdqSlV3bEZfRnUzcDBCb25lTmZka1lhS2VBWW05aV9FaW1QSFYzSFhTRlgwVE5SZFNKX3V1QWJXM1dhUlpwblpxWV9fUTJYZzBBUDItN0NWMHNrLVNVbmFWMkxtZTFfR0dVMk9aMzk0WGx5TFY5VjRmaHlOT2ZDRXc3V2UyVzBxdlVINDRVUk5KZzJjV05kVzlWVUxmcVBSV05wbXZ6OG1RV2JyQXZKUTE4SnlTU3ViTWE3b0plU2c?oc=5",
+      "title": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 78 km southeast of Acapulco de Juárez, Mexico, on Tuesday, Oct 6, 2026, at 03:58 pm (GMT -7) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXh2UXMxNVdhZHBaWmhlVzZjQzY0RkRQd3Zkb3BVTXcwZ0U0TjNsQm9jd2pJUjZQTmcxbXlXS3R2LUU2QnFMTFFQbXJLaFk0Q3lGbkYyd0FsSFBfVjMtTzBqRjEySUFfZmxOR2RRRDNReG1jWlZ5TU5WMmdUQm1Lb3ZiQWgzUER4VG1ybEVBaUw4WDNPdlpuNDB1UDlNN3FPajE1Mk15clMwWDQtMG40TXMzcC1wU1lTVnVaZw?oc=5",
       "domain": "volcanodiscovery.com",
       "publisher": "Volcano Discovery",
       "language": "es",
       "source_country": "",
-      "seen_at": "Tue, 06 Oct 2026 16:03:17 GMT",
+      "seen_at": "Tue, 06 Oct 2026 23:54:55 GMT",
       "primary_hint": false,
-      "excerpt": "Moderate mag. 4.1 earthquake - Off Coast OF Costa Rica on Tuesday, Oct 6, 2026, at 10:03 am (GMT -6) Volcano Discovery"
+      "excerpt": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 78 km southeast of Acapulco de Juárez, Mexico, on Tuesday, Oct 6, 2026, at 03:58 pm (GMT -7) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.1 earthquake (unconfirmed) - Northern Colombia on Tuesday, Oct 6, 2026, at 12:23 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXhGVmpvcFRINmdxcEZROFlraXZUSWQzYW40QnVubkZRYjcySkRLeUhPU245TVo1ZHAtZ2lRM1VCbTBCMS1kV0xDazg4MEttTGhVYkxpZ1VQOG5Bek90dDFuNS01aDh4U0xzcEk5dUtJSkxkZTRBUVNJejFsLThUcDZIU3JiVnRpcFZIT195MENRbmtCam00cGlMb1RmeUp1aDA2cE5XZHNZLVJx?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 17:56:11 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.1 earthquake (unconfirmed) - Northern Colombia on Tuesday, Oct 6, 2026, at 12:23 pm (GMT -5) Volcano Discovery"
     },
     {
       "title": "Light mag. 3.9 earthquake - Offshore EL Salvador on Tuesday, Oct 6, 2026, at 08:03 am (GMT -6) - Volcano Discovery",
@@ -69,6 +80,17 @@
       "excerpt": "Moderate mag. 4.7 earthquake - 148 km north of Calama, Provincia de El Loa, Region de Antofagasta, Chile, on Tuesday, Oct 6, 2026, at 03:16 am (Santiago time) Volcano Discovery"
     },
     {
+      "title": "Rinc?n de la Vieja - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZGl4YzNydDdQRXFKOXJsTm9RTXRhaV9KbExfZnI5U0V2TmlSUk5aVC1MTzUyekdVOXdrbHhkX1IyU0tkamZnYXZ0UHl0Ym5yZDBYT1ViNl9JQUZ4TUdES1ZtMUg1bUZIdy1n?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 16:18:02 GMT",
+      "primary_hint": false,
+      "excerpt": "Rinc?n de la Vieja Volcano Discovery"
+    },
+    {
       "title": "Light mag. 3.3 earthquake - Departamento de Los Andes, 206 km northwest of Salta, Departamento Capital, Salta Province, Argentina, on Tuesday, Oct 6, 2026, at 04:50 am (GMT -3) - Volcano Discovery",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkdMNkFJMlJ1alh0YmE3dHlNRDlCTEFjdThZRHpGdmVWS1hKS1ZvNXlFOEt4aHkzTE5pclRuX0h4eU5qY3pHeGJKRlVucWFtMFRXbl9FLTUzb1hRMWpRLUd3RnNWR1p4YjdNUzZTSVVtT04zbDU5SnpjME5zX2sxMlcwXzlkRTZCS0dCOUZLTGRqX1NIS2hjZmF2UzR2MnJhYTgxdksyTkxwdw?oc=5",
       "domain": "volcanodiscovery.com",
@@ -78,17 +100,6 @@
       "seen_at": "Tue, 06 Oct 2026 08:35:43 GMT",
       "primary_hint": false,
       "excerpt": "Light mag. 3.3 earthquake - Departamento de Los Andes, 206 km northwest of Salta, Departamento Capital, Salta Province, Argentina, on Tuesday, Oct 6, 2026, at 04:50 am (GMT -3) Volcano Discovery"
-    },
-    {
-      "title": "Moderate mag. 4.4 earthquake - 107 km northeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Monday, Oct 5, 2026, at 09:41 pm (Santiago time) - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGVvYkhLV0xEWktkbEVrWk1yd09ISmV2Y3lkeHJDV2h5UnRXNVdWR0NoZ2JmYUxROG4xVmVaamNCbG1sbkh2Sm5NQ0FSYTdLYTFyVG15R3VKajAxR2loV0VzaUdEUHpSU2xHbktFODdQNlBoWkNWYTN6d2V1THZPVEpybG1NOERKMG5HNExuLUdFU2JuVFdYWjF2ZjhkbFFkRWc0dHBWcm4?oc=5",
-      "domain": "volcanodiscovery.com",
-      "publisher": "Volcano Discovery",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Tue, 06 Oct 2026 01:49:53 GMT",
-      "primary_hint": false,
-      "excerpt": "Moderate mag. 4.4 earthquake - 107 km northeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Monday, Oct 5, 2026, at 09:41 pm (Santiago time) Volcano Discovery"
     },
     {
       "title": "Moderate mag. 4.1 earthquake - 32 km northwest of Cintalapa de Figueroa, Estado de Chiapas, Mexico, on Tuesday, Oct 6, 2026, at 12:52 am (GMT -6) - Volcano Discovery",
@@ -102,6 +113,28 @@
       "excerpt": "Moderate mag. 4.1 earthquake - 32 km northwest of Cintalapa de Figueroa, Estado de Chiapas, Mexico, on Tuesday, Oct 6, 2026, at 12:52 am (GMT -6) Volcano Discovery"
     },
     {
+      "title": "Moderate mag. 4.4 earthquake - 107 km northeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Monday, Oct 5, 2026, at 09:41 pm (Santiago time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGVvYkhLV0xEWktkbEVrWk1yd09ISmV2Y3lkeHJDV2h5UnRXNVdWR0NoZ2JmYUxROG4xVmVaamNCbG1sbkh2Sm5NQ0FSYTdLYTFyVG15R3VKajAxR2loV0VzaUdEUHpSU2xHbktFODdQNlBoWkNWYTN6d2V1THZPVEpybG1NOERKMG5HNExuLUdFU2JuVFdYWjF2ZjhkbFFkRWc0dHBWcm4?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 01:49:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.4 earthquake - 107 km northeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Monday, Oct 5, 2026, at 09:41 pm (Santiago time) Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.9 earthquake - Provincia de El Loa, Region de Antofagasta, Chile, on Tuesday, Oct 6, 2026, at 08:09 pm (GMT -3) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDdQUDdXak51ZWVqTjlFZTNfUEJqRW9XZ1FreE9qZzlfOXBSUjZQc2NNeEotYTFIaGlWb2lScmFJZ1BFOWlkcGJMYWN6Z1JVbG9XdTVyUnpRRUFjY0oydzdMUWlEYTg4STh3cDhxcERueUtTbGJid1YyUG5JQVRxcFg2VFlzLUR0Q2ptd2U1UnBpTGpVSThobmxGNXhiZ1N5cTE4UDBfMGJ2VHZQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 11:41:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.9 earthquake - Provincia de El Loa, Region de Antofagasta, Chile, on Tuesday, Oct 6, 2026, at 08:09 pm (GMT -3) Volcano Discovery"
+    },
+    {
       "title": "Moderate mag. 4.3 earthquake (unconfirmed) - 117 km northeast of La Paz, Estado de Baja California Sur, Mexico, on Monday, Oct 5, 2026, at 08:14 pm (GMT -7) - Volcano Discovery",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczdNWndYems5Z1k0LXlWT2JjR3ZjQXJobzMxb0NPaUI0MlVDZmVoWXU0a0JBa1ZCaS1PZHd3SFhMbW1VQThCZU5icEJabWlsbzlRczV0NDU1RWFsUDh4MFJ6Y3pDZlRZYWl0cTBHRTRhRG9pVEctMWk1ZmRtQjQ0d2NWU0JHVWg5SzF1Tmc2clg2UEdJUy0yaHZCVk1PcGxwN09FOURQVFFUczN2anJLcmUydHJ2Yk0?oc=5",
       "domain": "volcanodiscovery.com",
@@ -111,28 +144,6 @@
       "seen_at": "Tue, 06 Oct 2026 03:57:15 GMT",
       "primary_hint": false,
       "excerpt": "Moderate mag. 4.3 earthquake (unconfirmed) - 117 km northeast of La Paz, Estado de Baja California Sur, Mexico, on Monday, Oct 5, 2026, at 08:14 pm (GMT -7) Volcano Discovery"
-    },
-    {
-      "title": "Coatepeque - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRFJHRW15SlhmcGxhczY1WjVuU1ZaY1lkRHU4cE5GSGUxVmpnQ3hGanFaVFJ6UmlFT21oRXNQQ2lMM2x0emZhQzlVQVA0UF9yOElFQ2FEakN5QlU2Z1Etcg?oc=5",
-      "domain": "volcanodiscovery.com",
-      "publisher": "Volcano Discovery",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Mon, 05 Oct 2026 20:25:53 GMT",
-      "primary_hint": false,
-      "excerpt": "Coatepeque Volcano Discovery"
-    },
-    {
-      "title": "Santiaguito - Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWWW9NeGx0Z3hOMVhoWXBtN3BBWXFtajNVVnFPWGxpc3I2LTlTMmtaaXIxQzFjNVJ4TXlKcmxPSy1Ta3BIMGxfU3VIWjFYeVZvZUVxUzFPMV9qN2czNVlpUHZB?oc=5",
-      "domain": "volcanodiscovery.com",
-      "publisher": "Volcano Discovery",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Mon, 05 Oct 2026 20:15:43 GMT",
-      "primary_hint": false,
-      "excerpt": "Santiaguito Volcano Discovery"
     }
   ]
 }

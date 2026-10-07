@@ -1,0 +1,30 @@
+{
+  "event_id": "10-2f9bd014a7bff611",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Demócratas captan una gran parte del electorado republicano en contiendas clave para el Senado, según encuestas - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Demócratas captan una gran parte del electorado republicano en contiendas clave para el Senado, según encuestas - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0ZCRmNPVU5fYWZzNE5RZklGR2FoSFoxUFdDT1EybDN2MERyYXBWTl9pRDVhM2FKeUpjVDNUZERjM2F5LWVta3pEclVrdDlKa0phV1hoWEh4YUlpVDF6VXZlT1M0akdyOExXSjhhaVBmaUpVMkh4LUpCWEpud3h3eTMtaDlVUmJOX3RHLXJDQk5QanVwYWc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 10:10:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Demócratas captan una gran parte del electorado republicano en contiendas clave para el Senado, según encuestas CNN en Español Las mayores señales de que Trump y el Partido Republicano están entrando en pánico por las elecciones intermedias CNN en Español Calculadora electoral: ¿Quién se hará con el control del Senado en las ‘midterms’? EL PAÍS Los principales temas que agitan las elecciones de medio mandato en EEUU France 24 Los 10 escaños del Senado con mayores probabilidades de cambiar de partido en las elecciones intermedias ABC17NEWS"
+    }
+  ]
+}

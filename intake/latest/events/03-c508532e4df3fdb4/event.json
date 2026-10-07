@@ -1,0 +1,42 @@
+{
+  "event_id": "03-c508532e4df3fdb4",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Banco Central pone en circulación la nueva moneda de $50, más liviana y con núcleo de acero - La Tercera",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diarioestrategia.cl",
+    "latercera.com"
+  ],
+  "high_trust_domains": [
+    "latercera.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "​Banco Central pone en circulación la nueva moneda de $50 - Diario Estrategia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUS1aWDhZSV83ODZ5NnNUSmNvd203eENNcDN4b2JIRGdCbUg1UEExX3E5cWdnbkt5bUxmUUtMQVlCMkk3WjNBUU9zNUlZOFUtS3hMNHVJWnp1ZlVHS2lYZGstdDdFYlpJMjdhU3ZIMDAwSkZmbUVWaUhoanczejhCU1N6bHduc1hVVzZvdnlyT1hfVnZpa043anltM3YxMmZsSFBFeExPWmNJWWM?oc=5",
+      "domain": "diarioestrategia.cl",
+      "publisher": "Diario Estrategia",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 14:17:22 GMT",
+      "primary_hint": false,
+      "excerpt": "​Banco Central pone en circulación la nueva moneda de $50 Diario Estrategia"
+    },
+    {
+      "title": "Banco Central pone en circulación la nueva moneda de $50, más liviana y con núcleo de acero - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDd5MnRabGVmN0VTNVh4N1Exa1hjWEFseHZ4WTFlc0VCcEtSNkttQjIyU0szMkFFZVZjcXdLcXZKVFJSRm1IVXVuWWhTZ1N5algtSHVURkVlTzh0NE5CN3NDallBdjlUOU1UdjJxeVNYU3VhSWdrcWtyMGtXRy0yYlM3U2t1UGlkYVE1QU90XzIzYkZzUXlmazlOakUtc3E0Z1FFSjB5RFgxN0VjNUYxSmVJQ1F5SFRseHpDSFBkMks2YmRkWG9aZm9n0gHrAUFVX3lxTFB3X0lvVS11aHB0dlBBbnA4TDNieXNGT01nMUFfTU9lem4wUVp4QUpZWC00anJhTHV0dDFMR0ZkQjB3SGtESExXLTVhM2dqM1k4TmdBVEh1cU80eEdHQnFhMU4zUUVVd285cmo3Nmd1anNJdW9PeHpaZ01SN2syYzhuN21GSmRvTHBOR01TeURxdGZTckNaVHhSenpTcHZQaVBqS01HYksxU2ZNdzlMSHI1b0Z0a1RYWGxvZjdJdzVfM2VfQkV0MHJTNDZOeXdyM2xQeXdJNHYtNnFBMlpLcUVpd3B3RXJsaWw0SUE?oc=5",
+      "domain": "latercera.com",
+      "publisher": "La Tercera",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 14:16:15 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central pone en circulación la nueva moneda de $50, más liviana y con núcleo de acero La Tercera"
+    }
+  ]
+}
