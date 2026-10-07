@@ -1,0 +1,52 @@
+{
+  "event_id": "02-03bab326c91e69c5",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "¿Por qué algunos niños consumen más ultraprocesados?: un estudio analiza los factores familiares y de estilo de vida - El Economista",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cadenaser.com",
+    "eleconomista.es",
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "¿Por qué algunos niños consumen más ultraprocesados?: un estudio analiza los factores familiares y de estilo de vida - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTG13dElINUxWLTMxYUlLV010UGVIU3FDTFpZaVh4RUFBLTMyUGpKQUJZeERkUWFGcFg1OWp2S2dld3Y5bkFlem9vWmRxQzZoUWlyY1lleVNEY3ltLVdjamdBZFpsZ2ttYi1UdFJBMkY2c25oNnJmYjRoSXI1V000UTh1VGdvcDgzWTM0RXlOamV0ZG5xY3g0NE9razNCM1BBNWdyeVc0VEtzR3F6UlRrSmhTLVhuLVpCUkRNeVpVWUI3Y3YtMjJidEdQajZUal9DZENWX0ZTTEVQUmJueGJaMDI3SDktZ3BWcUtVaDBiRmdlMTYxeUdyUFNPLUNSQWJtVkFGR2NWUU8tY1poaHRIWExYOHREb0tTal9tdXVEaWdoUzJiSU5JYncxVQ?oc=5",
+      "domain": "eleconomista.es",
+      "publisher": "El Economista",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 19:49:16 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué algunos niños consumen más ultraprocesados?: un estudio analiza los factores familiares y de estilo de vida El Economista"
+    },
+    {
+      "title": "Un estudio liderado por la Universidad Miguel Hernández de Elche analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNNjhMaGdHTFpKVXB3NlB2dTAtTlMzQ2F1M2d1Smo5R1FEQ3R1ZjRtbUhCSEJhMWhMN3BEeTdQWDc3T0NpQ0V6bjY5ci1nMWhyQmVuVVJfX0JEVlRaSTVtOF9wczBORGNCTlJxbmlNRkhHN1BkRy1HWThKbDlIRUJJdk1sOVRlNmF5clRReWFCVHlUS2RReDhjNnRTQUdoQzA0b0tvRDR5V0NvOXViZ3k1X045akF3cHJndnBNVlNQNUNQeUh5dlNGMHNBczhoZjl4emhJVFpjRVhtWTdRQkNCQ2llRHVlLTJ2T1c1NDB4X1V5X0hYYVYzV1gyNUthXzZ1Vlc5ak1xdHN6QXF1Z2FXZnp0aGx3Tk1tb1lwZ0lEZHB6UVVPR3RXZkFUbHQ4eEdULVJ0YTNMQ0k2QndPbU1SdWxCeEN2VGdVSF9wZ01qaFlUdFdNdlJjUF9EM0JBdmk1bnZqdElzVi04ZUQwWVF4d0ktZF9Ebk5Y0gH4AkFVX3lxTE02OExoZ0dMWkpVcHc2UHZ1MC1OUzNDYXUzZ3VKajlHUURDdHVmNG1tSEJIQmExaEw3cER5N1BYNzdPQ2lDRXpuNjlyLWcxaHJCZW5VUl9fQkRWVFpJNW04X3BzME5EY0JOUnFuaU1GSEc3UGRHLUdZOEpsOUhFQkl2TWw5VGU2YXlyVFF5YUJUeVRLZFF4OGM2dFNBR2hDMDRvS29ENHlXQ285dWJneTVfTjlqQXdwcmd2cE1WU1A1Q1B5SHl2U0Ywc0FzOGhmOXh6aElUWmNFWG1ZN1FCQ0JDaWVEdWUtMnZPVzU0MHhfVXlfSFhhVjNXWDI1S2FfNnVWVzlqTXF0c3pBcXVnYVdmenRobHdOTW1vWXBnSURkcHpRVU9HdFdmQVRsdDh4R1QtUnRhM0xDSTZCd09tTVJ1bEJ4Q3ZUZ1VIX3BnTWpoWVR0V012UmNQX0QzQkF2aTVudmp0SXNWLThlRDBZUXh3SS1kX0RuTlg?oc=5",
+      "domain": "cadenaser.com",
+      "publisher": "Cadena SER",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 10:52:36 GMT",
+      "primary_hint": false,
+      "excerpt": "Un estudio liderado por la Universidad Miguel Hernández de Elche analiza qué factores familiares y de estilo de vida se relacionan con el consumo de ultraprocesados en la infancia Cadena SER"
+    },
+    {
+      "title": "La UMH vincula el consumo de ultraprocesados en menores con hábitos familiares y estilo de vida - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNllyYWVXeGkweFNvUS1HeDB0aFVUZ1pnM19IV0pwR2JNeHhBRmFJX0h0UlpkRFd1STZLckxkdkVXR0ZnRldYM2VtWTNuOXlXaE53ZXUwemhEWmZiTjMxdWlyWUY4RW44S3oyM2VkbzE1OXp0VS1iOHdvWTB5Y0VSREY4YlB3Vy1KSWp5eEhUZmtyUmpZRVE0QUE5WUc1eHg4cks5cDJaamJuRGZoc01la180TnJCS0Y5NzVB?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 06 Oct 2026 14:20:46 GMT",
+      "primary_hint": false,
+      "excerpt": "La UMH vincula el consumo de ultraprocesados en menores con hábitos familiares y estilo de vida todoalicante.es"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "04-452481d45b437a5a",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El Curiosity, de la NASA, capta una impresionante imagen de las primeras luces del amanecer en Marte - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "es.tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El Curiosity, de la NASA, capta una impresionante imagen de las primeras luces del amanecer en Marte - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1N1TE9EeWJmRmtMVmJJX21OdVdHM05lSTE5Ym5XWUhGYkNlX0RHRjRhMUdXenJoVFFqS3FpOV9BN0VfR3hsVGhCb21XSlVYdURRQlRDdXFuNWtXMmhkWVlvY0p6VkNHTzFCUGNkaGxlTzExMy1IeWw1VUt0azdKcnp5Zm8yR2d1cHg0ekxBSjVzQzQ?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 09:38:22 GMT",
+      "primary_hint": false,
+      "excerpt": "El Curiosity, de la NASA, capta una impresionante imagen de las primeras luces del amanecer en Marte Yahoo"
+    },
+    {
+      "title": "El Curiosity, de la NASA, capta una impresionante imagen de las primeras luces del amanecer en Marte - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUWU3VFkzWHJTclppU1VhZHJTTnU1YTJGWGN5RTdNcjdqc09TQTNESUtqOUltUllmY0NFSV9idW91a3g2Y1RlVmpDMUJTMWp0bXYtcGpVcUJRLWlEdTJzaEpZNTdpdlVfeHE2TDV3dWJBeG1RQXJr?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 09:34:21 GMT",
+      "primary_hint": false,
+      "excerpt": "El Curiosity, de la NASA, capta una impresionante imagen de las primeras luces del amanecer en Marte TradingView"
+    }
+  ]
+}
