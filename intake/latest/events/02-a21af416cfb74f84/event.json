@@ -1,0 +1,52 @@
+{
+  "event_id": "02-a21af416cfb74f84",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell - Enidnews.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "businesswire.com",
+    "eagletribune.com",
+    "enidnews.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell - Enidnews.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR0xwLWJwNjg4TTlJMGNSZGE1bHVadTJHa3JHcXByVEp2ZUVKM1NwMnBtd2RzN1FhdndqWEZsbk02Z2ZoSVVTc2N0NEZmNXhuZThKLWpMWGE1UVQ4S3E1dnE3b09mU1hmalZtYmVRSlVqcXZsMnJOdGVBUi1YZWk2aUFFRlJJdUc2TU82VXpZbEQyMHNiV2w5bDRQcEZkeXhVZ29BRlJaVjlHRElUTGpHaDJxeFdhOUdGbnpEMHZPVUVBZmtOX1JDWlAyLWRlb3JBLWN3NGVNWVFUUE1rb2cydEc4Z0RwaWJtaUtuYzdKcFNsWl9tUjF6dk43Sm5CUlFtaVFz?oc=5",
+      "domain": "enidnews.com",
+      "publisher": "Enidnews.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 16:17:02 GMT",
+      "primary_hint": false,
+      "excerpt": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell Enidnews.com"
+    },
+    {
+      "title": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kTEQxb29yS3oyYTJuZTYxNmRkYTM3aDB5eGdHQVVtRmVRbkZ3RXdvQzY5a1dabVpuclVTTlJSY05Wb2MxNHFzVC1nanlYb2NQRGd0Mm9IWk9YaUVxN0s0YkZ1bm45M2M?oc=5",
+      "domain": "businesswire.com",
+      "publisher": "Business Wire",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell Business Wire"
+    },
+    {
+      "title": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell - Eagle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWHllWFBRQVNKTTdiVkVsa2cwdkZpd2hjSEZKWjFmOVRNRXNTWXp0YllWazItdk0wOVlzRW9UdjJrR2dQV1hvQTJ6ZnkzbnJXNGppd0w2RnVLTXZ1dmhnUHJBS252ajFkSkl2YVczbmdTbndseG5KSGJWVF9ZbXF4TFhTWlNLMXJCaEFsWnRtcHVkc0lBRHU3QlZZbm1iRkpnSTZRMElGSThxV1FON1ZIdkVUcF93SWlrNEpDeUFIbVliNU9sLXZYMXJUVVhueFFjTWNLc1VWSW50d1hqWlRfVnFULXpkLVZvdVBGTEhMSF9rVmlFSU9FNkZhekV2Q1ZjRUdIUU9Pd0U?oc=5",
+      "domain": "eagletribune.com",
+      "publisher": "Eagle-Tribune",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 16:17:02 GMT",
+      "primary_hint": false,
+      "excerpt": "El Empire State Building Observation Deck acoge el Annual Run-Up, presentado por NYU Langone Health y patrocinado por Merrell Eagle-Tribune"
+    }
+  ]
+}

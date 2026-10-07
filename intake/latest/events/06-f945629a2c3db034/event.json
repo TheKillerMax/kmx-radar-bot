@@ -1,0 +1,40 @@
+{
+  "event_id": "06-f945629a2c3db034",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Así cambia el panorama del entretenimiento y los medios con la fusión de Paramount y Warner Bros. Discovery - El Nuevo Día",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elnuevodia.com",
+    "elplanetaurbano.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Así cambia el panorama del entretenimiento y los medios con la fusión de Paramount y Warner Bros. Discovery - El Nuevo Día",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXdtNGNOU1g2STFmNWJtOGFpNElOWC1UeklQRzlJVUVKVWxSUGQweXJROUJHQkR5UWl5ZHlfTW50SkVrUnBjNF8zbTBqUWFWRTNnMHRGTjhsNndtbk9ZbmFGTEFkVEFwUWNtTk5hVFlIb2czN0ZFcTVGaTRqZjlHM19vcnFBeFZFcDhXalU0bUlMVmNYbkdiaVIyaWVtYXFFWGU4QUs4MGhHZHJaNEFISV9ZSHNmYnV4QWNhbkVYZVNaU3pRQ3hCODFfalo1X1dfbzRIOHpTSGh6OFhwa2RucTVzenpfb21FWERBMjVwTUZOaTlpaWhLbE5NSEI?oc=5",
+      "domain": "elnuevodia.com",
+      "publisher": "El Nuevo Día",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 20:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Así cambia el panorama del entretenimiento y los medios con la fusión de Paramount y Warner Bros. Discovery El Nuevo Día"
+    },
+    {
+      "title": "Paramount compra Warner Bros. Discovery y crea un nuevo gigante del entretenimiento - El Planeta Urbano",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS01JazFrZkE3SGFTV2h5WlptdnZndjVxams2NGY3OTV4X0h3cm9TdDUtQ0gxMDhKb1dyN1NBWFhSeXQ1dnJwcS1ZNHF3VFdYX1lLVzVlcWE2MzlfdmRrZlBRaUVVSkJiLTVQeUdhQklqeFJ1amxncVQtUE5QckNkV1dCeWU1emVTakZOb040NU9pc3hrWndLd3ZDSEtzVmdaMWo4RktGakZ6bkxST1ZGWWNLbTYzODBSNWRBbTNQVVJtQVpKRVZaY1pkcE5yVzViOGJkYUxZZGtoeXVtSmgzMS02T3dMcG5WdENlb3V6cDZIUk0?oc=5",
+      "domain": "elplanetaurbano.com",
+      "publisher": "El Planeta Urbano",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 11:03:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Paramount compra Warner Bros. Discovery y crea un nuevo gigante del entretenimiento El Planeta Urbano"
+    }
+  ]
+}

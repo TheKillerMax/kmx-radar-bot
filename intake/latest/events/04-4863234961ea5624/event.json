@@ -1,0 +1,51 @@
+{
+  "event_id": "04-4863234961ea5624",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Ex-Cagliari and Tottenham defender Vega running for FIFA President - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.405,
+  "primary_source_present": false,
+  "independent_domains": [
+    "espn.co.uk",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.485,
+  "sources": [
+    {
+      "title": "Ex-Spurs player Vega set to run for Fifa president - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KdFdydC10Q01XZUY3Z3YzQjJxal9QUkVmOXlfTGF5cDEwRU9xR2diVWh6OW5aRmhkYVNnRTdDcndKNG1CVjNMM0c4a2JJTXRkdTVzT19pTjRoQjJvZC1IUWlLYmtHMTRraElHUUVaSGhFNlhSWnB5UjBNZkQ2QQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 19:25:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Ex-Spurs player Vega set to run for Fifa president Yahoo Sports"
+    },
+    {
+      "title": "Ex-Cagliari and Tottenham defender Vega running for FIFA President - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0x0MzFBN0l2VjJSekNuZDN6akdIVjdvU1pHZGFLTlFZaWxyS053cGoxdm94bVczOUpMcDJuRTc3am1uVUV4ck5NT0QzMjRwWWpxQS1WVGNJanhZNmlROUtIODJWRWVOelJmbE1hVGVkREV3NnpDZ29zWTNURzBhRmJkTUtmWjBfVXpERw?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 16:40:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Ex-Cagliari and Tottenham defender Vega running for FIFA President Yahoo Sports"
+    },
+    {
+      "title": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWlqUzFFaWQ2Y3ZCSFRQaS1JMHczdDVzZ0NMZHZWbUw2MFQ0WG9TVlEyMFNxbnBTS1pDRHBqQ0gzOUt0MWt2OFVfM3oydmxfR1gxdmFPQTl1R0VHYzdNWjVDemNrXzdKLXhMcjlEaEFUQkc0RmNuYzJ6OFhrb0pwWDdSX3JzTldVVGx0Z0Rjb1VydnFnYjd0NDkwLTdXVll1N0xhWjdn?oc=5",
+      "domain": "espn.co.uk",
+      "publisher": "ESPN",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 18:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Ex-Tottenham defender Ramon Vega to challenge FIFA president Gianni Infantino ESPN"
+    }
+  ]
+}
