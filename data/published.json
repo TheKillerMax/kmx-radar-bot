@@ -626,6 +626,41 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Un estudio español relaciona el consumo de ultraprocesados en niños con hábitos familiares y de estilo de vida",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/01-habitos-familiares.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/02-muestra.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/03-consumo-8-anos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/04-consumo-12-anos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/05-consumo-materno.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/06-television.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261006-ultraprocesados-infancia/07-no-causalidad.png"
+      ],
+      "media_id": "18011277323964942",
+      "publication_id": "kmx-20261006-ultraprocesados-infancia",
+      "published_at": "2026-10-07T05:38:04Z",
+      "source_event_id": "02-7121203c5f85dd2d",
+      "sources": [
+        {
+          "label": "BMC Public Health — artículo original",
+          "url": "https://link.springer.com/article/10.1186/s12889-026-28008-6"
+        },
+        {
+          "label": "PubMed — registro del estudio",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42316104/"
+        },
+        {
+          "label": "ISABIAL / UMH — contexto del grupo investigador",
+          "url": "https://isabial.es/en/isabial-researchers-identify-predictors-of-ultra%E2%80%91processed-food-consumption-in-4-year-old-spanish-children/"
+        },
+        {
+          "label": "Diario de Alicante — cobertura del estudio de 8–12 años",
+          "url": "https://diariodealicante.net/ultraprocesados-ninos-estudio-umh/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
