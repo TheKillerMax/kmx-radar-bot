@@ -34,7 +34,7 @@
     }
   ],
   "publication_id": "kmx-20261006-ultraprocesados-infancia",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "02-7121203c5f85dd2d",
   "sources": [
@@ -55,6 +55,7 @@
       "url": "https://diariodealicante.net/ultraprocesados-ninos-estudio-umh/"
     }
   ],
-  "status": "visuals_ready",
-  "visuals_completed_at": "2026-10-06T22:33:45Z"
+  "status": "VERIFICADO",
+  "visuals_completed_at": "2026-10-06T22:33:45Z",
+  "approved_at": "2026-10-07T05:33:30Z"
 }
