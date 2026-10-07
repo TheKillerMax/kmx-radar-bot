@@ -1,0 +1,63 @@
+{
+  "ai_generated": true,
+  "caption": "Chile ya tiene una nueva moneda de $50. El Banco Central comenzó a incorporarla a la circulación el 6 de octubre de 2026 y llegará de forma gradual a través de bancos, comercios y el vuelto de compras.\n\nLa nueva pieza mantiene el diseño y el diámetro de la moneda actual, pero pesa 6,5 gramos en vez de 7. Su núcleo es de acero recubierto con cobre y estaño, por lo que puede ser atraída por un imán.\n\nLa moneda anterior de $50 no pierde valor ni debe cambiarse: ambas seguirán circulando y sirven exactamente para pagar $50.\n\nEl Banco Central afirma que la nueva forma de fabricación permite reducir los costos de producción. La nueva moneda de $10 está prevista para enero de 2027.\n\nDesliza para ver qué cambia, qué no cambia y cómo reconocer la nueva moneda.\n\nFuentes: Banco Central de Chile, La Tercera, BioBioChile y Emol.\n\n#KMXRadar #BancoCentralChile #Moneda50 #PesosChilenos",
+  "created_at": "2026-10-07T03:27:37Z",
+  "headline": "Chile ya tiene una nueva moneda de $50: empezó a circular el 6 de octubre",
+  "images": [
+    {
+      "alt_text": "El Banco Central de Chile comenzó a poner en circulación una nueva moneda de 50 pesos el 6 de octubre de 2026. La moneda anterior sigue siendo válida y ambas convivirán.",
+      "path": "01-nueva-moneda-50.png"
+    },
+    {
+      "alt_text": "La nueva moneda chilena de 50 pesos pesa 6,5 gramos en vez de 7, tiene un núcleo de acero recubierto con cobre y estaño y mantiene el diseño y el diámetro de la versión anterior.",
+      "path": "02-que-cambia.png"
+    },
+    {
+      "alt_text": "La nueva moneda de 50 pesos entrará gradualmente al mercado a través de bancos comerciales, comercios y el vuelto de compras.",
+      "path": "03-como-llega.png"
+    },
+    {
+      "alt_text": "La moneda anterior de 50 pesos mantiene plenamente su valor. No es necesario cambiarla y puede usarse junto con la nueva versión.",
+      "path": "04-que-no-cambia.png"
+    },
+    {
+      "alt_text": "El núcleo de acero de la nueva moneda de 50 pesos permite que sea atraída por un imán; el metal se recubre con capas de cobre y estaño mediante electricidad.",
+      "path": "05-iman-y-materiales.png"
+    },
+    {
+      "alt_text": "El Banco Central de Chile prevé que una nueva versión de la moneda de 10 pesos comience a circular en enero de 2027.",
+      "path": "06-que-pasa-con-10.png"
+    },
+    {
+      "alt_text": "Las dos versiones de la moneda de 50 pesos circularán simultáneamente y tendrán el mismo valor mientras la nueva pieza se incorpora de forma gradual.",
+      "path": "07-que-puede-pasar.png"
+    }
+  ],
+  "publication_id": "kmx-20261007-nueva-moneda-50-chile",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "03-c508532e4df3fdb4",
+  "sources": [
+    {
+      "label": "Banco Central de Chile — puesta en circulación de la nueva moneda de $50",
+      "url": "https://www.bcentral.cl/en/web/banco-central/content/-/detalle/prensa/nota-de-prensa/banco-centra-pone-en-circulacion-la-nueva-moneda-de-50"
+    },
+    {
+      "label": "Banco Central de Chile — portal de nuevas monedas",
+      "url": "https://www.billetesymonedas.cl/NuevasMonedas/Index"
+    },
+    {
+      "label": "La Tercera — confirmación independiente",
+      "url": "https://www.latercera.com/pulso/noticia/banco-central-pone-en-circulacion-la-nueva-moneda-de-50-mas-liviana-y-con-nucleo-de-acero/"
+    },
+    {
+      "label": "BioBioChile — confirmación independiente",
+      "url": "https://www.biobiochile.cl/noticias/economia/consumidor/2026/10/06/ojo-con-tu-vuelto-el-banco-central-pone-en-circulacion-la-nueva-moneda-de-50.shtml"
+    },
+    {
+      "label": "Emol — confirmación independiente",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/06/1213381/nueva-moneda-50-banco-central.html"
+    }
+  ],
+  "status": "editorial_ready_for_visuals"
+}
