@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261007-isaias-golfo",
+  "source_event_id": "11-cb35475ae727c26d",
+  "created_at": "2026-10-07T15:30:21Z",
+  "ai_generated": true,
+  "headline": "La tormenta tropical Isaías se formó en el Golfo y podría convertirse en huracán",
+  "caption": "La tormenta tropical Isaías se formó el 7 de octubre en el Golfo de México. El Centro Nacional de Huracanes prevé que podría fortalecerse y emitió vigilancias para una parte de la costa norte del Golfo. La intensidad y la trayectoria exactas todavía pueden cambiar. Fuentes: National Hurricane Center y Associated Press. #KMXRadar #Isaias #TormentaTropical #TemporadaDeHuracanes",
+  "images": [
+    {"path": "01-isaias-se-formo.png", "alt_text": "La tormenta tropical Isaías se formó en el Golfo de México el 7 de octubre de 2026 y podría fortalecerse antes de acercarse a la costa norte del Golfo de Estados Unidos."},
+    {"path": "02-zonas-bajo-vigilancia.png", "alt_text": "Parte de la costa entre Mississippi y Florida está bajo vigilancia de huracán mientras se actualiza el pronóstico de Isaías."}
+  ],
+  "sources": [
+    {"label": "National Hurricane Center", "url": "https://www.nhc.noaa.gov/archive/2026/ISAIAS.shtml"},
+    {"label": "Associated Press", "url": "https://apnews.com/article/440bdecf97a5340547ca3ad291b361df"}
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}
