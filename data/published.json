@@ -661,6 +661,48 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "La NASA libera más de 800 gigabytes del viaje de Artemis II a la Luna",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/01-archivo-lunar.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/02-contenido-del-archivo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/03-800-gigabytes.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/04-cinco-destellos.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/05-via-lactea.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261008-artemis-ii-archivo-ciencia-lunar/06-para-que-sirve.png"
+      ],
+      "media_id": "17987560875074159",
+      "publication_id": "kmx-20261008-artemis-ii-archivo-ciencia-lunar",
+      "published_at": "2026-10-08T05:36:23Z",
+      "source_event_id": "10-4670e2885bdc7349",
+      "sources": [
+        {
+          "label": "NASA — anuncio del 7 de octubre",
+          "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/"
+        },
+        {
+          "label": "NASA Ciencia — informe y observaciones",
+          "url": "https://ciencia.nasa.gov/feature/informe-preliminar-ciencia-lunar-artemis-ii/"
+        },
+        {
+          "label": "NASA Science — recursos de imágenes y audio",
+          "url": "https://science.nasa.gov/feature/artemis-ii-preliminary-lunar-science-report/"
+        },
+        {
+          "label": "Nature — confirmación independiente",
+          "url": "https://www.nature.com/articles/d41586-026-03197-7"
+        },
+        {
+          "label": "Planetary Data System — datos originales",
+          "url": "https://pds-geosciences.wustl.edu/missions/artemis2/mission.htm"
+        },
+        {
+          "label": "NASA — condiciones de uso del material",
+          "url": "https://www.nasa.gov/nasa-brand-center/"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }
