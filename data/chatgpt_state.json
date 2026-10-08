@@ -1,12 +1,12 @@
 {
-  "last_media_id": "18011277323964942",
+  "last_media_id": null,
   "last_processed_generated_at": "2026-10-08T00:55:56Z",
   "last_publication_id": "kmx-20261008-artemis-ii-archivo-ciencia-lunar",
-  "last_result": "visuals_ready",
+  "last_result": "publishing",
   "next_publish_retry_at": null,
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "note": "FASE 3 aprobada 2026-10-08: NASA y PDS revalidados; seis imágenes 1080x1350; QC pass; cuatro fuentes visuales NASA/JSC con derechos contrastados; Unicode NFC, ortografía española y cuatro hashtags específicos correctos. .ready creado para publicar; Instagram aún no confirmado.",
   "pending_manifest_generated_at": null,
-  "phase": "visuals_ready",
+  "phase": "publishing",
   "published_at": null,
   "source_event_id": "10-4670e2885bdc7349",
   "visuals_completed_at": "2026-10-08T04:40:55Z"
