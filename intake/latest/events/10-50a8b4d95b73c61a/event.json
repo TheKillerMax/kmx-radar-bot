@@ -1,0 +1,28 @@
+{
+  "event_id": "10-50a8b4d95b73c61a",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Governor Abbott Dedicates The Dr. Ron A. McMurry MediPlex - Office of the Texas Governor (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "gov.texas.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Governor Abbott Dedicates The Dr. Ron A. McMurry MediPlex - Office of the Texas Governor (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWhBdnhQVzhlRzdSMUozU1JZQzh2N0JSc2dydE9OLXZDQm81VzdtSldxNXBPUHZQTTRocHA1Ri14Y3hTQy1RengzYmI0UGhxc05yQjNnNTdCMXA1dmwybHV2aGdGcG0wUlZ6RjBiQWNESHVwRXN1T1dTQ2tId0J1YXdQdmQ3M0JnS3RyUXlQMXM4cFd6?oc=5",
+      "domain": "gov.texas.gov",
+      "publisher": "Office of the Texas Governor (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 21:42:10 GMT",
+      "primary_hint": false,
+      "excerpt": "Governor Abbott Dedicates The Dr. Ron A. McMurry MediPlex Office of the Texas Governor (.gov)"
+    }
+  ]
+}
