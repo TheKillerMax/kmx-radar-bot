@@ -1,0 +1,30 @@
+{
+  "event_id": "12-8d838e4cecba107c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Por qué la mayor colonia de pingüinos del mundo ha perdido dos tercios de su población - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Por qué la mayor colonia de pingüinos del mundo ha perdido dos tercios de su población - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ekY4MlJHS1ZOMmIzRXhNTEZldkh4NjlvZ21qVkhpdDhEbFdqcmRXR2ozSXQ1QUhoVXRoSzN1MjhkWW9sYU9XNmdQbHh2emwtWkpVWWFXZVMyUzgt0gFiQVVfeXFMT2U2YmhSSXZuR1M5OFFDb3FobkkzZjVFQnJQbklVbVh4NnpQclluejFpSkFwSG9GYVpSWGNSbFpQc2hLQmdrUmVNbFFscFBsSDBud1RiMjZSZGZwcUpCWXozQnc?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 23:25:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Por qué la mayor colonia de pingüinos del mundo ha perdido dos tercios de su población BBC Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

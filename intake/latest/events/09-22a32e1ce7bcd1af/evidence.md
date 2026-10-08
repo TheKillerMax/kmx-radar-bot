@@ -1,0 +1,94 @@
+# Moderate mag. 4.2 earthquake - North Pacific Ocean, 134 km southwest of Tapachula, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 09:10 am (GMT -6) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWE1sdUZ0dFhaaG9GUFNiM2hVWGtjdFN4MWxnaGp0WjBrTng2OS1DeDVQTDNfbmkxa3cxeFo3VFpKRG1uejdHem5zLVZCWlFTVTlSaFZMSkpRZ0xYX0VaN0dPa0xOUUJha19RSDFaZHRUOXlZaGM3TXJpRDI0VVVQYXdNdjlVOUFSMVMyUGJkLUlpelVoaXQ0a2NoRE1tRldGbW9rTzhHdzc?oc=5
+- Título: Moderate mag. 4.0 earthquake - Veracruz, Mexico, on Thursday, Oct 8, 2026, at 12:55 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Thu, 08 Oct 2026 07:24:40 GMT
+
+Moderate mag. 4.0 earthquake - Veracruz, Mexico, on Thursday, Oct 8, 2026, at 12:55 am (GMT -6) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPakpZbHFDaUdwSTJFazhLOU84bEtQNlVwSWxFS180VE5lMG10OWRIMzhUZGFXZ19uak1hNmx5NllhZDEtRzJscHR3VmliZEtVOXE3c2F2RUN1X2lWb1BMenNyTzk4TEhpamtfSTNFNTFOLTRtdmNLSWROaXExMjBBUl84Z0N2aGxVemlZbVBXMnF2dWlXY0k3bE9XWmVfN0VNQUF1R1lXMUhKb2ZZTWFndld1bkhLZkp6bUduSC13?oc=5
+- Título: Moderate mag. 4.7 earthquake - 46 km northeast of Calama, Provincia de El Loa, Region de Antofagasta, Chile, on Thursday, Oct 8, 2026, at 02:35 am (Santiago time) - Volcano Discovery
+- Fecha detectada: Thu, 08 Oct 2026 05:35:31 GMT
+
+Moderate mag. 4.7 earthquake - 46 km northeast of Calama, Provincia de El Loa, Region de Antofagasta, Chile, on Thursday, Oct 8, 2026, at 02:35 am (Santiago time) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmdjOV9jTWR4aXNOR0ctSzdZWFhhNGRrR3ZCbmQ4QTFhSUVYcE5YVm1ROW0tVzFudVczdjcxQXpKYmR2UVVfSm12RVk3amxKWlk3S29wX0RzM1d3Mm5zR0JscVFCeEFGMUowYlR6Z2xyS2lXR2FoWi1KXzgtYWMtaFRtTUt2dFVQTU1zcjR5R3RrOWMzV3pIM08wS2ZxZGs4LThBaUJLWVpWLU5JVXJoLUZ0b3BqVXNVNjZxVlZB?oc=5
+- Título: Moderate mag. 4.0 earthquake - 21 km northwest of Motozintla, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 02:26 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 20:54:15 GMT
+
+Moderate mag. 4.0 earthquake - 21 km northwest of Motozintla, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 02:26 pm (GMT -6) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGFMSHA4dUtRb20xdE1fMkw3WU92YWxGeGladTJmQUlBdUh3dWhqZ2dKVjRkdWYtNHgxV0ZyY2haNkd3Zjd5TDZWNkN6SWF2eG9idTRwSGJ6bTh6RWlnd3UxY3c3TFdGRjc4U0txaUcyRzhtVjROSlZuYWF3NnhpODRzUE9MQXRXajZtV2dkNlBlTkRaWEE0Q2hHOFd6X21tenA1alJsMWlrREh6?oc=5
+- Título: Weak mag. 2.5 earthquake (unconfirmed) - 1.7 km north of Bucaramanga, Departamento de Santander, Colombia, on Wednesday, Oct 7, 2026, at 07:48 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Thu, 08 Oct 2026 01:10:44 GMT
+
+Weak mag. 2.5 earthquake (unconfirmed) - 1.7 km north of Bucaramanga, Departamento de Santander, Colombia, on Wednesday, Oct 7, 2026, at 07:48 pm (GMT -5) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaS1ZbW9DcXE1bzRHbnZscG1zN3hZWmdiMjJURmxsekZDNlR0dGVnTVRMOEowMWUtY2ZkTFpXZTZCZXhxOUZKbnFLVk5xTEd5dVFLa2VxWC0zUUZwZnlIamhHckg4VXRLM29zMW5zMVEzbVIwclgzUklQV3hrYTFGYmlsa1M0R0s5RTNwZzVBaEJzMTdhNU9kdHhYVzVJX0VIYnVPYzBmTEs?oc=5
+- Título: Moderate mag. 4.7 earthquake - 183 km southeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Wednesday, Oct 7, 2026, at 12:46 pm (Santiago time) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 18:15:22 GMT
+
+Moderate mag. 4.7 earthquake - 183 km southeast of Iquique, Provincia de Iquique, Tarapacá, Chile, on Wednesday, Oct 7, 2026, at 12:46 pm (Santiago time) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmJIc2NzbzNQOWpxR0ZqVzRlUTYyeGhMejVNd1hRMGljUEF3UUVtUGtscXlnZEZVdmRlVGI1YmNXUG5sWGRhQ3l1ZGJqQ19saG5pQTR5SkxhMm80THNENFlMYnRlaW1iZVBRZjRCWEFUTTg1Z2JwWlpvM2FOdjItbG1TbUFJZTBXdlZNdl95RUIyazVoMWIzWnlOd3I0Umw0Ukd5bDRmVm40SzV5T2Exa2pZRkRVZlJXb3ZUa0JtYUdaa1lYTTlyTXZCcUN0dw?oc=5
+- Título: Moderate mag. 4.0 earthquake - Oaxaca, Mexico, on Wednesday, Oct 7, 2026, at 02:52 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 21:25:36 GMT
+
+Moderate mag. 4.0 earthquake - Oaxaca, Mexico, on Wednesday, Oct 7, 2026, at 02:52 pm (GMT -6) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUZVbXRtdkVlQWxkWFlBT0VXQWJTYl9jYk5VTXlZMXZoZXFrQmFkUUcwdVdhN0VBVTFXUlBxY3hubG5DSzhsZzhMelZ5OGpxRXdCUDVLa1dLbmxTdXhtSE8zeks0STBZYl9Fc0N4Tm1EYTM4S3BjUUtLMUlxVXh0Q3NvODBHT3RBeFBLdGJVcmRGS0M4YUZleXd1MFpBVDBWMEZFZnRHN2d2LWYyTENRSzFLOHdBQUQ5eVB2SHN4eElFaExlSHNwb1ZCcw?oc=5
+- Título: Moderate mag. 4.3 earthquake - 17 km east of Chinandega, Departamento de Chinandega, Nicaragua, on Wednesday, Oct 7, 2026, at 02:56 pm (Managua time) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 12:33:40 GMT
+
+Moderate mag. 4.3 earthquake - 17 km east of Chinandega, Departamento de Chinandega, Nicaragua, on Wednesday, Oct 7, 2026, at 02:56 pm (Managua time) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQQTN2UUtZWVRHa1l3N2pQaU5GYjhucGQ2ZVFUaGszVTVXaWRTalRSVlRpNjdXcHp6dXZiU1M2MlZLVXJJN1h6UURweTBCR1F0aWRQN0xjaHhxMVc0aGFoY2luVVBLR3QwazkwN2pHZkFad1Exbi0xdjYwcExvdjBPcURDTTJuakVWZ2FuM3M4eFdFblNBUmRYYzRlSklUUWZXYW5CNW9DS25YRmJ3b09ZNzF2cDlTLWFlMkRoZjg4Z3MtaHRFTmc?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 31 km south of Ciudad Lazaro Cardenas, Mexico, on Wednesday, Oct 7, 2026, at 05:01 am (GMT -7) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 16:35:07 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 31 km south of Ciudad Lazaro Cardenas, Mexico, on Wednesday, Oct 7, 2026, at 05:01 am (GMT -7) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTJVRHJOTzRhV19OVWFNQVZRZlZTenJNX1ZSZ0JnMGpCWkw1QWV5S0YyZ3JfbXktQVVrT2toUmJXT1M4V2RrV2dCLWM5djdRR3NZa1FJeHkyZ3ZnSXU4NF9ZLVUxNFZRSmlBTVBfTHEtZHdtYUFOMkFpdFlCVVFNLWlRUngydU9HMG9pNjRENjRuSURoTnQ2VlQ2ejl5SFU3SmRJX2RxUEpoWGZSTWtHQmVrQ3BPVDJ2cENB?oc=5
+- Título: Moderate mag. 4.2 earthquake - North Pacific Ocean, 134 km southwest of Tapachula, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 09:10 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 18:45:16 GMT
+
+Moderate mag. 4.2 earthquake - North Pacific Ocean, 134 km southwest of Tapachula, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 09:10 am (GMT -6) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWpCcnRiOVFod2pwaEVFeFRlTVNZM3BIY1pnTU0teFJGaXhzbjg0bXp5eC1lbXp2cmxvTVlnQ1dDVWZQQ1BEM0JpSzFfNXhTbnBsTENFdDZtXzZWcHM3VzczajR2NVVmcHZhXzBIdW9jNWJoUTIwRHJobGhiVXZZUU4zZEk0WDhrRTJfUGlxV1lPTUxVeFBIRHpFSlVsNEdxZ1VfT2ZIZ1NwT0hWelYyVmZJWmFkb2hTaV9hZXNXZDBRenlJWDlnVWgwSTJIUQ?oc=5
+- Título: Moderate mag. 4.3 earthquake - North Pacific Ocean, 131 km southwest of Tapachula, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 07:16 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 13:30:41 GMT
+
+Moderate mag. 4.3 earthquake - North Pacific Ocean, 131 km southwest of Tapachula, Estado de Chiapas, Mexico, on Wednesday, Oct 7, 2026, at 07:16 am (GMT -6) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFprM2ZMTG53R0lfUk1mSC1nWVhXeWxEME90ckpIdXhYMlFNTjVkdXdWV3pMS0JwT1hzRzVOWDdROVU0WVltei1Nd3lSbU81OXNkeFFhZzkyX0Zpa1REVjNOS01heE51UkxNSDRKdnV2X1BKU3AxVzFndkhWTkJjaGFPdVhiamJFSVpzYnF2Wm5SS0RrTmRBdUNrWTJWa3M2YWEyVFF1UDVhUkpw?oc=5
+- Título: Light mag. 3.1 earthquake (unconfirmed) - 25 km southwest of Piedecuesta, Departamento de Santander, Colombia, on Tuesday, Oct 6, 2026, at 11:51 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 10:33:36 GMT
+
+Light mag. 3.1 earthquake (unconfirmed) - 25 km southwest of Piedecuesta, Departamento de Santander, Colombia, on Tuesday, Oct 6, 2026, at 11:51 pm (GMT -5) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeTZCRnBoQkxFVXNWeHhpZkFoRl9vYWJNUTZSbjZ0cDNxdEhiQ2JHamdRVmxsSl9iTEN6NTcxTmhWcERLMGhaNlBZVGtjN3lqSV8tWUc3eDBQQQ?oc=5
+- Título: Panay - Volcano Discovery
+- Fecha detectada: Wed, 07 Oct 2026 13:54:22 GMT
+
+Panay Volcano Discovery
