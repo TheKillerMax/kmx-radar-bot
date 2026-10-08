@@ -1,0 +1,128 @@
+{
+  "theme": {
+    "name": "artemis-ii-lunar",
+    "background": "#07111F",
+    "panel": "#10243A",
+    "accent": "#4AD7D1",
+    "accent2": "#7AA7FF",
+    "warm": "#FFB85C",
+    "text": "#F7FAFC",
+    "muted": "#C6D3DF"
+  },
+  "sources": {
+    "earthset": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Earthset_Views_%28art002e021007%29.jpg",
+      "credit": "NASA/JSC · dominio público (EE. UU.)",
+      "archive": true
+    },
+    "orion_crew": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Putting_Our_Heads_Together_%28art002e025880%29.jpg",
+      "credit": "NASA/JSC · dominio público (EE. UU.)",
+      "archive": true
+    },
+    "milky_way": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Starstruck_%28art002e012588%29.jpg",
+      "credit": "NASA/JSC · dominio público (EE. UU.)",
+      "archive": true
+    },
+    "lunar": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Along_the_Lunar_Terminator_%28art002e014045%29.jpg",
+      "credit": "NASA/JSC · dominio público (EE. UU.)",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-archivo-lunar.png",
+      "photo": "earthset",
+      "archive": true,
+      "kicker": "DATOS CIENTÍFICOS",
+      "title": "LA NASA ABRE EL ARCHIVO DE ARTEMIS II",
+      "stat": "MÁS DE 800 GB",
+      "stat_label": "de datos del viaje lunar",
+      "body": "El material se recopiló en abril y se publicó el 7 de octubre.",
+      "footer": "FOTO: ABRIL 2026 · NASA",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Fotografía de la Tierra tras la Luna, captada desde Orion. El archivo científico de Artemis II supera los 800 gigabytes."
+    },
+    {
+      "n": 2,
+      "file": "02-contenido-del-archivo.png",
+      "photo": "orion_crew",
+      "archive": true,
+      "kicker": "OBSERVACIONES",
+      "title": "LA TRIPULACIÓN DEJÓ UN REGISTRO SONORO",
+      "stat": "8,5 HORAS",
+      "stat_label": "de comentarios y notas grabadas",
+      "footer": "FOTO: ABRIL 2026 · NASA",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Christina Koch y Victor Glover en Orion. La NASA publicó 8,5 horas de grabaciones científicas de la tripulación."
+    },
+    {
+      "n": 3,
+      "file": "03-800-gigabytes.png",
+      "photo": "lunar",
+      "archive": true,
+      "kicker": "ARCHIVO VISUAL",
+      "title": "MILES DE IMÁGENES DEL SOBREVUELO",
+      "stat": "MÁS DE 11.000",
+      "stat_label": "imágenes de alta resolución y videos",
+      "footer": "FOTO: ABRIL 2026 · NASA",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Superficie lunar fotografiada desde Orion. El archivo contiene más de 11.000 imágenes y videos."
+    },
+    {
+      "n": 4,
+      "file": "04-cinco-destellos.png",
+      "photo": "lunar",
+      "archive": true,
+      "kicker": "EN LA LUNA",
+      "title": "LOS ASTRONAUTAS VIERON CINCO DESTELLOS",
+      "stat": "5",
+      "stat_label": "destellos débiles observados",
+      "body": "NASA descartó reflejos de la nave y rayos cósmicos.",
+      "callout": "IMAGEN DE REFERENCIA: no muestra los destellos.",
+      "footer": "FOTO: ABRIL 2026 · NASA",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Fotografía lunar de archivo usada como referencia; no muestra los cinco destellos observados por Artemis II."
+    },
+    {
+      "n": 5,
+      "file": "05-via-lactea.png",
+      "photo": "milky_way",
+      "archive": true,
+      "kicker": "FOTO REAL",
+      "title": "ASÍ FOTOGRAFIARON LA VÍA LÁCTEA",
+      "body": "Imagen captada desde Orion el 7 de abril de 2026.",
+      "footer": "FOTO: ABRIL 2026 · NASA",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Fotografía real de la Vía Láctea tomada desde Orion el 7 de abril de 2026."
+    },
+    {
+      "n": 6,
+      "file": "06-para-que-sirve.png",
+      "photo": "earthset",
+      "archive": true,
+      "kicker": "INVESTIGACIÓN",
+      "title": "LOS REGISTROS YA PUEDEN ESTUDIARSE",
+      "body": "El archivo permite revisar fotografías y observaciones de la tripulación.",
+      "callout": "Artemis II rodeó la Luna, sin alunizar.",
+      "footer": "FUENTE: NASA · ARCHIVO LUNAR",
+      "sources": [
+        "NASA"
+      ],
+      "alt_text": "Tierra ocultándose tras la Luna en una fotografía de archivo. Los datos del sobrevuelo de Artemis II están disponibles para investigación."
+    }
+  ]
+}

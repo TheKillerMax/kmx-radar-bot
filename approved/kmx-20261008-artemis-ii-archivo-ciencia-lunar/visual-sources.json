@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-10-08T04:39:31.752Z",
+  "note": "Fotografías originales NASA/JSC de abril de 2026, no del anuncio de octubre. Dominio público de EE. UU. Identificación verificada en fichas de Wikimedia Commons. Uso editorial con crédito; no implicar patrocinio de NASA.",
+  "assets": [
+    {
+      "key": "earthset",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Earthset_Views_(art002e021007).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Earthset_Views_%28art002e021007%29.jpg",
+      "original_creator": "NASA Johnson Space Center",
+      "license_or_permission": "Dominio público en EE. UU. — obra oficial NASA (PD-USGov-NASA); uso editorial conforme https://www.nasa.gov/nasa-brand-center/",
+      "attribution_required": false,
+      "attribution_text": "NASA/JSC · dominio público (EE. UU.)",
+      "local_path": "Descarga temporal en runner GitHub Actions",
+      "retrieved_at": "2026-10-08",
+      "notes": "Tierra sobre horizonte lunar desde Orion (6 de abril de 2026)."
+    },
+    {
+      "key": "orion_crew",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Putting_Our_Heads_Together_(art002e025880).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Putting_Our_Heads_Together_%28art002e025880%29.jpg",
+      "original_creator": "NASA Johnson Space Center",
+      "license_or_permission": "Dominio público en EE. UU. — obra oficial NASA (PD-USGov-NASA); uso editorial conforme https://www.nasa.gov/nasa-brand-center/",
+      "attribution_required": false,
+      "attribution_text": "NASA/JSC · dominio público (EE. UU.)",
+      "local_path": "Descarga temporal en runner GitHub Actions",
+      "retrieved_at": "2026-10-08",
+      "notes": "Christina Koch y Victor Glover desde Orion (abril de 2026)."
+    },
+    {
+      "key": "milky_way",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Starstruck_(art002e012588).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Starstruck_%28art002e012588%29.jpg",
+      "original_creator": "NASA Johnson Space Center",
+      "license_or_permission": "Dominio público en EE. UU. — obra oficial NASA (PD-USGov-NASA); uso editorial conforme https://www.nasa.gov/nasa-brand-center/",
+      "attribution_required": false,
+      "attribution_text": "NASA/JSC · dominio público (EE. UU.)",
+      "local_path": "Descarga temporal en runner GitHub Actions",
+      "retrieved_at": "2026-10-08",
+      "notes": "Vía Láctea fotografiada desde Orion (7 de abril de 2026)."
+    },
+    {
+      "key": "lunar",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Along_the_Lunar_Terminator_(art002e014045).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Along_the_Lunar_Terminator_%28art002e014045%29.jpg",
+      "original_creator": "NASA Johnson Space Center",
+      "license_or_permission": "Dominio público en EE. UU. — obra oficial NASA (PD-USGov-NASA); uso editorial conforme https://www.nasa.gov/nasa-brand-center/",
+      "attribution_required": false,
+      "attribution_text": "NASA/JSC · dominio público (EE. UU.)",
+      "local_path": "Descarga temporal en runner GitHub Actions",
+      "retrieved_at": "2026-10-08",
+      "notes": "Relieve lunar real en abril de 2026; no documenta los destellos."
+    }
+  ]
+}
