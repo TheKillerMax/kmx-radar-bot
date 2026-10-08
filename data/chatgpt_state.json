@@ -1,13 +1,13 @@
 {
   "last_media_id": "18011277323964942",
-  "last_processed_generated_at": "2026-10-07T20:34:01Z",
-  "last_publication_id": "kmx-20261007-curiosity-amanecer-marte",
+  "last_processed_generated_at": "2026-10-08T00:55:56Z",
+  "last_publication_id": "kmx-20261008-artemis-ii-archivo-ciencia-lunar",
   "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 1 verificada en main; producción visual pendiente.",
+  "note": "FASE 1: paquete editorial completo y verificado en main; producción visual pendiente.",
   "pending_manifest_generated_at": null,
   "phase": "editorial_ready_for_visuals",
   "published_at": null,
-  "source_event_id": "01-a9885e24dd72912d",
+  "source_event_id": "10-4670e2885bdc7349",
   "visuals_completed_at": null
 }
