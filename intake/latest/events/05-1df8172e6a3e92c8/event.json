@@ -1,0 +1,40 @@
+{
+  "event_id": "05-1df8172e6a3e92c8",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "🚀 El regreso a casa ya comenzó. Este miércoles 7 de octubre, la misión Crew-12 de NASA y SpaceX se desacopló de la Estación Espacial Internacional después de 237 días en órbita. A bordo de la cápsula Dragon viajan los astronautas Jessica Meir y Jack - Facebook",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "facebook.com",
+    "fomoera.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "🚀 El regreso a casa ya comenzó. Este miércoles 7 de octubre, la misión Crew-12 de NASA y SpaceX se desacopló de la Estación Espacial Internacional después de 237 días en órbita. A bordo de la cápsula Dragon viajan los astronautas Jessica Meir y Jack - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHBBTGhoUDU5bFc2N0RWeE5TbVZsTldNRkg0dXg4Uk1SQkYtTl96b2pFSkxMVXlqa0ZWRjhUSU9TUHJldlpCcHFudm1rc3B4ZXh4X1lkdmhOSm5PQ3J2c0dOZ3FWQkNFRWl2LTdSY1dzRUlTYTgtX09fbUl1Z1VVTG05NzNxOU5CWWxBcVoxUzcyWjNsd0JhSzBiRTN0WmhxSElZdGo0T2hLazJ3cjlVTFhNR2gxMUtRTEZ5cUxVSDRsdGsxVzBkT2RnajlxY005bFdGSDVIRjBtMmRhTDFPS1I4NU0wdGg1UENJcTZkaEc?oc=5",
+      "domain": "facebook.com",
+      "publisher": "Facebook",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 00:00:14 GMT",
+      "primary_hint": false,
+      "excerpt": "🚀 El regreso a casa ya comenzó. Este miércoles 7 de octubre, la misión Crew-12 de NASA y SpaceX se desacopló de la Estación Espacial Internacional después de 237 días en órbita. A bordo de la cápsula Dragon viajan los astronautas Jessica Meir y Jack Facebook"
+    },
+    {
+      "title": "NASA y SpaceX prevén el amerizaje de Crew-12 el 8 de octubre - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBET1dlY3hHdGZ6VWprN2hrVzZrUHFEOE5SMF81Q21BN3VQUzdWQ3d1MEw3TEEtZzFYV0JTVERrV2ZIT2tJVXlOMER1VVMwMGxReUt2ZXlxZw?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 07 Oct 2026 05:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA y SpaceX prevén el amerizaje de Crew-12 el 8 de octubre https://fomoera.com/"
+    }
+  ]
+}
