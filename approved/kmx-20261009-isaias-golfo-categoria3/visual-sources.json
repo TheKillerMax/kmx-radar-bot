@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-10-09T16:31:32Z",
+  "note": "Imágenes reales y verificables. Satélite del 8/10 rotulado ARCHIVO. Mapas del NHC aviso 12, 9/10, 10:00 CDT. Logo oficial: assets/logo.png.",
+  "assets": [
+    {
+      "key": "satellite",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Clouds_Swirls_Around_Center_of_Hurricane_Isaias_(CIRA_2026-10-08).png",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Clouds_Swirls_Around_Center_of_Hurricane_Isaias_%28CIRA_2026-10-08%29.png",
+      "original_creator": "NOAA GOES-19 / CSU-CIRA",
+      "license_or_permission": "Dominio público de EE. UU. (PD-USGov-NOAA); ficha Wikimedia Commons verificada el 9/10/2026.",
+      "attribution_required": false,
+      "attribution_text": "NOAA / GOES-19 / CSU-CIRA · archivo del 8/10/2026",
+      "local_path": "Descarga temporal del runner",
+      "retrieved_at": "2026-10-09",
+      "notes": "Imagen real del 8 de octubre. No corresponde a la categoría 3 del día 9; usar rótulo ARCHIVO."
+    },
+    {
+      "key": "cone12",
+      "source_url": "https://prod-west-nhc.woc.noaa.gov/refresh/graphics_at4%2Bshtml/091555.shtml?cone=",
+      "direct_url": "https://prod-west-nhc.woc.noaa.gov/storm_graphics/AT09/refresh/AL092026_5day_cone%2Bpng/091555_5day_cone.png",
+      "original_creator": "National Hurricane Center / NOAA / NWS",
+      "license_or_permission": "Dominio público: gráfico oficial de NHC/NWS, EE. UU.; https://www.weather.gov/disclaimer",
+      "attribution_required": false,
+      "attribution_text": "NHC / NOAA · aviso 12 · 9/10/2026, 10:00 CDT",
+      "local_path": "Descarga temporal del runner",
+      "retrieved_at": "2026-10-09",
+      "notes": "Mapa de pronóstico fechado, no aviso en tiempo real; cono no representa extensión total del peligro."
+    },
+    {
+      "key": "wind12",
+      "source_url": "https://prod-west-nhc.woc.noaa.gov/refresh/graphics_at4%2Bshtml/091555.shtml?radii=",
+      "direct_url": "https://prod-west-nhc.woc.noaa.gov/storm_graphics/AT09/refresh/AL092026_current_wind%2Bpng/091555_current_wind_sm.png",
+      "original_creator": "National Hurricane Center / NOAA / NWS",
+      "license_or_permission": "Dominio público: gráfico oficial NHC/NWS, EE. UU.; https://www.weather.gov/disclaimer",
+      "attribution_required": false,
+      "attribution_text": "NHC / NOAA · viento estimado · 9/10/2026, 10:00 CDT",
+      "local_path": "Descarga temporal del runner",
+      "retrieved_at": "2026-10-09",
+      "notes": "Franjas estimadas de viento y avisos oficiales; no equivale a mapa de evacuaciones locales."
+    }
+  ]
+}

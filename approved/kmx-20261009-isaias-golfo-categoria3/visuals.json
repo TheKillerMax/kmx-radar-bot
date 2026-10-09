@@ -1,0 +1,126 @@
+{
+  "theme": {
+    "name": "isaias-categoria3-20261009",
+    "background": "#071823",
+    "panel": "#102B39",
+    "accent": "#42DDD1",
+    "accent2": "#79B5F1",
+    "warm": "#FFD16D",
+    "text": "#F8FBFE",
+    "muted": "#D6E0EB"
+  },
+  "sources": {
+    "satellite": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Clouds_Swirls_Around_Center_of_Hurricane_Isaias_%28CIRA_2026-10-08%29.png",
+      "credit": "NOAA / GOES-19 / CSU-CIRA · 8/10/2026",
+      "archive": true
+    },
+    "cone12": {
+      "direct_url": "https://prod-west-nhc.woc.noaa.gov/storm_graphics/AT09/refresh/AL092026_5day_cone%2Bpng/091555_5day_cone.png",
+      "credit": "NHC / NOAA · mapa 9/10, 10:00 CDT",
+      "archive": false
+    },
+    "wind12": {
+      "direct_url": "https://prod-west-nhc.woc.noaa.gov/storm_graphics/AT09/refresh/AL092026_current_wind%2Bpng/091555_current_wind_sm.png",
+      "credit": "NHC / NOAA · vientos 9/10, 10:00 CDT",
+      "archive": false
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-isaias-ya-es-huracan.png",
+      "photo": "satellite",
+      "archive": true,
+      "kicker": "GOLFO DE MÉXICO",
+      "title": "ISAÍAS YA ES HURACÁN DE CATEGORÍA 3",
+      "stat": "193 km/h",
+      "stat_label": "vientos sostenidos, según el NHC",
+      "body": "Sigue sobre el mar y se acerca a Estados Unidos.",
+      "footer": "IMAGEN: 8/10 · DATOS: 9/10, 10:00 CDT",
+      "sources": [
+        "NHC / NOAA"
+      ],
+      "alt_text": "Imagen satelital real de Isaías del 8 de octubre, antes de alcanzar la categoría 3. El día 9, el NHC confirmó vientos máximos sostenidos de unos 193 kilómetros por hora."
+    },
+    {
+      "n": 2,
+      "file": "02-zona-prevista-de-llegada.png",
+      "photo": "cone12",
+      "archive": false,
+      "kicker": "TRAYECTORIA PREVISTA",
+      "title": "LA COSTA DE FLORIDA ESTÁ EN LA RUTA",
+      "body": "El NHC prevé una llegada a tierra esta noche en el extremo occidental del noroeste de Florida.",
+      "callout": "PRONÓSTICO, NO IMPACTO CONFIRMADO",
+      "footer": "MAPA NHC · 9/10, 10:00 CDT",
+      "sources": [
+        "NHC / NOAA"
+      ],
+      "alt_text": "Mapa oficial del NHC del 9 de octubre, a las 10:00 de la mañana, hora central estadounidense. El cono de pronóstico de Isaías apunta hacia la costa del extremo occidental del noroeste de Florida; conserva incertidumbre."
+    },
+    {
+      "n": 3,
+      "file": "03-vientos-del-huracan.png",
+      "photo": "satellite",
+      "archive": true,
+      "kicker": "FUERZA OBSERVADA",
+      "title": "UN HURACÁN DE GRAN INTENSIDAD",
+      "stat": "120 mph",
+      "stat_label": "equivalen a unos 193 km/h",
+      "body": "Velocidad de los vientos sostenidos según el NHC.",
+      "footer": "IMAGEN: 8/10 · DATOS: 9/10, 10:00 CDT",
+      "sources": [
+        "NHC / NOAA"
+      ],
+      "alt_text": "Imagen satelital de archivo de Isaías tomada el 8 de octubre. El recuadro muestra los 120 millas por hora de vientos máximos sostenidos registrados por el NHC el 9 de octubre."
+    },
+    {
+      "n": 4,
+      "file": "04-agua-y-lluvias.png",
+      "photo": "satellite",
+      "archive": true,
+      "kicker": "RIESGOS COSTEROS",
+      "title": "EL AGUA TAMBIÉN ES UNA AMENAZA",
+      "bullets": [
+        "La marejada puede inundar zonas bajas.",
+        "Las lluvias pueden causar inundaciones.",
+        "Los vientos pueden provocar daños."
+      ],
+      "footer": "IMAGEN: 8/10 · FUENTE: NHC",
+      "sources": [
+        "NHC / NOAA"
+      ],
+      "alt_text": "Fotografía satelital de archivo de Isaías del 8 de octubre. Los textos enumeran riesgos previstos: marejada ciclónica, lluvias intensas, inundaciones y daños por viento; no representan daños ocurridos."
+    },
+    {
+      "n": 5,
+      "file": "05-alertas-y-evacuaciones.png",
+      "photo": "wind12",
+      "archive": false,
+      "kicker": "PREPARATIVOS",
+      "title": "HAY ZONAS COSTERAS BAJO EVACUACIÓN",
+      "body": "Las órdenes se emiten a nivel local. Este mapa muestra avisos meteorológicos, no órdenes de evacuación.",
+      "footer": "MAPA NHC · 9/10, 10:00 CDT",
+      "sources": [
+        "NHC / NOAA",
+        "AP"
+      ],
+      "alt_text": "Mapa auténtico del NHC del 9 de octubre sobre avisos por viento. Algunas localidades costeras registran órdenes de evacuación, pero esas órdenes no están representadas directamente en este mapa."
+    },
+    {
+      "n": 6,
+      "file": "06-pronostico-con-hora.png",
+      "photo": "cone12",
+      "archive": false,
+      "kicker": "AVISOS ACTUALIZADOS",
+      "title": "REVISA EL ÚLTIMO INFORME DEL NHC",
+      "body": "La ruta y la intensidad pueden cambiar en pocas horas.",
+      "callout": "Este mapa corresponde al 9/10 a las 10:00 a. m. CDT.",
+      "footer": "NHC / NOAA · 9 OCTUBRE 2026",
+      "sources": [
+        "NHC / NOAA"
+      ],
+      "alt_text": "Mapa de pronóstico oficial del NHC para Isaías, emitido a las 10 de la mañana del 9 de octubre. Se recuerda consultar información actualizada porque las condiciones pueden cambiar."
+    }
+  ]
+}
