@@ -1,0 +1,52 @@
+{
+  "event_id": "03-6980922f6be66a86",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "David Zaslav recibirá más de 600 millones de dólares tras la fusión de Paramount y Warner Bros. Discovery - Spoiler.mx",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.vida-estilo.yahoo.com",
+    "es.qz.com",
+    "spoiler.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "El CEO saliente de Warner Bros. Discovery se embolsó $606 millones por la venta de Paramount. - Quartz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1A3MzR2dW1jVHlFQXYyVWRKZWI3ZWgzU09wYWdCTC0yR1pjMjlETVViOHZ4V3p2dmVnNW5OWUN0VWx5UnJ0OExTRldRbzRHckU2SXZJMWZROWFuMm9INmRMZmZKMjNUd0hiNE10eVlXOURUdUtyaGk5bXRZSUZDdFFaLXZ1SXM?oc=5",
+      "domain": "es.qz.com",
+      "publisher": "Quartz",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 17:35:24 GMT",
+      "primary_hint": false,
+      "excerpt": "El CEO saliente de Warner Bros. Discovery se embolsó $606 millones por la venta de Paramount. Quartz"
+    },
+    {
+      "title": "David Zaslav, ex CEO de Warner Bros. Discovery, recibirá 606 millones de dólares tras la fusión con Paramount - Yahoo en Español Vida y Estilo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnN1a19tOUJGVDZjY0g5aERBWEhHb3lsRFZ0TFh0TXBfWFZsSEZSWVVKaVRhekVmNnRObmo1ZUhwVGJyUW1BODdreVNGVS1XUnBUY1JmNHJaU0J6Nl9NRU1OTU9ZeTZMdngwMDFQeXotZHBmLUtGTUVuWkY4ck5YMnpmWHI1dw?oc=5",
+      "domain": "es-us.vida-estilo.yahoo.com",
+      "publisher": "Yahoo en Español Vida y Estilo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 22:28:56 GMT",
+      "primary_hint": false,
+      "excerpt": "David Zaslav, ex CEO de Warner Bros. Discovery, recibirá 606 millones de dólares tras la fusión con Paramount Yahoo en Español Vida y Estilo"
+    },
+    {
+      "title": "David Zaslav recibirá más de 600 millones de dólares tras la fusión de Paramount y Warner Bros. Discovery - Spoiler.mx",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMMTdsLU5TU0pHblk5WmR2eVBLellmNVpzaFcxc1BmRy1jaEZBOU9Ca2lDeGR0QVZ1cEg1NFNHYkcxY1dSUVVkV2RqV0lGSDZDV040NDYzeUZuT0NKcFpCSGtzQk85ZnZRczEwdkRIbXNjZw?oc=5",
+      "domain": "spoiler.mx",
+      "publisher": "Spoiler.mx",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 14:27:58 GMT",
+      "primary_hint": false,
+      "excerpt": "David Zaslav recibirá más de 600 millones de dólares tras la fusión de Paramount y Warner Bros. Discovery Spoiler.mx"
+    }
+  ]
+}

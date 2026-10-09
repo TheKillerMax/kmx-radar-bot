@@ -1,0 +1,54 @@
+{
+  "event_id": "02-bf783b8cfef1effe",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "‘Isaías’ se acerca a la costa del golfo en Estados Unidos como un potente huracán de categoría 3 - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.555,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com",
+    "kktv.com",
+    "telemundolaredo.tv"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 3,
+  "rank_signal": 0.71,
+  "sources": [
+    {
+      "title": "‘Isaías’ se acerca a la costa del golfo en Estados Unidos como un potente huracán de categoría 3 - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDh3bV94NXhxcUhzMXg0MVd0dGpXNzlXTXJQelp1cmhmS3Jub3FObWNpbThOTG4xY00yZWxoYzhlY3I0RUpQOFBEckx6Q0JnVlpaNjRadEEzRFA2N3cxOFhqSUFGSkI2S2Nmb3JvU2E2UEx3WmVVUEJvSTBQZFo3S3hmdUIzbkpLa2c4dXlBWmFUNVlCUUpWN3lsTzZtT1JMLV9taVZOaTdlN3NBR2taTXdjU2lqU2RYbWIwWVktbElDTTJCV1RFYmtRRU4?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 14:17:03 GMT",
+      "primary_hint": false,
+      "excerpt": "‘Isaías’ se acerca a la costa del golfo en Estados Unidos como un potente huracán de categoría 3 EL PAÍS ¿Dónde tocará tierra el huracán Isaias? Categoría 3 amenaza Florida y Alabama Yahoo Huracán Isaías alcanza categoría 3 y amenaza la costa del Golfo de EE.UU. Bloomberg.com Isaías se convierte en el primer huracán de la temporada del Atlántico ABC7 Los Angeles Isaías se fortalecerá a huracán de categoría 3 o superior al acercarse a EEUU Chicago Tribune"
+    },
+    {
+      "title": "Isaías se intensifica y se convierte en un huracán de categoría 3 - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1A2WHRGcmo2WVVzUGZTc29ibDFhRTdYMmw4M2RoR1lwbWRXUnN4eFYyQnFXSElZSVRIOW40QnUtV2ZnYzBFUnd0YmE3eXJMRV9YSHJTbE5JVFpOTm1ld3ZZWnFxaC02MWJjYVd1aUJkZFlzZTE0MmJrZ2t6SUFIVlRnNDNrSkVQYTRjc2ZhbmRtd1AzOEJNSUtZWQ?oc=5",
+      "domain": "kktv.com",
+      "publisher": "KKTV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 12:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Isaías se intensifica y se convierte en un huracán de categoría 3 KKTV"
+    },
+    {
+      "title": "Isaías se intensifica y se convierte en un huracán de categoría 3 - Telemundo Laredo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHRmdXBMb1ktT0hyeGJMamM3SGZ3OW5VVGZ6VHJQUTAwYlFuaFRzalFzcnBxWE1mUnpoNzl0a2hoT3dVMkxYbW9LM0taX2pUOGpMZ29PcEdBamhHaTRCSjJ6X01vOHN1Y003MFNCQTVhamc1YnlySWU2RU90Y1QwbjFycHBBbnVNcHUwWGJDYXJrRXlYeFhvWGlwdUhic1hi?oc=5",
+      "domain": "telemundolaredo.tv",
+      "publisher": "Telemundo Laredo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 12:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Isaías se intensifica y se convierte en un huracán de categoría 3 Telemundo Laredo"
+    }
+  ]
+}
