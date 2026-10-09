@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-08T00:55:56Z",
-  "last_publication_id": "kmx-20261008-artemis-ii-archivo-ciencia-lunar",
-  "last_result": "published",
+  "last_processed_generated_at": "2026-10-09T10:23:12Z",
+  "last_publication_id": "kmx-20261009-isaias-golfo-categoria3",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Pipeline reconciler confirmed the Instagram receipt and publication history.",
+  "note": "Recuperación editorial: paquete completo verificado en main para 2026-10-09T10:23:12Z. Los campos last_media_id, published_at y visuals_completed_at conservan el último ciclo publicado (2026-10-08).",
   "pending_manifest_generated_at": null,
-  "phase": "published",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "10-4670e2885bdc7349",
+  "source_event_id": "01-e6848b10b92e4f85",
   "visuals_completed_at": "2026-10-08T04:40:55Z"
 }
