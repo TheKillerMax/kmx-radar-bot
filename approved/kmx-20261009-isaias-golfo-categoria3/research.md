@@ -1,0 +1,23 @@
+# Investigación editorial — Huracán Isaías, 9 de octubre de 2026
+
+**Manifest:** 2026-10-09T10:23:12Z · **Evento:** 01-e6848b10b92e4f85 · **Publicación:** kmx-20261009-isaias-golfo-categoria3 · **Corte informativo:** 9 de octubre de 2026, 7:20 a. m. CDT (12:20 UTC; actualización NHC).
+
+## Hecho y atribución primaria
+El Centro Nacional de Huracanes (NHC/NOAA) informó el 9 de octubre que **Isaías alcanzó la categoría 3** sobre el golfo de México. La actualización de las **7:20 a. m. CDT** situó el centro cerca de **27,0° N, 87,6° O**, con **vientos máximos sostenidos de 120 mph (aprox. 193 km/h)**, dirección norte-noreste y desplazamiento aproximado de 15 mph. **No había tocado tierra en ese corte**. Producto oficial: https://www.nhc.noaa.gov/mobile/index.html (incluye aviso público 11A y actualización). Avisos costeros: https://www.nhc.noaa.gov/mobile/text/refresh/MIATCVAT4%2Bhtml/091154.shtml.
+
+**Pronóstico, no hecho consumado:** AP, citando al NHC, reportó una **posible llegada a tierra la noche del viernes 9**, en una franja entre Mobile Bay (Alabama) y Destin (noroeste de Florida). La ubicación final y la intensidad podían variar. Fuente: https://apnews.com/article/hurricane-isaias-landfall-gulf-alabama-mississippi-919a46d4bd705726b4e57f18ce677ac5.
+
+## Riesgos y respuesta
+El NHC señaló amenazas de **marejada ciclónica, vientos peligrosos y precipitaciones capaces de producir inundaciones**. AP informó previsiones de aumentos del nivel del mar de **1,8 a 2,7 metros en algunos sectores**, no en toda la costa, y evacuaciones obligatorias para zonas específicas de Alabama y Florida. No confundir la marejada prevista con un nivel ya medido. Reuters recogió la declaración de emergencia en Alabama y avisos/evacuaciones en Florida: https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/. Evitar cuantificar víctimas o daños: el impacto aún no se produjo.
+
+## Corroboración y límites
+El NHC es la fuente primaria meteorológica. **Associated Press** documenta categoría 3, 120 mph, zona y hora previstas de llegada, medidas locales y riesgos. **Reuters** confirma de forma periodística el fortalecimiento y los preparativos; sus valores anteriores corresponden a actualizaciones más antiguas, no contradicen la medición más nueva del NHC. Un parte meteorológico puede quedar desactualizado en horas. **FASE 2 debe contrastar el estado más reciente antes de componer y publicar**, conservar visible la hora de los datos, y detener o reescribir si Isaías ya tocó tierra o cambió de categoría de forma material. No mostrar una predicción pasada como aviso vigente.
+
+## Decisión editorial y duplicados
+Revisados los 12 eventos y sus archivos `event.json` y `evidence.md`, las 19 entradas de `previous_posts.json` y 17 entregas `approved/*/handoff.json` de `main`. No hay cobertura publicada ni paquete para este manifest. Se consolidan las noticias de Isaías en un solo acontecimiento, sin multiplicar piezas. Se descartaron las dos entradas repetidas del Banco Central argentino sin fuente primaria examinada, la acción de SpaceX reportada solo por copias de Investing.com, avisos sanitarios locales que precisan corroboración reforzada, y noticias científicas verificables pero de menor urgencia. La inundación de Las Condes es relevante y verificable, pero el huracán representa un riesgo inmediato y de amplia extensión.
+
+## Descubrimiento y hashtags
+Cinco etiquetas y funciones: **#KMXRadar** (marca), **#Huracanes** (tema), **#HurricaneIsaias** (acontecimiento: uso fechado el 9/10 en cobertura local de Georgia https://chattooga1180.com/ y en podcast https://music.amazon.com/es-us/podcasts/80f93788-414b-49fc-bc5e-891fed65cfac/georgia-now), **#GolfoDeMéxico** (geografía), **#Florida** (zona de interés). La etiqueta española de acontecimiento `#HuracanIsaias` aparece en cobertura del 8/10 (https://www.apnoticias.pe/index.php/video/asi-avanza-el-huracan-isaias-hacia-eeuu-gestion-mundo-627629), pero se prefiere la forma inglesa **HurricaneIsaias**, comprobada, para no eliminar diacríticos exigibles en español. No se atribuyen cifras de alcance de Instagram.
+
+## Derechos y cautelas visuales
+Los gráficos oficiales del NHC/NWS son dominio público con condiciones: atribuir, no reclamar autoría, no insinuar respaldo oficial ni modificar y presentar como información gubernamental original. Ver https://www.nhc.noaa.gov/aboutnhcgraphics.shtml y https://www.weather.gov/disclaimer. Si se usa un mapa del pronóstico oficial, citar la hora y no alterar el contenido de la capa meteorológica. Ninguna fotografía sintética, ninguna fotografía de 2020 del huracán homónimo (sería engañosa), ninguna imagen AP/Reuters sin licencia. Logo de la marca solo `assets/logo.png`.

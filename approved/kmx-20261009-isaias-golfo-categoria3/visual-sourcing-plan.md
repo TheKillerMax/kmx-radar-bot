@@ -1,0 +1,15 @@
+# Plan de obtención visual — Isaías
+
+**Regla:** solo material real y con licencia verificable, nunca imágenes fabricadas ni fotografías de agencia sin licencia. El sistema puede diseñar mapas y gráficos propios **no fotográficos** con datos oficiales, rotulados como gráficos editoriales.
+
+1. **Mapas actuales de Isaías (piezas 1 y 2):** https://www.nhc.noaa.gov/graphics_at4.shtml y https://www.nhc.noaa.gov/mobile/index.html. **Autor:** National Hurricane Center / NOAA, National Weather Service (EE. UU.). **Derechos:** información pública del NWS, dominio público; condiciones descritas expresamente en https://www.nhc.noaa.gov/aboutnhcgraphics.shtml. **Atribución visible:** «Fuente: NHC / NOAA · pronóstico del 9/10/2026 (hora indicada)». Comprobar el archivo exacto descargado, fecha, validez y licencia en FASE 2; si se ha actualizado, usar uno nuevo y ajustar el texto, nunca mostrar una imagen antigua como actual.
+
+2. **Mapa de avisos costeros (pieza 5):** https://www.nhc.noaa.gov/mobile/index.html (sección «Watch/Warning» / mapas de avisos), y producto textual https://www.nhc.noaa.gov/mobile/text/refresh/MIATCVAT4%2Bhtml/091154.shtml. **Autor/derechos:** NHC/NWS, dominio público bajo las mismas limitaciones. **Atribución:** «Avisos del NHC / NOAA, con hora de actualización». No confundir áreas bajo alerta de huracán con órdenes municipales de evacuación.
+
+3. **Velocidad, amenazas y cronología (piezas 3, 4 y 6):** esquemas tipográficos propios y pictogramas geométricos construidos con datos NHC: https://www.nhc.noaa.gov/mobile/index.html; explicación de pronóstico e incertidumbre: https://www.nhc.noaa.gov/aboutnhcgraphics.shtml. **Derechos del dibujo:** diseño editorial propio; **fuente visible del dato:** NHC/NOAA. No dibujar fotografías, nubes dramáticas artificiales, áreas de inundación cuantificadas sin fuente ni falsos rastros satelitales.
+
+4. **Fotografía real opcional, no requerida:** solo buscar en biblioteca NOAA una imagen específica y fechada del fenómeno de 2026 con licencia explícita. Antes de incorporar, registrar ficha original y comprobar que realmente corresponda a este evento. No usar fotografías del huracán Isaías **de 2020**: las búsquedas de imágenes mezclan ambos sucesos.
+
+**Condiciones:** los gráficos oficiales pueden usarse para fines lícitos con crédito y sin sugerir que NHC respalda la publicación; si se modifican, **no** hacerlos pasar por documento oficial. No extraer ni reutilizar fotos de AP, Reuters o Getty. Mantener cualquier leyenda del NHC legible y no alterar información meteorológica.
+
+**FASE 2:** registrar cada fuente concreta finalmente utilizada en `visual-sources.json` con `source_url`, `original_creator`, `license_or_permission`, `attribution_required`, `attribution_text`, `local_path`, `retrieved_at`, `notes`. Logo oficial únicamente `assets/logo.png`, sin modificaciones. Si no hay derechos verificados para un archivo exacto, excluirlo.
