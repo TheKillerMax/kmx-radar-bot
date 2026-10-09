@@ -1,37 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261009-isaias-golfo-categoria3",
-  "source_event_id": "01-e6848b10b92e4f85",
-  "created_at": "2026-10-09T15:34:06Z",
   "ai_generated": true,
-  "headline": "Isaías ya es huracán de categoría 3 y se acerca a la costa de EE. UU.",
   "caption": "Isaías ya es un huracán de categoría 3 y se acerca a la costa del golfo de México, en Estados Unidos.\n\nEn una actualización de las 7:20 a. m. del viernes 9 de octubre (hora central de EE. UU.), el Centro Nacional de Huracanes informó vientos sostenidos de 120 millas por hora, unos 193 km/h.\n\nA esa hora seguía sobre el mar. Se esperaba que llegara a la costa entre Alabama y el noroeste de Florida durante la noche del viernes. El lugar y la intensidad al tocar tierra todavía podían cambiar.\n\nLa amenaza no es solo el viento: el agua del mar puede avanzar sobre zonas costeras y las lluvias intensas pueden provocar inundaciones. Autoridades locales ordenaron evacuaciones en sectores expuestos.\n\nDesliza para ver la zona en riesgo y por qué importa. Datos y pronósticos con hora de corte: mañana del 9 de octubre de 2026. Si estás en la zona afectada, revisa las alertas actuales del NHC y de las autoridades locales; este post no reemplaza las indicaciones de emergencia.\n\nFuentes: NHC/NOAA, Associated Press y Reuters.\n\n#KMXRadar #Huracanes #HurricaneIsaias #GolfoDeMéxico #Florida",
+  "created_at": "2026-10-09T15:34:06Z",
+  "headline": "Isaías ya es huracán de categoría 3 y se acerca a la costa de EE. UU.",
   "images": [
     {
-      "path": "01-isaias-ya-es-huracan.png",
-      "alt_text": "Mapa oficial del Centro Nacional de Huracanes con Isaías sobre el golfo de México. El 9 de octubre de 2026 alcanzó la categoría 3 y avanzaba hacia la costa de Estados Unidos."
+      "alt_text": "Imagen satelital real de Isaías del 8 de octubre, antes de alcanzar la categoría 3. El día 9, el NHC confirmó vientos máximos sostenidos de unos 193 kilómetros por hora.",
+      "path": "01-isaias-ya-es-huracan.png"
     },
     {
-      "path": "02-zona-prevista-de-llegada.png",
-      "alt_text": "Mapa oficial de pronóstico del huracán Isaías. Se esperaba que alcanzara la costa entre Alabama y el noroeste de Florida durante la noche del 9 de octubre; el punto exacto seguía sin confirmarse."
+      "alt_text": "Mapa oficial del NHC del 9 de octubre, a las 10:00 de la mañana, hora central estadounidense. El cono de pronóstico de Isaías apunta hacia la costa del extremo occidental del noroeste de Florida; conserva incertidumbre.",
+      "path": "02-zona-prevista-de-llegada.png"
     },
     {
-      "path": "03-vientos-del-huracan.png",
-      "alt_text": "Gráfico informativo: 120 millas por hora, unos 193 kilómetros por hora, era la velocidad de los vientos sostenidos de Isaías en una actualización del 9 de octubre a las 7:20 a. m., hora central de Estados Unidos."
+      "alt_text": "Imagen satelital de archivo de Isaías tomada el 8 de octubre. El recuadro muestra los 120 millas por hora de vientos máximos sostenidos registrados por el NHC el 9 de octubre.",
+      "path": "03-vientos-del-huracan.png"
     },
     {
-      "path": "04-agua-y-lluvias.png",
-      "alt_text": "Gráfico informativo de los principales riesgos del huracán Isaías: entrada del mar en tierra, lluvias intensas e inundaciones. No representa una medición exacta para cada localidad."
+      "alt_text": "Fotografía satelital de archivo de Isaías del 8 de octubre. Los textos enumeran riesgos previstos: marejada ciclónica, lluvias intensas, inundaciones y daños por viento; no representan daños ocurridos.",
+      "path": "04-agua-y-lluvias.png"
     },
     {
-      "path": "05-alertas-y-evacuaciones.png",
-      "alt_text": "Mapa de avisos meteorológicos del Centro Nacional de Huracanes para sectores del golfo de México; algunas zonas costeras recibieron órdenes locales de evacuación."
+      "alt_text": "Mapa auténtico del NHC del 9 de octubre sobre avisos por viento. Algunas localidades costeras registran órdenes de evacuación, pero esas órdenes no están representadas directamente en este mapa.",
+      "path": "05-alertas-y-evacuaciones.png"
     },
     {
-      "path": "06-pronostico-con-hora.png",
-      "alt_text": "Gráfico editorial que diferencia el estado observado del huracán Isaías de su llegada prevista a tierra y recuerda consultar el pronóstico actualizado."
+      "alt_text": "Mapa de pronóstico oficial del NHC para Isaías, emitido a las 10 de la mañana del 9 de octubre. Se recuerda consultar información actualizada porque las condiciones pueden cambiar.",
+      "path": "06-pronostico-con-hora.png"
     }
   ],
+  "publication_id": "kmx-20261009-isaias-golfo-categoria3",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "01-e6848b10b92e4f85",
   "sources": [
     {
       "label": "Centro Nacional de Huracanes (NHC/NOAA) — estado de Isaías, 9 de octubre",
@@ -54,6 +55,6 @@
       "url": "https://www.reuters.com/business/environment/hurricane-isaias-strengthens-us-gulf-coast-prepares-landfall-2026-10-08/"
     }
   ],
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals"
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-09T16:39:18Z"
 }
