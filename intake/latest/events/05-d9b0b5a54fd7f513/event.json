@@ -1,0 +1,52 @@
+{
+  "event_id": "05-d9b0b5a54fd7f513",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Trump llama enemigos a quienes usan el término inteligencia artificial - https://fomoera.com/",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "breakingthenews.net",
+    "fomoera.com",
+    "parabolica.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Trump llama enemigos a quienes usan el término inteligencia artificial - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNNXlKRlVVVnlQaE5tdEZHNDZiNUFubnRMcDQ0dG5yT3JhbnZSZm9kUlVsOWh3U2p4Y1FzcFZpZF9sTDBtbVczY3pMbTQwWmdVWG5iQTVfb0kwWnFPRF93LUZxN1pRMzN0U3ow?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 21:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump llama enemigos a quienes usan el término inteligencia artificial https://fomoera.com/"
+    },
+    {
+      "title": "Trump: quien use el término 'Inteligencia Artificial' es el 'ENEMIGO' - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VzhjVGY4Ukl6VVQzc0lBWW95MVRPSkpERzczbU92ZDBzblphNllxOTZhVEc5UlcyQzBiWmZiNTNrNWVQQkNvcUFQVVowSDhuRGRQZWpoWmxXRmpBekdTMFRiOA?oc=5",
+      "domain": "breakingthenews.net",
+      "publisher": "Breakingthenews.net",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 16:18:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump: quien use el término 'Inteligencia Artificial' es el 'ENEMIGO' Breakingthenews.net"
+    },
+    {
+      "title": "Trump: enemigo, quien siga diciendo Inteligencia Artificial a la IA - Parabolica.mx",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnVGWmxsTnBacHRwQnhjTXQ0QzBYQ0tXZXM5bS1yaGJBaVgyU0dWbVkyQ2ZWZlhmVmw3R0dweG1QOTVjOVBqcnlNalFjX04wQ2pGc3BfNENKZkJnbnZxUEtuMEJFaXowbGhLMGxmaDQ5cEJFbHY1TE8xSk1yeERQTFM4S3hLZnU3YkVXX2dqTlYwem83R1FmbFRDd1IzMVd2bGZJWEg2WEVfanpGNFhyako5STFqbGtnVFVsZi1n?oc=5",
+      "domain": "parabolica.mx",
+      "publisher": "Parabolica.mx",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 20:09:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump: enemigo, quien siga diciendo Inteligencia Artificial a la IA Parabolica.mx"
+    }
+  ]
+}
