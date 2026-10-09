@@ -4,16 +4,15 @@
   "risk": "medium",
   "canonical_title": "La AGN afirmó que el Banco Central perdió US$ 1.023 millones por operaciones con oro - Diario Textual",
   "intake_status": "SIN CONFIRMAR",
-  "verification_signal": 0.495,
+  "verification_signal": 0.38,
   "primary_source_present": false,
   "independent_domains": [
-    "0223.com.ar",
     "diariotextual.com",
-    "noticiasargentinas.com"
+    "misionesonline.net"
   ],
   "high_trust_domains": [],
-  "article_count": 3,
-  "rank_signal": 0.6,
+  "article_count": 2,
+  "rank_signal": 0.45,
   "sources": [
     {
       "title": "La AGN afirmó que el Banco Central perdió US$ 1.023 millones por operaciones con oro - Diario Textual",
@@ -27,26 +26,15 @@
       "excerpt": "La AGN afirmó que el Banco Central perdió US$ 1.023 millones por operaciones con oro Diario Textual"
     },
     {
-      "title": "La AGN afirmó que el Banco Central perdió más de US$1.000 millones por el precio del oro - Agencia Noticias Argentinas",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRzZPVXpYbV9KaGlQRjczMHAwVzBoUUFoYnRfajdzODhyV3l5UFNCRm5sMGpXLU1rMGdvSVF5Q003ZEFKZzMtd29mVWtsdEo5cVFSYXFaYTkxdjFSVkRha0YxaUpNOFAxOG5uaGExRTZ3WnZQZnhJLWxocnF5SDk4QlpkcEIyalRIQzU5OFV2enpjZlI4ZGtWQjNydmdNWHExWE15VWt6Ty1DMXJzbl94VzJKdDVSaFZGYm5wd3UzVGZpX0VjNEx6Yng1cVpieXhRbTlKMlRtNVpLendqQ3NrRDVlRi1xQ3hyTGl6WTJlc01WVWpTTmh1UTNERngydlAxYXNhYjB0QmZJcGlhcEJON1VKeGFhMnFwd016NXZyLTNoUknSAbICQVVfeXFMTTMzSDZ1cGhYeFBfT2k3dk8tOWhEaFdyMlVpUldtTnZlal9pckMtamlLc01ldjdzcE02RG93M05GTkI2Z3dWSlJFTlZJRGpEQkQ3SUtmUXNDaXRlT1g0azFQWC1QcS14SC05emtLcmI2dXcyd19CbHZBZDBqSTRKUjlMMU5SVzktTnVFYjBlcmtJSjN5RWptQmF5LTllRERwMXdISU1UcXBXeW5tOGxzcHZFeDVyTEl2MGIxTWxERWVfWC1SUWlaNlJVYVppRzI5WlRXWG1jQ2w5UUZsN0lPWFlINV9Ec1FlZFFuRnJQdWh2WHJHMDdFUGZXbUJqQk9XMEN1MnBheWFHcEEwYm9tc0VCOXlCT3dpMU1FR3g4dFliWkV5ZkFmdmhDOS15T2hMU0Zn?oc=5",
-      "domain": "noticiasargentinas.com",
-      "publisher": "Agencia Noticias Argentinas",
+      "title": "Afirman que el Banco Central perdió en 2025 US$1000 millones en oro - MisionesOnline",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTlNazlaU0o2a3F5dV9WNnVacUoyejRFUzBaTEhTbU5feTl0MVRIMVJqN1VBS0l4OEQ5c05iTFotSE5CTVpNb3AydExjTjh0ZGVzZU9FZl95ZXlQVm5xTjhoejJJZDIwcTVsN0tQam1DTTY3MjI4VExYbHhQZTBhVHdBeDJtQWdDSG1fTnJkRQ?oc=5",
+      "domain": "misionesonline.net",
+      "publisher": "MisionesOnline",
       "language": "es",
       "source_country": "",
-      "seen_at": "Thu, 08 Oct 2026 21:48:00 GMT",
+      "seen_at": "Thu, 08 Oct 2026 23:57:18 GMT",
       "primary_hint": false,
-      "excerpt": "La AGN afirmó que el Banco Central perdió más de US$1.000 millones por el precio del oro Agencia Noticias Argentinas"
-    },
-    {
-      "title": "Advierten que el Banco Central perdió más de US$1.000 millones por un error de cálculo - 0223.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYW9hTEtveVdPR1Jaa0lFS1Y3Unp4cThPdENFNVhHRFFHMUFzQ19VRmZIc1ViUG93MlA1QndIRW5pbHhYV3dtX2RWSy1CVVBRTFNUOVdKRjFhSHRrZmRVRDE3MG1MVmhtWThkUVUyYlphSjlvUVhxSlN2Y1RSYVFqMTQ5Wk1fTkpEMkUydmRucldjQUlneHQtaDV4UUJBNG1ycG1JZkVmd0hoSXE5Y183QWdTWE53aUxuV2x0dk80OVJEZ1ZuU016ekJQU3U?oc=5",
-      "domain": "0223.com.ar",
-      "publisher": "0223.com.ar",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Thu, 08 Oct 2026 23:14:00 GMT",
-      "primary_hint": false,
-      "excerpt": "Advierten que el Banco Central perdió más de US$1.000 millones por un error de cálculo 0223.com.ar"
+      "excerpt": "Afirman que el Banco Central perdió en 2025 US$1000 millones en oro MisionesOnline"
     }
   ]
 }

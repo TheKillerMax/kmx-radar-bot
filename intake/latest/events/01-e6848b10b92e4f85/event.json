@@ -1,0 +1,54 @@
+{
+  "event_id": "01-e6848b10b92e4f85",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Isaías, primer huracán de la temporada en el Atlántico, se fortalece en el Golfo - CW39 Houston",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.555,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cw39.com",
+    "elpais.com",
+    "unotv.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 3,
+  "rank_signal": 0.71,
+  "sources": [
+    {
+      "title": "Isaías, primer huracán de la temporada en el Atlántico, se fortalece en el Golfo - CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBM2IxMHZ6d3YzRWR1U0ZlN3BfVzJoV0JRdXExR3cxSmNwSkVqN0JoeDVYN21VZkp6ZjM0cHdvejFfSWhlOVR5R2M2UjVoOGtEYnRnNS1rTUdoNklzUlZoU3dwMnVndHYzNXfSAW9BVV95cUxNVWRFbXB2ZkRpOXFJMnZOdkVsSlFveFFQMkRqU0I5ckVmZm4zU29PZW5pdzcwY1NmMnNVT3plS20wdjk1LUR6VHdGd1NRYk9ZUDNGbTFEb1BXb1lpYnUwbUdaYkhsbzZWRE16T2R5TDg?oc=5",
+      "domain": "cw39.com",
+      "publisher": "CW39 Houston",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 13:27:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Isaías, primer huracán de la temporada en el Atlántico, se fortalece en el Golfo CW39 Houston"
+    },
+    {
+      "title": "El huracán ‘Isaías’ se fortalece en el golfo de México y amenaza la costa de Florida - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnZrc2VfT0RyejU5bUhtT0ZRc2hfUjMxMS1sTEEtTmRRTHl5ZkhXczM0Vk5hMm1NOWs1dVNKMHFPQUktNXY2RHZQTDc0cmdsb2IzUGg5VlBEUDlmNURDLS1QUGxRSmdZVDJDbmpXNlNaSEtOWmNTQXFzc1h4elgtVDN4Wm9RMU9rY29kMVJYNkwxSDgxc3NmOXJRZU5iYXdXNVJsZjF3dHpxNExvaUowN0E2SmQ1OHZLNUprNA?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 15:51:53 GMT",
+      "primary_hint": false,
+      "excerpt": "El huracán ‘Isaías’ se fortalece en el golfo de México y amenaza la costa de Florida EL PAÍS"
+    },
+    {
+      "title": "Isaias rompe récord: es el primer huracán de temporada que se forma más tarde en la historia del Atlántico - UnoTV",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUEZ0Z1JSbk10MUd3akZyNmtaMWg2cXFZMUlvZXd3NWpWbmF2ZjJFdEdmbUQ5RTdMM3Yyd0NMSFpRRXJvcDR3ck9wZEQ0TjF0NVNxWE10VUdsSm5Vb0xVdDhzTGY0TkFBTnRSV1pMa1FXMHlhb3pkdUl6UHFyWjdqUEdPU193WUVoUEhSVzlWR3lhYVBjclBveGp3Ul9YZk03TTRqS2NnaE4xbl9ockR1QXhzLUR1QWNyb1d4NFd3Nzd0UTdITzFQc1NKeFJZVkFSdHQ4VW00WmZLVTdQa3c?oc=5",
+      "domain": "unotv.com",
+      "publisher": "UnoTV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 22:07:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Isaias rompe récord: es el primer huracán de temporada que se forma más tarde en la historia del Atlántico UnoTV"
+    }
+  ]
+}

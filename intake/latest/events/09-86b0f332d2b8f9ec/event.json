@@ -1,0 +1,28 @@
+{
+  "event_id": "09-86b0f332d2b8f9ec",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Sentinel-3C envía sus primeras imágenes de la Tierra - European Space Agency (ESA)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "esa.int"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Sentinel-3C envía sus primeras imágenes de la Tierra - European Space Agency (ESA)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1UtRms1bV8tMmJxdWJFVkVBenFVdjFoaFhjTUhXYlBadlV0STNRc3ZjTF8xUUhQbUJaeEpFcnkxQWFkZDVlTGN1UnRINmRrYUJOM2hoQmJuUHdzYllHT0V6UlRUVkx0MUQxek1yRmVaYTM0RzRJWTBjZElFR0o1WVlFcmIzWjlvMk4xUVdSaXphSWhFR1N2VU04LVhaazV2Rm5j?oc=5",
+      "domain": "esa.int",
+      "publisher": "European Space Agency (ESA)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 08 Oct 2026 18:36:37 GMT",
+      "primary_hint": false,
+      "excerpt": "Sentinel-3C envía sus primeras imágenes de la Tierra European Space Agency (ESA)"
+    }
+  ]
+}
