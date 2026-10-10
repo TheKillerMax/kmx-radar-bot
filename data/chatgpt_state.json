@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-09T10:23:12Z",
-  "last_publication_id": "kmx-20261009-isaias-golfo-categoria3",
-  "last_result": "needs_refresh",
+  "last_processed_generated_at": "2026-10-10T00:42:58Z",
+  "last_publication_id": "kmx-20261010-aluvion-las-condes",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 3 BLOQUEADA (10/10/2026, revisión NHC). Paquete aprobado kmx-20261009-isaias-golfo-categoria3 obsoleto: NHC confirmó impacto de Isaías en Destin, Florida, el 9/10 a las 20:30 CDT (105 mph, categoría 2); aviso n.º 14 del 9/10 a las 22:00 CDT: Isaías ya sobre tierra en Florida Panhandle, 90 mph (150 km/h), categoría 1, 30.8N 86.5W, avisos actualizados. La portada y las cifras del paquete anterior muestran categoría 3, 120 mph y llegada futura, que ya no son actuales. Debe volver a FASE 2: rehacer investigación, caption, mapas e imágenes, nueva QC visual y ortográfica. Corregir alt_text n.º 3 'los 120 millas' -> 'las 120 millas' si se conserva descripción histórica. No crear .ready ni publicar. FASE 1 de manifiesto más reciente 2026-10-10T00:42:58Z también figuraba editorial_incomplete por bloqueo de create_blob y sigue pendiente de recuperación independiente.",
-  "pending_manifest_generated_at": "2026-10-10T00:42:58Z",
-  "phase": "needs_refresh",
+  "note": "FASE 1 verificada en main para kmx-20261010-aluvion-las-condes; cinco archivos completos y ready_to_publish=false. FASE 2 pendiente. No crear .ready ni .visualize ni publicar. Atención: el paquete anterior de Isaías fue marcado needs_refresh por cambios meteorológicos; no publicar su versión desactualizada.",
+  "pending_manifest_generated_at": null,
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "01-e6848b10b92e4f85",
-  "visuals_completed_at": "2026-10-09T16:39:18Z"
+  "source_event_id": "01-57460b989278b123",
+  "visuals_completed_at": null
 }
