@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261010-aluvion-las-condes",
+  "source_event_id": "01-57460b989278b123",
+  "created_at": "2026-10-10T09:36:17.913Z",
+  "headline": "Un aluvión golpeó Las Condes y el Gobierno declaró zona de catástrofe",
+  "caption": "Un aluvión de agua y barro golpeó San Carlos de Apoquindo, en Las Condes (Santiago de Chile), el jueves 8 de octubre.\n\nSegún el balance difundido el 9 de octubre, seis personas resultaron heridas y numerosas viviendas sufrieron daños. El Gobierno declaró a Las Condes zona de catástrofe para facilitar la respuesta y la recuperación.\n\nEl agua aumentó de golpe y arrastró barro y otros materiales. La Fiscalía investiga cómo se originó el desastre y si existen responsabilidades. Esas causas todavía no están establecidas.\n\nDesliza para ubicar el sector y conocer qué se ha confirmado. Las cifras y las alertas pueden cambiar: consulta las actualizaciones de Senapred y de la Municipalidad de Las Condes.\n\nFuentes: Ministerio del Interior, Associated Press, Sernageomin (declaraciones recogidas por T13) y Emol.\n\n#KMXRadar #Aluvión #LasCondes #SantiagoDeChile",
+  "status": "editorial_ready_for_visuals",
+  "ready_to_publish": false,
+  "ai_generated": true,
+  "images": [
+    {
+      "path": "01-aluvion-las-condes.png",
+      "alt_text": "Mapa de OpenStreetMap que ubica San Carlos de Apoquindo en Las Condes, Santiago. Un texto informa del aluvión del 8 de octubre de 2026, con personas heridas y daños en viviendas."
+    },
+    {
+      "path": "02-zona-de-catastrofe.png",
+      "alt_text": "Gráfico informativo que explica que el Gobierno de Chile declaró a Las Condes zona de catástrofe el 9 de octubre de 2026, para facilitar la respuesta y la recuperación."
+    },
+    {
+      "path": "03-donde-ocurrio.png",
+      "alt_text": "Mapa basado en OpenStreetMap que sitúa San Carlos de Apoquindo en la comuna de Las Condes, al oriente de Santiago de Chile. La imagen no representa una inundación simulada."
+    },
+    {
+      "path": "04-seis-heridos.png",
+      "alt_text": "Gráfico tipográfico con el balance de seis personas heridas por el aluvión, informado el 9 de octubre. La fecha del balance aparece junto a la cifra."
+    },
+    {
+      "path": "05-investigacion-abierta.png",
+      "alt_text": "Gráfico que distingue el aluvión confirmado de las causas y eventuales responsabilidades que investiga la Fiscalía Oriente; no atribuye culpabilidad."
+    },
+    {
+      "path": "06-informacion-actualizada.png",
+      "alt_text": "Tarjeta informativa que recomienda consultar las alertas vigentes de Senapred y las comunicaciones de la Municipalidad de Las Condes antes de desplazarse por el sector."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ministerio del Interior de Chile — declaración de zona de catástrofe, 9/10/2026",
+      "url": "https://minterior.gob.cl/noticias/2026/10/09/gobierno-decreta-zona-de-catastrofe-en-la-comuna-de-las-condes/"
+    },
+    {
+      "label": "Associated Press — aluvión, evacuaciones y seis heridos, 8/10/2026",
+      "url": "https://apnews.com/article/7f44b0f7271741c686c5a918a6581997"
+    },
+    {
+      "label": "Emol — balance atribuido a autoridades y Bomberos, 9/10/2026",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/09/1213693/aluvion-las-condes-balance-bomberos.html"
+    },
+    {
+      "label": "T13 — explicación atribuida a Sernageomin, 8/10/2026",
+      "url": "https://www.t13.cl/noticia/nacional/sernageomin-explica-fenomeno-flash-flow-origino-aluvion-san-carlos-apoquindo-8-10-2026"
+    },
+    {
+      "label": "Emol — investigación anunciada por Fiscalía Oriente, 9/10/2026",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/09/1213723/fiscalia-aluvion-las-condes.html"
+    },
+    {
+      "label": "Municipalidad de Las Condes — comunicaciones y actualizaciones",
+      "url": "https://www.lascondes.cl/emergencia-el-minuto-a-minuto-del-trabajo-para-enfrentar-el-aluvion-en-las-condes/"
+    }
+  ]
+}
