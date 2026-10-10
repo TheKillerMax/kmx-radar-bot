@@ -1,0 +1,12 @@
+# Plan de procedencia visual verificable
+Publicación `kmx-20261010-ataque-aeropuerto-riad`. FASE 1 **planifica** derechos; FASE 2 debe descargar únicamente recursos permitidos, registrar `visual-sources.json` con URL directa verificada, autor, licencia/permiso, atribución, ruta local y fecha de recuperación, y comprobar la licencia de cada elemento antes de su empleo.
+
+| Uso | Recurso verificable | Autor/titular | Licencia o base de uso | Crédito y condición |
+|---|---|---|---|---|
+| Portada (foto de archivo) | https://commons.wikimedia.org/wiki/File:King_Khalid_International_Airport,_Riyadh_Saudi_Arabia_-_panoramio.jpg | liton islam | Creative Commons Atribución 3.0, https://creativecommons.org/licenses/by/3.0/ | «liton islam / Wikimedia Commons · CC BY 3.0». Indicar si se recorta y «ARCHIVO 2011». |
+| Tercera imagen (vista satelital histórica) | https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg | U.S. Air Mobility Command / Departamento de Defensa de EE. UU. | Dominio público en EE. UU., obra gubernamental militar según ficha de Commons | «Departamento de Defensa de EE. UU. / Wikimedia Commons». Es imagen de **2006**, no de daños de 2026. |
+| Mapa de Riad (datos, no captura de Google Maps) | https://www.openstreetmap.org/copyright | Colaboradores de OpenStreetMap | Datos ODbL 1.0, https://opendatacommons.org/licenses/odbl/1-0/ | Crédito **visible** «© OpenStreetMap contributors (ODbL)». Consultar https://osmfoundation.org/wiki/Attribution_Guidelines. Respetar las obligaciones para derivados y no extraer tiles en violación de su política. |
+| Fondo del resto de piezas | diseño editorial propio con tipografía, líneas y tarjetas; sin fotografías | KMX RADAR | creación gráfica propia sobre datos atribuidos | Fuentes visibles en piezas; material factual de AP/GACA/Al Jazeera citado, sin capturas protegidas ni insignias de terceros. |
+| Branding de todas las piezas | `assets/logo.png` | KMX RADAR | activo oficial interno del repositorio | No recrear, recortar, recolorear ni alterar proporción; preservar contraste y márgenes. |
+
+**Exclusiones:** imágenes de Reuters, AP, AFP, CNN y agencias comerciales en crónicas del ataque no se pueden copiar ni incrustar sin licencia específica. Fotos de archivo no pueden describirse como imágenes del siniestro. No incorporar logos gubernamentales ni de aeropuerto salvo derecho verificado. El render de FASE 2 debe comprobar la licencia actual de cada ficha y marcar «ARCHIVO» con fecha visible. La base de uso final se registrará antes de producir archivos gráficos.

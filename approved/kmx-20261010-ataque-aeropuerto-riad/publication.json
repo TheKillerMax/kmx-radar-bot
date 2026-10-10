@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261010-ataque-aeropuerto-riad",
+  "source_event_id": "10-915b2e7ff81a4bc4",
+  "created_at": "2026-10-10T21:51:42Z",
+  "headline": "Nuevo ataque en el aeropuerto de Riad dejó heridos e interrumpió vuelos",
+  "caption": "Un nuevo ataque golpeó el aeropuerto internacional Rey Jalid de Riad, en Arabia Saudita, el sábado 10 de octubre. La autoridad de aviación civil informó de varias personas heridas y suspendió temporalmente las operaciones mientras evaluaba los daños.\n\nEs un episodio distinto de los ataques del 8 de octubre. Las autoridades todavía estaban determinando el número exacto de heridos. No atribuimos la autoría del ataque del sábado sin confirmación suficiente.\n\nLas embajadas de Estados Unidos y Reino Unido recomendaron evitar el aeropuerto. Si tienes un viaje previsto, comprueba el estado de tu vuelo directamente con la aerolínea y sigue las indicaciones oficiales. La situación puede cambiar.\n\nDesliza para ver qué ocurrió, dónde está el aeropuerto y qué sigue sin confirmarse.\n\nFuentes: Autoridad General de Aviación Civil saudí (GACA), Associated Press, Al Jazeera y avisos consulares recogidos por Anadolu Agency.\n\n#KMXRadar #Riad #ArabiaSaudita #Aviación",
+  "status": "editorial_ready_for_visuals",
+  "ready_to_publish": false,
+  "ai_generated": true,
+  "images": [
+    {
+      "path": "01-que-ocurrio.png",
+      "alt_text": "Fotografía de archivo del aeropuerto internacional Rey Jalid, en Riad, tomada en 2011. El rótulo aclara que es una imagen anterior al ataque. Texto: el 10 de octubre se registró un nuevo ataque con heridos y vuelos interrumpidos."
+    },
+    {
+      "path": "02-donde-ocurrio.png",
+      "alt_text": "Mapa de ubicación de Riad y el aeropuerto Rey Jalid, elaborado con datos geográficos reales de OpenStreetMap y su atribución. Señala el lugar del ataque del 10 de octubre de 2026, sin simular daños."
+    },
+    {
+      "path": "03-heridos-vuelos.png",
+      "alt_text": "Tarjeta informativa con los hechos confirmados: personas heridas y suspensión temporal de operaciones aeroportuarias, de acuerdo con la autoridad saudí de aviación civil. Sin fotografías del ataque."
+    },
+    {
+      "path": "04-cronologia.png",
+      "alt_text": "Línea de tiempo que separa los ataques del 8 de octubre del nuevo incidente del sábado 10 de octubre. No mezcla los balances de víctimas de ambas fechas."
+    },
+    {
+      "path": "05-advertencias.png",
+      "alt_text": "Panel de recomendaciones consulares: embajadas de Estados Unidos y Reino Unido pidieron evitar el aeropuerto y verificar vuelos con las aerolíneas."
+    },
+    {
+      "path": "06-que-falta-saber.png",
+      "alt_text": "Tarjeta de verificación: número exacto de heridos, responsabilidad del ataque y situación operativa posterior pendientes de actualización en fuentes oficiales. Incluye créditos de fuentes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Autoridad General de Aviación Civil saudí (GACA), declaración del 10/10 citada por Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/riyadh-airport-suspends-operations-after-attack-leaves-several-injured/4084666"
+    },
+    {
+      "label": "Associated Press, 10/10/2026: ataque contra la terminal y personas heridas",
+      "url": "https://apnews.com/article/a5f40b5e0ab08ae8128db5ed749114d8"
+    },
+    {
+      "label": "Al Jazeera y agencias, 10/10/2026: suspensión temporal de operaciones según GACA",
+      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured"
+    },
+    {
+      "label": "Advertencias consulares de EE. UU. y Reino Unido, recogidas por Anadolu Agency el 10/10",
+      "url": "https://mobil.aa.com.tr/en/middle-east/us-uk-embassies-urge-citizens-to-avoid-riyadh-airport-following-attacks/4084655"
+    },
+    {
+      "label": "Khaleej Times, 10/10/2026: advertencia del aeropuerto y suspensión temporal",
+      "url": "https://www.khaleejtimes.com/business/aviation/riyadh-suspend-king-khalid-international-airport-operations-oct-10-2026"
+    }
+  ]
+}
