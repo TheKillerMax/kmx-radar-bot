@@ -1,0 +1,28 @@
+{
+  "event_id": "07-c78cf37c01ccf514",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-10-10T08:27:59.882Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)"
+    }
+  ]
+}
