@@ -1,0 +1,40 @@
+{
+  "event_id": "09-6e0982dc3c6f96bb",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Hurricane Isaias Nears Landfall in Florida Panhandle as Dangerous Conditions Continue - Mia 94.3",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "mia943.iheart.com",
+    "rumba100.iheart.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Hurricane Isaias Nears Landfall in Florida Panhandle as Dangerous Conditions Continue - Mia 94.3",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1hPRU1uOW1FTUktUG9MN2Joa0Y3RE4wTWQzMTVEWWROcDNaY0cxcU1Id2RucC1VcUk4OW1hNFJGRmowR0p5RlBKSm9wdWtZZlF1b2hNNjdkaHBCSXJEVzB5dGhnWFh6WHdHaVVtbDI5cGQtQnRJSlpwRlNyZU5QMWE5Ul90bWZTMnNIbDc3cWM1SUZHTElkNVBXWTU1eG9WSnMyZEZSYVpUM3RqalEzRURqYldHRlgzRm8xbTMxQ0hmc0hhN1FDMllGYW5vX1pQNm1Tb1c5Z1cxTDExai1vdmhFemRuRndv?oc=5",
+      "domain": "mia943.iheart.com",
+      "publisher": "Mia 94.3",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 00:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Hurricane Isaias Nears Landfall in Florida Panhandle as Dangerous Conditions Continue Mia 94.3"
+    },
+    {
+      "title": "Hurricane Isaias Nears Gulf Coast as Dangerous Conditions Spread Inland - Rumba 100.3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOS1Fb1h4NUZkWHZMSlhfM2wtM3FRQ1R1TjRPaHVsY0N3clBHUkcxdS1fYUgwUjhCaVRIeDJhOVZlY2xOLXRQS0hfNU41bDJiZ2ZXekI3eG9odFRvYW5KMkhqYU42Y2Q3ZmJOMTNzeFRoUWNfdWQzdlI3UWQ1M0J5ajFHWVE5SXZlLWlvZXhlNnFVSXZ1ZnRSY0JfeGVuQndvS0hpeS1XdVc0Y1lCcjJicnJBcXVaX2VCLWtN?oc=5",
+      "domain": "rumba100.iheart.com",
+      "publisher": "Rumba 100.3",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 21:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Hurricane Isaias Nears Gulf Coast as Dangerous Conditions Spread Inland Rumba 100.3"
+    }
+  ]
+}

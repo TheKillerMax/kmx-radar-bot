@@ -1,41 +1,26 @@
 {
-  "event_id": "01-d98f3da0979e869a",
+  "event_id": "01-57460b989278b123",
   "category": "MUNDO",
   "risk": "medium",
-  "canonical_title": "Sernageomin explica qué es el \"Flash Flood\", el fenómeno que provocó el aluvión en Las Condes - La Nación",
+  "canonical_title": "¿Qué es un flash flood? Así funciona la crecida repentina que provocó el aluvión en Las Condes - Radio Pauta 100.5",
   "intake_status": "CORROBORADO",
   "verification_signal": 0.8,
   "primary_source_present": false,
   "independent_domains": [
-    "diariouno.com.ar",
-    "eldinamo.cl",
-    "elinformadorchile.cl",
     "elobservador.com.uy",
     "lanacion.cl",
     "latercera.com",
     "pauta.cl",
     "portalinnova.cl",
     "radio.uchile.cl",
-    "sabes.cl",
     "tiempodesanjuan.com"
   ],
   "high_trust_domains": [
     "latercera.com"
   ],
-  "article_count": 12,
-  "rank_signal": 1.17,
+  "article_count": 8,
+  "rank_signal": 1.105,
   "sources": [
-    {
-      "title": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes - La Tercera",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUM1UDd1NVU1Nk9BeV94LXhBU3BlaFJlbjBQZW1GNWYtSUU2ZS1wMFFUem0xc2dKejRlN2lmUDhaZ3ZIaTBCcnhIV0hzLXR5QmNySjlNX3NfbXQyTWhPbmdNNWc0dW9UMXdrZnFVS2QwMDd2dXAtY0ZjaWxpc3RHVzZadGVwMWZsQ3pMd2Q0eldxSF9pbXN0QWZKSmZpMWFOUEJVRm5vcU1GWDFFcWNNV1VrdV9YSWVQWjJHZzNXZVrSAeIBQVVfeXFMUHhiSEVHN2dxS2g2cHlxVnAwRU5Wd1BDUUx5bml4cS1OU3ZlbS05T01OX1hzV1FINXJqazVwbXNrMElQSFpJZlZkc25Od1ZZNWVuOENNMkoxWWpsanRYUU9FcFdTVTZSSWpvUnFRX01NUHRwU2U0dnFNSVZRNVdtZ3lIV0hqQW10M0xOeDhOQ3NNa3dkRW5nRTFnb3RnaS1ZMjhMd3VRc0tUT2Q4b1EzMUM0TnRkSHNkSTFmX0VrMnN5N3RqNjBOTGF4V0I3MGxEVXFXYUpXV2cxRThEYVdFYlQ0UQ?oc=5",
-      "domain": "latercera.com",
-      "publisher": "La Tercera",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 09 Oct 2026 15:54:18 GMT",
-      "primary_hint": false,
-      "excerpt": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes La Tercera"
-    },
     {
       "title": "¿Qué es un flash flood? Así funciona la crecida repentina que provocó el aluvión en Las Condes - Radio Pauta 100.5",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3h6dnIxdURzWkhXUHV3OU10bkxDaW9OUGE4eUFmckVTUzVSMmVod2ZVTlp0OHdDRmJ3RzZ3dTdHUmQ4dWlteDhBWmVUbTM0S1NUbFZ1cGpHQ3ZfcGl3UGFFTS1qSnBIcFdWQWhYNEFPZkdHVTRpSWJXR0FTbDJrY1VNdDQtMGNZd0djMmk2SlNqT1o0c01EaUdBZlQ3UkFZQzNwMFc1OVFfM1ptS2ZWd0NBWGg4TEhDQU9sSHItRUVvSHZUWk41eXVlNVp1VjZ2ZU5QSnVEaw?oc=5",
@@ -48,6 +33,17 @@
       "excerpt": "¿Qué es un flash flood? Así funciona la crecida repentina que provocó el aluvión en Las Condes Radio Pauta 100.5"
     },
     {
+      "title": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUM1UDd1NVU1Nk9BeV94LXhBU3BlaFJlbjBQZW1GNWYtSUU2ZS1wMFFUem0xc2dKejRlN2lmUDhaZ3ZIaTBCcnhIV0hzLXR5QmNySjlNX3NfbXQyTWhPbmdNNWc0dW9UMXdrZnFVS2QwMDd2dXAtY0ZjaWxpc3RHVzZadGVwMWZsQ3pMd2Q0eldxSF9pbXN0QWZKSmZpMWFOUEJVRm5vcU1GWDFFcWNNV1VrdV9YSWVQWjJHZzNXZVrSAeIBQVVfeXFMUHhiSEVHN2dxS2g2cHlxVnAwRU5Wd1BDUUx5bml4cS1OU3ZlbS05T01OX1hzV1FINXJqazVwbXNrMElQSFpJZlZkc25Od1ZZNWVuOENNMkoxWWpsanRYUU9FcFdTVTZSSWpvUnFRX01NUHRwU2U0dnFNSVZRNVdtZ3lIV0hqQW10M0xOeDhOQ3NNa3dkRW5nRTFnb3RnaS1ZMjhMd3VRc0tUT2Q4b1EzMUM0TnRkSHNkSTFmX0VrMnN5N3RqNjBOTGF4V0I3MGxEVXFXYUpXV2cxRThEYVdFYlQ0UQ?oc=5",
+      "domain": "latercera.com",
+      "publisher": "La Tercera",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 15:54:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes La Tercera"
+    },
+    {
       "title": "Qué es un \"flash flood\", el fenómeno que provocó el aluvión en Chile - El Observador",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2tsZy11VW95aURvLXVtQVU3UDVrWWhVb0R4SExYMXlJNERxVDRQRlZFS1Nyel85bFNkcm5SWUR6cFIyYll6TzMxSkwwY1NRSWVKZU5mRFlNazNFNEVTLUw3dzZ1ZnZzUzAtQjZkMzJhT1FxNzRfOVdyeFA3VHZ6aW9NOGU5bFU5WkN5czRpMV9oMnpNd3FidzVoYlhPbGoxOUo1cmFFZXJnd2VjeUHSAbMBQVVfeXFMTmhZUlB1bFc4WGQwRjdKM1BPWjF6VXJSaWo4MGw4ZnJYWEhWeG9vWk1aZU0yQUd6bVRpbWNKYUlHR1BtbFZhd0ZSaHpKanFwZ1NXUEplMG9LeWJVNnpJQ3ZlQVhFUEdWTUUtUkhGSVk2Wkt3NUVhekxsZEdvOXA1bTF3YTVHNXVJYnRhUGFaSHVEVmRVZTU4eHhWcXU4Z0p1bl92Yjk0Rk5XM1dUX1BIQW1WMWM?oc=5",
       "domain": "elobservador.com.uy",
@@ -57,17 +53,6 @@
       "seen_at": "Fri, 09 Oct 2026 14:11:00 GMT",
       "primary_hint": false,
       "excerpt": "Qué es un \"flash flood\", el fenómeno que provocó el aluvión en Chile El Observador"
-    },
-    {
-      "title": "Qué es el flash flood: El fenómeno que provocó la catástrofe en Las Condes - Sabes.cl",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnNKZ0Z5VVQyOUZ4blZnWUZEZGRUQ3djOHg5TmNvaTFuT0pDUjkzSTFTaXZQSnJpT0dBYi1iTlByTXZ4Q1ZXSXYzaHpsWUpOZHZZd2laUUNsdmF5V2FBelZsMm5zYmdtYjVzTEx0dmJNSGNnd2E5blpPbXFhb1RvMWhubHBOUkJqRXYtUEFTVTB1UTRtbTUtdk9yMFN4bUpaVjVLRg?oc=5",
-      "domain": "sabes.cl",
-      "publisher": "Sabes.cl",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 09 Oct 2026 16:30:00 GMT",
-      "primary_hint": false,
-      "excerpt": "Qué es el flash flood: El fenómeno que provocó la catástrofe en Las Condes Sabes.cl"
     },
     {
       "title": "Sernageomin explica el “flash flood”, la crecida repentina que provocó el aluvión en San Carlos de Apoquindo - Radio Pauta 100.5",
@@ -92,7 +77,7 @@
       "excerpt": "Fenómeno \"flash flood\" ocasionó el devastador aluvión en Las Condes Universidad de Chile"
     },
     {
-      "title": "Qué es un flash flood: Sernageomin explica el aluvión en Las Condes - Portal Innova",
+      "title": "Flash flood: qué es la crecida repentina que según Sernageomin desató el aluvión en Las Condes - Portal Innova",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEdXVkphLTNLV3VBTzlncm1tRjlVZjJEZDdKYzM4Z01CR2huLTN1UzlMV0RUczM1Wk9HNFYtblNjZ3R1TDV3R1o0a1RWRlBkdGdfRUhIMmpOWWN0dWNYb1UzYjhXdzhsbWRka1dkLURjTnctM0h3T0ZNWUlfT09ITjNPZXJQWnd2b3VIbUEtdThPaGNLS1dQVHUxNXRmZkZvMXR0enpEc3pLZkxMcFNWTFpOaHhxelNhLXc?oc=5",
       "domain": "portalinnova.cl",
       "publisher": "Portal Innova",
@@ -100,7 +85,7 @@
       "source_country": "",
       "seen_at": "Fri, 09 Oct 2026 15:05:00 GMT",
       "primary_hint": false,
-      "excerpt": "Qué es un flash flood: Sernageomin explica el aluvión en Las Condes Portal Innova"
+      "excerpt": "Flash flood: qué es la crecida repentina que según Sernageomin desató el aluvión en Las Condes Portal Innova"
     },
     {
       "title": "Sernageomin explica qué es el \"Flash Flood\", el fenómeno que provocó el aluvión en Las Condes - La Nación",
@@ -123,39 +108,6 @@
       "seen_at": "Fri, 09 Oct 2026 12:00:00 GMT",
       "primary_hint": false,
       "excerpt": "Zona de catástrofe en Las Condes: qué es un \"flash flood\", el fenómeno que causó un aluvión en Santiago de Chile Tiempo de San Juan"
-    },
-    {
-      "title": "\"Flash flood\": la crecida repentina detrás del aluvión que llevó a decretar catástrofe en Las Condes - Diario UNO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWnlaSmdOa3lWSDFLLV92TnlUZGlET3E1MkhnSDRRc0dVQ1ZITk12MWpaSFFsSnk0ZEF5Ti1aM3FhbzQ5NDhpTDZWU09YQ1Z1cms5TjN5QXFmUzNySFhtZGg1QmpGeUIxaERsUXZoRDFxTm9rVFpJMkdoaENtSzA1ZlJuRFNYTXM2WmlQRlpFVkxhc2ZmRWJYeHRzYm40aExRbVEwRF9tSm1PZzRWZkl6VlJJaE15VUhQY2ZVWUw3V3AzUGl0aW5rS3dySEMzOWJOd2xvWm9n0gHbAUFVX3lxTFBhczNmdGowcFJvNnFzTmFFZGk3RW9oR1lwWXhJLTM5NGpaUDBVS0s3VmVhdkNNdTlCZ0dDRmRtT0VYOHlGZVlvOHFLYzBfcVlDTl9HWm5lVEN3Y0YyLTVNVWJrMXVQQUlhdUQyQTFOTHRYZUFTNE9nYUZkTllvY0l5Ti1aX2p5c3dndEl4a1FLanZVdlE2MDFTT1B6N1c0V2EwbzB6M0tLUlROcnNlZEhkR18ta2N5Ty1oUWZtQ1B3bzNJZlZGOWgzVG0tWnFzWE9HeEVNM2I2MEtNWQ?oc=5",
-      "domain": "diariouno.com.ar",
-      "publisher": "Diario UNO",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 09 Oct 2026 03:19:00 GMT",
-      "primary_hint": false,
-      "excerpt": "\"Flash flood\": la crecida repentina detrás del aluvión que llevó a decretar catástrofe en Las Condes Diario UNO"
-    },
-    {
-      "title": "Qué es un flash flood, el fenómeno que Sernageomin identificó tras el aluvión en Las Condes - El Dínamo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHYtcFhHbWpvMk1tdlNmV1Z0dlFqdktaT1Z3THUzcHJWZjdvOFJ1QnRwY0dBYjFFWWJwSHpCQ1JOOFBhMml2aGJlWDhjM3NnTm9SU2dOSzlqY2Q2UV9UOE1XbWRFR3BCaURZVHNYS2dodmx2RDljbXRCbDJTUDhocGpNOW9NYW00eXpfTUg5NmlUTnoxcGdibTBTUUM4TC1pemdPTHF1ZU1EMF9sLWJURnBQTmVMZUtUcEVFMWJBaUE0dFFvd2duOUV5QQ?oc=5",
-      "domain": "eldinamo.cl",
-      "publisher": "El Dínamo",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 09 Oct 2026 01:58:17 GMT",
-      "primary_hint": false,
-      "excerpt": "Qué es un flash flood, el fenómeno que Sernageomin identificó tras el aluvión en Las Condes El Dínamo"
-    },
-    {
-      "title": "Autoridades dicen que aluvión de Las Condes fue un flash flood - El Informador Chile",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWZJTUxnd011eFdCUnhadkhUczA5UTJBY2hxdFBjUkZfWTdYTnBPZDNXZGtuZVUxSXI3cndZQklLQ21EYWFoV1Fkd2Z4cmdvckVxSmtGX0h1cFBGTjkwbnBfMjVXMFFfajdZdnhBME9yZ19Qc0VQVW9WTEhXTzBrd3dySU1GUTdaV2FsZ0VUT0ZSZU5iUjg4QTluUUR6a1FrUm5fZ0hYbHBEM1E?oc=5",
-      "domain": "elinformadorchile.cl",
-      "publisher": "El Informador Chile",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Thu, 08 Oct 2026 23:00:44 GMT",
-      "primary_hint": false,
-      "excerpt": "Autoridades dicen que aluvión de Las Condes fue un flash flood El Informador Chile"
     }
   ]
 }

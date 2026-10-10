@@ -1,0 +1,40 @@
+{
+  "event_id": "06-69f134a747c459e2",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Grenergy cierra financiación por más de US$400 millones para proyectos solares y de almacenamiento en Chile - Portal Minero",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "electromineria.cl",
+    "portalminero.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Grenergy cierra financiamiento de US$460 millones para 446 MW solares y 1,8 GWh de almacenamiento en Chile - Electrominería",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcm52V2VCc3pSQVpoLUdYNXowZzRhdDY4SHZ6R1h0Ym5JSmhJOHJ5Q2wzamp2VEtfRG5YYVZxSGMwdmFSeWtkOUxVZlBHNE5BemJVWmVGMVNiLWplajFUUU5iWkxQSnZOczBGU01CZkdnbmxON2J5eFM1X2VOYkcwNTlZX1VfdWpkT1dydjNzdTlRN0xG?oc=5",
+      "domain": "electromineria.cl",
+      "publisher": "Electrominería",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 13:13:45 GMT",
+      "primary_hint": false,
+      "excerpt": "Grenergy cierra financiamiento de US$460 millones para 446 MW solares y 1,8 GWh de almacenamiento en Chile Electrominería"
+    },
+    {
+      "title": "Grenergy cierra financiación por más de US$400 millones para proyectos solares y de almacenamiento en Chile - Portal Minero",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlZXbFg4VFpUUGZzYW1yWGdRTE9LbmIyZTJBWE9lY3FNVGFJZGlQbklUd0F1Q1YzU0hyU2llemVJNTQxd20wQjBicUY3ZFh6S1RfeWZpSWNzNjYwaWNscnZZWjh2UkJUSXlsRVdraG9TNWFpYmdPQ21qX2xCcG5RZ2NhSnBlZEhqN1QxRmtQYkhsbTJMTWJsZENuZ0p0c1UxSzExMVNvaDV2SjFsU0gzekVEalZiWW15MkFUVHBwbHREcVVCYzZNaE00bk1LVkxJ?oc=5",
+      "domain": "portalminero.com",
+      "publisher": "Portal Minero",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 16:29:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Grenergy cierra financiación por más de US$400 millones para proyectos solares y de almacenamiento en Chile Portal Minero"
+    }
+  ]
+}

@@ -1,31 +1,19 @@
 {
-  "event_id": "04-816ed27db4d61c99",
+  "event_id": "10-2c7cc639056e00eb",
   "category": "MUNDO",
   "risk": "medium",
-  "canonical_title": "Tsunami threat after 7.7 magnitude earthquake shakes Panama, USGS reports - ABC7 Los Angeles",
+  "canonical_title": "A magnitude 7.6 earthquake shakes Panama, USGS reports - La Nación",
   "intake_status": "SIN CONFIRMAR",
-  "verification_signal": 0.495,
+  "verification_signal": 0.38,
   "primary_source_present": false,
   "independent_domains": [
-    "abc7.com",
     "lanacion.com.ar",
     "todoalicante.es"
   ],
   "high_trust_domains": [],
-  "article_count": 3,
-  "rank_signal": 0.6,
+  "article_count": 2,
+  "rank_signal": 0.45,
   "sources": [
-    {
-      "title": "Tsunami threat after 7.7 magnitude earthquake shakes Panama, USGS reports - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmMlFZLUJEa0F0eDk1UlBvNzU1TjhpZF9JSFhHNlhkc2hQc082YlNmQV8tTjlINzB2TUVYUVl0UVNyR2loY1lQMEM3NHMyckdUdGRtNTFEM0JqSUs0My1XYWxNUExQVWxidWxra0ZkRTdUMk1WdHc?oc=5",
-      "domain": "abc7.com",
-      "publisher": "ABC7 Los Angeles",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 09 Oct 2026 18:45:00 GMT",
-      "primary_hint": false,
-      "excerpt": "Tsunami threat after 7.7 magnitude earthquake shakes Panama, USGS reports ABC7 Los Angeles"
-    },
     {
       "title": "A magnitude 7.6 earthquake shakes Panama, USGS reports - La Nación",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQzdTTXY5dUItM0pwV1pwSHNoMGJFRXpzTlhJaWQ0ZllXbm9nNi15Y0Yyc3RTd2FkTWpmU1lpNlItWThWSWtCRUF0TGFXZnF4WHFFZkhXZTZtNTVSemZZVkRuVnV6LVJBWHU5NG9CTGxrbzlhUTFsX1h6ejQ1ZGZ6U09WS3hDQ2FHMVBBT3NJRGx3NzN1blVvVk4tUFF4QQ?oc=5",
