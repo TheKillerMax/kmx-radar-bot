@@ -1,0 +1,40 @@
+{
+  "event_id": "05-3122dfc427146939",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Hurricane Isaias Nears Gulf Coast as Dangerous Conditions Spread Inland - Rumba 100.3",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "mia943.iheart.com",
+    "rumba100.iheart.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Hurricane Isaias Nears Gulf Coast as Dangerous Conditions Spread Inland - Rumba 100.3",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOS1Fb1h4NUZkWHZMSlhfM2wtM3FRQ1R1TjRPaHVsY0N3clBHUkcxdS1fYUgwUjhCaVRIeDJhOVZlY2xOLXRQS0hfNU41bDJiZ2ZXekI3eG9odFRvYW5KMkhqYU42Y2Q3ZmJOMTNzeFRoUWNfdWQzdlI3UWQ1M0J5ajFHWVE5SXZlLWlvZXhlNnFVSXZ1ZnRSY0JfeGVuQndvS0hpeS1XdVc0Y1lCcjJicnJBcXVaX2VCLWtN?oc=5",
+      "domain": "rumba100.iheart.com",
+      "publisher": "Rumba 100.3",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 09 Oct 2026 21:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Hurricane Isaias Nears Gulf Coast as Dangerous Conditions Spread Inland Rumba 100.3"
+    },
+    {
+      "title": "Hurricane Isaias Nears Landfall in Florida Panhandle as Dangerous Conditions Continue - Mia 94.3",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzFpTjFiUzFvQlpNWmhDXzdLU0JTcGRwTjY4dVlvTlNBUWlYVjlndWprQjNUc3RFUFFEN0tQWW5OTmc0YW10aXNHR1otZFJLd2VfZkhFZDlQYllEeEZJSzBQYU9HYjNfRWlKSmZ0N1hHdUp5eGx5Ujh6VWZvNkhQTEQ4YU1BUWtyay1yQVdaVjEzc19oVFJBM0liT0JJWFNmc1F5d25peDdUOXA2WXY4VDZwUUFhLW1rcFdabVFsbHBEYW43YVZfVWZUcw?oc=5",
+      "domain": "mia943.iheart.com",
+      "publisher": "Mia 94.3",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 00:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Hurricane Isaias Nears Landfall in Florida Panhandle as Dangerous Conditions Continue Mia 94.3"
+    }
+  ]
+}

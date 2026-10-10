@@ -1,0 +1,30 @@
+{
+  "event_id": "10-915b2e7ff81a4bc4",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Varias personas resultaron heridas en una explosión en el aeropuerto de Riad, según testigos presenciales - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Varias personas resultaron heridas en una explosión en el aeropuerto de Riad, según testigos presenciales - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjdoSXZTZUxGTHo0WktUOGVMMmRPV1hHMlZVbWZ1bGozY0hpM0xVUVgwSktibUFwNFZRemktRGRIUDNQYVd6TXBqWF9BR2tKNklKYV8yNHFnNklaWWxfQ1dZUk5DRUZNaTM5UzNmU3hieFNvRDdkaUFoRmNzNjhIYjgweDl3Qm1qZ1E?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 17:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Varias personas resultaron heridas en una explosión en el aeropuerto de Riad, según testigos presenciales CNN en Español El aeropuerto de la capital saudí fue atacado de nuevo, dicen funcionarios AP News Un ataque al aeropuerto de la capital de Arabia Saudita deja “muchos heridos”, según funcionarios Telemundo Mueren 3 saudíes en ataques al aeropuerto internacional de Riad y otras noticias de Oriente Medio San Antonio Express-News El enviado saudí afirma que los hutíes perdieron Bab el Mandeb: lo que hay que saber. Al-Monitor"
+    }
+  ]
+}

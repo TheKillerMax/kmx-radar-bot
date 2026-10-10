@@ -1,0 +1,28 @@
+{
+  "event_id": "06-0759e2ef1154c013",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Moon Rovers in the Fast Lane - European Space Agency (ESA)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "esa.int"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Moon Rovers in the Fast Lane - European Space Agency (ESA)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JlS2s4ZEZVb2c1YjZaVnY0SXBCUWM2Ty1wZjFELVFQM3pJak52Nkltb2RvMk9KcG1manUxVGFUWGR3RjBlSUhiTlFBRlBDWkxhdU0tTzU4LWk0NWFIUjVtM1lBaERYQzlnRjJ4djdiZG5MSnRVRzdsQ1VTQ0UxNWJ5UGRxUXM0bU12VF9nbkxFLVNoa1I4NWtDZm5ncGNaTHpxNXVJRnhuTzctZzBDR20wUQ?oc=5",
+      "domain": "esa.int",
+      "publisher": "European Space Agency (ESA)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 15:31:37 GMT",
+      "primary_hint": false,
+      "excerpt": "Moon Rovers in the Fast Lane European Space Agency (ESA)"
+    }
+  ]
+}
