@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261010-terremoto-panama-m77",
+  "source_event_id": "07-c78cf37c01ccf514",
+  "created_at": "2026-10-10T10:02:34.588Z",
+  "headline": "Un terremoto de magnitud 7,7 sacudió Panamá y dejó daños y réplicas",
+  "caption": "Un terremoto de magnitud 7,7 sacudió el centro-sur de Panamá el viernes 9 de octubre. Su epicentro se situó cerca de Pitaloza Arriba, según el Servicio Geológico de Estados Unidos (USGS).\n\nEl temblor provocó evacuaciones y daños en edificios y carreteras. Después hubo numerosas réplicas y otro sismo de magnitud 6,6. Las autoridades siguen evaluando los daños; los balances pueden cambiar.\n\nTras el primer terremoto se emitieron avisos por posible tsunami, pero los avisos asociados a ese evento fueron levantados el 9 de octubre. Eso no sustituye las alertas que puedan emitirse después: consulta siempre a Protección Civil de Panamá.\n\nDesliza para ver dónde ocurrió, qué se confirmó y qué falta por saber.\n\nFuentes: USGS, Associated Press, Reuters y Sistema Nacional de Protección Civil de Panamá (declaraciones recogidas por medios).\n\n#KMXRadar #TerremotoPanamá #Sismos #Panamá",
+  "status": "editorial_ready_for_visuals",
+  "ready_to_publish": false,
+  "ai_generated": true,
+  "images": [
+    {
+      "path": "01-terremoto-panama.png",
+      "alt_text": "Mapa científico real del USGS que señala el epicentro del terremoto de magnitud 7,7 ocurrido el 9 de octubre de 2026 cerca de Pitaloza Arriba, Panamá. Se informa de daños y evacuaciones."
+    },
+    {
+      "path": "02-replicas-panama.png",
+      "alt_text": "Gráfico con registros oficiales del USGS: terremoto principal de magnitud 7,7 seguido por otro de magnitud 6,6 y más réplicas en Panamá."
+    },
+    {
+      "path": "03-epicentro.png",
+      "alt_text": "Mapa de localización del epicentro basado en datos del USGS, con fecha, latitud y longitud; no representa un mapa de edificios dañados."
+    },
+    {
+      "path": "04-danos-confirmados.png",
+      "alt_text": "Panel informativo que distingue los daños documentados en edificios y carreteras de los balances de víctimas todavía sujetos a revisión."
+    },
+    {
+      "path": "05-aviso-tsunami.png",
+      "alt_text": "Cronología que señala que tras el terremoto del 9 de octubre se emitieron avisos por posible tsunami y que posteriormente se levantaron los correspondientes a ese evento."
+    },
+    {
+      "path": "06-fuentes-y-prevencion.png",
+      "alt_text": "Tarjeta con enlaces y nombres de USGS y Protección Civil de Panamá para consultar nuevas réplicas, recomendaciones y alertas oficiales vigentes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS — terremoto M 7,7 cerca de Pitaloza Arriba, 9/10/2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
+    },
+    {
+      "label": "USGS — evento M 6,6 cerca de Río Grande, 9/10/2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w"
+    },
+    {
+      "label": "Associated Press — daños, evacuaciones, réplicas y avisos levantados, 9/10/2026",
+      "url": "https://apnews.com/article/panama-earthquake-e4e5dc85829714db88a74de3b7019d55"
+    },
+    {
+      "label": "Reuters — situación y daños tras el terremoto, 9/10/2026",
+      "url": "https://www.reuters.com/business/environment/strong-80-magnitude-earthquake-felt-panama-usgs-2026-10-09/"
+    },
+    {
+      "label": "EFE — balance posterior provisional atribuido a autoridades, 10/10/2026",
+      "url": "https://efe.com/mundo/2026-10-10/terremoto-sismo-registrado-panama-datos/"
+    },
+    {
+      "label": "USGS — condiciones de uso y créditos de material cartográfico",
+      "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"
+    }
+  ]
+}
