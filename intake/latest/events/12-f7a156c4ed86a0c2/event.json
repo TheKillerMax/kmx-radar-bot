@@ -1,0 +1,30 @@
+{
+  "event_id": "12-f7a156c4ed86a0c2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El Departamento de Justicia investiga a principales cadenas de televisión por su respuesta al veto de CNN en la Casa Blanca - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El Departamento de Justicia investiga a principales cadenas de televisión por su respuesta al veto de CNN en la Casa Blanca - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGp4NVNwcjh5UGk4b2RFb2pPUW50bWlvSW9nQ3NKMDBnckxkb3p6a2lmT1FqRDl0M0RoMUlCbTFKYmIxSFppX2VoazhhWFZQNWloVHItRHQ2dGdxMW9SVFhqYnVNbWp0R01yUl8xaXVLUWkxdFFTRmdRUDZ5LTRMN2pUYTA0Q0VYUzlkMFBCV2E5RVBSOUE?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 02:12:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Departamento de Justicia investiga a principales cadenas de televisión por su respuesta al veto de CNN en la Casa Blanca CNN en Español El Departamento de Justicia de EE UU investiga la cobertura de Trump de las cadenas de televisión EL PAÍS El Departamento de Justicia investiga si parón de prensa en la Casa Blanca violó ley antimonopolio Laredo Morning Times El Departamento de Justicia de Trump lanza investigación contra canales de televisión, incluido Fox Telemundo Abogados de medios piden al tribunal frenar veto de la Casa Blanca San Antonio Express-News"
+    }
+  ]
+}
