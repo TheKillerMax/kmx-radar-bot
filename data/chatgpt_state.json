@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-10T09:43:17Z",
-  "last_publication_id": "kmx-20261010-terremoto-panama-m77",
-  "last_result": "visual_incomplete",
+  "last_processed_generated_at": "2026-10-11T00:11:58Z",
+  "last_publication_id": "kmx-20261011-trump-ucrania-diesel",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 2 2026-10-10: 6 visuales y 3 mapas USGS de dominio público validados como datos, pero los controles de seguridad de la integración GitHub bloquearon create_tree y create_file antes de incorporar visuals.json y visual-sources.json en main. Sin .visualize, sin render ni visual-qc.json; reintentar integración segura. No crear .ready ni publicar.",
+  "note": "FASE 1: paquete editorial del 2026-10-11T00:11:58Z completo y verificado en main, sin publicación. Pendiente legado FASE 2: FASE 2 2026-10-10: 6 visuales y 3 mapas USGS de dominio público validados como datos, pero los controles de seguridad de la integración GitHub bloquearon create_tree y create_file antes de incorporar visuals.json y visual-sources.json en main. Sin .visualize, sin render ni visual-qc.json; reintentar integración segura. No crear .ready ni publicar.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "07-c78cf37c01ccf514",
+  "source_event_id": "01-7c1f6dc9e4410c7c",
   "visuals_completed_at": null
 }
