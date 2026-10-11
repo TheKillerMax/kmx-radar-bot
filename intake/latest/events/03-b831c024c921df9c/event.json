@@ -1,0 +1,40 @@
+{
+  "event_id": "03-b831c024c921df9c",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Trump afirma que Ucrania y Rusia acordaron un alto al fuego en sus infraestructuras energéticas - El Diario NY",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "eldiariony.com",
+    "sana.sy"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Trump: Rusia y Ucrania han acordado un “alto el fuego en el sector energético” - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xTzJGRW5UUFZXeFl2OExoSlphV3lNa0FuaDFnTk1xdXdmZFhSaFdqQUR4dGJuaWU0QXRFUHY1MTRnVVZZZVVRZw?oc=5",
+      "domain": "sana.sy",
+      "publisher": "سانا",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 17:01:49 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump: Rusia y Ucrania han acordado un “alto el fuego en el sector energético” سانا"
+    },
+    {
+      "title": "Trump afirma que Ucrania y Rusia acordaron un alto al fuego en sus infraestructuras energéticas - El Diario NY",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUxvNmJILW54aEkxMG1FM2JyTEpSMmVQbkFfNjlkZ1pkendKd2Q1WFd3NzBTUGdRUlRBUEVQNUlqVjA5Y204ekhaa3NXWlBZdDZ4VEZVRUQwcmFGeHNlZTVYSHVkOFc1LW9KaWM2enhvMmhmTXZCTm02UF9QZ2FremtMbmFTcmdrMkRQYVdwLUtfWktXN0FoSXZlN19kWVAzT241RHZjVzRvQWVOM09KcExxUThwVjRRdzE2dE9IdUdGaUhSNzVjcFdB?oc=5",
+      "domain": "eldiariony.com",
+      "publisher": "El Diario NY",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 17:45:52 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump afirma que Ucrania y Rusia acordaron un alto al fuego en sus infraestructuras energéticas El Diario NY"
+    }
+  ]
+}
