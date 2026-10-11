@@ -1,0 +1,129 @@
+{
+  "theme": {
+    "name": "prensa-justicia-20261011",
+    "background": "#081927",
+    "panel": "#132E41",
+    "accent": "#36D8C2",
+    "accent2": "#89B4FF",
+    "warm": "#FBD17A",
+    "text": "#F7FAFC",
+    "muted": "#E1EAF2"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "doj_2026": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+      "credit": "APK / Wikimedia Commons · CC BY 4.0 · recorte"
+    },
+    "briefing_2020": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_Press_Briefing_%2849483434882%29.jpg",
+      "credit": "Keegan Barber / Casa Blanca / Wikimedia Commons · 2020"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-investigacion-cadenas.png",
+      "photo": "doj_2026",
+      "archive": true,
+      "kicker": "EE. UU. · 10 DE OCTUBRE",
+      "title": "JUSTICIA INVESTIGA A CINCO CADENAS",
+      "stat": "5",
+      "stat_label": "CADENAS DE TELEVISIÓN BAJO INVESTIGACIÓN",
+      "body": "ABC, CBS, CNN, NBC y Fox News pausaron juntas la cobertura de actos de Trump.",
+      "callout": "LA INVESTIGACIÓN NO PRUEBA UNA INFRACCIÓN",
+      "footer": "FOTO: MARZO DE 2026 · HECHOS: OCTUBRE DE 2026",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Fotografía real de archivo de la sede del Departamento de Justicia de Estados Unidos, tomada en marzo de 2026. Una portada explica que el organismo investiga a ABC, CBS, CNN, NBC y Fox News por suspender temporalmente la cobertura de actos de Donald Trump. La imagen no muestra la investigación."
+    },
+    {
+      "n": 2,
+      "file": "02-origen-suspension.png",
+      "photo": "briefing_2020",
+      "archive": true,
+      "kicker": "¿POR QUÉ OCURRIÓ?",
+      "title": "LA CASA BLANCA VETÓ A TRES MEDIOS",
+      "body": "Retiró el acceso a periodistas de CNN, MS NOW y Politico. Las cinco cadenas suspendieron temporalmente su cobertura compartida.",
+      "callout": "TRES MEDIOS VETADOS; CINCO CADENAS INVESTIGADAS",
+      "footer": "FOTO: ENERO DE 2020 · HECHOS: SEPTIEMBRE DE 2026",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Fotografía real de archivo de la sala de prensa de la Casa Blanca, tomada en enero de 2020. El texto explica que cinco cadenas suspendieron su cobertura compartida después de que la Casa Blanca restringiera el acceso a periodistas de CNN, MS NOW y Politico."
+    },
+    {
+      "n": 3,
+      "file": "03-que-investiga-justicia.png",
+      "photo": "doj_2026",
+      "archive": true,
+      "kicker": "¿QUÉ EXAMINA JUSTICIA?",
+      "title": "SI HUBO UNA COORDINACIÓN ILEGAL",
+      "body": "Justicia examina si una decisión conjunta de empresas competidoras vulneró la ley antimonopolio estadounidense.",
+      "callout": "INVESTIGAR NO ES CONDENAR",
+      "footer": "FOTO: MARZO DE 2026 · INVESTIGACIÓN: 10/10/2026",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Gráfico editorial que explica que el Departamento de Justicia investiga si la suspensión conjunta de la cobertura televisiva violó las normas estadounidenses contra acuerdos entre competidores. Aclara que investigar no equivale a probar una infracción."
+    },
+    {
+      "n": 4,
+      "file": "04-como-funciona-la-cobertura.png",
+      "photo": "briefing_2020",
+      "archive": true,
+      "kicker": "¿CÓMO SE CUBREN LOS ACTOS?",
+      "title": "LAS CADENAS COMPARTEN LAS GRABACIONES",
+      "bullets": [
+        "Se turnan para cubrir actos del presidente.",
+        "Una cadena graba el evento asignado.",
+        "El vídeo se distribuye a los demás medios."
+      ],
+      "footer": "FOTO: ENERO DE 2020 · SISTEMA DE COBERTURA",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Diagrama original con tres pasos: las cadenas se turnan para grabar los actos presidenciales, comparten las imágenes con otros medios y estos pueden informar al público aunque no entren todos al lugar."
+    },
+    {
+      "n": 5,
+      "file": "05-fechas-del-conflicto.png",
+      "photo": "doj_2026",
+      "archive": true,
+      "kicker": "CRONOLOGÍA · 2026",
+      "title": "TRES FECHAS CLAVE",
+      "bullets": [
+        "19 DE SEPTIEMBRE: la Casa Blanca retira acreditaciones.",
+        "24 DE SEPTIEMBRE: un juez ordena restituirlas provisionalmente.",
+        "10 DE OCTUBRE: Justicia confirma la investigación."
+      ],
+      "footer": "FOTO: MARZO DE 2026 · DATOS: REUTERS",
+      "sources": [
+        "Reuters"
+      ],
+      "alt_text": "Cronología tipográfica del conflicto: el 19 de septiembre de 2026 se restringió el acceso de tres medios; el 24 de septiembre un juez ordenó restablecerlo; el 10 de octubre el Departamento de Justicia confirmó una investigación."
+    },
+    {
+      "n": 6,
+      "file": "06-que-falta-por-resolver.png",
+      "photo": "briefing_2020",
+      "archive": true,
+      "kicker": "¿QUÉ FALTA POR RESOLVER?",
+      "title": "EL CASO SIGUE ABIERTO",
+      "body": "La cobertura compartida ya se reanudó. Justicia aún no ha demostrado infracciones ni anunciado sanciones.",
+      "callout": "PERSISTEN DISPUTAS SOBRE EL ACCESO A CIERTOS ACTOS",
+      "footer": "FOTO: ENERO DE 2020 · SITUACIÓN: 10–11/10/2026",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Panel final: la cobertura compartida se reanudó; la investigación antimonopolio sigue abierta y persisten desacuerdos sobre el acceso de periodistas a determinados actos del presidente. No se presenta ninguna sanción como confirmada."
+    }
+  ]
+}

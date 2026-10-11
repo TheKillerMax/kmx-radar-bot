@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261011-doj-cadenas-tv-casa-blanca",
+  "generated_at": "2026-10-12",
+  "note": "Fotografías documentales reales y de archivo; ninguna representa la investigación de octubre de 2026. Composiciones tipográficas originales sobre fotografías licenciadas. Único logo oficial: assets/logo.png.",
+  "assets": [
+    {
+      "key": "doj_2026",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg",
+      "original_creator": "APK",
+      "created_at": "2026-03-31",
+      "license_or_permission": "Creative Commons Atribución 4.0 Internacional (CC BY 4.0); autorización de reproducción, adaptación y uso comercial con atribución, enlace a licencia e indicación de cambios.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution_required": true,
+      "attribution_text": "APK / Wikimedia Commons · CC BY 4.0 · recorte y superposición editorial de texto",
+      "local_path": "Descarga temporal del runner de GitHub Actions desde direct_url; archivo original no se incorpora al repositorio",
+      "retrieved_at": "2026-10-12",
+      "notes": "Sede del Departamento de Justicia en Washington; fotografía de 31/03/2026. ARCHIVO, no documenta la investigación. Uso de recorte y superposición gráfica sin atribución de aval al fotógrafo."
+    },
+    {
+      "key": "briefing_2020",
+      "source_url": "https://commons.wikimedia.org/wiki/File:White_House_Press_Briefing_(49483434882).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_Press_Briefing_%2849483434882%29.jpg",
+      "original_creator": "Keegan Barber / Casa Blanca (Gobierno federal de EE. UU.)",
+      "created_at": "2020-01-31",
+      "license_or_permission": "Dominio público en EE. UU. como obra de personal del Gobierno federal realizada en funciones oficiales (PD-USGov-POTUS); ficha de Wikimedia Commons y revisión Flickr Public Domain Mark del 03/02/2020.",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+      "attribution_required": false,
+      "attribution_text": "Keegan Barber / Casa Blanca / Wikimedia Commons · 2020",
+      "local_path": "Descarga temporal del runner de GitHub Actions desde direct_url; archivo original no se incorpora al repositorio",
+      "retrieved_at": "2026-10-12",
+      "notes": "Conferencia de prensa de enero de 2020 sobre COVID-19. ARCHIVO: no representa el veto de 2026 ni un acto de las cinco cadenas. Superposición gráfica y recorte editorial."
+    }
+  ]
+}
