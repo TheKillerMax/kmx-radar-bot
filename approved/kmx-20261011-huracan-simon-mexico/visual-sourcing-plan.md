@@ -1,0 +1,18 @@
+# Plan de procedencia visual — kmx-20261011-huracan-simon-mexico
+
+La FASE 1 especifica opciones de material auténtico y sus condiciones de uso. **FASE 2 no debe descargar ni utilizar una captura hasta comprobar licencia, autor, marca temporal y correspondencia con el huracán Simón de 2026.** Ninguna imagen histórica de la tormenta Simon de 2014 es documentación de 2026.
+
+| Pieza | Recurso y enlace | Autor / derechos | Condiciones obligatorias |
+|---|---|---|---|
+| 01 | NOAA, observaciones satelitales oficiales: https://www.nhc.noaa.gov/ (apartado «Satellite Imagery») y GOES: https://goes.noaa.gov/ | NOAA / NASA o el creador exacto según ficha; gran parte del material NOAA es dominio público estadounidense cuando no se indique tercero. | Seleccionar imagen del **11/10/2026** asociada a EP202026. Mostrar «NOAA · satélite · fecha y hora exactas». No usar fotografías antiguas sin rótulo ni imágenes de 2014. Si no se verifica la licencia particular, usar diagrama original en vez de la captura. |
+| 02 | NHC, gráficos oficiales del huracán Simón: https://www.nhc.noaa.gov/graphics_ep5.shtml y archivo https://www.nhc.noaa.gov/archive/2026/SIMON.shtml | Centro Nacional de Huracanes / NOAA; confirmar origen específico del archivo. | Verificar que el gráfico indique el **aviso 17 del 11/10/2026 a las 15:00 UTC** o actualizarlo con el aviso vigente antes de publicar. Mostrar «NOAA / NHC · aviso n.º …». No recortar ni alterar el contenido del mapa oficial: ubicar imagen intacta en marco editorial. Si está desactualizado, usar diagrama original a partir de datos vigentes. |
+| 03–06 | Información oficial NHC: https://prod-east-nhc.woc.noaa.gov/mobile/text/refresh/MIATCPEP5%2Bhtml/111452.shtml y comunicación Gobierno de México: https://www.gob.mx/presidencia/prensa/presidenta-informa-suspension-de-actividades-no-esenciales-en-jalisco-colima-michoacan-y-nayarit-por-huracan-simon-categoria-4?idiom=es. | Composición editorial original KMX RADAR, datos de fuentes gubernamentales citadas. | Gráficos, tipografía e iconos simples, sin escenas sintéticas. Distinguir observaciones de pronósticos y medidas anunciadas. Verificar cualquier contenido gubernamental mexicano con derechos propios antes de reproducir recursos externos: **no** se requiere su imagen, sólo datos atribuidos. |
+| Todas | `assets/logo.png` | Logotipo oficial KMX RADAR del repositorio. | Sin modificaciones, sin reemplazos, márgenes y contraste suficientes. |
+
+**Regla de NOAA:** https://oceanservice.noaa.gov/about/faq.html declara la mayoría de gráficos/imágenes de NOAA de dominio público salvo créditos de terceros, solicita atribución y prohíbe representar ediciones como documento oficial. Los vídeos pueden incluir contenidos protegidos de terceros; no descargar sin verificación. No usar sellos/emblemas de NOAA como logos de la publicación ni insinuar aval gubernamental.
+
+**Fotografías de agencias:** AP, Reuters, Getty y portales comerciales sirven para corroborar, **no** autorizan por sí solos la reutilización. No usar fotogramas de noticia sin permiso.
+
+**Manifest de procedencia de FASE 2:** registrar para cada material efectivamente utilizado `source_url`, `original_creator`, `license_or_permission`, `attribution_required`, `attribution_text`, `local_path`, `retrieved_at` y `notes` en `visual-sources.json`; bloquear material sin base de reutilización verificada.
+
+Antes de producir imágenes, comprobar que el Centro Nacional de Huracanes mantenga o haya cambiado categoría, ubicación, avisos y peligros. Actualizar cada texto público con Unicode NFC (tilde de Simón, huracán, categoría, situación, Protección, ¿ y ¡ cuando procedan). No producir `.ready`, `.visualize` ni publicar en FASE 1.

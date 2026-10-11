@@ -1,0 +1,63 @@
+{
+  "ai_generated": true,
+  "caption": "El huracán Simón sigue muy cerca de la costa del Pacífico mexicano. El Centro Nacional de Huracanes confirmó que era de categoría 4 en su aviso del 11 de octubre, a las 15:00 UTC. Sus vientos sostenidos alcanzaban los 230 km/h y el centro seguía sobre el mar, a unos 105 km al noroeste de Manzanillo.\n\nLa alerta de huracán cubría el tramo entre Punta San Telmo y El Roblito, además de las Islas Marías. Se esperan lluvias intensas, inundaciones, deslizamientos de tierra y olas peligrosas. La trayectoria aún puede cambiar: estar cerca de la costa no significa que el centro ya haya tocado tierra.\n\nLas autoridades mexicanas anunciaron medidas preventivas, entre ellas la suspensión de actividades no esenciales en zonas de riesgo. Si estás en el área, sigue las indicaciones de Protección Civil; este post no reemplaza los avisos locales actualizados.\n\nDesliza para ver dónde está el peligro y qué precauciones tomar.\n\nFuentes: Centro Nacional de Huracanes (aviso 17, 11/10/2026), Gobierno de México y Associated Press.\n\n#KMXRadar #Huracán #Simon #Jalisco #ProtecciónCivil",
+  "created_at": "2026-10-11T15:44:42.307Z",
+  "headline": "El huracán Simón, de categoría 4, amenaza la costa del Pacífico mexicano",
+  "images": [
+    {
+      "path": "01-huracan-simon.png",
+      "alt_text": "El huracán Simón, de categoría 4, se encontraba frente a la costa occidental de México el 11 de octubre de 2026. Composición editorial con imagen satelital real de NOAA, fecha de observación visible y alerta actualizada a las 15:00 UTC. El centro seguía en el mar."
+    },
+    {
+      "path": "02-zonas-en-alerta.png",
+      "alt_text": "Mapa oficial del Centro Nacional de Huracanes, identificado con fecha y hora, que muestra la zona bajo aviso de huracán entre Punta San Telmo y El Roblito y las Islas Marías. Simón se aproximaba a la costa sin que se hubiera confirmado entrada a tierra."
+    },
+    {
+      "path": "03-vientos-categoria-cuatro.png",
+      "alt_text": "Gráfico explicativo sobre el huracán Simón: categoría 4 y vientos sostenidos de 230 kilómetros por hora según el aviso oficial número 17 del 11 de octubre, a las 15:00 UTC. La cifra corresponde a ese momento, no a un pronóstico permanente."
+    },
+    {
+      "path": "04-lluvia-y-oleaje.png",
+      "alt_text": "Gráfico informativo con tres peligros previstos para la costa mexicana por el huracán Simón: inundaciones por lluvia intensa, deslizamientos de tierra y oleaje con marejada ciclónica. No contiene fotografías sintéticas."
+    },
+    {
+      "path": "05-medidas-preventivas.png",
+      "alt_text": "Resumen de las medidas anunciadas por autoridades mexicanas ante Simón: suspensión preventiva de actividades no esenciales en zonas afectadas, avisos locales y evacuaciones donde se ordenen. Se distingue la fecha del anuncio de las condiciones actuales."
+    },
+    {
+      "path": "06-consulta-avisos.png",
+      "alt_text": "Tarjeta de seguridad: seguir los avisos oficiales de Protección Civil, evitar el litoral y las zonas inundables y atender las indicaciones de evacuación. Señala que la trayectoria del huracán puede cambiar y la información requiere actualización."
+    }
+  ],
+  "publication_id": "kmx-20261011-huracan-simon-mexico",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "02-f26f2391dd17e5ec",
+  "sources": [
+    {
+      "label": "Centro Nacional de Huracanes · aviso oficial 17, 11/10/2026, 15:00 UTC",
+      "url": "https://prod-east-nhc.woc.noaa.gov/mobile/text/refresh/MIATCPEP5%2Bhtml/111452.shtml"
+    },
+    {
+      "label": "Centro Nacional de Huracanes · pronóstico oficial 17, 11/10/2026, 15:00 UTC",
+      "url": "https://prod-east-nhc.woc.noaa.gov/mobile/text/refresh/MIATCMEP5%2Bhtml/111450.shtml"
+    },
+    {
+      "label": "Gobierno de México · prevención y suspensión de actividades no esenciales, 10/10/2026",
+      "url": "https://www.gob.mx/presidencia/prensa/presidenta-informa-suspension-de-actividades-no-esenciales-en-jalisco-colima-michoacan-y-nayarit-por-huracan-simon-categoria-4?idiom=es"
+    },
+    {
+      "label": "Associated Press · estado del huracán e impactos, 11/10/2026",
+      "url": "https://apnews.com/article/0e3336ba92518117ca8008c5746d230e"
+    },
+    {
+      "label": "El País México · medidas de Protección Civil y alerta, 11/10/2026",
+      "url": "https://elpais.com/mexico/2026-10-11/jalisco-y-colima-se-preparan-para-la-embestida-del-huracan-simon-de-categoria-cuatro.html"
+    },
+    {
+      "label": "NOAA · condiciones de reutilización de imágenes y gráficos",
+      "url": "https://oceanservice.noaa.gov/about/faq.html"
+    }
+  ],
+  "status": "editorial_ready_for_visuals"
+}
