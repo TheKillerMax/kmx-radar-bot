@@ -2,12 +2,12 @@
   "last_media_id": "17987560875074159",
   "last_processed_generated_at": "2026-10-11T00:11:58Z",
   "last_publication_id": "kmx-20261011-trump-ucrania-diesel",
-  "last_result": "visual_incomplete",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 2 (11/10/2026): se verificaron los cinco archivos editoriales y las licencias de dos fotografías auténticas de archivo (Daniel Torok, 2025; Casa Blanca, 2025); se prepararon seis especificaciones de 1080x1350 con Unicode NFC. La integración de GitHub bloqueó por controles de seguridad create_blob antes de poder escribir atómicamente visuals.json y visual-sources.json en main. No hay .visualize, render ni visual-qc.json; no publicar. Recuperación: incorporar ambos JSON juntos, revisar fuentes/ortografía y ejecutar workflow.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "visuals_ready",
   "published_at": "2026-10-08T05:36:23Z",
   "source_event_id": "01-7c1f6dc9e4410c7c",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-11T10:30:54Z"
 }

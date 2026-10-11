@@ -1,39 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261011-trump-ucrania-diesel",
-  "source_event_id": "01-7c1f6dc9e4410c7c",
+  "ai_generated": true,
+  "caption": "Donald Trump dijo el 10 de octubre que Ucrania debería tener un nuevo presidente. Lo afirmó ante periodistas al criticar a Volodímir Zelenski por la guerra con Rusia y por los ataques ucranianos contra instalaciones de combustible rusas.\n\nUn día antes, Trump había anunciado un acuerdo con Vladímir Putin para facilitar el suministro de diésel ruso. Defendió la medida para aliviar los precios del combustible y responsabilizó a Ucrania de agravar el problema. Esa relación de causa y efecto es una afirmación de Trump, no una conclusión independiente.\n\nZelenski cuestionó el acuerdo porque, según explicó, permitiría aumentar los ingresos rusos mientras continúa la guerra. El ministro de Exteriores ucraniano, Andrí Sibiga, defendió que corresponde a los propios ucranianos decidir quién los representa.\n\nNo se anunció ningún cambio de presidente en Ucrania. Lo confirmado es la declaración de Trump y el desacuerdo público sobre el diésel ruso.\n\nDesliza para ver qué dijo cada parte y qué sigue pendiente.\n\nFuentes: RTVE, Reuters, Associated Press y The Washington Post (9–10 de octubre de 2026).\n\n#KMXRadar #Ucrania #DonaldTrump #GuerraEnUcrania #DiéselRuso",
   "created_at": "2026-10-11T03:34:37Z",
   "headline": "Trump pide un nuevo presidente en Ucrania tras un acuerdo sobre diésel ruso",
-  "caption": "Donald Trump dijo el 10 de octubre que Ucrania debería tener un nuevo presidente. Lo afirmó ante periodistas al criticar a Volodímir Zelenski por la guerra con Rusia y por los ataques ucranianos contra instalaciones de combustible rusas.\n\nUn día antes, Trump había anunciado un acuerdo con Vladímir Putin para facilitar el suministro de diésel ruso. Defendió la medida para aliviar los precios del combustible y responsabilizó a Ucrania de agravar el problema. Esa relación de causa y efecto es una afirmación de Trump, no una conclusión independiente.\n\nZelenski cuestionó el acuerdo porque, según explicó, permitiría aumentar los ingresos rusos mientras continúa la guerra. El ministro de Exteriores ucraniano, Andrí Sibiga, defendió que corresponde a los propios ucranianos decidir quién los representa.\n\nNo se anunció ningún cambio de presidente en Ucrania. Lo confirmado es la declaración de Trump y el desacuerdo público sobre el diésel ruso.\n\nDesliza para ver qué dijo cada parte y qué sigue pendiente.\n\nFuentes: RTVE, Reuters, Associated Press y The Washington Post (9–10 de octubre de 2026).\n\n#KMXRadar #Ucrania #DonaldTrump #GuerraEnUcrania #DiéselRuso",
-  "status": "editorial_ready_for_visuals",
-  "ready_to_publish": false,
-  "ai_generated": true,
   "images": [
     {
-      "path": "01-declaracion-trump.png",
-      "alt_text": "Retrato oficial de Donald Trump tomado en enero de 2025 e identificado como archivo. Titular: el 10 de octubre de 2026, el presidente estadounidense pidió que Ucrania tuviera otro presidente. La foto no muestra sus declaraciones de ese día."
+      "alt_text": "Retrato oficial de Donald Trump de enero de 2025 rotulado ARCHIVO. El 10 de octubre de 2026, Trump pidió que Ucrania tuviera otro presidente. La foto no muestra las declaraciones.",
+      "path": "01-declaracion-trump.png"
     },
     {
-      "path": "02-motivo-diesel.png",
-      "alt_text": "Fotografía de archivo de Donald Trump y Volodímir Zelenski reunidos en abril de 2025. Texto: la declaración surge tras un acuerdo de Trump con Rusia sobre diésel, criticado por Zelenski. La imagen no muestra una reunión de octubre de 2026."
+      "alt_text": "Fotografía auténtica de Trump y Volodímir Zelenski durante un encuentro en el Vaticano en abril de 2025, rotulada ARCHIVO. El texto informa del acuerdo sobre diésel ruso anunciado en octubre de 2026 y de las críticas ucranianas.",
+      "path": "02-motivo-diesel.png"
     },
     {
-      "path": "03-que-dijo-trump.png",
-      "alt_text": "Panel de texto que explica las declaraciones del 10 de octubre: Trump pidió un cambio de presidente en Ucrania y atribuyó parte del problema del precio del diésel a ataques contra instalaciones rusas. Se identifica esta última atribución como postura de Trump."
+      "alt_text": "Panel sobre un retrato de archivo de Trump que explica su afirmación sobre los ataques a instalaciones rusas y los precios del diésel; se aclara que la causalidad no está demostrada de manera independiente.",
+      "path": "03-que-dijo-trump.png"
     },
     {
-      "path": "04-respuesta-ucrania.png",
-      "alt_text": "Panel informativo con la respuesta de Ucrania. Zelenski considera que facilitar exportaciones rusas puede financiar la guerra. El ministro ucraniano Andrí Sibiga defendió el derecho de los ucranianos a elegir a sus dirigentes."
+      "alt_text": "Panel con una fotografía de archivo de Trump y Zelenski. Explica la objeción de Zelenski por posibles ingresos para Rusia y la respuesta del ministro Andrí Sibiga sobre el derecho de los ucranianos a elegir a sus autoridades.",
+      "path": "04-respuesta-ucrania.png"
     },
     {
-      "path": "05-fechas.png",
-      "alt_text": "Línea de tiempo de dos días: el 9 de octubre Trump anunció un acuerdo para facilitar el suministro de diésel ruso; el 10 de octubre pidió que Ucrania tuviera un nuevo presidente."
+      "alt_text": "Cronología sobre fotografía de archivo de Trump. El 9 de octubre de 2026 anunció un acuerdo sobre diésel ruso y el 10 de octubre pidió un nuevo presidente para Ucrania. La fotografía no documenta esas fechas.",
+      "path": "05-fechas.png"
     },
     {
-      "path": "06-que-cambio.png",
-      "alt_text": "Tarjeta final: la declaración de Donald Trump no supone por sí misma un cambio de presidente en Ucrania. Sigue pendiente conocer cómo se ejecutará el acuerdo sobre diésel ruso y cuáles serán sus efectos."
+      "alt_text": "Tarjeta final con una fotografía histórica de archivo de Trump y Zelenski: la declaración estadounidense no constituye por sí sola un cambio de presidente en Ucrania, ni confirma efectos económicos del acuerdo.",
+      "path": "06-que-cambio.png"
     }
   ],
+  "publication_id": "kmx-20261011-trump-ucrania-diesel",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "01-7c1f6dc9e4410c7c",
   "sources": [
     {
       "label": "RTVE · vídeo de las declaraciones de Trump, 10/10/2026",
@@ -59,5 +58,7 @@
       "label": "The Guardian · respuesta diplomática de Ucrania, 10/10/2026",
       "url": "https://www.theguardian.com/world/2026/oct/11/ukraine-war-briefing-zelenskyy-support-people-trump-call-new-president"
     }
-  ]
+  ],
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-11T10:30:54Z"
 }
