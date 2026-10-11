@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-11T09:54:35Z",
-  "last_publication_id": "kmx-20261011-huracan-simon-mexico",
-  "last_result": "visual_incomplete",
+  "last_processed_generated_at": "2026-10-11T19:28:33Z",
+  "last_publication_id": "kmx-20261011-doj-cadenas-tv-casa-blanca",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 2 bloqueada: GitHub rechazó por controles de seguridad la creación de approved/kmx-20261011-huracan-simon-mexico/visual-sources.json en main. Ningún paquete visual persistido; visuals.json y visual-qc.json ausentes. Reintentar sólo tras resolver la autorización de escritura; no crear .ready ni publicar.",
+  "note": "Incidencia visual anterior no resuelta (publicación de Simón): FASE 2 bloqueada: GitHub rechazó por controles de seguridad la creación de approved/kmx-20261011-huracan-simon-mexico/visual-sources.json en main. Ningún paquete visual persistido; visuals.json y visual-qc.json ausentes. Reintentar sólo tras resolver la autorización de escritura; no crear .ready ni publicar.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "02-f26f2391dd17e5ec",
+  "source_event_id": "10-f7a156c4ed86a0c2",
   "visuals_completed_at": null
 }
