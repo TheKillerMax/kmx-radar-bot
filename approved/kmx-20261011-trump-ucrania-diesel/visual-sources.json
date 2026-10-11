@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-11T04:28:15Z",
+  "note": "Dos fotos auténticas de archivo, nunca evidencia visual de declaraciones de octubre de 2026. Imágenes verificadas en Wikimedia Commons el 11/10/2026. Único logo: assets/logo.png.",
+  "assets": [
+    {
+      "key": "trump_2025",
+      "source_url": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+      "original_creator": "Daniel Torok",
+      "license_or_permission": "Dominio público mundial mediante cesión expresa del autor (PD-author), según ficha de Wikimedia Commons.",
+      "attribution_required": false,
+      "attribution_text": "Daniel Torok / Wikimedia Commons · enero de 2025",
+      "local_path": "Descarga temporal del runner GitHub Actions",
+      "retrieved_at": "2026-10-11",
+      "notes": "Retrato de enero de 2025. Rotular ARCHIVO."
+    },
+    {
+      "key": "vatican_2025",
+      "source_url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg",
+      "original_creator": "The White House (Executive Office of the President of the United States)",
+      "license_or_permission": "Dominio público estadounidense, obra de personal federal en funciones (PD-USGov-POTUS), según ficha de Wikimedia Commons.",
+      "attribution_required": false,
+      "attribution_text": "The White House / Wikimedia Commons · abril de 2025",
+      "local_path": "Descarga temporal del runner GitHub Actions",
+      "retrieved_at": "2026-10-11",
+      "notes": "Fotografía del Vaticano, 26 de abril de 2025; no muestra reuniones de octubre de 2026. Rotular ARCHIVO."
+    }
+  ]
+}

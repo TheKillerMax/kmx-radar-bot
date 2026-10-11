@@ -1,0 +1,127 @@
+{
+  "theme": {
+    "name": "ucrania-diesel-20261011",
+    "background": "#091624",
+    "panel": "#102B3B",
+    "accent": "#48D9CC",
+    "accent2": "#80B4FF",
+    "warm": "#FFCE78",
+    "text": "#F8FBFD",
+    "muted": "#D9E5EF"
+  },
+  "sources": {
+    "trump_2025": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+      "credit": "Daniel Torok / Wikimedia Commons · enero de 2025",
+      "archive": true
+    },
+    "vatican_2025": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg",
+      "credit": "The White House / Wikimedia Commons · abril de 2025",
+      "archive": true
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-declaracion-trump.png",
+      "photo": "trump_2025",
+      "archive": true,
+      "kicker": "UCRANIA · 10 DE OCTUBRE",
+      "title": "TRUMP PIDE OTRO PRESIDENTE PARA UCRANIA",
+      "body": "Lo dijo ante periodistas al cuestionar a Volodímir Zelenski.",
+      "callout": "ES UNA DECLARACIÓN, NO UNA DECISIÓN DE UCRANIA",
+      "footer": "FOTO: ENERO 2025 · DECLARACIÓN: 10/10/2026",
+      "sources": [
+        "RTVE",
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Retrato oficial de Donald Trump de enero de 2025 rotulado ARCHIVO. El 10 de octubre de 2026, Trump pidió que Ucrania tuviera otro presidente. La foto no muestra las declaraciones."
+    },
+    {
+      "n": 2,
+      "file": "02-motivo-diesel.png",
+      "photo": "vatican_2025",
+      "archive": true,
+      "kicker": "ACUERDO SOBRE DIÉSEL",
+      "title": "EL DIÉSEL ABRIÓ OTRA DISPUTA",
+      "body": "Trump anunció un acuerdo con Putin el 9 de octubre. Zelenski lo criticó por beneficiar a Rusia.",
+      "callout": "LA FOTO ES DE ABRIL DE 2025, NO DE LA DISPUTA ACTUAL",
+      "footer": "FOTO: ABRIL 2025 · FUENTES: REUTERS Y AP",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Fotografía auténtica de Trump y Volodímir Zelenski durante un encuentro en el Vaticano en abril de 2025, rotulada ARCHIVO. El texto informa del acuerdo sobre diésel ruso anunciado en octubre de 2026 y de las críticas ucranianas."
+    },
+    {
+      "n": 3,
+      "file": "03-que-dijo-trump.png",
+      "photo": "trump_2025",
+      "archive": true,
+      "kicker": "ARGUMENTO DE TRUMP",
+      "title": "CULPÓ A LOS ATAQUES CONTRA REFINERÍAS RUSAS",
+      "body": "Trump afirmó que esos ataques contribuyen al encarecimiento del diésel.",
+      "callout": "ES SU EXPLICACIÓN, NO UNA CAUSALIDAD DEMOSTRADA",
+      "footer": "FOTO: ENERO 2025 · DECLARACIÓN: 10/10",
+      "sources": [
+        "RTVE",
+        "AP"
+      ],
+      "alt_text": "Panel sobre un retrato de archivo de Trump que explica su afirmación sobre los ataques a instalaciones rusas y los precios del diésel; se aclara que la causalidad no está demostrada de manera independiente."
+    },
+    {
+      "n": 4,
+      "file": "04-respuesta-ucrania.png",
+      "photo": "vatican_2025",
+      "archive": true,
+      "kicker": "RESPUESTA UCRANIANA",
+      "title": "ZELENSKI CUESTIONA EL ACUERDO",
+      "body": "Sostiene que las ventas de diésel ruso pueden aportar recursos para financiar la guerra.",
+      "callout": "SIBIGA: LOS UCRANIANOS DECIDEN QUIÉN LOS GOBIERNA",
+      "footer": "FOTO: ABRIL 2025 · REACCIONES: 9–10/10",
+      "sources": [
+        "Reuters",
+        "Washington Post"
+      ],
+      "alt_text": "Panel con una fotografía de archivo de Trump y Zelenski. Explica la objeción de Zelenski por posibles ingresos para Rusia y la respuesta del ministro Andrí Sibiga sobre el derecho de los ucranianos a elegir a sus autoridades."
+    },
+    {
+      "n": 5,
+      "file": "05-fechas.png",
+      "photo": "trump_2025",
+      "archive": true,
+      "kicker": "CRONOLOGÍA · 2026",
+      "title": "DOS DÍAS DE DISPUTA",
+      "bullets": [
+        "9 DE OCTUBRE · Trump anuncia un acuerdo sobre diésel ruso.",
+        "10 DE OCTUBRE · Trump pide otro presidente para Ucrania."
+      ],
+      "footer": "FOTO: ENERO 2025 · HECHOS: 9–10/10",
+      "sources": [
+        "Reuters",
+        "RTVE",
+        "AP"
+      ],
+      "alt_text": "Cronología sobre fotografía de archivo de Trump. El 9 de octubre de 2026 anunció un acuerdo sobre diésel ruso y el 10 de octubre pidió un nuevo presidente para Ucrania. La fotografía no documenta esas fechas."
+    },
+    {
+      "n": 6,
+      "file": "06-que-cambio.png",
+      "photo": "vatican_2025",
+      "archive": true,
+      "kicker": "¿QUÉ CAMBIÓ EN UCRANIA?",
+      "title": "NO HAY UN CAMBIO DE PRESIDENTE ANUNCIADO",
+      "body": "La declaración de Trump no destituye a Zelenski ni convoca elecciones.",
+      "callout": "EL ALCANCE Y LOS EFECTOS DEL ACUERDO SOBRE DIÉSEL SIGUEN SIN COMPROBARSE",
+      "footer": "FOTO: ABRIL 2025 · FUENTES: RTVE Y AP",
+      "sources": [
+        "RTVE",
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Tarjeta final con una fotografía histórica de archivo de Trump y Zelenski: la declaración estadounidense no constituye por sí sola un cambio de presidente en Ucrania, ni confirma efectos económicos del acuerdo."
+    }
+  ]
+}
