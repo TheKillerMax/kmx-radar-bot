@@ -1,0 +1,40 @@
+{
+  "event_id": "04-fec0950804917e64",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Tchouaméni defiende a Vinicius tras su expulsión: «No entiendo qué pasa con los árbitros y esa roja» - OkDiario",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "okdiario.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Tchouaméni: \"No entiendo lo que pasa con los árbitros, con esa tarjeta roja\" - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZJcUk1TEdZMGJJbEhDV1cwQUYwNkt0eTdod1NkRVprZ2RTSFJucFE3QWd1RmRZemM5bU5iX3NDaDlGcTZiOTJNN1ZqeHpxb2J0N3ZLVU84QWNZLWN4Q1hiSTZsX1VHM2NnLU9RZXgwcFZZeVNBSUdlQWxCbUdLelpkekZOOXd6aUEtYkhVbzNaZEhGZWFyX01Hd1ZBLXZHSHdUSndUUmpQdnRl?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 21:14:19 GMT",
+      "primary_hint": false,
+      "excerpt": "Tchouaméni: \"No entiendo lo que pasa con los árbitros, con esa tarjeta roja\" Yahoo"
+    },
+    {
+      "title": "Tchouaméni defiende a Vinicius tras su expulsión: «No entiendo qué pasa con los árbitros y esa roja» - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkIzNXJWLWZWako0NFZyS1dnZlhfY1VCTTk2N1JMczh4akxEaWNHaGRJTEF6ZGxLME4xNzNDMTZQZlhCMXJLckl6cTdCaUJnS0V6YzYzT1Z0ZHlTZUluOUFuRnAyV3pfTURhUjRsN0owLUZjY1dtekFpWFR3bGp1R0JmaG4xbC1CdUYzV1pUT040T3dRVktJeE5nSmEwcWNEcnIwX1NvSkJDTkotbE5qMWN2MXNraG42cXBsREtUeGFpQkRXaE1QMW00NkVhalXSAdQBQVVfeXFMTlNQbTVoYkR6OEV3UkpvNVk1TkhhMVU3cGEtalBUUXJpNS0ydWVrbzRoaUtDM3otd2stVWdpMkpKeWtlQnhMcmZOQXVDbTdYVGRJcVZiaGdsNVJIZkM5d0VSNGRzdENoU1RYNWpVc3BHeXh2X3pfMGtCNEt2MHBsU3JReGRXVlVQX2pwdkdvVWNTWWtINmFSbHFITnhOV21tZlpUM1ZqUEVRWDhfVndSNVk2TUVXUEF6VjFmQkRwMFF2M3dMUVI1cUphbTZ2NXhfOGdCQ3U?oc=5",
+      "domain": "okdiario.com",
+      "publisher": "OkDiario",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 21:24:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Tchouaméni defiende a Vinicius tras su expulsión: «No entiendo qué pasa con los árbitros y esa roja» OkDiario"
+    }
+  ]
+}

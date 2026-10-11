@@ -1,0 +1,30 @@
+{
+  "event_id": "11-2972004d9aded0ce",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Christa Pike, quien sobrevivió a una ejecución fallida en Tennessee, recibe el alta hospitalaria, según su abogado - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Christa Pike, quien sobrevivió a una ejecución fallida en Tennessee, recibe el alta hospitalaria, según su abogado - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSFlUTXdkcjR1ZzgyV3FKQThXajV4aFNKcVpLTVR5ZE12VG9wRVhSM2tkSUFpUWpMbDlJSk16MG1CX0gxUDZ6VVF1R3dHWWVYeURxNGtCR2lGcmdLU1RQVm1BUUNEek9GbHl0VDRpTWpjdE15UkJZNjFBdUp6dVAxWmhB?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 16:57:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Christa Pike, quien sobrevivió a una ejecución fallida en Tennessee, recibe el alta hospitalaria, según su abogado CNN en Español Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución BBC Christa Pike sale del hospital tras sobrevivir a ejecución fallida, dicen sus abogados Telemundo 52 “Vi el cráneo de mi hija”: el trauma de la madre de Colleen Slemmer, la joven asesinada por Christa Pike, al recibir sus restos en cajas Infobae ¿Cómo fue que Christa Pike sobrevivió a 2 dosis de un fármaco de ejecución en Tennessee? Los Angeles Times"
+    }
+  ]
+}

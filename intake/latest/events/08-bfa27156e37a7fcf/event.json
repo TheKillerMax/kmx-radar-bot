@@ -1,0 +1,30 @@
+{
+  "event_id": "08-bfa27156e37a7fcf",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Ataque contra aeropuerto saudí deja 12 muertos y decenas de heridos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Ataque contra aeropuerto saudí deja 12 muertos y decenas de heridos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjdoSXZTZUxGTHo0WktUOGVMMmRPV1hHMlZVbWZ1bGozY0hpM0xVUVgwSktibUFwNFZRemktRGRIUDNQYVd6TXBqWF9BR2tKNklKYV8yNHFnNklaWWxfQ1dZUk5DRUZNaTM5UzNmU3hieFNvRDdkaUFoRmNzNjhIYjgweDl3Qm1qZ1E?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 22:23:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Ataque contra aeropuerto saudí deja 12 muertos y decenas de heridos CNN en Español El aeropuerto de la capital saudí es atacado de nuevo y otras noticias de Oriente Medio Chicago Tribune Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita BBC Mueren 3 saudíes en ataques al aeropuerto internacional de Riad y otras noticias de Oriente Medio San Antonio Express-News ¿Quiénes son las Brigadas de los Gigantes del Sur de Yemen que lideran la lucha contra los hutíes? Al-Monitor"
+    }
+  ]
+}

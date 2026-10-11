@@ -1,0 +1,30 @@
+{
+  "event_id": "12-43c095577ddb1638",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump afirma que Ucrania debería tener un nuevo líder, en un nuevo choque contra Zelensky por el acuerdo de diésel con Rusia - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump afirma que Ucrania debería tener un nuevo líder, en un nuevo choque contra Zelensky por el acuerdo de diésel con Rusia - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1hWeWhrSmlsU1pfaVNiSUhWUlNXcndqdFJQLV90dHpzU0w2Sy14SzBmNEN6X3BmLTBqSkVtRzVtSWVLc3lsN3g0bmpiRjJNTGlzT0ZXR2pVLWRZTGtiV3hsMlVmbUFfRkpOa0gxczFIaWpaU0xhWkpWRlFya1Bpd0lCM1RKYkZjcTQwV3FYeUszb2VFbFpYbg?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 10 Oct 2026 18:05:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump afirma que Ucrania debería tener un nuevo líder, en un nuevo choque contra Zelensky por el acuerdo de diésel con Rusia CNN en Español Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial BBC Trump dice que Ucrania debería tener nuevo presidente y culpa a Zelenskyy por los precios del diésel AP News Trump anima a los ucranios a que “busquen un nuevo líder” tras un ataque de Kiev contra el sector petrolero ruso EL PAÍS Trump pide a Ucrania que sustituya a Zelenskyy tras el enfrentamiento por el acuerdo sobre el gasóleo ruso: «Buscad un nuevo presidente Yahoo"
+    }
+  ]
+}
