@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-11T00:11:58Z",
-  "last_publication_id": "kmx-20261011-trump-ucrania-diesel",
-  "last_result": "visuals_ready",
+  "last_processed_generated_at": "2026-10-11T09:54:35Z",
+  "last_publication_id": "kmx-20261011-huracan-simon-mexico",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "note": "Paquete editorial completo verificado en main; boletín NHC 17 del 11 de octubre a las 15:00 UTC. Revalidación meteorológica obligatoria en FASE 2.",
   "pending_manifest_generated_at": null,
-  "phase": "visuals_ready",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "01-7c1f6dc9e4410c7c",
-  "visuals_completed_at": "2026-10-11T10:30:54Z"
+  "source_event_id": "02-f26f2391dd17e5ec",
+  "visuals_completed_at": null
 }
