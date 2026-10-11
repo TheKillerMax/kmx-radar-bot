@@ -1,39 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261011-doj-cadenas-tv-casa-blanca",
-  "source_event_id": "10-f7a156c4ed86a0c2",
-  "created_at": "2026-10-11T21:28:06Z",
-  "status": "editorial_ready_for_visuals",
-  "ready_to_publish": false,
   "ai_generated": true,
-  "headline": "El Departamento de Justicia de EE. UU. investiga a cinco cadenas por suspender la cobertura de Trump",
   "caption": "El Departamento de Justicia de Estados Unidos confirmó el 10 de octubre que investiga a cinco cadenas de televisión: ABC, CBS, CNN, NBC y Fox News. Quiere determinar si infringieron la ley antimonopolio al suspender juntas, durante unos días, la cobertura de actos del presidente Donald Trump.\n\n¿Por qué ocurrió? La Casa Blanca retiró el acceso a periodistas de CNN, MS NOW y Politico. Las cinco cadenas, que se turnan para grabar los actos del presidente y compartir las imágenes con otros medios, interrumpieron temporalmente esa tarea.\n\nEl Departamento de Justicia sostiene que una suspensión coordinada entre empresas competidoras podría vulnerar la ley. Los medios habían protestado por las restricciones a la prensa. Un juez ordenó restablecer provisionalmente el acceso y la cobertura televisiva se reanudó.\n\nLa investigación está abierta: no se ha demostrado una infracción ni anunciado una sanción.\n\nDesliza para ver qué ocurrió y qué falta por resolver.\n\nFuentes: portavoz del Departamento de Justicia, Reuters, Associated Press y El País (10–11 de octubre de 2026).\n\n#KMXRadar #Periodismo #LibertadDePrensa #EstadosUnidos",
+  "created_at": "2026-10-11T21:28:06Z",
+  "headline": "El Departamento de Justicia de EE. UU. investiga a cinco cadenas por suspender la cobertura de Trump",
   "images": [
     {
-      "path": "01-investigacion-cadenas.png",
-      "alt_text": "Fotografía real de archivo de la sede del Departamento de Justicia de Estados Unidos, tomada en marzo de 2026. Una portada explica que el organismo investiga a ABC, CBS, CNN, NBC y Fox News por suspender temporalmente la cobertura de actos de Donald Trump. La imagen no muestra la investigación."
+      "alt_text": "Fotografía real de archivo de la sede del Departamento de Justicia de Estados Unidos, tomada en marzo de 2026. Una portada explica que el organismo investiga a ABC, CBS, CNN, NBC y Fox News por suspender temporalmente la cobertura de actos de Donald Trump. La imagen no muestra la investigación.",
+      "path": "01-investigacion-cadenas.png"
     },
     {
-      "path": "02-origen-suspension.png",
-      "alt_text": "Fotografía real de archivo de la sala de prensa de la Casa Blanca, tomada en enero de 2020. El texto explica que cinco cadenas suspendieron su cobertura compartida después de que la Casa Blanca restringiera el acceso a periodistas de CNN, MS NOW y Politico."
+      "alt_text": "Fotografía real de archivo de la sala de prensa de la Casa Blanca, tomada en enero de 2020. El texto explica que cinco cadenas suspendieron su cobertura compartida después de que la Casa Blanca restringiera el acceso a periodistas de CNN, MS NOW y Politico.",
+      "path": "02-origen-suspension.png"
     },
     {
-      "path": "03-que-investiga-justicia.png",
-      "alt_text": "Gráfico editorial que explica que el Departamento de Justicia investiga si la suspensión conjunta de la cobertura televisiva violó las normas estadounidenses contra acuerdos entre competidores. Aclara que investigar no equivale a probar una infracción."
+      "alt_text": "Gráfico editorial que explica que el Departamento de Justicia investiga si la suspensión conjunta de la cobertura televisiva violó las normas estadounidenses contra acuerdos entre competidores. Aclara que investigar no equivale a probar una infracción.",
+      "path": "03-que-investiga-justicia.png"
     },
     {
-      "path": "04-como-funciona-la-cobertura.png",
-      "alt_text": "Diagrama original con tres pasos: las cadenas se turnan para grabar los actos presidenciales, comparten las imágenes con otros medios y estos pueden informar al público aunque no entren todos al lugar."
+      "alt_text": "Diagrama original con tres pasos: las cadenas se turnan para grabar los actos presidenciales, comparten las imágenes con otros medios y estos pueden informar al público aunque no entren todos al lugar.",
+      "path": "04-como-funciona-la-cobertura.png"
     },
     {
-      "path": "05-fechas-del-conflicto.png",
-      "alt_text": "Cronología tipográfica del conflicto: el 19 de septiembre de 2026 se restringió el acceso de tres medios; el 24 de septiembre un juez ordenó restablecerlo; el 10 de octubre el Departamento de Justicia confirmó una investigación."
+      "alt_text": "Cronología tipográfica del conflicto: el 19 de septiembre de 2026 se restringió el acceso de tres medios; el 24 de septiembre un juez ordenó restablecerlo; el 10 de octubre el Departamento de Justicia confirmó una investigación.",
+      "path": "05-fechas-del-conflicto.png"
     },
     {
-      "path": "06-que-falta-por-resolver.png",
-      "alt_text": "Panel final: la cobertura compartida se reanudó; la investigación antimonopolio sigue abierta y persisten desacuerdos sobre el acceso de periodistas a determinados actos del presidente. No se presenta ninguna sanción como confirmada."
+      "alt_text": "Panel final: la cobertura compartida se reanudó; la investigación antimonopolio sigue abierta y persisten desacuerdos sobre el acceso de periodistas a determinados actos del presidente. No se presenta ninguna sanción como confirmada.",
+      "path": "06-que-falta-por-resolver.png"
     }
   ],
+  "publication_id": "kmx-20261011-doj-cadenas-tv-casa-blanca",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "10-f7a156c4ed86a0c2",
   "sources": [
     {
       "label": "Departamento de Justicia de EE. UU. · declaración de su portavoz recogida por Reuters, 10/10/2026",
@@ -55,5 +54,7 @@
       "label": "Wikimedia Commons · fotografía de la sala de prensa de la Casa Blanca (2020), dominio público",
       "url": "https://commons.wikimedia.org/wiki/File:White_House_Press_Briefing_(49483434882).jpg"
     }
-  ]
+  ],
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-11T22:32:19Z"
 }
