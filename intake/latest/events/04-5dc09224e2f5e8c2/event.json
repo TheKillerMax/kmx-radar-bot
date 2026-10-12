@@ -1,0 +1,30 @@
+{
+  "event_id": "04-5dc09224e2f5e8c2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Juez ordena a Trump detener anuncios financiados por los contribuyentes a pocas horas de finalizar la campaña - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Juez ordena a Trump detener anuncios financiados por los contribuyentes a pocas horas de finalizar la campaña - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXBkM2RiaFNraTVRMVlDZ1FvRHlOVWsySndtVXl5VXEwTklNQlFxdXZrWDVISC1rVmptODdmeDNXdGxOY1VNdHRXMmJLcVBmODVmdENqRTVWSFhsQ0JTVnhqT3NaMEtoUnRtX2ZGdmN5UmtnQkl1Q09aNjdDaDk2X3paQk1Yem1HY05HeDhvX2RicHV5LWt2UHdscGNYSlFka0ZWbVVVOA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 12 Oct 2026 00:24:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Juez ordena a Trump detener anuncios financiados por los contribuyentes a pocas horas de finalizar la campaña CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
