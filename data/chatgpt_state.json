@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-12T00:27:20Z",
-  "last_publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
-  "last_result": "needs_refresh",
+  "last_processed_generated_at": "2026-10-12T10:38:05Z",
+  "last_publication_id": "kmx-20261012-margaret-hamilton-apolo11",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Fase 3 (12-10-2026): noticia en desarrollo con novedades oficiales sobre ataques a instalaciones de energía y respuesta del Kremlin. Se requiere actualizar research/publication/visuals en FASE 2. No publicar.",
+  "note": "FASE 1: paquete Margaret Hamilton completo y verificado en main; pendiente producción visual. Incidencia anterior sin resolver: kmx-20261012-tregua-energetica-trump-ucrania requiere actualización de research/publication/visuals por nuevas informaciones; no publicar sin revisión.",
   "pending_manifest_generated_at": null,
-  "phase": "needs_refresh",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "02-0296fd5be4a1ab7f",
+  "source_event_id": "10-5887d013854b8b71",
   "visuals_completed_at": "2026-10-12T05:19:30Z"
 }
