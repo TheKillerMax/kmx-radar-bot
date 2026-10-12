@@ -1,0 +1,40 @@
+{
+  "event_id": "04-a004097e9350fe13",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Hurricane Isaias moves north after slamming Gulf Coast - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "malaysia.news.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Hurricane Isaias moves north after slamming Gulf Coast - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1BqOUhETkZvb0lyX3VTbVdBMjBmeGdraUh0eWhHeUUzWFR4enREWHl6UGFWaE5SRlZvSHVGMFJraE5xZzVJb0haSEkwUVVCeVc2SjlSRmdDMzg1bkpkV1FOa3gyTDM3SGJVTDJIUGYyYkFuOEFuRmJRdVhoMGpnbXpFZks3RXAtZVE?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 20:42:29 GMT",
+      "primary_hint": false,
+      "excerpt": "Hurricane Isaias moves north after slamming Gulf Coast Yahoo"
+    },
+    {
+      "title": "At Least 4 People Dead Across 2 Different States After Hurricane Isaias Hit the Gulf Coast - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Y0FiNlFhZmlpSGtpdkVaMVVBbmlGNkUxcXlHel9qek93R0pIV25PeGJEOFZxdVE0emhPU2g1MWRNRU56blFlXzFSRzl4RVVFYXRJb2EzYW1BcXlSdmtwUU1aS2lITzZlZlhUS09qbTFNdHZCWk01QURiLUJjdw?oc=5",
+      "domain": "malaysia.news.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 14:50:05 GMT",
+      "primary_hint": false,
+      "excerpt": "At Least 4 People Dead Across 2 Different States After Hurricane Isaias Hit the Gulf Coast Yahoo"
+    }
+  ]
+}

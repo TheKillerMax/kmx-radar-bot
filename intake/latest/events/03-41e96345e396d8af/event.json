@@ -1,0 +1,40 @@
+{
+  "event_id": "03-41e96345e396d8af",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "CEO de Deutsche Bank advierte sobre riesgo de extremismo político en Alemania - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "CEO de Deutsche Bank advierte sobre riesgo de extremismo político en Alemania - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGV0UHY3VWhRV21PZ3RFeUhCWnZiSUVqeDFRN3VjV1o1OERTQktCS0lwSFJaRl9ZYWJDbkxsWXozY3pMNHhrSEhXSm5QTThIQnprMEhyM3FNTFZkMzlIRnNOMXdDY1NXanR6RkhySXRfaTU2TjZPQl95bU9PT3d2amRDdDZZa3lVdndKSUVISzZLVGF1VjJUU0VaamlvLTNlanhfZUlIUEJhV0dGWVNvTXFiUWhYN2pMeWd5UFRfQkd3V1ZQUW9N?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 14:48:47 GMT",
+      "primary_hint": false,
+      "excerpt": "CEO de Deutsche Bank advierte sobre riesgo de extremismo político en Alemania Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "El director ejecutivo de Deutsche Bank advierte sobre el riesgo del extremismo político en Alemania - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUFg4a0MydDJ4OUZRek5BTUdicHFZUzV3SlFBS2RQR2tzR1dONXZ1aWFwd2JMc1g4eUJHS1hTNmhQa3RMekt5OVk2bmdDUXZIUTI5dXFtTmE4OWVCNU82RnUtb0hnZTc5UWI2c1hOdjh2amdrZkQzVjJPdGRhQWFqOVhtQ0lVeUNIeTU4UUt6b1ZzbTUtTHZvRlJGbzJLNWcxMWJwTUJiOVRRZGRrZHE2em5PQTdBcmhDQ3dVM2RrOW5DeVc0dzROYzg1SlJmMC1IZi16TWFxT3JjNzJidEJ3SGktbHU?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 14:44:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El director ejecutivo de Deutsche Bank advierte sobre el riesgo del extremismo político en Alemania Investing.com España"
+    }
+  ]
+}
