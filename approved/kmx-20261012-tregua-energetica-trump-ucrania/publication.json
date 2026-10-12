@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
+  "source_event_id": "02-0296fd5be4a1ab7f",
+  "created_at": "2026-10-12T03:57:59Z",
+  "ai_generated": true,
+  "status": "editorial_ready_for_visuals",
+  "ready_to_publish": false,
+  "headline": "Trump anuncia una tregua energética entre Rusia y Ucrania, pero aún no hay acuerdo confirmado",
+  "caption": "Donald Trump afirmó el 11 de octubre que Rusia y Ucrania habían acordado una «tregua energética» inmediata. Lo anunció en Truth Social, pero al cierre de esta revisión no existía confirmación pública de Moscú ni detalles verificables de un acuerdo aceptado por ambos países.\n\nEl presidente ucraniano, Volodímir Zelenski, dijo que Ucrania apoya detener los ataques a instalaciones de energía si Rusia también lo hace. Añadió que espera más información de Estados Unidos. Según las autoridades ucranianas, los ataques rusos contra instalaciones energéticas continuaban.\n\nUna tregua energética buscaría frenar ataques a centrales eléctricas, redes de suministro y otras instalaciones de energía. No equivale por sí sola al fin de la guerra. Tampoco está confirmado cuándo comenzaría, cómo se supervisaría o qué instalaciones abarcaría.\n\nLo comprobado hasta ahora es el anuncio estadounidense y la respuesta condicional ucraniana, no una suspensión efectiva de los ataques.\n\nDesliza para ver qué dijo cada parte y qué falta por confirmar.\n\nFuentes: publicaciones de Trump y Zelenski, Reuters y Associated Press (11 de octubre de 2026).\n\n#KMXRadar #Ucrania #Rusia #TreguaEnergética #GuerraEnUcrania",
+  "sources": [
+    {
+      "label": "Donald Trump · publicación original en Truth Social, 11/10/2026",
+      "url": "https://truthsocial.com/@realDonaldTrump/117422699218841250"
+    },
+    {
+      "label": "Volodímir Zelenski · declaración original en X, 11/10/2026",
+      "url": "https://x.com/ZelenskyyUa/status/2109307644846444808"
+    },
+    {
+      "label": "Reuters · anuncio y ausencia de confirmación de ambas partes, 11/10/2026",
+      "url": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11/"
+    },
+    {
+      "label": "Reuters · Zelenski espera detalles y denuncia ataques continuados, 11/10/2026",
+      "url": "https://www.reuters.com/world/europe/ukraine-awaits-details-ceasefire-proposals-us-russia-maintains-attacks-zelenskiy-2026-10-11/"
+    },
+    {
+      "label": "Associated Press · comprobación independiente del anuncio y sus límites, 11/10/2026",
+      "url": "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"
+    },
+    {
+      "label": "Wikimedia Commons · retrato de Trump de 2025, dominio público",
+      "url": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg"
+    },
+    {
+      "label": "Wikimedia Commons · fotografía de Trump y Zelenski de abril de 2025, dominio público",
+      "url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-anuncio-sin-confirmacion.png",
+      "alt_text": "Retrato oficial de archivo de Donald Trump, realizado en enero de 2025. Una portada explica que el 11 de octubre de 2026 anunció una supuesta tregua energética entre Rusia y Ucrania, todavía sin confirmación conjunta."
+    },
+    {
+      "path": "02-ucrania-pide-detalles.png",
+      "alt_text": "Fotografía real de archivo de Donald Trump y Volodímir Zelenski reunidos en el Vaticano en abril de 2025. El texto aclara que Ucrania pidió detalles y que Rusia todavía no había confirmado el supuesto acuerdo; la imagen no muestra conversaciones de octubre de 2026."
+    },
+    {
+      "path": "03-que-significa-energetica.png",
+      "alt_text": "Diagrama editorial original sobre el alcance que tendría una tregua energética: detener ataques contra centrales eléctricas, redes de suministro y otras instalaciones de energía, sin confundirla con un alto el fuego general. Se indica que no se anunciaron términos verificables."
+    },
+    {
+      "path": "04-que-dijo-zelenski.png",
+      "alt_text": "Tarjeta informativa con texto atribuido al presidente ucraniano, Volodímir Zelenski: Ucrania apoya una tregua energética si Rusia también la respeta y espera detalles de Estados Unidos. La tarjeta no presenta esa disposición como un acuerdo ya vigente."
+    },
+    {
+      "path": "05-ataques-y-comprobacion.png",
+      "alt_text": "Cronología tipográfica de los hechos del 11 de octubre de 2026: anuncio de Trump, respuesta pública ucraniana y reportes de ataques rusos contra infraestructuras energéticas que continuaban. No se utilizan fotografías de ataques ni escenas sintéticas."
+    },
+    {
+      "path": "06-que-falta-por-saber.png",
+      "alt_text": "Panel final que distingue lo confirmado de lo pendiente: anuncio estadounidense comprobado, apoyo condicional de Ucrania, ausencia de confirmación rusa y falta de detalles sobre fecha de aplicación, alcance y supervisión."
+    }
+  ]
+}
