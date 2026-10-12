@@ -1,13 +1,13 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-11T19:28:33Z",
-  "last_publication_id": "kmx-20261011-doj-cadenas-tv-casa-blanca",
-  "last_result": "visuals_ready",
+  "last_processed_generated_at": "2026-10-12T00:27:20Z",
+  "last_publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "note": "FASE 1 completada y verificada en main para el intake 2026-10-12T00:27:20Z. Visuales pendientes; no autorizado publicar. last_media_id y published_at son datos históricos de un ciclo anterior.",
   "pending_manifest_generated_at": null,
-  "phase": "visuals_ready",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "10-f7a156c4ed86a0c2",
-  "visuals_completed_at": "2026-10-11T22:32:19Z"
+  "source_event_id": "02-0296fd5be4a1ab7f",
+  "visuals_completed_at": null
 }
