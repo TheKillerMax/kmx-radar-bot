@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261012-margaret-hamilton-apolo11",
+  "source_event_id": "10-5887d013854b8b71",
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "headline": "Murió Margaret Hamilton, quien dirigió el software de las misiones Apolo",
+  "caption": "Murió a los 90 años Margaret Hamilton, la matemática que lideró el equipo que creó programas de vuelo para las misiones Apolo de la NASA. Falleció el 30 de septiembre de 2026; el Instituto Tecnológico de Massachusetts (MIT) lo anunció el 7 de octubre.\n\nEn 1969, poco antes de que el Apolo 11 aterrizara en la Luna, la computadora de a bordo se sobrecargó y activó una alarma. El sistema desarrollado por su equipo apartó tareas secundarias para dar prioridad al descenso. La misión pudo continuar.\n\nNo fue el logro de una sola persona: cientos de especialistas trabajaron en el software del programa Apolo. Hamilton también contribuyó a consolidar la ingeniería de software como profesión. En 2016 recibió la Medalla Presidencial de la Libertad.\n\nDesliza para conocer el trabajo de su equipo y su legado.\n\nFuentes: MIT (7 de octubre de 2026), Associated Press (8 de octubre) y archivos históricos de la NASA.\n\n#KMXRadar #MargaretHamilton #Apolo11 #MujeresEnLaCiencia #IngenieríaDeSoftware",
+  "ai_generated": true,
+  "created_at": "2026-10-12T15:27:03Z",
+  "sources": [
+    {
+      "label": "MIT News · anuncio original y explicación técnica (7/10/2026)",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+    },
+    {
+      "label": "Associated Press · confirmación independiente (8/10/2026)",
+      "url": "https://apnews.com/article/277117af951ae33daa84c62658580322"
+    },
+    {
+      "label": "EFE · cobertura en español (8/10/2026)",
+      "url": "https://efe.com/ciencia-y-tecnologia/2026-10-08/fallece-margaret-hamilton-pionera-apolo-llegada-hombre-luna/"
+    },
+    {
+      "label": "Wikimedia Commons · Hamilton en 1969, autorización VRT",
+      "url": "https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg"
+    },
+    {
+      "label": "Wikimedia Commons · módulo Eagle en 1969, NASA",
+      "url": "https://commons.wikimedia.org/wiki/File:Apollo_11_lunar_module.jpg"
+    },
+    {
+      "label": "Wikimedia Commons · Hamilton en 1989, NASA",
+      "url": "https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_1989.jpg"
+    },
+    {
+      "label": "Wikimedia Commons · condecoración de 2016, Casa Blanca",
+      "url": "https://commons.wikimedia.org/wiki/File:Hamilton_Medal_of_Freedom_from_Obama.jpg"
+    }
+  ],
+  "images": [
+    {
+      "path": "01-margaret-hamilton.png",
+      "alt_text": "Retrato de archivo de Margaret Hamilton en 1969, junto a impresiones de software de las misiones Apolo. El texto anuncia su fallecimiento a los 90 años, el 30 de septiembre de 2026."
+    },
+    {
+      "path": "02-su-trabajo-en-la-luna.png",
+      "alt_text": "Fotografía de archivo del módulo lunar Eagle en órbita tras regresar de la superficie, en julio de 1969. Explica que el programa del equipo de Hamilton ayudó al Apolo 11 a continuar el aterrizaje pese a una alarma."
+    },
+    {
+      "path": "03-alarma-y-prioridades.png",
+      "alt_text": "Diagrama informativo que representa una computadora sobrecargada: el programa detiene tareas secundarias y mantiene las necesarias para aterrizar. Fuente: MIT."
+    },
+    {
+      "path": "04-un-trabajo-en-equipo.png",
+      "alt_text": "Retrato real de Hamilton de 1989, con texto sobre la participación de más de 400 personas en el software del programa Apolo en 1968."
+    },
+    {
+      "path": "05-reconocimiento-2016.png",
+      "alt_text": "Fotografía oficial de 2016 de Barack Obama entregando a Margaret Hamilton la Medalla Presidencial de la Libertad."
+    },
+    {
+      "path": "06-legado.png",
+      "alt_text": "Panel editorial con texto sobre la importancia de diseñar programas capaces de responder a errores inesperados, con fuentes MIT y AP."
+    }
+  ]
+}
