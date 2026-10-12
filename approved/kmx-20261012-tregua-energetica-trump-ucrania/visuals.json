@@ -1,0 +1,130 @@
+{
+  "theme": {
+    "name": "tregua-energetica-20261012",
+    "background": "#081925",
+    "panel": "#133045",
+    "accent": "#29D7C0",
+    "accent2": "#91BBFF",
+    "warm": "#F5CD80",
+    "text": "#F6FAFC",
+    "muted": "#DEE8F0"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "trump_2025": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg",
+      "credit": "Daniel Torok / Wikimedia Commons · dominio público · enero de 2025"
+    },
+    "vaticano_2025": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg",
+      "credit": "Casa Blanca / Wikimedia Commons · dominio público · abril de 2025"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-anuncio-sin-confirmacion.png",
+      "photo": "trump_2025",
+      "kicker": "11 DE OCTUBRE · DECLARACIÓN",
+      "title": "TRUMP ANUNCIA UNA TREGUA ENERGÉTICA",
+      "body": "Afirmó que Rusia y Ucrania aceptaron detener los ataques contra infraestructuras energéticas.",
+      "callout": "NO HAY ACUERDO BILATERAL CONFIRMADO",
+      "footer": "ARCHIVO · ENERO DE 2025 · DANIEL TOROK",
+      "sources": [
+        "Trump · 11/10/2026",
+        "Reuters · AP"
+      ],
+      "archive": true,
+      "alt_text": "Retrato oficial de archivo de Donald Trump tomado en enero de 2025. Se explica que el 11 de octubre de 2026 anunció una tregua energética entre Rusia y Ucrania, sin confirmación de un acuerdo bilateral."
+    },
+    {
+      "n": 2,
+      "file": "02-ucrania-pide-detalles.png",
+      "photo": "vaticano_2025",
+      "kicker": "¿QUÉ DIJO UCRANIA?",
+      "title": "ZELENSKI ESPERA DETALLES",
+      "body": "Ucrania está dispuesta a una pausa si Rusia también suspende los ataques a instalaciones de energía.",
+      "callout": "MOSCÚ NO HA CONFIRMADO LA TREGUA",
+      "footer": "ARCHIVO · ABRIL DE 2025 · CASA BLANCA",
+      "sources": [
+        "Zelenski · 11/10/2026",
+        "Reuters"
+      ],
+      "archive": true,
+      "alt_text": "Fotografía de archivo de Donald Trump y Volodímir Zelenski reunidos en el Vaticano el 26 de abril de 2025. El texto aclara que Ucrania pidió detalles y que Rusia no confirmó públicamente la tregua; no muestra una reunión de octubre de 2026."
+    },
+    {
+      "n": 3,
+      "file": "03-que-significa-energetica.png",
+      "photo": "trump_2025",
+      "kicker": "¿QUÉ SERÍA UNA TREGUA ENERGÉTICA?",
+      "title": "UNA PAUSA EN ATAQUES A LA ENERGÍA",
+      "bullets": [
+        "Centrales eléctricas.",
+        "Redes de suministro.",
+        "Otras instalaciones, si se acuerda."
+      ],
+      "callout": "NO SIGNIFICA EL FIN DE LA GUERRA",
+      "footer": "ARCHIVO · ENERO DE 2025 · DANIEL TOROK",
+      "sources": [
+        "Reuters",
+        "AP"
+      ],
+      "archive": true,
+      "alt_text": "Tarjeta editorial que resume qué sería una tregua energética: detener ataques contra centrales eléctricas, redes de suministro y otras instalaciones acordadas. Aclara que no implica terminar la guerra. Fotografía de archivo de 2025, no de ataques."
+    },
+    {
+      "n": 4,
+      "file": "04-que-dijo-zelenski.png",
+      "photo": "vaticano_2025",
+      "kicker": "RESPUESTA DE UCRANIA",
+      "title": "APOYO CON CONDICIONES",
+      "body": "Zelenski exige reciprocidad y garantías. También espera detalles de Estados Unidos.",
+      "callout": "APOYAR UNA PROPUESTA NO LA PONE EN VIGOR",
+      "footer": "ARCHIVO · ABRIL DE 2025 · CASA BLANCA",
+      "sources": [
+        "Zelenski · 11/10/2026",
+        "Reuters"
+      ],
+      "archive": true,
+      "alt_text": "Tarjeta sobre la respuesta de Volodímir Zelenski: apoyo condicional a una pausa recíproca y petición de garantías y detalles a Estados Unidos. Fotografía de archivo de abril de 2025."
+    },
+    {
+      "n": 5,
+      "file": "05-ataques-y-comprobacion.png",
+      "photo": "vaticano_2025",
+      "kicker": "¿CESARON LOS ATAQUES?",
+      "title": "UCRANIA DIJO QUE CONTINUABAN",
+      "body": "Zelenski denunció nuevos ataques rusos contra instalaciones energéticas después de la declaración de Trump.",
+      "callout": "DENUNCIA ATRIBUIDA A UCRANIA",
+      "footer": "ARCHIVO · ABRIL DE 2025 · CASA BLANCA",
+      "sources": [
+        "Reuters · 11/10/2026",
+        "AP"
+      ],
+      "archive": true,
+      "alt_text": "Gráfico editorial que atribuye a las autoridades ucranianas la denuncia de ataques rusos continuados contra instalaciones energéticas pese a la declaración de Trump. La fotografía es de archivo de abril de 2025 y no muestra esos ataques."
+    },
+    {
+      "n": 6,
+      "file": "06-que-falta-por-saber.png",
+      "photo": "trump_2025",
+      "kicker": "¿QUÉ FALTA POR CONFIRMAR?",
+      "title": "UNA TREGUA AÚN SIN VERIFICAR",
+      "bullets": [
+        "Confirmación pública de Moscú.",
+        "Inicio y duración verificables.",
+        "Instalaciones incluidas y supervisión."
+      ],
+      "callout": "DECLARACIÓN NO EQUIVALE A ACUERDO",
+      "footer": "ARCHIVO · ENERO DE 2025 · DANIEL TOROK",
+      "sources": [
+        "Trump y Zelenski",
+        "Reuters · AP"
+      ],
+      "archive": true,
+      "alt_text": "Panel que enumera los aspectos aún sin confirmar: respuesta de Moscú, inicio y duración, alcance y supervisión de la supuesta tregua. Retrato de archivo de enero de 2025, sin representación de negociaciones actuales."
+    }
+  ]
+}
