@@ -2,12 +2,12 @@
   "last_media_id": "17987560875074159",
   "last_processed_generated_at": "2026-10-12T00:27:20Z",
   "last_publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
-  "last_result": "visual_incomplete",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 2: seis especificaciones y fuentes reales verificadas en commit Git candidato 9734fc25bfe2c91045b6c2e1ffb7e4744c60b84d. Controles de seguridad bloquearon update_ref y create_file; ambos JSON faltan en main. Sin render ni visual-qc.json. Recuperación pendiente; no publicar ni crear .ready.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "visual_incomplete",
+  "phase": "visuals_ready",
   "published_at": "2026-10-08T05:36:23Z",
   "source_event_id": "02-0296fd5be4a1ab7f",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-12T05:19:30Z"
 }

@@ -1,13 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
-  "source_event_id": "02-0296fd5be4a1ab7f",
-  "created_at": "2026-10-12T03:57:59Z",
   "ai_generated": true,
-  "status": "editorial_ready_for_visuals",
-  "ready_to_publish": false,
-  "headline": "Trump anuncia una tregua energética entre Rusia y Ucrania, pero aún no hay acuerdo confirmado",
   "caption": "Donald Trump afirmó el 11 de octubre que Rusia y Ucrania habían acordado una «tregua energética» inmediata. Lo anunció en Truth Social, pero al cierre de esta revisión no existía confirmación pública de Moscú ni detalles verificables de un acuerdo aceptado por ambos países.\n\nEl presidente ucraniano, Volodímir Zelenski, dijo que Ucrania apoya detener los ataques a instalaciones de energía si Rusia también lo hace. Añadió que espera más información de Estados Unidos. Según las autoridades ucranianas, los ataques rusos contra instalaciones energéticas continuaban.\n\nUna tregua energética buscaría frenar ataques a centrales eléctricas, redes de suministro y otras instalaciones de energía. No equivale por sí sola al fin de la guerra. Tampoco está confirmado cuándo comenzaría, cómo se supervisaría o qué instalaciones abarcaría.\n\nLo comprobado hasta ahora es el anuncio estadounidense y la respuesta condicional ucraniana, no una suspensión efectiva de los ataques.\n\nDesliza para ver qué dijo cada parte y qué falta por confirmar.\n\nFuentes: publicaciones de Trump y Zelenski, Reuters y Associated Press (11 de octubre de 2026).\n\n#KMXRadar #Ucrania #Rusia #TreguaEnergética #GuerraEnUcrania",
+  "created_at": "2026-10-12T03:57:59Z",
+  "headline": "Trump anuncia una tregua energética entre Rusia y Ucrania, pero aún no hay acuerdo confirmado",
+  "images": [
+    {
+      "alt_text": "Retrato oficial de archivo de Donald Trump tomado en enero de 2025. Se explica que el 11 de octubre de 2026 anunció una tregua energética entre Rusia y Ucrania, sin confirmación de un acuerdo bilateral.",
+      "path": "01-anuncio-sin-confirmacion.png"
+    },
+    {
+      "alt_text": "Fotografía de archivo de Donald Trump y Volodímir Zelenski reunidos en el Vaticano el 26 de abril de 2025. El texto aclara que Ucrania pidió detalles y que Rusia no confirmó públicamente la tregua; no muestra una reunión de octubre de 2026.",
+      "path": "02-ucrania-pide-detalles.png"
+    },
+    {
+      "alt_text": "Tarjeta editorial que resume qué sería una tregua energética: detener ataques contra centrales eléctricas, redes de suministro y otras instalaciones acordadas. Aclara que no implica terminar la guerra. Fotografía de archivo de 2025, no de ataques.",
+      "path": "03-que-significa-energetica.png"
+    },
+    {
+      "alt_text": "Tarjeta sobre la respuesta de Volodímir Zelenski: apoyo condicional a una pausa recíproca y petición de garantías y detalles a Estados Unidos. Fotografía de archivo de abril de 2025.",
+      "path": "04-que-dijo-zelenski.png"
+    },
+    {
+      "alt_text": "Gráfico editorial que atribuye a las autoridades ucranianas la denuncia de ataques rusos continuados contra instalaciones energéticas pese a la declaración de Trump. La fotografía es de archivo de abril de 2025 y no muestra esos ataques.",
+      "path": "05-ataques-y-comprobacion.png"
+    },
+    {
+      "alt_text": "Panel que enumera los aspectos aún sin confirmar: respuesta de Moscú, inicio y duración, alcance y supervisión de la supuesta tregua. Retrato de archivo de enero de 2025, sin representación de negociaciones actuales.",
+      "path": "06-que-falta-por-saber.png"
+    }
+  ],
+  "publication_id": "kmx-20261012-tregua-energetica-trump-ucrania",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "02-0296fd5be4a1ab7f",
   "sources": [
     {
       "label": "Donald Trump · publicación original en Truth Social, 11/10/2026",
@@ -38,30 +63,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_and_Ukrainian_Volodymyr_Zelenskyy.jpg"
     }
   ],
-  "images": [
-    {
-      "path": "01-anuncio-sin-confirmacion.png",
-      "alt_text": "Retrato oficial de archivo de Donald Trump, realizado en enero de 2025. Una portada explica que el 11 de octubre de 2026 anunció una supuesta tregua energética entre Rusia y Ucrania, todavía sin confirmación conjunta."
-    },
-    {
-      "path": "02-ucrania-pide-detalles.png",
-      "alt_text": "Fotografía real de archivo de Donald Trump y Volodímir Zelenski reunidos en el Vaticano en abril de 2025. El texto aclara que Ucrania pidió detalles y que Rusia todavía no había confirmado el supuesto acuerdo; la imagen no muestra conversaciones de octubre de 2026."
-    },
-    {
-      "path": "03-que-significa-energetica.png",
-      "alt_text": "Diagrama editorial original sobre el alcance que tendría una tregua energética: detener ataques contra centrales eléctricas, redes de suministro y otras instalaciones de energía, sin confundirla con un alto el fuego general. Se indica que no se anunciaron términos verificables."
-    },
-    {
-      "path": "04-que-dijo-zelenski.png",
-      "alt_text": "Tarjeta informativa con texto atribuido al presidente ucraniano, Volodímir Zelenski: Ucrania apoya una tregua energética si Rusia también la respeta y espera detalles de Estados Unidos. La tarjeta no presenta esa disposición como un acuerdo ya vigente."
-    },
-    {
-      "path": "05-ataques-y-comprobacion.png",
-      "alt_text": "Cronología tipográfica de los hechos del 11 de octubre de 2026: anuncio de Trump, respuesta pública ucraniana y reportes de ataques rusos contra infraestructuras energéticas que continuaban. No se utilizan fotografías de ataques ni escenas sintéticas."
-    },
-    {
-      "path": "06-que-falta-por-saber.png",
-      "alt_text": "Panel final que distingue lo confirmado de lo pendiente: anuncio estadounidense comprobado, apoyo condicional de Ucrania, ausencia de confirmación rusa y falta de detalles sobre fecha de aplicación, alcance y supervisión."
-    }
-  ]
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-12T05:19:30Z"
 }
