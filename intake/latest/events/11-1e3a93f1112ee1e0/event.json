@@ -1,0 +1,30 @@
+{
+  "event_id": "11-1e3a93f1112ee1e0",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump considera destituir a Kimberly Guilfoyle tras informes sobre conducta indebida, según una fuente - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump considera destituir a Kimberly Guilfoyle tras informes sobre conducta indebida, según una fuente - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1F5NkdtVEMyWG9pdkdyWE9kYXdDOGRwTUo5OGxrcTVhT2h0akJRcFZKM3dHU1lkSmdPRUJyT2ZDTXJiVm1DbVgwQTF2SEltMVFNemRKbkY5bXRNYS15UXpJUDE2cURhdnphM3VOZ2ZmUExsTlJqbUZQQURUNXY3dlVBdkpUbjR6S2RZOXh3ZFJRb0U?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 12 Oct 2026 11:41:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump considera destituir a Kimberly Guilfoyle tras informes sobre conducta indebida, según una fuente CNN en Español Fuente de AP: Trump y Rubio sopesan destituir a embajadora en Grecia tras denuncias San Antonio Express-News “No estamos contentos”, dice Donald Trump sobre la embajadora en Grecia, de madre puertorriqueña El Nuevo Día Exasperación y resignación en Grecia por las acusaciones contra Kimberly Guilfoyle The New York Times La embajadora de Trump en Grecia pidió 100.000 dólares a un empresario a cambio de favores: \"Cariño, por favor\" Yahoo"
+    }
+  ]
+}

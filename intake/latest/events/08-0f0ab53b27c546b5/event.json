@@ -1,0 +1,30 @@
+{
+  "event_id": "08-0f0ab53b27c546b5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Tras anuncio de Trump, el Kremlin no confirma tregua energética anunciada por Trump - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Tras anuncio de Trump, el Kremlin no confirma tregua energética anunciada por Trump - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2VuelV6SkdPSXBob0FCQmw5em1NSWU5WjRoVWZNLXE3emswWHk3V3ByN0ozUUpONTBaajNIMzZrbmdPT3dJSUxXY2Y4ZUlXMU5lbUpVeUVHSDNVdTd6WE5BNDNnSGFnOWZQUElMWUQybjlrc3dnYW9CMGt2WFFFWnNoeUstNTBCVUZ3SjlIODdNdjRTdVZyZnFIUFJRRGkzSWszUF9lVHdGTEhIREhPMm5LbGNDUDdtbF9QatIBvAFBVV95cUxNalBvZ1VpendnUUZwWFdoWThGY1lxdTl0X3E0X1hOYi0zNkxLWUQwU0JMNmhsaVJRVXA1NDFCc0Z3LURJc05mMmRkamZ3TllMTXBpbGdRNlp0aTVaaVcwaEE3QjBCQmEzdXhYWXZremhQWVROd3g1QVR5VUR0Y3NIZ2p1Z0I2Y3J0Y04zMC1lQkpfXzlfMmZSbmpNVC1SbWZQQUNmXzdSbFFaZ3hkbmpTODhVSlVRdjBPY3JWNw?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 12 Oct 2026 12:10:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Tras anuncio de Trump, el Kremlin no confirma tregua energética anunciada por Trump DW.com Zelenskyy dice que Rusia sigue atacando sitios energéticos pese a supuesto cese del fuego AP News EE.UU. amenaza con cortar inteligencia y armas a Ucrania si continúa ataques a instalaciones energéticas rusas, según fuentes CNN en Español Rusia considera la tregua energética anunciada por Trump una “trampa” y prosigue sus ataques sobre infraestructura en Ucrania EL PAÍS Kiev dice que Rusia sigue atacando instalaciones energéticas pese al \"alto el fuego\" de Trump San Antonio Express-News"
+    }
+  ]
+}

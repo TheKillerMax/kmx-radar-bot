@@ -1,0 +1,30 @@
+{
+  "event_id": "12-4d66bbd013b4c28d",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Detienen al fundador del movimiento indio \"Cucarachas\" y a cientos de personas más durante la represión de protesta en Delhi - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Detienen al fundador del movimiento indio \"Cucarachas\" y a cientos de personas más durante la represión de protesta en Delhi - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1BTQ1FDQzVobHpmdEw4YUNYUGRyRW9PTWxuRWd6anRNM1lVMUlFb0dwb3FGbnQ3TGxqN0dvY2dzYUFFNzFXTzlDSXFDazlTMFEyeU5iSE1mV21NbnJZUzlGT0NRQ3l3NTJFb2NiM1ZrNVpFdUYwbVljY2hPc1AzTTRtSGU1Xzk3dGVTajJFSTJHR2hMVzR4cWpR?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 11 Oct 2026 00:38:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Detienen al fundador del movimiento indio \"Cucarachas\" y a cientos de personas más durante la represión de protesta en Delhi CNN en Español Partidos de oposición de India marchan hacia Corte Suprema en protesta sobre listas electorales Chicago Tribune Manifestaciones contra el Gobierno de derecha del primer ministro de la India, Narendra Modi, sacuden Delhi Democracy Now! Las autoridades indias liberan de detención a líderes del movimiento de protesta Cucaracha San Antonio Express-News Líderes del movimiento Cucaracha de India prometen continuar las manifestaciones tras ser liberados Houston Chronicle"
+    }
+  ]
+}
