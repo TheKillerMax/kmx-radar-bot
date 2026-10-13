@@ -2,12 +2,12 @@
   "last_media_id": "17987560875074159",
   "last_processed_generated_at": "2026-10-12T22:28:35Z",
   "last_publication_id": "kmx-20261013-ue-1569-sanciones-rusia",
-  "last_result": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 1 recuperada: cinco archivos completos verificados en main para manifest 2026-10-12T22:28:35Z. Sin visuals.json, .ready ni .visualize; ready_to_publish=false.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
-  "phase": "editorial_ready_for_visuals",
+  "phase": "visuals_ready",
   "published_at": "2026-10-08T05:36:23Z",
   "source_event_id": "02-41f9c012543b643f",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-13T10:40:29Z"
 }
