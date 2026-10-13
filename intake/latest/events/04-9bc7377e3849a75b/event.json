@@ -1,0 +1,40 @@
+{
+  "event_id": "04-9bc7377e3849a75b",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Se revela la edición de colección de God of War Laufey por $150 USD, pero no incluye el juego - IGN Latinoamérica",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "latam.ign.com",
+    "news.instant-gaming.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Se revela la edición de colección de God of War Laufey por $150 USD, pero no incluye el juego - IGN Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2NmSF9RR1hSUlQ5eDhjV01peXNDaUYxLWJaUmEzTWxKZ09uX08wVkNPN2twMzQ3REhuMUNKS1AxZFlUU2wwTVpmMll1NnVsVEVMbm9rMVZsVTR4WS1lWjdIN1ZObkRyOTl6U0JrYlRKdmcwRVRLeWw5ZnZLTDJodlgyN21QR0JxYzlmcDRWN243WWpZdlYwR2hoUXktaVVkZV9udml3U0w4VFRVNndJN1BMVXVaeXBqUFRrT1lYYzBvRFQ5dk9RT05oWWg5TlEtU1NZMw?oc=5",
+      "domain": "latam.ign.com",
+      "publisher": "IGN Latinoamérica",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 18:13:41 GMT",
+      "primary_hint": false,
+      "excerpt": "Se revela la edición de colección de God of War Laufey por $150 USD, pero no incluye el juego IGN Latinoamérica"
+    },
+    {
+      "title": "God of War Laufey presenta su Edición Coleccionista sin el juego por 150€ - Instant Gaming News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSy0yWmlnRDlRZmJlTDVyZlQwdi12YnlkVEM4WWhKVXB2SUltWFcyX3BpUVlPR0ZDbHFWX1E2blJnWl9IUWhtU1VZYnhtZnl4Y1BUOWl4LVVsc2F1bk1HUzR4NG4yYzVFZmd1ODRRU0FOTk9BN2ZlR0hnQURUZ3RFNWh5a0tGQmtjZ2x1d0N1UFhKblNXWVBoc3NEbTFrSXpkMkFjUDc0QWp4cVdIM2ROM2d4ZFhsVDhpTmpNODdtTzdrcEJQ?oc=5",
+      "domain": "news.instant-gaming.com",
+      "publisher": "Instant Gaming News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 18:56:15 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War Laufey presenta su Edición Coleccionista sin el juego por 150€ Instant Gaming News"
+    }
+  ]
+}

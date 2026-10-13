@@ -1,0 +1,28 @@
+{
+  "event_id": "08-da72ef688c0bb08f",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "National Government wil boost Local Economy Law in order to Link communal production with agro-industry - Radio Nacional de Venezuela - RNV",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "rnv.gob.ve"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "National Government wil boost Local Economy Law in order to Link communal production with agro-industry - Radio Nacional de Venezuela - RNV",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2ZtaGFlTi10N1c2MENrb3FhY1ZlZ0ZOQjlVTEg5bUpWZUl3WE5rN2hqZU40Yl81TmpIY05JT1NhQUtzcjhxX2pZbDBZS2thT0p2d0FZbzlzalJUcHpkclZUMFNiT29UTGJyc1R3MzRhZjdHRF9UMlFLZFQ2UXFNYTdPaWxjU0xBVDREZ1RYY3R6NWRaU21pTG85NmV6VE1yX1Bfb1BUbmZtVHV3bWNHTS1udTFKazVtWXl4UXBPbVY?oc=5",
+      "domain": "rnv.gob.ve",
+      "publisher": "Radio Nacional de Venezuela - RNV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 18:05:10 GMT",
+      "primary_hint": false,
+      "excerpt": "National Government wil boost Local Economy Law in order to Link communal production with agro-industry Radio Nacional de Venezuela - RNV"
+    }
+  ]
+}

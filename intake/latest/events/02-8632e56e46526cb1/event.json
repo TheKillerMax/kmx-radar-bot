@@ -1,0 +1,52 @@
+{
+  "event_id": "02-8632e56e46526cb1",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El rover Perseverance de la NASA ha recorrido 45,2 kilómetros en Marte y ha superado el récord establecido por Opportunity - Informat.ro",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "infobae.com",
+    "informat.ro",
+    "sana.sy"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "El rover Perseverance supera los 45 kilómetros recorridos en Marte - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vWEhGc2JGdXpUOEp1cDg0SGhud1BWbDJheXVfZ2IzekNOQ0hPc1o3UFJQU2R0V2VNWTVJZHV1TWc1c0dVbTJFN1NKd1NtQQ?oc=5",
+      "domain": "sana.sy",
+      "publisher": "سانا",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 13:54:36 GMT",
+      "primary_hint": false,
+      "excerpt": "El rover Perseverance supera los 45 kilómetros recorridos en Marte سانا"
+    },
+    {
+      "title": "El rover Perseverance de la NASA ha recorrido 45,2 kilómetros en Marte y ha superado el récord establecido por Opportunity - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1ZfS2xfeUw0WmlqeVRCbGQzd0JnWHBPQmk5OWg1WDNuZ3prWVA5N2t5MWVsb05sUHNHb1dhckRpMWt1N1Z0LUxZVmpxSVRqc3F2ZUJPSVJPdWN1RWhTQlB4X3h6dG5tZHBwQjZlMEdNX1ItZFhscFlBbG9abC1pR2tvM1NEWWxCYWVKU3VxYVd3Y3RRSWRpVV9LbzI5dmtXUjFOMHJ6MUs?oc=5",
+      "domain": "informat.ro",
+      "publisher": "Informat.ro",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 18:41:42 GMT",
+      "primary_hint": false,
+      "excerpt": "El rover Perseverance de la NASA ha recorrido 45,2 kilómetros en Marte y ha superado el récord establecido por Opportunity Informat.ro"
+    },
+    {
+      "title": "El rover Perseverance de la NASA alcanzó 45,22 kilómetros y hace historia en Marte - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWk5LbzgwMlZxVnRiS0IzVGxBV2x0cGRRYlNaLWVuaDNtSGNzSEdCYkJtSjBQUUxYTXlDSkw0bnRDcWlvaVhkYlJRYjlYeC12VkMwelVlUFNEbmJFRmVBUG5uN3BXSkVwVXdkX1poQ01yMWJnLVV0SW1WaERpZkpuTXdGeWEwVllmNEhzVnF0MkFKUkFSM0VyaTRwazVYXzdiVGN2am1vNW13bzA3VWp1ZGtpZ290T3dLdUViekxmY1Q0b1lkUkQ4ejhCONIB5gFBVV95cUxPenZkZEpybjZaQ2xqQ1Y5Yk9XOTg3YjgwM1UzMWp3bFhYaXBpUXRpbXpRdktCNzhad0RxR0YybDZ1anRSYnlGQ3F0QnpiWVVUbHZlel9HdHZmR0ZybDBsbDhoQXc3WXhsSW5tM19wLVFDcmlJYlFod2tiS0Rxazc4RERlcTNYZmI2YkZvSmlTVFA0a2FYcHpqeDMxYi01RGMycUlMVGY5VkUxTGIwNG9jTVlPbHJKNUNuUkNFUURFQkFrbXRmM2hqa1hXQXkzVWhLeFFxR0NsLVdrWVM3UXNLRHpTckVhUQ?oc=5",
+      "domain": "infobae.com",
+      "publisher": "Infobae",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 15:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El rover Perseverance de la NASA alcanzó 45,22 kilómetros y hace historia en Marte Infobae"
+    }
+  ]
+}
