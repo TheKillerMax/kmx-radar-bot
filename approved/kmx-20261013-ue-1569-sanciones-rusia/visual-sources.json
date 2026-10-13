@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261013-ue-1569-sanciones-rusia",
+  "generated_at": "2026-10-13",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Revalidación: Consejo de la UE, 12/10/2026, 1.569 incorporaciones (826 empresas y 743 directivos). Tres fotografías documentales auténticas anteriores al anuncio, identificadas ARCHIVO. Se reutilizan composiciones tipográficas originales sobre fotografías licenciadas. Solo assets/logo.png. Las fotografías se recortan y oscurecen, sin generación sintética. Licencias CC BY 2.0 verificadas individualmente.",
+  "assets": [
+    {
+      "key": "ue_bandera_2024",
+      "source_url": "https://commons.wikimedia.org/wiki/File:European_Union_flag.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/European_Union_flag.jpg",
+      "original_creator": "Parlamento Europeo",
+      "created_at": "2024-03-13",
+      "license_or_permission": "Creative Commons Atribución 2.0 Genérica (CC BY 2.0), licencia confirmada mediante FlickrReviewR en la ficha individual de Wikimedia Commons. Permite reproducción y adaptación con crédito, enlace a la licencia y aviso de modificaciones.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution_required": true,
+      "attribution_text": "Parlamento Europeo / Wikimedia Commons · CC BY 2.0",
+      "local_path": "Descarga temporal desde direct_url por GitHub Actions; no se guarda la fotografía original en el repositorio",
+      "retrieved_at": "2026-10-13",
+      "notes": "Bandera de la UE durante una sesión parlamentaria en marzo de 2024; origen Flickr 53595627994; revisión FlickrReviewR de 18/03/2024. Fotografía real de archivo. Se recorta y oscurece para incorporar texto; no representa la sesión del Consejo del 12/10/2026. En la ficha Commons figura CC BY 2.0, aunque los metadatos de origen pueden citar otra versión CC BY."
+    },
+    {
+      "key": "bruselas_2011",
+      "source_url": "https://commons.wikimedia.org/wiki/File:European_Union_Flag_(8111614044).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/European_Union_Flag_%288111614044%29.jpg",
+      "original_creator": "Thomas Quine (Thom Quine)",
+      "created_at": "2011-05-22",
+      "license_or_permission": "Creative Commons Atribución 2.0 Genérica (CC BY 2.0), licencia confirmada mediante FlickrReviewR en la ficha individual de Wikimedia Commons. Permite reproducción y adaptación con crédito, enlace a la licencia y aviso de modificaciones.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution_required": true,
+      "attribution_text": "Thomas Quine / Wikimedia Commons · CC BY 2.0",
+      "local_path": "Descarga temporal desde direct_url por GitHub Actions; no se guarda la fotografía original en el repositorio",
+      "retrieved_at": "2026-10-13",
+      "notes": "Bandera europea fotografiada en Bruselas en 2011; Flickr 8111614044; licencia CC BY 2.0 confirmada en Commons el 26/02/2024. Fotografía real de archivo. Se recorta y oscurece para incorporar texto; no representa la sesión del Consejo del 12/10/2026. En la ficha Commons figura CC BY 2.0, aunque los metadatos de origen pueden citar otra versión CC BY."
+    },
+    {
+      "key": "ucrania_2024",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Anniversary_of_the_Ukrainian_Independence_Day-_raising_of_the_Ukrainian_flag_at_the_EP_building_in_Brussels_-_4.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anniversary_of_the_Ukrainian_Independence_Day-_raising_of_the_Ukrainian_flag_at_the_EP_building_in_Brussels_-_4.jpg",
+      "original_creator": "Parlamento Europeo",
+      "created_at": "2024-08-23",
+      "license_or_permission": "Creative Commons Atribución 2.0 Genérica (CC BY 2.0), licencia confirmada mediante FlickrReviewR en la ficha individual de Wikimedia Commons. Permite reproducción y adaptación con crédito, enlace a la licencia y aviso de modificaciones.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution_required": true,
+      "attribution_text": "Parlamento Europeo / Wikimedia Commons · CC BY 2.0",
+      "local_path": "Descarga temporal desde direct_url por GitHub Actions; no se guarda la fotografía original en el repositorio",
+      "retrieved_at": "2026-10-13",
+      "notes": "Ceremonia de izado de la bandera ucraniana en Bruselas, 23/08/2024; Flickr 53942344863; revisión FlickrReviewR de 11/12/2024. Fotografía real de archivo. Se recorta y oscurece para incorporar texto; no representa la sesión del Consejo del 12/10/2026. En la ficha Commons figura CC BY 2.0, aunque los metadatos de origen pueden citar otra versión CC BY."
+    }
+  ]
+}

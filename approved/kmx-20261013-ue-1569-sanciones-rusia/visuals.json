@@ -1,0 +1,131 @@
+{
+  "theme": {
+    "name": "sanciones-ue-20261013",
+    "background": "#071827",
+    "panel": "#163244",
+    "accent": "#2CE0C1",
+    "accent2": "#87B2F6",
+    "warm": "#F7CE7B",
+    "text": "#F6FAFC",
+    "muted": "#D5E1E8"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "ue_bandera_2024": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/European_Union_flag.jpg",
+      "credit": "ARCHIVO · Parlamento Europeo, 2024 · CC BY 2.0 · recorte"
+    },
+    "bruselas_2011": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/European_Union_Flag_%288111614044%29.jpg",
+      "credit": "ARCHIVO · Thomas Quine, 2011 · CC BY 2.0 · recorte"
+    },
+    "ucrania_2024": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anniversary_of_the_Ukrainian_Independence_Day-_raising_of_the_Ukrainian_flag_at_the_EP_building_in_Brussels_-_4.jpg",
+      "credit": "ARCHIVO · Parlamento Europeo, 2024 · CC BY 2.0 · recorte"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-sanciones-ue.png",
+      "photo": "ue_bandera_2024",
+      "archive": true,
+      "kicker": "UNIÓN EUROPEA · 12/10/2026",
+      "title": "1.569 NUEVAS INCORPORACIONES",
+      "body": "La UE amplió su lista de sanciones a proveedores y directivos relacionados con la industria militar rusa.",
+      "callout": "La decisión ya fue adoptada.",
+      "footer": "ARCHIVO: BANDERA EUROPEA · MARZO DE 2024",
+      "sources": [
+        "Consejo de la UE · 12/10/2026"
+      ],
+      "alt_text": "Fotografía de archivo de una bandera de la Unión Europea. Anuncia que el 12 de octubre de 2026 la UE incorporó a 1.569 personas y empresas a su lista de sanciones por vínculos con la industria militar rusa."
+    },
+    {
+      "n": 2,
+      "file": "02-empresas-y-directivos.png",
+      "photo": "bruselas_2011",
+      "archive": true,
+      "kicker": "¿A QUIÉNES AFECTA?",
+      "title": "826 EMPRESAS Y 743 DIRECTIVOS",
+      "stat": "1.569",
+      "stat_label": "PERSONAS Y ENTIDADES INCORPORADAS",
+      "body": "La cifra combina empresas y personas. No son 1.569 compañías.",
+      "footer": "ARCHIVO: BRUSELAS · 2011",
+      "sources": [
+        "Consejo de la UE"
+      ],
+      "alt_text": "Gráfico con los dos grupos afectados: 826 empresas y 743 directivos, un total de 1.569 nuevas incorporaciones a la lista de sanciones de la Unión Europea."
+    },
+    {
+      "n": 3,
+      "file": "03-componentes-militares.png",
+      "photo": "ue_bandera_2024",
+      "archive": true,
+      "kicker": "¿QUÉ SUMINISTRAN?",
+      "title": "TECNOLOGÍA PARA ARMAMENTO",
+      "body": "Según el Consejo, las empresas abastecen sectores de la industria militar rusa.",
+      "bullets": [
+        "Electrónica y radares",
+        "Equipos de navegación y óptica",
+        "Piezas para misiles, drones y aeronaves"
+      ],
+      "footer": "ARCHIVO: PARLAMENTO EUROPEO · 2024",
+      "sources": [
+        "Consejo de la UE"
+      ],
+      "alt_text": "Diagrama informativo con electrónica, radares, navegación y piezas utilizadas en misiles, drones y aeronaves, con datos del Consejo de la Unión Europea."
+    },
+    {
+      "n": 4,
+      "file": "04-medidas-y-prohibiciones.png",
+      "photo": "bruselas_2011",
+      "archive": true,
+      "kicker": "¿QUÉ CAMBIA?",
+      "title": "ACTIVOS CONGELADOS EN LA UE",
+      "body": "La inclusión en la lista impone restricciones económicas y de viaje.",
+      "bullets": [
+        "Congelación de activos bajo jurisdicción europea",
+        "Prohibición de facilitar fondos o recursos",
+        "Veto de entrada en la UE a las personas incluidas"
+      ],
+      "footer": "ARCHIVO: BRUSELAS · 2011",
+      "sources": [
+        "Consejo de la UE"
+      ],
+      "alt_text": "Infografía sobre la congelación de activos sujetos a jurisdicción europea, la prohibición de facilitar fondos y las restricciones de entrada a personas sancionadas."
+    },
+    {
+      "n": 5,
+      "file": "05-por-que-ahora.png",
+      "photo": "ucrania_2024",
+      "archive": true,
+      "kicker": "¿POR QUÉ AHORA?",
+      "title": "LA UE SEÑALA LA GUERRA EN UCRANIA",
+      "body": "El Consejo vincula la ampliación con la continuidad de los ataques y los suministros militares rusos.",
+      "callout": "La fotografía muestra una ceremonia de 2024.",
+      "footer": "ARCHIVO: BANDERA UCRANIANA · AGOSTO DE 2024",
+      "sources": [
+        "Consejo de la UE"
+      ],
+      "alt_text": "Foto de archivo del izado de una bandera ucraniana en Bruselas en agosto de 2024. El texto explica que la Unión Europea vincula las sanciones con la continuación de la guerra y los ataques a infraestructura civil."
+    },
+    {
+      "n": 6,
+      "file": "06-lo-que-falta-por-saber.png",
+      "photo": "ue_bandera_2024",
+      "archive": true,
+      "kicker": "¿QUÉ FALTA POR SABER?",
+      "title": "EL IMPACTO AÚN NO ESTÁ MEDIDO",
+      "body": "La decisión está confirmada, pero sus efectos sobre la producción de armas y los ataques todavía no pueden cuantificarse.",
+      "callout": "Medida adoptada no significa efecto demostrado.",
+      "footer": "ARCHIVO: PARLAMENTO EUROPEO · 2024",
+      "sources": [
+        "Consejo de la UE",
+        "Reuters",
+        "AP"
+      ],
+      "alt_text": "Panel editorial que distingue una decisión de sanciones ya adoptada de sus efectos todavía no medidos sobre la producción de armamento y los ataques a Ucrania."
+    }
+  ]
+}
