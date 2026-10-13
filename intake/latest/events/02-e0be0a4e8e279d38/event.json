@@ -1,0 +1,40 @@
+{
+  "event_id": "02-e0be0a4e8e279d38",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El róver Perseverance, de la NASA, bate en Marte el récord de distancia recorrida fuera de la Tierra - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "infobae.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El róver Perseverance, de la NASA, bate en Marte el récord de distancia recorrida fuera de la Tierra - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzFmZGJUYk1Dc1RJSklRTllnRHg2cG01R3lCRHJwOGVGeU1WNlM4U0haYmVkal9GZGlBM0hraXhjNkZzc0JsVWVyMk9IVy1QY1BaNURVTF9mcU90ODliLXg2Rkk3S0FDQV9LM2NJaF9RVklLa2JOWmVoYVJNRkF6RGh6dlNTclUtS1BZZ3BMbjI?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 07:02:18 GMT",
+      "primary_hint": false,
+      "excerpt": "El róver Perseverance, de la NASA, bate en Marte el récord de distancia recorrida fuera de la Tierra Yahoo"
+    },
+    {
+      "title": "El rover Perseverance establece un récord mundial de distancia total recorrida en otro planeta: 45,22 km en Marte - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdWpNenQ1ZWZVRk9UZWdZeDI5NUJEeWZUemhjNlVYQXNvN2tOVEJCTUNscjhEbThIQzZmM1pNSjVRczNrcXd3cGd6TDI1cXBWbGM3T3BjNU9UOVpib2JmUmtUZWNGdkFldWFYZjFUampRNWF3eGF0eWYyR2JYSWQ3TFFXTjRRaThWc1RXbXFwVmN6bmRXT0hDU2FObDBEZVhNanBaTGRVV2FsdW81anp5dkRhQmtVaEFhVEpXLXJqTzJ6TVNEbnVnNjNZN3pleGYwTF9reVB0ME1iRk1SdHAwdHdUS0NaaWVDcGd3WF80MVFvRUZkMGpV0gGSAkFVX3lxTE95RzVoaFE3Nzgtby1zMVdtdkQtT3BQRU8zcVFuOW1STTMtd1ZFaGZ2aldkOG5XcU5kZlQzNEFXZ3JGUHNoMkhZenFkTUtxeEVoYWpVeUdVZk1wVnhuNFRfanJJaklpRURtLWVuR3ZiYXdrVWpfUVoweTMwbVMwUU0ycWdFd2lqTkRybEpFcU9zYzdHRWJWbS1fazNnSXdBMmtWZC03MzJCWGE0SXViQVlxT3IxV29aVEpVU1pISVJ2M3l5UnNVNnV2ZHRBYTR4ZWk3SVZiQ3FMOWQxR0RyUWRqQkhJOVR5R1htYVJWUEtQNnB3ZXQyX0JXLVc1Z3NDYnNFV0xoM0hEUDh2Qy1jVVBBOUE?oc=5",
+      "domain": "infobae.com",
+      "publisher": "Infobae",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 09:58:02 GMT",
+      "primary_hint": false,
+      "excerpt": "El rover Perseverance establece un récord mundial de distancia total recorrida en otro planeta: 45,22 km en Marte Infobae"
+    }
+  ]
+}

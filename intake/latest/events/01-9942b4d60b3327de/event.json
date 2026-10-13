@@ -1,0 +1,40 @@
+{
+  "event_id": "01-9942b4d60b3327de",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "🚨 It's official: Dani Carvajal is a Getafe player - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "onefootball.com",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "🚨 It's official: Dani Carvajal is a Getafe player - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2dHN0hjbzhlNmFGR1VoSHA5S0d4VkMxMWVrbjhnQ2Q3VEFJMjQ1MnM1eS1sUXBVdUxxMWFRYnlfR2RsQmQ3NU5semdRQk1NNElWZlNOMzhPNmR3LWg2aEY0UFZUZV9ob1dqWjZselFxMm12VjF1aW1RbDlDY0hqbHMyc3FBWm5WdWxVS2R3?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 08:12:00 GMT",
+      "primary_hint": false,
+      "excerpt": "🚨 It's official: Dani Carvajal is a Getafe player Yahoo Sports"
+    },
+    {
+      "title": "🚨 It's official: Dani Carvajal is a Getafe player - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQk5OelJwd3dsQ1BxMVA5Um93MWtIRWw4dk9OeW9tTzNVQ1NieTJkMUVveExSWUd6UHhXVjI4V1Q1dDM5elV0SWh3blZmR25aVGlmMVc2Tm1Gc3phZzhjX2E0NG9CXzZjVFppazJTa000MERLUndQSmh3cC1CaXhQbFNnb0hiSUsyQVhXVUpzYw?oc=5",
+      "domain": "onefootball.com",
+      "publisher": "OneFootball",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 08:15:57 GMT",
+      "primary_hint": false,
+      "excerpt": "🚨 It's official: Dani Carvajal is a Getafe player OneFootball"
+    }
+  ]
+}

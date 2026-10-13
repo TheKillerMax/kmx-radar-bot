@@ -1,0 +1,28 @@
+{
+  "event_id": "03-78982e10cfbc901a",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Acelerar la esperanza para las enfermedades neuromusculares raras - CORDIS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "cordis.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Acelerar la esperanza para las enfermedades neuromusculares raras - CORDIS",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1dQNE9OdmhfLTRPMlViT1JYTkgzMElCeUJHOXZGSk1tXzRtS1ZFUVg4dXZnQUFNY2R5ZEpvdnk1ZWZiR3k4Q2E0azl1NkVlY01YRnk2Tkg1MGhvQ1Q1Si1ReEtaNEgyWkc1LXo5YmFkQlZXZ3BYeWZrN3ktelVpYXVRV2lkcnFGVjdPS3dyVlpoQ01NZ3c5MXhR?oc=5",
+      "domain": "cordis.europa.eu",
+      "publisher": "CORDIS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 08:27:14 GMT",
+      "primary_hint": false,
+      "excerpt": "Acelerar la esperanza para las enfermedades neuromusculares raras CORDIS"
+    }
+  ]
+}

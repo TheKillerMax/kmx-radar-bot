@@ -1,0 +1,28 @@
+{
+  "event_id": "04-ddcd536c65fcec1a",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 6.7 - central Mid-Atlantic Ridge",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 6.7 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-10-13T07:50:49.916Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)"
+    }
+  ]
+}
