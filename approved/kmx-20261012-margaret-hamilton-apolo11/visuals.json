@@ -1,0 +1,132 @@
+{
+  "theme": {
+    "name": "margaret-hamilton-apolo-20261012",
+    "background": "#071827",
+    "panel": "#153346",
+    "accent": "#34DCC4",
+    "accent2": "#8DB7F2",
+    "warm": "#F4D088",
+    "text": "#F6FAFC",
+    "muted": "#E0EAF2"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "hamilton_1969": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg",
+      "credit": "Draper Laboratory · restauración: Adam Cuerden / Wikimedia Commons · 1969"
+    },
+    "apollo_1969": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Apollo_11_lunar_module.jpg",
+      "credit": "NASA / Michael Collins · Apolo 11 · 1969"
+    },
+    "hamilton_1989": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Margaret_Hamilton_1989.jpg",
+      "credit": "NASA / Wikimedia Commons · Margaret Hamilton, 1989"
+    },
+    "medalla_2016": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hamilton_Medal_of_Freedom_from_Obama.jpg",
+      "credit": "Casa Blanca / Lawrence Jackson · noviembre de 2016"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-margaret-hamilton.png",
+      "photo": "hamilton_1969",
+      "archive": true,
+      "kicker": "MARGARET HAMILTON · 1936–2026",
+      "title": "MURIÓ A LOS 90 AÑOS",
+      "body": "Dirigió equipos que desarrollaron software de vuelo para el programa Apolo de la NASA.",
+      "callout": "FALLECIÓ EL 30 DE SEPTIEMBRE DE 2026",
+      "footer": "FOTO: 1969 · NOTICIA: OCTUBRE DE 2026",
+      "sources": [
+        "MIT · 7/10/2026",
+        "AP · 8/10/2026"
+      ],
+      "alt_text": "Fotografía real de archivo de Margaret Hamilton de 1969 junto a listados impresos del software Apolo. Un titular anuncia su fallecimiento a los 90 años, ocurrido el 30 de septiembre de 2026. La foto no representa sus últimos días."
+    },
+    {
+      "n": 2,
+      "file": "02-su-trabajo-en-la-luna.png",
+      "photo": "apollo_1969",
+      "archive": true,
+      "kicker": "APOLO 11 · JULIO DE 1969",
+      "title": "EL SOFTWARE AYUDÓ A CONTINUAR EL DESCENSO",
+      "body": "La computadora se sobrecargó. El sistema diseñado por el equipo de Hamilton mantuvo las tareas críticas para aterrizar.",
+      "callout": "LA MISIÓN PUDO CONTINUAR",
+      "footer": "ARCHIVO: EAGLE EN ÓRBITA DESPUÉS DEL ALUNIZAJE",
+      "sources": [
+        "MIT News"
+      ],
+      "alt_text": "Fotografía real de archivo tomada por Michael Collins: el módulo lunar Eagle regresa a la nave de mando tras el alunizaje del 21 de julio de 1969. El texto explica que el programa del equipo de Hamilton permitió continuar el descenso pese a la sobrecarga. No es una imagen del descenso."
+    },
+    {
+      "n": 3,
+      "file": "03-alarma-y-prioridades.png",
+      "photo": "apollo_1969",
+      "archive": true,
+      "kicker": "ALARMA 1202 · 1969",
+      "title": "¿QUÉ PASÓ EN LA COMPUTADORA?",
+      "bullets": [
+        "Detectó una sobrecarga.",
+        "Apartó las tareas secundarias.",
+        "Priorizó las funciones del descenso."
+      ],
+      "callout": "EL SISTEMA CONSERVÓ LO ESENCIAL",
+      "footer": "INFOGRAFÍA EDITORIAL · FONDO: NASA, 1969",
+      "sources": [
+        "MIT News"
+      ],
+      "alt_text": "Infografía editorial con tres pasos sobre una fotografía real de archivo del módulo lunar en 1969: la computadora detectó una sobrecarga, apartó tareas secundarias y priorizó las funciones del descenso. No representa visualmente los circuitos internos ni la alarma del vehículo."
+    },
+    {
+      "n": 4,
+      "file": "04-un-trabajo-en-equipo.png",
+      "photo": "hamilton_1989",
+      "archive": true,
+      "kicker": "UN LOGRO COLECTIVO",
+      "title": "CIENTOS DE PERSONAS TRABAJARON EN EL APOLO",
+      "stat": "+400",
+      "stat_label": "PERSONAS TRABAJABAN EN SU SOFTWARE EN 1968",
+      "body": "Hamilton dirigió equipos en el MIT; el éxito no fue obra de una sola persona.",
+      "footer": "ARCHIVO: HAMILTON EN 1989 · CIFRA: MIT",
+      "sources": [
+        "MIT News"
+      ],
+      "alt_text": "Retrato de archivo de Margaret Hamilton tomado en 1989, con la cifra destacada de más de 400 personas que trabajaban en el software del programa Apolo en 1968. El texto reconoce que fue una labor colectiva."
+    },
+    {
+      "n": 5,
+      "file": "05-reconocimiento-2016.png",
+      "photo": "medalla_2016",
+      "archive": true,
+      "kicker": "RECONOCIMIENTO · 2016",
+      "title": "OBAMA RECONOCIÓ SU TRAYECTORIA",
+      "body": "Margaret Hamilton recibió la Medalla Presidencial de la Libertad por sus contribuciones a la informática y al programa Apolo.",
+      "callout": "22 DE NOVIEMBRE DE 2016",
+      "footer": "ARCHIVO: CASA BLANCA · 22/11/2016",
+      "sources": [
+        "MIT",
+        "Casa Blanca"
+      ],
+      "alt_text": "Fotografía oficial de archivo del 22 de noviembre de 2016: Barack Obama entrega a Margaret Hamilton la Medalla Presidencial de la Libertad. El texto describe su reconocimiento a una trayectoria pionera en ingeniería de software."
+    },
+    {
+      "n": 6,
+      "file": "06-legado.png",
+      "photo": "hamilton_1969",
+      "archive": true,
+      "kicker": "SU LEGADO",
+      "title": "DISEÑAR PARA CUANDO ALGO FALLA",
+      "body": "Su equipo creó mecanismos para detectar errores y mantener activas las tareas esenciales.",
+      "callout": "UNA LECCIÓN DE INGENIERÍA DE SOFTWARE",
+      "footer": "FOTO: DRAPER LABORATORY, 1969 · FUENTES: MIT Y AP",
+      "sources": [
+        "MIT News",
+        "AP"
+      ],
+      "alt_text": "Fotografía de archivo de Margaret Hamilton en 1969 junto a listados de código. La tarjeta explica el legado de su equipo: anticipar errores y priorizar las funciones esenciales de los sistemas informáticos. No es una escena sintética."
+    }
+  ]
+}
