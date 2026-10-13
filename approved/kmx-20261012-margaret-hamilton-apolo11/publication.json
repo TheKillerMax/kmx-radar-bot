@@ -1,13 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261012-margaret-hamilton-apolo11",
-  "source_event_id": "10-5887d013854b8b71",
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals",
-  "headline": "Murió Margaret Hamilton, quien dirigió el software de las misiones Apolo",
-  "caption": "Murió a los 90 años Margaret Hamilton, la matemática que lideró el equipo que creó programas de vuelo para las misiones Apolo de la NASA. Falleció el 30 de septiembre de 2026; el Instituto Tecnológico de Massachusetts (MIT) lo anunció el 7 de octubre.\n\nEn 1969, poco antes de que el Apolo 11 aterrizara en la Luna, la computadora de a bordo se sobrecargó y activó una alarma. El sistema desarrollado por su equipo apartó tareas secundarias para dar prioridad al descenso. La misión pudo continuar.\n\nNo fue el logro de una sola persona: cientos de especialistas trabajaron en el software del programa Apolo. Hamilton también contribuyó a consolidar la ingeniería de software como profesión. En 2016 recibió la Medalla Presidencial de la Libertad.\n\nDesliza para conocer el trabajo de su equipo y su legado.\n\nFuentes: MIT (7 de octubre de 2026), Associated Press (8 de octubre) y archivos históricos de la NASA.\n\n#KMXRadar #MargaretHamilton #Apolo11 #MujeresEnLaCiencia #IngenieríaDeSoftware",
   "ai_generated": true,
+  "caption": "Murió a los 90 años Margaret Hamilton, la matemática que lideró el equipo que creó programas de vuelo para las misiones Apolo de la NASA. Falleció el 30 de septiembre de 2026; el Instituto Tecnológico de Massachusetts (MIT) lo anunció el 7 de octubre.\n\nEn 1969, poco antes de que el Apolo 11 aterrizara en la Luna, la computadora de a bordo se sobrecargó y activó una alarma. El sistema desarrollado por su equipo apartó tareas secundarias para dar prioridad al descenso. La misión pudo continuar.\n\nNo fue el logro de una sola persona: cientos de especialistas trabajaron en el software del programa Apolo. Hamilton también contribuyó a consolidar la ingeniería de software como profesión. En 2016 recibió la Medalla Presidencial de la Libertad.\n\nDesliza para conocer el trabajo de su equipo y su legado.\n\nFuentes: MIT (7 de octubre de 2026), Associated Press (8 de octubre) y archivos históricos de la NASA.\n\n#KMXRadar #MargaretHamilton #Apolo11 #MujeresEnLaCiencia #IngenieríaDeSoftware",
   "created_at": "2026-10-12T15:27:03Z",
+  "headline": "Murió Margaret Hamilton, quien dirigió el software de las misiones Apolo",
+  "images": [
+    {
+      "alt_text": "Fotografía real de archivo de Margaret Hamilton de 1969 junto a listados impresos del software Apolo. Un titular anuncia su fallecimiento a los 90 años, ocurrido el 30 de septiembre de 2026. La foto no representa sus últimos días.",
+      "path": "01-margaret-hamilton.png"
+    },
+    {
+      "alt_text": "Fotografía real de archivo tomada por Michael Collins: el módulo lunar Eagle regresa a la nave de mando tras el alunizaje del 21 de julio de 1969. El texto explica que el programa del equipo de Hamilton permitió continuar el descenso pese a la sobrecarga. No es una imagen del descenso.",
+      "path": "02-su-trabajo-en-la-luna.png"
+    },
+    {
+      "alt_text": "Infografía editorial con tres pasos sobre una fotografía real de archivo del módulo lunar en 1969: la computadora detectó una sobrecarga, apartó tareas secundarias y priorizó las funciones del descenso. No representa visualmente los circuitos internos ni la alarma del vehículo.",
+      "path": "03-alarma-y-prioridades.png"
+    },
+    {
+      "alt_text": "Retrato de archivo de Margaret Hamilton tomado en 1989, con la cifra destacada de más de 400 personas que trabajaban en el software del programa Apolo en 1968. El texto reconoce que fue una labor colectiva.",
+      "path": "04-un-trabajo-en-equipo.png"
+    },
+    {
+      "alt_text": "Fotografía oficial de archivo del 22 de noviembre de 2016: Barack Obama entrega a Margaret Hamilton la Medalla Presidencial de la Libertad. El texto describe su reconocimiento a una trayectoria pionera en ingeniería de software.",
+      "path": "05-reconocimiento-2016.png"
+    },
+    {
+      "alt_text": "Fotografía de archivo de Margaret Hamilton en 1969 junto a listados de código. La tarjeta explica el legado de su equipo: anticipar errores y priorizar las funciones esenciales de los sistemas informáticos. No es una escena sintética.",
+      "path": "06-legado.png"
+    }
+  ],
+  "publication_id": "kmx-20261012-margaret-hamilton-apolo11",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "10-5887d013854b8b71",
   "sources": [
     {
       "label": "MIT News · anuncio original y explicación técnica (7/10/2026)",
@@ -38,30 +63,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hamilton_Medal_of_Freedom_from_Obama.jpg"
     }
   ],
-  "images": [
-    {
-      "path": "01-margaret-hamilton.png",
-      "alt_text": "Retrato de archivo de Margaret Hamilton en 1969, junto a impresiones de software de las misiones Apolo. El texto anuncia su fallecimiento a los 90 años, el 30 de septiembre de 2026."
-    },
-    {
-      "path": "02-su-trabajo-en-la-luna.png",
-      "alt_text": "Fotografía de archivo del módulo lunar Eagle en órbita tras regresar de la superficie, en julio de 1969. Explica que el programa del equipo de Hamilton ayudó al Apolo 11 a continuar el aterrizaje pese a una alarma."
-    },
-    {
-      "path": "03-alarma-y-prioridades.png",
-      "alt_text": "Diagrama informativo que representa una computadora sobrecargada: el programa detiene tareas secundarias y mantiene las necesarias para aterrizar. Fuente: MIT."
-    },
-    {
-      "path": "04-un-trabajo-en-equipo.png",
-      "alt_text": "Retrato real de Hamilton de 1989, con texto sobre la participación de más de 400 personas en el software del programa Apolo en 1968."
-    },
-    {
-      "path": "05-reconocimiento-2016.png",
-      "alt_text": "Fotografía oficial de 2016 de Barack Obama entregando a Margaret Hamilton la Medalla Presidencial de la Libertad."
-    },
-    {
-      "path": "06-legado.png",
-      "alt_text": "Panel editorial con texto sobre la importancia de diseñar programas capaces de responder a errores inesperados, con fuentes MIT y AP."
-    }
-  ]
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-13T04:34:14Z"
 }
