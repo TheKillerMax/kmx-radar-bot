@@ -1,14 +1,14 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-12T22:28:35Z",
-  "last_publication_id": "kmx-20261013-ue-1569-sanciones-rusia",
-  "last_result": "editorial_incomplete",
+  "last_processed_generated_at": "2026-10-14T08:36:32Z",
+  "last_publication_id": "kmx-20261014-tupac-sentencia-duane-davis",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 1: GitHub bloqueó update_ref(main) al intentar incorporar el commit editorial completo 4aa4a762a3778128c04e87e2851607f85db8730b. Cinco archivos verificados en ese commit, pero ausentes de main. Bloqueo: This tool call was blocked by OpenAI's safety checks. Please double check what you are sending. No avanzar last_processed ni declarar listo; recuperar sin duplicar. Estado visual del ciclo anterior preservado en sus campos.",
-  "pending_manifest_generated_at": "2026-10-13T20:37:13Z",
-  "phase": "editorial_incomplete",
+  "note": "FASE 1: paquete completo verificado en main, commit a59927518e16359a5aa84189e46b4afbd0abb245. Incidencia anterior pendiente, NO resuelta: manifest 2026-10-13T20:37:13Z, publication_id kmx-20261013-six-flags-cierres-georgia, commit recuperable 4aa4a762a3778128c04e87e2851607f85db8730b todavía fuera de main debido a rechazo previo de update_ref. Se conserva para recuperación sin duplicar.",
+  "pending_manifest_generated_at": null,
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "02-41f9c012543b643f",
+  "source_event_id": "09-bcccde4230bee2f2",
   "visuals_completed_at": "2026-10-13T10:40:29Z",
-  "pending_publication_id": "kmx-20261013-six-flags-cierres-georgia"
+  "pending_publication_id": null
 }
