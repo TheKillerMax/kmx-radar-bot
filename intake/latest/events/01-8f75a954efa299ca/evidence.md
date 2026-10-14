@@ -24,6 +24,13 @@ Vector Science & Therapeutics Corp. nombra a Russell Starr presidente TradingVie
 Vector Science & Therapeutics Corp. nombra a Russell Starr como presidente TradingView
 
 ### Fuente 3: es.tradingview.com
+- URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3pEMXJ4RHZhUFdFQWVmWGdCNEJzRkdTcFEtYVk4dDdoeUNiaHpDRmR3MHJmRmF6bWxLWjdvSE1wUkxmYWhsWmw5T2ZuM0h3MTVOT3pySEpfOE1BeUhoSW1BYWp2bG5zMmhuVWtKeVRHbkVHUkZ1TjBVSUpubzgwaFZSWUhHYnJ0YndnempSREQtcmJlWlV6MmlzY1F4OU5pQzFKYVJSVTdJTUZ0Y3hVYVFrRG9XRVpTVFBvaFVjOFB3bXMtVDNKZw?oc=5
+- Título: Vector Science & Therapeutics Corp. Appoints Russell Starr as President - TradingView
+- Fecha detectada: Wed, 14 Oct 2026 11:30:00 GMT
+
+Vector Science & Therapeutics Corp. Appoints Russell Starr as President TradingView
+
+### Fuente 4: es.tradingview.com
 - URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1jdl9aWVBLNXhaaTNWcjZUN0kzak1sczJ4STlvM2NKNjR1VDhjaWdaTmVRaC16bzZjUExOUnJaYTJtREtRN3Q3ZDhnRUJPZTVsVGhqekpVLVR5eXdXbTJGYmQzTnY3eHE4UGJVTw?oc=5
 - Título: Vector Science & Therapeutics Corp. nombra a Russell Starr como presidente - TradingView
 - Fecha detectada: Wed, 14 Oct 2026 11:30:00 GMT

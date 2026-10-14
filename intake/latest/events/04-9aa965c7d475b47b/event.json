@@ -1,0 +1,40 @@
+{
+  "event_id": "04-9aa965c7d475b47b",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "BTCUSD - Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion - mx.advfn.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "mx.advfn.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "BTCUSD - Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion - mx.advfn.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSG9VUVdidUhnb1lTTnEtUWN2VmdobTg2OVlCdDQyOVRDaVpieHlUMW5maWhhWUpiZGxjUHJXTDZNUl9qVmdFN1g5QThqbW1tZmQ3RVZCdjVOdUlPLWw3M2JxODYtak4wRkVxZHI4ZnFWd0VvNDZnZ0hCMVdJWlh5X3gyNDBvR2FuTjhyN3JEclc3cWZ6azZzUXNtTWJJYk1VaWVyRDJldldPT2hEOWZuNnJwS05NeXJiM1dsd0Z3?oc=5",
+      "domain": "mx.advfn.com",
+      "publisher": "mx.advfn.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 12:26:05 GMT",
+      "primary_hint": false,
+      "excerpt": "BTCUSD - Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion mx.advfn.com"
+    },
+    {
+      "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnBEYXFvWm56bERzY0VlZzBVOWZfZGs1c0ZfOG1UQkpLZXZIYjVjaFpTay1oTUJGTHJtaVRKSnE1REtwSFd6LWJZaFFDcUdMTUJrNkltRFhqYVlpSnM4aEJMZGJ4MzFxcTUzaFlzdm9oNk11NWpPVVJ5SS1VMUxBTnhlM1YxWlJ5anBqTWNCRlhxV2o4c0hOMkx6Ql9ZNERnRzhCaEstSjdnaHlnVjd1Z0FaSm9PRWtQSTJFdWJZMjk0ZjhmbUE?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 12:26:05 GMT",
+      "primary_hint": false,
+      "excerpt": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion TradingView"
+    }
+  ]
+}
