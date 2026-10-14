@@ -1,0 +1,30 @@
+{
+  "event_id": "12-d2988d504bc4d3c9",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Se hunde un buque mercante por un ataque con drones cerca de aguas búlgaras: 11 marineros desaparecidos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Se hunde un buque mercante por un ataque con drones cerca de aguas búlgaras: 11 marineros desaparecidos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVno1TmR6Y3pLOGQ3dVAwMDRYMXNtck5nZ3BZbl9wLU1RaXZra0txaGNuNXRLNmg4U1RvTUhDcWtDUkxFVGVkajNfeXVXZWJaMmo4VTBrODhFQnNXc0VJM2I2OGVPdi1aeUxIR1RtMlBma3ZIZDJHbnVqenpBOHM0SGYxWTkySmhHM1E4eHRrRU1KTWlGTjVrRE1yTW1kSlpnUmVr?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 16:28:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Se hunde un buque mercante por un ataque con drones cerca de aguas búlgaras: 11 marineros desaparecidos CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

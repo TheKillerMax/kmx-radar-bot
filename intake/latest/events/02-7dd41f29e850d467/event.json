@@ -1,0 +1,40 @@
+{
+  "event_id": "02-7dd41f29e850d467",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Nos siguen robando el disco físico: La edición de “God of War: Laufey” fue revelada y ni siquiera trae el juego digital - FayerWayer",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "atomix.vg",
+    "fayerwayer.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Revelan la edición especial de God of War Laufey sin juego - Atomix",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTBNNW9XOHRENjJrVjJKUFdlVmZsYjN5eTZFOW5oZTBlNFN2RU43eFVGNHpYQ0U1RlJ3YVFJM0VtVjJfQWgtOG1QU2JmbGxCd2FCVlZobHZwU25UODNZUkhfZTFIc0txRjFHUHBvd0x2TjJfZEVsb0NoQWtRUlZkVlJ3?oc=5",
+      "domain": "atomix.vg",
+      "publisher": "Atomix",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 22:47:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Revelan la edición especial de God of War Laufey sin juego Atomix"
+    },
+    {
+      "title": "Nos siguen robando el disco físico: La edición de “God of War: Laufey” fue revelada y ni siquiera trae el juego digital - FayerWayer",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTERvUUFzdGN1WHVtcEZFTzFDV2paYWY0eEd6b0FxM0diX2hfVzIwVEE5cmRoV2tmamQxaWxPVG8yU2NMQ0dQV2tXakZpdlZhN1BDWXN5MU1NX1pSdjlvZ294QlBtMnhSNHUyYVhmNEhKN2RxNTNCaE9zbjFYci01MFZJUktrd3A3Qi1fSGpuX1hRODJucDJRLUk5R1hJNmZiM2V3NHhRdXBoWUhuZEp0T1hkdzRjUUR1VFk2LUMzaUkwRklfdmVDOHBuaS05WlpDREVwSGxTT3hrakxBbGZGWGtxb3BabW53b19QSlc1dnhHQ0p0?oc=5",
+      "domain": "fayerwayer.com",
+      "publisher": "FayerWayer",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 00:35:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Nos siguen robando el disco físico: La edición de “God of War: Laufey” fue revelada y ni siquiera trae el juego digital FayerWayer"
+    }
+  ]
+}

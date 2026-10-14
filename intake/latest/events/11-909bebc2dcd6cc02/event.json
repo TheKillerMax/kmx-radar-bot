@@ -1,0 +1,30 @@
+{
+  "event_id": "11-909bebc2dcd6cc02",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Rubio habla de seguridad con Bukele y plantea mantener puertos de El Salvador “libres de influencias extranjeras malignas” - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Rubio habla de seguridad con Bukele y plantea mantener puertos de El Salvador “libres de influencias extranjeras malignas” - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEQxLTBnWGh1T29iVkU0YWVGU0ZrTHVXLUNFNmVSZE9QZUlOaHcxYVBSallaaVRSU1RKU0wzdlJMLXBtUEw1THAyVnN0M0NuUWtsYnFWVTN0RU9UbjhOVndGZVNBZmhDdUQ5UURWX3Qxck5HZ2kwSE9KSXM1NXA4enZHZlBPQTc1RlNNTHRUeHN1c0t1b2xJWWNRbXJRaHNBdk5fcjFZeXhJT2tlZEE1a2dn?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 17:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Rubio habla de seguridad con Bukele y plantea mantener puertos de El Salvador “libres de influencias extranjeras malignas” CNN en Español Rubio y Bukele discuten cómo combatir la \"influencia extranjera maligna\" sobre infraestructuras críticas France 24 Llamada del Secretario Rubio con el Presidente Bukele U.S. Embassy in El Salvador (.gov) Marco Rubio presiona a Bukele para reducir la influencia china en los puertos de El Salvador EFE - Agencia de noticias Rubio: 'el régimen cubano no realizará reformas mientras crea que la comunidad internacional está de su lado' DIARIO DE CUBA"
+    }
+  ]
+}
