@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261014-tupac-sentencia-duane-davis",
+  "generated_at": "2026-10-14",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Noticias judiciales verificadas con Reuters y AP del 13/10/2026. Fotos históricas auténticas con licencia CC BY-SA 3.0, recortadas y oscurecidas; adaptaciones bajo la misma licencia, sin sublicenciar la marca KMX RADAR. Se excluye la fotografía escolar de Tupac de 1988 porque el dominio público no está acreditado fuera de EE. UU. Ninguna foto retrata el juicio de 2026 ni el ataque de 1996.",
+  "assets": [
+    {
+      "key": "tribunal_2006",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Regional_Justice_Center.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Las_Vegas_Regional_Justice_Center.jpg",
+      "original_creator": "Coolcaesar",
+      "created_at": "2006-10-28",
+      "license_or_permission": "CC BY-SA 3.0 Unported; adaptación con atribución, enlace, declaración de recorte y CompartirIgual",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution_required": true,
+      "attribution_text": "Coolcaesar / Wikimedia Commons · CC BY-SA 3.0",
+      "local_path": "Temporal durante el renderizado de GitHub Actions",
+      "retrieved_at": "2026-10-14",
+      "notes": "Fotografía documental de edificio judicial, tomada en 2006; no corresponde a la audiencia de 2026. Adaptación fotográfica bajo CC BY-SA 3.0."
+    },
+    {
+      "key": "flamingo_2012",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Las_Vegas,_Platinum_Hotel_01.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Las_Vegas%2C_Platinum_Hotel_01.jpg",
+      "original_creator": "Adam Kliczek",
+      "created_at": "2012-04-13",
+      "license_or_permission": "CC BY-SA 3.0 Unported; adaptación con atribución, enlace, declaración de recorte y CompartirIgual",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution_required": true,
+      "attribution_text": "Adam Kliczek / Wikimedia Commons · CC BY-SA 3.0",
+      "local_path": "Temporal durante el renderizado de GitHub Actions",
+      "retrieved_at": "2026-10-14",
+      "notes": "Fotografía documental de Flamingo Road y Koval Lane tomada en 2012; no corresponde al ataque de 1996. Adaptación fotográfica bajo CC BY-SA 3.0."
+    }
+  ]
+}

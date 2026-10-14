@@ -8,27 +8,27 @@
   "images": [
     {
       "path": "01-sentencia-tupac.png",
-      "alt_text": "Retrato documental de archivo de Tupac Shakur en su anuario escolar de 1988. El texto informa de la sentencia dictada el 13 de octubre de 2026 por su asesinato."
+      "alt_text": "Imagen real de archivo del Regional Justice Center de Las Vegas, fotografiado en 2006. La composición informa de la sentencia a Duane Davis del 13 de octubre de 2026 por el asesinato de Tupac Shakur."
     },
     {
       "path": "02-duane-davis.png",
-      "alt_text": "Fotografía de archivo del Tribunal Regional de Justicia de Las Vegas tomada en 2006. El texto explica que Duane Davis fue declarado culpable de organizar el ataque de 1996."
+      "alt_text": "Fotografía de archivo del Regional Justice Center de Las Vegas de 2006. El texto identifica a Duane Davis como condenado por organizar el ataque de 1996."
     },
     {
       "path": "03-condena.png",
-      "alt_text": "Gráfico informativo: entre 40 años de prisión y cadena perpetua, según la sentencia; no equivale a excarcelación automática tras 40 años."
+      "alt_text": "Gráfico sobre fotografía documental del tribunal de Las Vegas en 2006. Destaca el mínimo de 40 años de prisión y que no existe excarcelación automática tras ese período."
     },
     {
       "path": "04-cronologia.png",
-      "alt_text": "Cronología verificada del caso: ataque en 1996, detención en 2023, condena del jurado en agosto de 2026 y sentencia en octubre de 2026."
+      "alt_text": "Cronología del caso sobre una fotografía documental nocturna de Las Vegas tomada en 2012: atentado de 1996, detención en 2023, veredicto de agosto de 2026 y sentencia de octubre de 2026."
     },
     {
       "path": "05-responsabilidad.png",
-      "alt_text": "Foto de archivo de 2012 del cruce de Flamingo Road y Koval Lane en Las Vegas. Se aclara que el jurado declaró a Davis responsable de organizar el ataque, no de realizar los disparos."
+      "alt_text": "Fotografía documental de archivo del cruce de Flamingo Road y Koval Lane en Las Vegas, de 2012. El texto distingue la organización del ataque de la realización de los disparos."
     },
     {
       "path": "06-que-sigue.png",
-      "alt_text": "Diseño tipográfico original con la noticia de que la defensa anunció una apelación; texto en español y fuentes Reuters y Associated Press."
+      "alt_text": "Composición informativa sobre fotografía de archivo del edificio judicial de Las Vegas de 2006. La defensa anunció una apelación, pero no se confirma la presentación del recurso."
     }
   ],
   "sources": [
@@ -43,10 +43,6 @@
     {
       "label": "Vegas Hoy · cobertura del tribunal",
       "url": "https://gray-kvvu-sp-prod.gtv-cdn.com/2026/10/13/duane-keffe-d-davis-sera-sentenciado-por-el-asesinato-de-tupac/"
-    },
-    {
-      "label": "Commons · retrato escolar, uso sujeto a revisión territorial",
-      "url": "https://commons.wikimedia.org/wiki/File:Tupac_Shakur_1988_Yearbook.jpg"
     },
     {
       "label": "Commons · edificio del tribunal, CC BY-SA 3.0",
