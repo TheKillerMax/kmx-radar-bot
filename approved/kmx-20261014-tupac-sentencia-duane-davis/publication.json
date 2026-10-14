@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261014-tupac-sentencia-duane-davis",
+  "source_event_id": "09-bcccde4230bee2f2",
+  "created_at": "2026-10-14T09:40:31.881Z",
+  "headline": "Duane Davis recibe una condena de entre 40 años y cadena perpetua por el asesinato de Tupac Shakur",
+  "caption": "Un tribunal de Las Vegas sentenció a Duane «Keffe D» Davis a entre 40 años de prisión y cadena perpetua por el asesinato de Tupac Shakur.\n\nLa decisión se conoció el 13 de octubre de 2026, tres décadas después del ataque contra el rapero. Tupac recibió disparos el 7 de septiembre de 1996 y murió seis días más tarde, a los 25 años.\n\nUn jurado declaró culpable a Davis el 31 de agosto de 2026 por su responsabilidad en la organización del ataque. La condena no significa que fuera quien disparó. La defensa rechaza las acusaciones y anunció una apelación.\n\nDesliza para ver qué resolvió el tribunal y qué sigue en el caso.\n\nFuentes: Reuters, Associated Press y cobertura judicial desde Las Vegas, 13/10/2026.\n\n#KMXRadar #TupacShakur #HipHop #LasVegas #KeffeD",
+  "images": [
+    {
+      "path": "01-sentencia-tupac.png",
+      "alt_text": "Retrato documental de archivo de Tupac Shakur en su anuario escolar de 1988. El texto informa de la sentencia dictada el 13 de octubre de 2026 por su asesinato."
+    },
+    {
+      "path": "02-duane-davis.png",
+      "alt_text": "Fotografía de archivo del Tribunal Regional de Justicia de Las Vegas tomada en 2006. El texto explica que Duane Davis fue declarado culpable de organizar el ataque de 1996."
+    },
+    {
+      "path": "03-condena.png",
+      "alt_text": "Gráfico informativo: entre 40 años de prisión y cadena perpetua, según la sentencia; no equivale a excarcelación automática tras 40 años."
+    },
+    {
+      "path": "04-cronologia.png",
+      "alt_text": "Cronología verificada del caso: ataque en 1996, detención en 2023, condena del jurado en agosto de 2026 y sentencia en octubre de 2026."
+    },
+    {
+      "path": "05-responsabilidad.png",
+      "alt_text": "Foto de archivo de 2012 del cruce de Flamingo Road y Koval Lane en Las Vegas. Se aclara que el jurado declaró a Davis responsable de organizar el ataque, no de realizar los disparos."
+    },
+    {
+      "path": "06-que-sigue.png",
+      "alt_text": "Diseño tipográfico original con la noticia de que la defensa anunció una apelación; texto en español y fuentes Reuters y Associated Press."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Reuters · 13/10/2026",
+      "url": "https://www.reuters.com/legal/litigation/ex-gang-leader-faces-maximum-penalty-life-prison-tupac-shakur-murder-2026-10-13/"
+    },
+    {
+      "label": "Associated Press · 13/10/2026",
+      "url": "https://apnews.com/article/827803a315dedbf36d18b66417a74303"
+    },
+    {
+      "label": "Vegas Hoy · cobertura del tribunal",
+      "url": "https://gray-kvvu-sp-prod.gtv-cdn.com/2026/10/13/duane-keffe-d-davis-sera-sentenciado-por-el-asesinato-de-tupac/"
+    },
+    {
+      "label": "Commons · retrato escolar, uso sujeto a revisión territorial",
+      "url": "https://commons.wikimedia.org/wiki/File:Tupac_Shakur_1988_Yearbook.jpg"
+    },
+    {
+      "label": "Commons · edificio del tribunal, CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Regional_Justice_Center.jpg"
+    },
+    {
+      "label": "Commons · Flamingo Road, CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Las_Vegas,_Platinum_Hotel_01.jpg"
+    }
+  ],
+  "ai_generated": true,
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}

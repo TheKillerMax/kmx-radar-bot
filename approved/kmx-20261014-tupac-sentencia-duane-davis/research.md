@@ -1,0 +1,15 @@
+# Investigación — condena por el asesinato de Tupac Shakur
+
+Manifest: 2026-10-14T08:36:32Z. Evento: 09-bcccde4230bee2f2. Publicación: kmx-20261014-tupac-sentencia-duane-davis. Verificado el 14/10/2026.
+
+**Hecho**: el 13/10/2026 un tribunal de Las Vegas condenó a Duane «Keffe D» Davis a entre 40 años de prisión y cadena perpetua por su papel en el asesinato del rapero Tupac Shakur. Fue declarado culpable el 31/08/2026. Reuters documentó dos penas consecutivas de 20 años a cadena perpetua; Associated Press verificó independientemente el mínimo de 40 años. https://www.reuters.com/legal/litigation/ex-gang-leader-faces-maximum-penalty-life-prison-tupac-shakur-murder-2026-10-13/ · https://apnews.com/article/827803a315dedbf36d18b66417a74303
+
+**Contexto**: Shakur fue baleado el 7/09/1996 y murió seis días después, a los 25 años. Davis fue detenido en 2023. El jurado lo consideró responsable de organizar el ataque, no lo identificó como autor de los disparos. La defensa cuestionó las pruebas y anunció su intención de apelar; no está confirmado que haya presentado el recurso. https://gray-kvvu-sp-prod.gtv-cdn.com/2026/10/13/duane-keffe-d-davis-sera-sentenciado-por-el-asesinato-de-tupac/
+
+**Control de fuentes**: Reuters y AP cubrieron la resolución por canales periodísticos independientes; cobertura judicial local: https://gray-kvvu-sp-prod.gtv-cdn.com/2026/10/13/duane-keffe-d-davis-sera-sentenciado-por-el-asesinato-de-tupac/. El Tribunal de Distrito del condado de Clark anunció la audiencia; sus retransmisiones son fuente documental, no material gráfico reutilizable sin permiso: https://www.clarkcountycourts.us/stream1/. La defensa rechaza su responsabilidad, pero existe veredicto y sentencia; separar ambos hechos. No especular sobre la identidad del tirador ni presentar 40 años como fecha automática de excarcelación.
+
+**Selección**: hecho judicial del 13/10, de interés cultural internacional, ausente de los 19 `previous_posts`. Se revisaron los 12 eventos. Se evita la reiteración de Perseverance, Six Flags y Bulgaria, trabajados en expedientes anteriores aunque sin paquete completo para este manifest.
+
+**Hashtags**: `#TupacShakur`, `#KeffeD`, `#HipHop` y `#LasVegas` constan en publicaciones públicas de septiembre relacionadas con este proceso (https://www.musicaurbananacional.com/2026/09/duane-keffe-d-davis-fue-declarado.html; https://www.truecrimetodaypod.com/keffe-ds-tupac-murder-conviction-what-he-did-leaving-court/). Añadir `#KMXRadar`. No se afirman tendencias ni cantidades de uso no verificadas.
+
+**Riesgos**: respetar derechos de archivos, no reutilizar fotos Reuters/AP ni vídeo judicial sin licencia. Retrato auténtico de anuario de 1988 con declaración de dominio público en EE. UU. en https://commons.wikimedia.org/wiki/File:Tupac_Shakur_1988_Yearbook.jpg; licitud global pendiente de comprobación en fase visual. Fotos reales de tribunal y calle, ambas CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Las_Vegas_Regional_Justice_Center.jpg y https://commons.wikimedia.org/wiki/File:Las_Vegas,_Platinum_Hotel_01.jpg. Rotular ARCHIVO y año; nunca presentarlas como tomas del juicio de 2026 o del crimen en 1996.
