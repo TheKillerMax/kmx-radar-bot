@@ -1,36 +1,38 @@
 {
-  "schema_version": 1,
-  "publication_id": "kmx-20261014-tupac-sentencia-duane-davis",
-  "source_event_id": "09-bcccde4230bee2f2",
+  "ai_generated": true,
+  "caption": "Un tribunal de Las Vegas sentenció a Duane «Keffe D» Davis a entre 40 años de prisión y cadena perpetua por el asesinato de Tupac Shakur.\n\nLa decisión se conoció el 13 de octubre de 2026, tres décadas después del ataque contra el rapero. Tupac recibió disparos el 7 de septiembre de 1996 y murió seis días más tarde, a los 25 años.\n\nUn jurado declaró culpable a Davis el 31 de agosto de 2026 por su responsabilidad en la organización del ataque. La condena no significa que fuera quien disparó. La defensa rechaza las acusaciones y anunció una apelación.\n\nDesliza para ver qué resolvió el tribunal y qué sigue en el caso.\n\nFuentes: Reuters, Associated Press y cobertura judicial desde Las Vegas, 13/10/2026.\n\n#KMXRadar #TupacShakur #HipHop #LasVegas #KeffeD",
   "created_at": "2026-10-14T09:40:31.881Z",
   "headline": "Duane Davis recibe una condena de entre 40 años y cadena perpetua por el asesinato de Tupac Shakur",
-  "caption": "Un tribunal de Las Vegas sentenció a Duane «Keffe D» Davis a entre 40 años de prisión y cadena perpetua por el asesinato de Tupac Shakur.\n\nLa decisión se conoció el 13 de octubre de 2026, tres décadas después del ataque contra el rapero. Tupac recibió disparos el 7 de septiembre de 1996 y murió seis días más tarde, a los 25 años.\n\nUn jurado declaró culpable a Davis el 31 de agosto de 2026 por su responsabilidad en la organización del ataque. La condena no significa que fuera quien disparó. La defensa rechaza las acusaciones y anunció una apelación.\n\nDesliza para ver qué resolvió el tribunal y qué sigue en el caso.\n\nFuentes: Reuters, Associated Press y cobertura judicial desde Las Vegas, 13/10/2026.\n\n#KMXRadar #TupacShakur #HipHop #LasVegas #KeffeD",
   "images": [
     {
-      "path": "01-sentencia-tupac.png",
-      "alt_text": "Imagen real de archivo del Regional Justice Center de Las Vegas, fotografiado en 2006. La composición informa de la sentencia a Duane Davis del 13 de octubre de 2026 por el asesinato de Tupac Shakur."
+      "alt_text": "Imagen real de archivo del Regional Justice Center de Las Vegas, fotografiado en 2006. La composición informa de la sentencia a Duane Davis del 13 de octubre de 2026 por el asesinato de Tupac Shakur.",
+      "path": "01-sentencia-tupac.png"
     },
     {
-      "path": "02-duane-davis.png",
-      "alt_text": "Fotografía de archivo del Regional Justice Center de Las Vegas de 2006. El texto identifica a Duane Davis como condenado por organizar el ataque de 1996."
+      "alt_text": "Fotografía de archivo del Regional Justice Center de Las Vegas de 2006. El texto identifica a Duane Davis como condenado por organizar el ataque de 1996.",
+      "path": "02-duane-davis.png"
     },
     {
-      "path": "03-condena.png",
-      "alt_text": "Gráfico sobre fotografía documental del tribunal de Las Vegas en 2006. Destaca el mínimo de 40 años de prisión y que no existe excarcelación automática tras ese período."
+      "alt_text": "Gráfico sobre fotografía documental del tribunal de Las Vegas en 2006. Destaca el mínimo de 40 años de prisión y que no existe excarcelación automática tras ese período.",
+      "path": "03-condena.png"
     },
     {
-      "path": "04-cronologia.png",
-      "alt_text": "Cronología del caso sobre una fotografía documental nocturna de Las Vegas tomada en 2012: atentado de 1996, detención en 2023, veredicto de agosto de 2026 y sentencia de octubre de 2026."
+      "alt_text": "Cronología del caso sobre una fotografía documental nocturna de Las Vegas tomada en 2012: atentado de 1996, detención en 2023, veredicto de agosto de 2026 y sentencia de octubre de 2026.",
+      "path": "04-cronologia.png"
     },
     {
-      "path": "05-responsabilidad.png",
-      "alt_text": "Fotografía documental de archivo del cruce de Flamingo Road y Koval Lane en Las Vegas, de 2012. El texto distingue la organización del ataque de la realización de los disparos."
+      "alt_text": "Fotografía documental de archivo del cruce de Flamingo Road y Koval Lane en Las Vegas, de 2012. El texto distingue la organización del ataque de la realización de los disparos.",
+      "path": "05-responsabilidad.png"
     },
     {
-      "path": "06-que-sigue.png",
-      "alt_text": "Composición informativa sobre fotografía de archivo del edificio judicial de Las Vegas de 2006. La defensa anunció una apelación, pero no se confirma la presentación del recurso."
+      "alt_text": "Composición informativa sobre fotografía de archivo del edificio judicial de Las Vegas de 2006. La defensa anunció una apelación, pero no se confirma la presentación del recurso.",
+      "path": "06-que-sigue.png"
     }
   ],
+  "publication_id": "kmx-20261014-tupac-sentencia-duane-davis",
+  "ready_to_publish": false,
+  "schema_version": 1,
+  "source_event_id": "09-bcccde4230bee2f2",
   "sources": [
     {
       "label": "Reuters · 13/10/2026",
@@ -53,7 +55,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:Las_Vegas,_Platinum_Hotel_01.jpg"
     }
   ],
-  "ai_generated": true,
-  "ready_to_publish": false,
-  "status": "editorial_ready_for_visuals"
+  "status": "visuals_ready",
+  "visuals_completed_at": "2026-10-14T16:37:44Z"
 }
