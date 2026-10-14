@@ -1,0 +1,30 @@
+{
+  "event_id": "12-5e87f3bce6a34b7c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Por qué los miles de millones gastados en defensa no han protegido a Arabia Saudita de los ataques de los hutíes - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Por qué los miles de millones gastados en defensa no han protegido a Arabia Saudita de los ataques de los hutíes - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWVodTBjWHlzSmdVdkZLd2NMeEF4aUJPbXdMRTd1R1lYLTFlejhzRG1MZ2hRejBvd1h5S1RTV3pqbE5uNzdERHdfaHd3aE45RndrU3B2SldQQU9UMjlEQjFFRldWdGE2WHFXRlM0cmRUdVd1WTF3dzRqZHl1SnNRRTNXblAyalMtV2hGYXI5dHVHOUE5bGc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 16:41:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Por qué los miles de millones gastados en defensa no han protegido a Arabia Saudita de los ataques de los hutíes CNN en Español Arabia Saudí investiga las fallas en sus defensas antiaéreas ante ataque hutí al aeropuerto de Riad San Antonio Express-News Titulares de 13 de octubre de 2026 Democracy Now! Arabia Saudí responde con drones ataques de rebeldes en Yemen, y otras noticias de Oriente Medio Chicago Tribune Proyectil impacta terminal de pasajeros en aeropuerto Riad AP News"
+    }
+  ]
+}

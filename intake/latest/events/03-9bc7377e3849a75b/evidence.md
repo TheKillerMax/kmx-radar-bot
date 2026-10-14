@@ -16,9 +16,9 @@
 
 Se revela la edición de colección de God of War Laufey por $150 USD, pero no incluye el juego IGN Latinoamérica
 
-### Fuente 2: news.instant-gaming.com
-- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxPSy0yWmlnRDlRZmJlTDVyZlQwdi12YnlkVEM4WWhKVXB2SUltWFcyX3BpUVlPR0ZDbHFWX1E2blJnWl9IUWhtU1VZYnhtZnl4Y1BUOWl4LVVsc2F1bk1HUzR4NG4yYzVFZmd1ODRRU0FOTk9BN2ZlR0hnQURUZ3RFNWh5a0tGQmtjZ2x1d0N1UFhKblNXWVBoc3NEbTFrSXpkMkFjUDc0QWp4cVdIM2ROM2d4ZFhsVDhpTmpNODdtTzdrcEJQ?oc=5
-- Título: God of War Laufey presenta su Edición Coleccionista sin el juego por 150€ - Instant Gaming News
-- Fecha detectada: Tue, 13 Oct 2026 18:56:15 GMT
+### Fuente 2: atomix.vg
+- URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTBNNW9XOHRENjJrVjJKUFdlVmZsYjN5eTZFOW5oZTBlNFN2RU43eFVGNHpYQ0U1RlJ3YVFJM0VtVjJfQWgtOG1QU2JmbGxCd2FCVlZobHZwU25UODNZUkhfZTFIc0txRjFHUHBvd0x2TjJfZEVsb0NoQWtRUlZkVlJ3?oc=5
+- Título: Revelan la edición especial de God of War Laufey sin juego - Atomix
+- Fecha detectada: Tue, 13 Oct 2026 22:47:00 GMT
 
-God of War Laufey presenta su Edición Coleccionista sin el juego por 150€ Instant Gaming News
+Revelan la edición especial de God of War Laufey sin juego Atomix

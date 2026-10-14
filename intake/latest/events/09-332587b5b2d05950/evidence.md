@@ -1,7 +1,7 @@
 # Head of State reaffirms solidarity after conversation with President Mulino: "Panama is not alone" - Radio Nacional de Venezuela - RNV
 
 - Categoría: MUNDO
-- Riesgo: high
+- Riesgo: medium
 - Estado de entrada: SIN CONFIRMAR
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
 - Dominios independientes detectados: 1
