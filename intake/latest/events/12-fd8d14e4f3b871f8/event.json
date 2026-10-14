@@ -1,0 +1,30 @@
+{
+  "event_id": "12-fd8d14e4f3b871f8",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La senadora republicana por Maine se distancia de Trump para salvar su escaño: “El presidente no tenía un buen plan” - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La senadora republicana por Maine se distancia de Trump para salvar su escaño: “El presidente no tenía un buen plan” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUzZkT2lacmxvVHZsdG52dEpBUDNLUy0zMUMyTjRZcUlGM0k0RmZ0UXo1VS1TcXFZM3gyUWdkemw0M0tCOGUyTjhtNHQ3VFpJWnlveUF4WXpVckJzcUFzdkswNDhVUk1oYnotYVBPTDQ5TDZVbWdwcm0xRThIS3JkR3Rpd2JaRFI1SnAtQjNjTTFmMXAxWkd0NVMtVXBGdDIwMGFPZXpTdk5lbUlZQVFVXzdCQTNZSV94X2VTRHdpUlZYXzdxcnBJdnVFMVljVUNmX2FVaThzMFJCVWR4NHpXNEFPeW5uQdIB-gFBVV95cUxPLU1JMGFCYXNPRFc2bmV6TE9ybnRYMzRmWExsVHVvSk5zLWg3d0NqRkdRQWRGdFZmTHBwenJlWjdRelQ2X2ttQ2tyeWlseWtOcjlhOV9qd0dObXVrdmd4ZDNWQzRoWEJzT3hpZTBUOXVRejE1c3EzbktScXRHNkgwS2kzcGFPcldyaXdlRWVjTXZENHIzbDVzREFyakNnZHUxZ0ljWkRPUFJ3QjNrUmlMbDRBZ09YT3Z4bldkeUJTMGFueTdxN2p1a25yNkc3ZTZUQjhDTDlOMHVIRDRIeDU0V3JGQWMyUElDcEF3RURWVGlfaVBha0hxbDVB?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 02:02:52 GMT",
+      "primary_hint": false,
+      "excerpt": "La senadora republicana por Maine se distancia de Trump para salvar su escaño: “El presidente no tenía un buen plan” EL PAÍS"
+    }
+  ]
+}

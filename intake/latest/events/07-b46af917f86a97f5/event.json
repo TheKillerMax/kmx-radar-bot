@@ -1,0 +1,149 @@
+{
+  "event_id": "07-b46af917f86a97f5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Moderate mag. 4.1 earthquake - North Pacific Ocean, 77 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 09:48 am (GMT -5) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 29,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Moderate mag. 4.1 earthquake (unconfirmed) - 50 km southwest of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 14, 2026, at 07:16 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHRNdGJ5SzhzZ2huNGZSckl2SjRqcVl1X0haQjR3R1JXTW9LMU1jZ0x1TzI3WmJQTjRlUlZoQkVTaVlWcGdnbnByNnc1dDAwQkhtMEpkNTU4V3FvRmxqRDFsc19HdnNrNzlES1ktMXVfUm41NDRucERCdTBsQnI2eFl1eDc5MVVYSFo2VTFmd0hkSW1Fd2YzWDhOOHNoOFE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 07:20:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.1 earthquake (unconfirmed) - 50 km southwest of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 14, 2026, at 07:16 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.8 earthquake - Provincia de Herrera, 64 km southeast of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 14, 2026, at 02:14 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3lLZ0wxXzgwSmphM3JoZmJtYVdTSFVRQmQ5cTE1alZ0WDBLZ2pyd3B2U1NQa25ZdzN0aW1kRWVLNnNjQU5yc2Q1WlpKZ1RJOUJzSTJ0ak5Nem1nWVVCUXBHaGNxS2p1dU5MZEwtek9vMEN4WVF0d2Z5YjFFNHhEMnFxNEY0OENtMXlFanZZRjVMNkxWTmtuOC1kRmFtekk?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 07:55:28 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.8 earthquake - Provincia de Herrera, 64 km southeast of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 14, 2026, at 02:14 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.4 earthquake (unconfirmed) - North Pacific Ocean, 66 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 11:59 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlgwdHZWV0pCS0E5ZE5FT3pYTm9yZWdQQldUZjFJbnBpX3dqUEpRMXdsdmV5dXFOU0ZUS09kMDJKZzJVTVMxcGdzTlJNWE9JOUxZT0V5SjJZT0VqNWgxRjNGYktyUm9MaGxCMXlxeEFPanpNUkliSnYtSGotNGtVQkJtT2lZclI0SWF6WnJWUWJ4RU5lbmItQ1pQeDZrNVE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 05:40:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.4 earthquake (unconfirmed) - North Pacific Ocean, 66 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 11:59 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - North Pacific Ocean, 76 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 04:21 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYm9uaFU5d1YwcVI4bEtSZTBucUtvSENTYXFXNDJCWjBudG40UzN4N0tpeVg5cEZPM0N6T1lnRzQ5dEVLaGp3NnU1Ny1ZYkMwSGw4c1FLZzRJLWVnQ1dHVkR0VEx0TTIxX3ZTdGZ1OHlwaVRrOGRIYlBNX0tnVmpLTzBHaHVsU2pyV2JMckZiZnBwMlJYeGs1MU9TMzVCZ1k?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 03:23:58 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - North Pacific Ocean, 76 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 04:21 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - North Pacific Ocean, 87 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 11:43 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc19TUUhCZDNXSHFNZ0hWNnNEb2t0VEE4Z3FuOG84Zl9UWkZPUzZXSVFaR3JoSVhCNUFhSUZHTVBhSTJCaVplcjdkSU44Z21iVWp2TXhYdHdIYXBXc2lrX0g4TzBfcUdCUkV1SGlPRV95NXd4ZDhuYlIySHdUVjZQX21WZDRmZ3FYTkdlcTY1Wjh5UGZMZG01WWFnVkxYT2s?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 05:25:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - North Pacific Ocean, 87 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 11:43 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.9 earthquake - 40 km south of Las Tablas, Provincia de Los Santos, Panama, on Tuesday, Oct 13, 2026, at 09:23 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWhwOGNUT1YtTnZ2aUlCTkthb0xnS2VCNnpLcTdVUUhlZkpkWk9UVzRqaFRtQU1VRmZZOGNyS0NUb2FRajN3ZWxGcHpMcnNZTm1oYkJNaEMxNWVzTEdXTWdKTDhuNUtEUExHYmVnLUdLX2ZVTWZZWk9CMHotYzIxUlB3M1RKOExEMk1VT2JYSUpNRkJCNEVpdzRTRjQyenVHbHdnTDc2eEhxbUVhSWluV3J5ZVd0ZUpCMmNzZWFFSDNnQ2JUY3ZNSEJhQQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 03:40:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.9 earthquake - 40 km south of Las Tablas, Provincia de Los Santos, Panama, on Tuesday, Oct 13, 2026, at 09:23 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.3 earthquake (unconfirmed) - North Pacific Ocean, 268 km southeast of Panama City, Panama, on Tuesday, Oct 13, 2026, at 07:15 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVBhOTk5VUFQdTNfR2dsVkwwWUhTMmRkWXRENTVfVDl1NkJXQVMySVJYVEtvLXB6OEZGVjUxQTJTZ2RKWXNTOXR2Q2p2Y3QzRFhlU0pPMFJNZURXYW10Y3dsZGZ0c2R4ZnpXbXZiRzByeVAwNnpRR3RjVC1aRUVaLTVCRzhvR1NZSWNWZkRpc3Nzdk9Dd3hGR2x0MTMtR2ZrX2R0Q1lNVjg5U3c?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 00:30:30 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.3 earthquake (unconfirmed) - North Pacific Ocean, 268 km southeast of Panama City, Panama, on Tuesday, Oct 13, 2026, at 07:15 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Strong mag. 5.2 earthquake - South Pacific Ocean, 9 km southwest of Iquique, Provincia de Iquique, Tarapacá, Chile, on Wednesday, Oct 14, 2026, at 12:11 am (GMT -3) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmFVNWhfOXZhekhCWlZibDh0Y0hMOTR5dFp1SmRZX0s5U0R6elJzSEh1ZDZGV0padmZjTU5IeHQwRzg2QkxmbHBCRlphbDZ3WGNaRUpDR0tfd255bEtmLUtwQVVnX2lLcmlzcUlhNHoya1VRX1VVUXBkeGx6SnV3QWtqdUJ3alNHcjZpR1o5TVFvbEo0TVl0eXU2Z1ExcGxQMXRqSEZZTU8xQzBlWVM5VG84cHJxcUU1LTNMTQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 03:14:07 GMT",
+      "primary_hint": false,
+      "excerpt": "Strong mag. 5.2 earthquake - South Pacific Ocean, 9 km southwest of Iquique, Provincia de Iquique, Tarapacá, Chile, on Wednesday, Oct 14, 2026, at 12:11 am (GMT -3) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.9 earthquake - North Pacific Ocean, 75 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 08:10 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmJvS1hYREhMX2NXcHNRYTZkTU0zUUtEeU9CUkhvUEJVS0tkZFgwWTZ0dWNKMlVIX0dCNDFmTTJiZTh6dTFZQ1hHNTQwUXd1UEFjVjBKMndZQ0NsXzNGTFBGcXM1T2pQeVBqNXNoTVB2YnBYUGJzMXdTbWhBQWcwVGJjdnNWd1hkdC1qT3U0WmdiT2I3X3R4Vk8wU1hHc2c?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 01:25:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.9 earthquake - North Pacific Ocean, 75 km southwest of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 08:10 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.2 earthquake - Caribbean Sea, 14 km southwest of Isla Cayo Agua Island, Panama, on Tuesday, Oct 13, 2026, at 10:38 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0VucWx0bDZKZDl6Z2Jlb3RrRTR6TGl3X3IwRXpDX2NxdmNlRUMybVQ5S09rM3Z2aGdtQ0tEMkJnMVh4d0NtTkJZVzBGUzM2dXMxeDBUWnRYX1Y4QnRyZXAzbkxYMGJGa0lCRXlDZ3l5SVRQbjdyWTg3QnpHRWE3ZmN1d0hkSlVFWDhsNkV1cTNlcDd4c3BrWVJwUUFTRW9kcG51d3ZWbmJBek91bjI5anNKSF9Ob2x3SGxzcmJpTEw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 03:41:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.2 earthquake - Caribbean Sea, 14 km southwest of Isla Cayo Agua Island, Panama, on Tuesday, Oct 13, 2026, at 10:38 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.0 earthquake - 40 km west of David, Provincia de Chiriqui, Panama, on Tuesday, Oct 13, 2026, at 05:16 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHlmazk3Q2d1am1NSkVUN1hxTW5jaFFwakhEbnBJaUVsay0yajRRV2NOR0ptZWxkbkwzcENzSk4zZEVub0taS1B4YmJXSmNzSXZrWjV1WmoxckpyWGNvaGpWLTM5RHlISUZsbkhYNU5KUjNZQzFxWnh0d19zaFlHMkFLaTVVeGNrRW5wM3BCV1RuMHE3akdRRzFZWVh2anZ2a0d6ZGttSVlEa2pOT2txb3ZlWUdYMGxMdTYzTUhKWmdnV0VfY292LWI0cTY?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 23:00:02 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.0 earthquake - 40 km west of David, Provincia de Chiriqui, Panama, on Tuesday, Oct 13, 2026, at 05:16 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.7 earthquake - Provincia de Herrera, 64 km south of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 12:57 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnd6eWxNWElnd0VJTjBBSUNDalZCR2h5emNVeHZMTXNxRGFMWUJUeTN3R285aWZybTBOSmxvaV9OSU1zeU9ncmZJOXlOTG1XRW1qUmVuQ3NHVGx3bkdqOVFPUmdEY05OWDRPVGRGQ3B0VVFveUhyQ3lUYjZYOE0zb0NVS0JkODlXdklLNEE0MkVhRVlDVTdnUkV6Q0VFNkk?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 13 Oct 2026 23:40:47 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.7 earthquake - Provincia de Herrera, 64 km south of Santiago, Provincia de Veraguas, Panama, on Tuesday, Oct 13, 2026, at 12:57 pm (GMT -5) Volcano Discovery"
+    }
+  ]
+}

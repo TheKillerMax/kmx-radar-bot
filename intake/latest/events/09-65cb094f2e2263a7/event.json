@@ -1,0 +1,30 @@
+{
+  "event_id": "09-65cb094f2e2263a7",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Qué sabemos sobre el diagnóstico de cáncer de pulmón del papa León XIV? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Qué sabemos sobre el diagnóstico de cáncer de pulmón del papa León XIV? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzIzZzVybnowN2xSMk5tUUl2ZjVQdDdUampaRlRzOWIzbzljUDR0TzZ4RTVvbFU5OTdrbW94T3VCZ19iTUNicTU3dE5RcUhQUlkyMVJCMGFFWjE0cER5VEV6WWZUQWxBazJod3NTU0xoQ3R5UkdnUVRlNmZuekpOLXM3T1NlYkgtRGhvWFF0dDRFQQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 00:24:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Qué sabemos sobre el diagnóstico de cáncer de pulmón del papa León XIV? CNN en Español Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar BBC El papa León XIV llega al hospital Gemelli de Roma para una cirugía en el pulmón KKTV El Vaticano confirma que el papa León XIV tiene cáncer de pulmón Telemundo Chicago El Vaticano dice que el papa León pasó “una noche tranquila” en el hospital tras cirugía por cáncer LancasterOnline"
+    }
+  ]
+}

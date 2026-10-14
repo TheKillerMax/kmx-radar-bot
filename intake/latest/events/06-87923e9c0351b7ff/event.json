@@ -1,0 +1,40 @@
+{
+  "event_id": "06-87923e9c0351b7ff",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El director financiero de Sierra Space, Jeff Schrader, abandona la empresa en plena campaña para salir a bolsa - Noticias de Bloomberg - TradingView",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El director financiero de Sierra Space, Jeff Schrader, abandona la empresa en plena campaña para salir a bolsa - Noticias de Bloomberg - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51bWZ2Y1BJZ2Y4MzdqZlFLR2JRazZWTGJPOUM4Q3hhZThDU1FkWVN4a3pBc2YwT0lqS2VVQ1VKOWpUaW9yU0puNzNMTlBxcFZNeHhNbHIwbmw1c1pmZHkzMzZPN2hXN0FBOEZ0YU1RYWJvSm9FcHV6Xw?oc=5",
+      "domain": "tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 01:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El director financiero de Sierra Space, Jeff Schrader, abandona la empresa en plena campaña para salir a bolsa - Noticias de Bloomberg TradingView"
+    },
+    {
+      "title": "Jeff Schrader, diretor financeiro da Sierra Space, deixa a empresa em meio aos preparativos para a abertura de capital - Bloomberg News - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfbFhVLUNMdVdac3ZqLXNwSW1aZ05WQTJYaTB1SjF0cVlUbTlhaGpIQTc4M3lyb1lyN25UUVZRR3Z0d3pWa0h6NHZkN0lkVVN0NHY3ZFljRFhnSFpoYVR0SGVvUmxQaFAySjUySng3V1R1SzNONnc4?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 01:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Jeff Schrader, diretor financeiro da Sierra Space, deixa a empresa em meio aos preparativos para a abertura de capital - Bloomberg News TradingView"
+    }
+  ]
+}
