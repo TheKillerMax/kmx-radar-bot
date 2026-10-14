@@ -1,0 +1,40 @@
+{
+  "event_id": "02-58991c60722b6c85",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Nueva York prohibirá los carruajes tirados por caballos en Central Park tras muerte de adolescente - Independent en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "abc.com.py",
+    "independentespanol.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Nueva York prohibirá los carruajes tirados por caballos en Central Park tras muerte de adolescente - Independent en Español",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeFp2d2o5WkJlOTFWOHlSZ3BFV0hFX1NFMEdJWkg1eTVKZWx3a1FzU2Vwa1A3SGZQVDJsQ0RZSk1wUXFkNExSMWFZX05VUHAtb191NFdIZEZWR2VsdkxBTnZILW9PRThFWTlqd2cxV2dkaHh6WVBnQXRxcDVhNzl3SWJHSW8yeXg0a2VaVk5kV0g0OElleWlvdlpHczB4OTJYSEthNUhjcnNOREtPbjBmdTcyWWdzdWhGSUpiOS13bVpEY1dibWJGRDA5MXExWTNVbTlHMER2MWNzcjNPbk1MTVp2WE0zaW9mTFhhZGluRl9Wa1U?oc=5",
+      "domain": "independentespanol.com",
+      "publisher": "Independent en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 17:42:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Nueva York prohibirá los carruajes tirados por caballos en Central Park tras muerte de adolescente Independent en Español"
+    },
+    {
+      "title": "Nueva York: los carruajes tirados por caballos podrían dejar Central Park en 2028 - ABC Color",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbE9nMkJRaW5pTm1VS3VTMkw5Z1hFMW5GMWdVTE9NaVdLMGoxOHFPNmppUTd1YU1mMWFoaU9TVFBDZWpxczlZUmxoNHA1amFjYnBMRV81WGg0VDRMOUFTaFAtbUFiZEpGTHBPSXVJTVVmMUVXRzRic29YVFJ6VnV4X0kwRFY1Q0dmNTZ6TEdmNDN0Zmt4VDB6M2dCWW1EWnVhODc0ZWVRb0hJODdVTEVENjFwMXI4VjVQbnN2YmcxNA?oc=5",
+      "domain": "abc.com.py",
+      "publisher": "ABC Color",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 12:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Nueva York: los carruajes tirados por caballos podrían dejar Central Park en 2028 ABC Color"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "event_id": "07-97022a48f0d6c7b0",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Remarks by President António Costa at the press conference following the Tripartite Social Summit - Consilium.europa.eu",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Remarks by President António Costa at the press conference following the Tripartite Social Summit - Consilium.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNczd6UGMzRWtXMWt0VnhDNTFfRnlZM3RCN2hoVUtNNk9OeF9DQjhuOWZLOF9CeG5sVTJyMlBiZHVnaVlyVEhaWEhGamtLeDZFcm9sUWhETmdWcDNLdk9ER0dBQ1VEX3k2RmIwUVJJbUFRN1l4UXlMckxGdnVBN1J6cG0zZEQ2N1dqNXdDZkFocW9KSTBBejhocDlFQ1ZZZ2QtWXhKRWhrcVA4NEZsV3ZQMkhuY0ptbFFQRnJ3bTM4TjFzb2ZIcVpSenF1V3hpWnNwZEowOWNlNlR1cVVzS2JTdGIwUUI4NHhGWlpheEFkLXJkVEwxZUc0LQ?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Consilium.europa.eu",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 15:55:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Remarks by President António Costa at the press conference following the Tripartite Social Summit Consilium.europa.eu"
+    }
+  ]
+}

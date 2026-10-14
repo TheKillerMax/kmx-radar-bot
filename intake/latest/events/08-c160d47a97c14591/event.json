@@ -1,0 +1,28 @@
+{
+  "event_id": "08-c160d47a97c14591",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Spain: President of association of beekeepers in Canary Islands convicted of subsidy fraud - The independent public prosecution office of the EU",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "eppo.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Spain: President of association of beekeepers in Canary Islands convicted of subsidy fraud - The independent public prosecution office of the EU",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVNNcTV2RS1VdlFyS0FBZ2hXcjJjZXFkbkFWNkQxVmpJeVdaQnM5VWFMUFdDeEZDdGg3RWlsYW1mMUZoanVjNGtGUndPNHhhcHZZQS1fZThral94emNNdmM4VTFBOHZZbml1NWZ6d2ROTk1ZaExvWmMtVW1TeldTbEE2My1BQlpSdEowNVo1NERxT3JOSi0zNDNHa0llOWZtVHIxaEJhcnhqTlVacmRvQTNVMkVkeE9iVXp0Y0daUVdPSjgzWTVFdg?oc=5",
+      "domain": "eppo.europa.eu",
+      "publisher": "The independent public prosecution office of the EU",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Spain: President of association of beekeepers in Canary Islands convicted of subsidy fraud The independent public prosecution office of the EU"
+    }
+  ]
+}
