@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-justice-gta6-musica-original",
+  "source_event_id": "02-9ca0105fc88ef119",
+  "created_at": "2026-10-15T21:32:00Z",
+  "headline": "Rockstar confirma que Justice compuso la música original de GTA VI",
+  "caption": "Justice compuso la música original de Grand Theft Auto VI, según confirmó Rockstar Games este 15 de octubre.\n\nEl dúo francés también presentó «Flower in a Hurricane», la canción del nuevo tráiler, con Tame Impala, SZA y King Gizzard & The Lizard Wizard.\n\nLa música original que acompaña las escenas del juego no es lo mismo que todas las canciones de sus emisoras. Rockstar dará más detalles sobre ese trabajo.\n\nGTA VI tiene previsto estrenarse el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S. El juego aún no ha salido.\n\nDesliza para conocer a los artistas y qué se confirmó.\n\nFuentes: Rockstar Games, Pitchfork y SPIN (15/10/2026).\nFoto de archivo: Simon Fernandez / CC BY 2.0 (recorte).\n\n#KMXRadar #Videojuegos #GTA6 #RockstarGames #TameImpala",
+  "images": [
+    {
+      "path": "01-justice-musica-gta6.png",
+      "alt_text": "Fotografía real de archivo de Justice, tomada en 2007, con el anuncio confirmado de su trabajo musical para Grand Theft Auto VI."
+    },
+    {
+      "path": "02-justice-invitados.png",
+      "alt_text": "Imagen informativa que anuncia la canción «Flower in a Hurricane» de Justice con Tame Impala, SZA y King Gizzard & The Lizard Wizard."
+    },
+    {
+      "path": "03-que-musica-hizo.png",
+      "alt_text": "Comparación entre la música original creada para GTA VI por Justice y las canciones de otros artistas que se escucharán en sus emisoras."
+    },
+    {
+      "path": "04-cancion-del-trailer.png",
+      "alt_text": "Tarjeta que indica que «Flower in a Hurricane» aparece en el tráiler de lanzamiento y el álbum oficial de GTA VI."
+    },
+    {
+      "path": "05-fecha-prevista.png",
+      "alt_text": "Tarjeta sobre el estreno previsto de GTA VI el 19 de noviembre de 2026 para PlayStation 5 y Xbox Series X|S."
+    },
+    {
+      "path": "06-que-sigue.png",
+      "alt_text": "Resumen que indica que Rockstar ofrecerá más información sobre el álbum de música original de GTA VI."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Rockstar Games · confirmación oficial, 15/10/2026",
+      "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer"
+    },
+    {
+      "label": "Pitchfork · verificación periodística, 15/10/2026",
+      "url": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi"
+    },
+    {
+      "label": "SPIN · verificación musical, 15/10/2026",
+      "url": "https://www.spinmagazine.com/2026/10/justice-gta-vi-soundtrack/"
+    },
+    {
+      "label": "NME · corroboración independiente, 15/10/2026",
+      "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
+    },
+    {
+      "label": "Wikimedia Commons · fotografía de Justice, CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Justice_(band).jpg"
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}
