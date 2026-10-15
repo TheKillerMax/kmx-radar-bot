@@ -1,0 +1,30 @@
+{
+  "event_id": "12-629d59dea708aefe",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Juez afirma que el veto a la prensa impuesto por Trump probablemente viola la Primera Enmienda - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Juez afirma que el veto a la prensa impuesto por Trump probablemente viola la Primera Enmienda - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDgyLUZyUUU2QjZETGwyMFBLREVlejQ5NDhWbEZXcmRnbHA2TjRKYXZCVWFQeVlqdldYbFJOalI4blBJRndsZDdlVDRsUWFpMWxaa2hBeU5SQngxTGJnZExHMFhHSUc1LU1Mb0VIOEZkcVB3aWU4V21kLVRSR01EcVl4ZDVDUXF2Vnc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 18:19:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Juez afirma que el veto a la prensa impuesto por Trump probablemente viola la Primera Enmienda CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

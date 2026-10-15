@@ -1,0 +1,28 @@
+{
+  "event_id": "08-caf614f8ee0c616d",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Mexico and the EU kick off High-Level Dialogue on Health to advance common health priorities - European Commission",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ec.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Mexico and the EU kick off High-Level Dialogue on Health to advance common health priorities - European Commission",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WYjNxQnZyYmxYbkJaSnJhVmk1NWJydEh1SmFicVlfU0VYelJVeDkxR29CN3VoU1RJU3hPSXpQeTdMN0N1b0hZamk0RHVTd3E2QzNMc3l0c0hoSmhwN0hiYi00Y1YxQ2hENnpSUGlR?oc=5",
+      "domain": "ec.europa.eu",
+      "publisher": "European Commission",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 05:25:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Mexico and the EU kick off High-Level Dialogue on Health to advance common health priorities European Commission"
+    }
+  ]
+}
