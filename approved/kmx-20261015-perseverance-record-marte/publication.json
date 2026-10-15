@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-perseverance-record-marte",
+  "source_event_id": "06-0bbf0bfa4fb6d2ff",
+  "created_at": "2026-10-15T03:30:22Z",
+  "ai_generated": true,
+  "headline": "El vehículo Perseverance bate el récord de distancia recorrida fuera de la Tierra",
+  "caption": "El vehículo explorador Perseverance de la NASA recorrió 45,22 kilómetros sobre Marte y batió un récord que tenía otro vehículo de la agencia.\n\nEl 11 de octubre de 2026 superó los 45,16 kilómetros de Opportunity. Perseverance tardó unos cinco años y medio en alcanzar esa distancia; Opportunity necesitó casi quince.\n\nMás del 90 % de su recorrido se hizo con un sistema que le permite detectar obstáculos y elegir el camino mientras avanza. El récord no pone fin a la misión: el vehículo seguirá estudiando rocas marcianas para conocer cómo era ese planeta hace miles de millones de años.\n\nDesliza para ver cuánto avanzó y cómo logra conducir tan lejos.\n\nFuentes: NASA/JPL (12/10/2026), Reuters (13/10/2026) y Space.com.\n\n#KMXRadar #ExploraciónEspacial #Perseverance #Marte #NASA",
+  "images": [
+    {
+      "path": "01-record-perseverance.png",
+      "alt_text": "Foto auténtica tomada por la cámara de navegación de Perseverance en Marte el 11 de octubre de 2026. El titular informa que el vehículo de la NASA batió el récord de distancia recorrida fuera de la Tierra con 45,22 kilómetros."
+    },
+    {
+      "path": "02-supera-a-opportunity.png",
+      "alt_text": "Gráfico comparativo con dos barras: Perseverance recorrió 45,22 kilómetros y superó a Opportunity, que había alcanzado 45,16 kilómetros sobre Marte."
+    },
+    {
+      "path": "03-dos-misiones.png",
+      "alt_text": "Comparación de duración: Perseverance recorrió esa distancia en cinco años y medio; Opportunity necesitó casi quince años."
+    },
+    {
+      "path": "04-camino-en-marte.png",
+      "alt_text": "Mapa real de la NASA con la ruta de Perseverance desde su llegada en 2021 hasta el récord del 11 de octubre de 2026, rotulado como cartografía oficial."
+    },
+    {
+      "path": "05-conduce-solo.png",
+      "alt_text": "Diagrama informativo que explica que Perseverance reconoce obstáculos y calcula rutas con cámaras y programas de navegación, mientras el equipo en Tierra define los objetivos."
+    },
+    {
+      "path": "06-que-sigue.png",
+      "alt_text": "Composición informativa: Perseverance sigue explorando las rocas del cráter Jezero y se dirige hacia nuevos lugares donde estudiar la historia del agua marciana."
+    }
+  ],
+  "sources": [
+    {
+      "label": "NASA/JPL · anuncio del récord, 12/10/2026",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"
+    },
+    {
+      "label": "NASA en español · récord de Perseverance",
+      "url": "https://ciencia.nasa.gov/sistema-solar/rover-perseverance-de-la-nasa-establece-record-de-distancia-recorrida-fuera-de-la-tierra/"
+    },
+    {
+      "label": "Reuters · confirmación independiente, 13/10/2026",
+      "url": "https://www.reuters.com/science/nasas-perseverance-rover-breaks-record-off-planet-driving-mars-2026-10-13/"
+    },
+    {
+      "label": "Space.com · cobertura independiente, 13/10/2026",
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
+    },
+    {
+      "label": "NASA/JPL · fotografía auténtica del 11/10/2026",
+      "url": "https://www.jpl.nasa.gov/images/pia26812-perseverance-navcam-image-marks-record-drive/"
+    },
+    {
+      "label": "NASA · ruta oficial de Perseverance",
+      "url": "https://science.nasa.gov/resource/perseverance-rover-path-animation-october-2026-update/"
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}
