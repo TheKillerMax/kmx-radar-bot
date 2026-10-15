@@ -1,0 +1,31 @@
+# El Líbano revocó la licencia del banco iraní Bank Saderat ante la presión de Estados Unidos - Infobae
+
+- Categoría: ECONOMÍA
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 2
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: infobae.com
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQjMyXzFpRWlVOC1GZjc0amo3VVJBd0Y0czRqdm5OelhDbWlVbDlRY3Vmc0dvWWtLUXJPeTNxVHN6T0lPUkQwMzVmVGlzNm1ta0dMUWQtc3pDaTMwenREOVd0VDNLSFJ4M3VFY0xlR2pLRWxXbkp6UzczRW94OGJjZVo0RGwxd1F1bHltQW1oUkxScmpkLUVvam1EUGRNcWxzcTRTcFZpSTRTa0xyLXlzZGQzeXlYNVBUa0V0QTFnMEJXczQ3X0hQajA0alVKcHF6Wng0ZzB0VGfSAfMBQVVfeXFMT2doZWdwLWI3T0lfZmtrYmtqY1FsRjZqSTk5WlpGRGdLTGtOV01KUWdkWk5zajN0dlNRdDRZb2Q0SHJTVUtNYVVZVUdFWkM2Y3NzTFkwejZseXFfUFIxOGNVd1NfaG1aTllBV0xNR0ZBZzF4N3YyQWE3UVBFREo3OXByenp6ZnJkejh3SnNFREtKaUxLUFN3RXMzMjRyQ0pTMExBRWplOXNhTWpveWdTaHhqSlJTYmd0Ri1DWDRWUHBzWXMtU3ZqbDRTY013NDd6UXZyNXB5Mlp5ZE92WWNPVW5ZQ1RHZlctYnJsbXpDYjhjaUU4?oc=5
+- Título: El Líbano revocó la licencia del banco iraní Bank Saderat ante la presión de Estados Unidos - Infobae
+- Fecha detectada: Thu, 15 Oct 2026 21:07:00 GMT
+
+El Líbano revocó la licencia del banco iraní Bank Saderat ante la presión de Estados Unidos Infobae
+
+### Fuente 2: infobae.com
+- URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc0JaOE9DSkYzbG00bWpLX1RpamNPWmRoZVR4a3ZLd1JkY0pJV2txQkxTUTRield0QTN1YVZ2MEkxbkVZN3AwVnlSWlp5Vjk4aDdnQVo5dTd4dWdkZU04dmxCVG1uVGRsZGVXemd2OXhqVEt0Zm1vYTZtRlpvY1g2RGlPQTRoOTEtVWxEUjg4cFF2NkpDNDlCVGJUOGJGc0pRQWVtOHctRjRfN3FmLUE5Ui1RWkZiQXpIeUtJdUZWLVdhbTVQU0d6OFVOSENPYTFEdllLTC1PdnlfVWdET2pIX0prNmg5dUtfNURMOUJ1S21qSzcyZnd1VNIB-AFBVV95cUxOc0JaOE9DSkYzbG00bWpLX1RpamNPWmRoZVR4a3ZLd1JkY0pJV2txQkxTUTRield0QTN1YVZ2MEkxbkVZN3AwVnlSWlp5Vjk4aDdnQVo5dTd4dWdkZU04dmxCVG1uVGRsZGVXemd2OXhqVEt0Zm1vYTZtRlpvY1g2RGlPQTRoOTEtVWxEUjg4cFF2NkpDNDlCVGJUOGJGc0pRQWVtOHctRjRfN3FmLUE5Ui1RWkZiQXpIeUtJdUZWLVdhbTVQU0d6OFVOSENPYTFEdllLTC1PdnlfVWdET2pIX0prNmg5dUtfNURMOUJ1S21qSzcyZnd1VA?oc=5
+- Título: Líbano revoca la licencia a uno de los mayores bancos de Irán ante la presión estadounidense - Infobae
+- Fecha detectada: Thu, 15 Oct 2026 18:18:15 GMT
+
+Líbano revoca la licencia a uno de los mayores bancos de Irán ante la presión estadounidense Infobae
+
+### Fuente 3: democrata.es
+- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXROTFI5MWdPZWZ3TndyVHg5dWI0ZVU5cXdVVVo5UDdPQkRQNS1sS1RMX1AwRE1OSDhOTkNSVDZvb0hBUi1uck1HVnNsWlBjcjdEYzYyZHJPazB3M2ZoTzc1ZFRucWs2cjI3dFZMdTZvbk50eUlscld4a2ZsRnI2Qi00Ty1ZV2xHazdWNWNrTGJiSDY2T3IxcjZESExrR3BGSFN5YVl6LUxmbTNtaTRqM3BWUFV1bjRJZkHSAboBQVVfeXFMTXl0TkxSOTFnT2Vmd053clR4OXViNGVVOXF3VVVaOVA3T0JEUDUtbEtUTF9QMERNTkg4Tk5DUlQ2b29IQVItbnJNR1ZzbFpQY3I3RGM2MmRyT2swdzNmaE83NWRUbnFrNnIyN3RWTHU2b25OdHlJbHJXeGtmbEZyNkItNE8tWVdsR2s3VjVja0xiYkg2Nk9yMXI2REhMa0dwRkhTeWFZei1MZm0zbWk0ajNwVlBVdW40SWZB?oc=5
+- Título: Líbano cancela la licencia de un gran banco iraní presionado por Estados Unidos - Demócrata
+- Fecha detectada: Thu, 15 Oct 2026 17:52:35 GMT
+
+Líbano cancela la licencia de un gran banco iraní presionado por Estados Unidos Demócrata
