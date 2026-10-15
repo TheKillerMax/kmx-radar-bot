@@ -1,14 +1,14 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-14T23:52:44Z",
-  "last_publication_id": "kmx-20261015-perseverance-record-marte",
-  "last_result": "publish_error",
+  "last_processed_generated_at": "2026-10-15T08:11:56Z",
+  "last_publication_id": "kmx-20261015-trudy-tormenta-mexico",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "Instagram publication failed; .ready retained for retry: get_account failed: HTTP 400; type='OAuthException'; code=190; subcode=0; message='Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.'; fbtrace_id='ArXRKw5-D3VJOF8lolLJ11i'",
+  "note": "Trudy: paquete editorial confirmado en main. Revisar aviso meteorológico más reciente antes de crear las imágenes. Incidencia previa: publicación de Perseverance pendiente por autorización de Instagram.",
   "pending_manifest_generated_at": null,
   "pending_publication_id": null,
-  "phase": "publish_error",
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "06-0bbf0bfa4fb6d2ff",
-  "visuals_completed_at": "2026-10-15T04:37:11Z"
+  "source_event_id": "04-ca112c69dc4c3e0f",
+  "visuals_completed_at": null
 }
