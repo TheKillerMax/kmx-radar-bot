@@ -1,0 +1,28 @@
+{
+  "event_id": "11-57393e76a17fbd81",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "A blood-pressure drug may activate health-promoting brown fat - National Institutes of Health (NIH) | (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nih.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "A blood-pressure drug may activate health-promoting brown fat - National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV9zeUFJSllfNUs4NUZfc3ZuTnpwT3Jmc0tBU1lTcy02ZkdrX2ZWMFJMNkFmb3llM2JNREFTSWs5aVN0eEJMempDTmM5VUhIVVZzM1MyT1dHY0JTcHlDSjlNbmlPMHpNQmZ0Sk5sNXg5R00tcVdYVzJTNnFHYzk1MC0tdmIzaDJsazFURjBLMmZUSk5tbkpLMkVoU01KSXlVcTQ4d2hnZTE?oc=5",
+      "domain": "nih.gov",
+      "publisher": "National Institutes of Health (NIH) | (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 15:05:07 GMT",
+      "primary_hint": false,
+      "excerpt": "A blood-pressure drug may activate health-promoting brown fat National Institutes of Health (NIH) | (.gov)"
+    }
+  ]
+}

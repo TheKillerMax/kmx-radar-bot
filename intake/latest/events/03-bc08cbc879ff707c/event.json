@@ -1,0 +1,40 @@
+{
+  "event_id": "03-bc08cbc879ff707c",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Investigadores de la UPV desarrollan un sistema de IA que ayuda a detectar sexismo en videos y memes de TikTok - Cadena SER",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cadenaser.com",
+    "ruvid.org"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Desarrollan un sistema de IA que ayuda a detectar sexismo en videos y memes de TikTok - Ruvid",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWNpOVRxdGdDUjdueDU3RWhvaF9qZy1FS090dUFXU1lJNFdHVG1iQVpDZHBYS2FncmZaaF9Md0gtUjRGc2FPV2wyV21QM3JiU3RlWEpHSTRtcTlVVlRaMGY2SW9RQ1RjXzg0eFVOcU5JVjlYZEdxS1JHNTZPUktQdm83R0FoZXhfQmpzNzR0alFQcTFndGNXQjVBTEJUOUZXX3lLb01Ncw?oc=5",
+      "domain": "ruvid.org",
+      "publisher": "Ruvid",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 07:54:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Desarrollan un sistema de IA que ayuda a detectar sexismo en videos y memes de TikTok Ruvid"
+    },
+    {
+      "title": "Investigadores de la UPV desarrollan un sistema de IA que ayuda a detectar sexismo en videos y memes de TikTok - Cadena SER",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTV9Qckp3NlYyLWJRM21HT2dJcUpKOWZrUWNmMEJLdVl2NGt1UWhnTTU5TlA3UkphMEJxSmNiWndfbGZiMVVESXVkLVpTYngyUi16TnNUZE9nRlE2UXh4Z3RvLU9uT2lpaENFcHI3azYxUXRuZ3M4MUR5RW9nbDFqOG1Db3lYc3p1WkQxUHViWUlXM1hBbnV1VmwxWWplRFZhQjl0WVp5dlZwa1g5UWdEWmRpMnlKLTlKR1NtOWhfUXJ6OFVhNTlmQXNRek9Fc1lSaEYxQXdEQ3Eza3hRbmJieFJBTFFIS2UzZDJObHNJNjBaZ2FjWXNEMTRfQmh5RGtacUhxbWJDVUxmekFM0gGgAkFVX3lxTE8xd09jbHAzclVzZE5Xbk50Q0p5RVVLdXdjZDNsQWFGUHZFUmpkQzJHZFdLSk8tX3NzLXFWbUVsR1gxcHhJMGxpQVYxNjdPbGMtODBZQUJ6Ui1KSTZDUW12UHpuTVo0TWVmQm84SHBEZ19qMGlldWYxb3VqNnZXNm9fUTE4RGYyNUZGcU5NdDFpRldmcm5NUHlDQUQ4bTdjcG80TThlVkFNbVdReG82V3pwcWNfSkUxQXRYQU0zLVhyRVpMQ0FnOXBZSXVjaDlWbkJtU3lfT0V6b1BzQnZCX1BXZzdWLUt1M0pvOXM4a25TQUs5NmxsbXRqMEFaR1FjMDBVYUplcGIzWHQyY2xYNElESEVLMEZUeDg0VzM4bENjMg?oc=5",
+      "domain": "cadenaser.com",
+      "publisher": "Cadena SER",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 08:37:10 GMT",
+      "primary_hint": false,
+      "excerpt": "Investigadores de la UPV desarrollan un sistema de IA que ayuda a detectar sexismo en videos y memes de TikTok Cadena SER"
+    }
+  ]
+}
