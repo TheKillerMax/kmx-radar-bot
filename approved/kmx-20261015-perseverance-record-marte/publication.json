@@ -1,6 +1,6 @@
 {
   "ai_generated": true,
-  "caption": "El vehículo explorador Perseverance de la NASA recorrió 45,22 kilómetros sobre Marte y batió un récord que tenía otro vehículo de la agencia.\n\nEl 11 de octubre de 2026 superó los 45,16 kilómetros de Opportunity. Perseverance tardó unos cinco años y medio en alcanzar esa distancia; Opportunity necesitó casi quince.\n\nMás del 90 % de su recorrido se hizo con un sistema que le permite detectar obstáculos y elegir el camino mientras avanza. El récord no pone fin a la misión: el vehículo seguirá estudiando rocas marcianas para conocer cómo era ese planeta hace miles de millones de años.\n\nDesliza para ver cuánto avanzó y cómo logra conducir tan lejos.\n\nFuentes: NASA/JPL (12/10/2026), Reuters (13/10/2026) y Space.com.\n\n#KMXRadar #ExploraciónEspacial #Perseverance #Marte #NASA",
+  "caption": "El vehículo explorador Perseverance de la NASA recorrió 45,22 kilómetros sobre Marte y batió un récord que tenía otro vehículo de la agencia.\n\nEl 11 de octubre de 2026 superó los 45,16 kilómetros de Opportunity. Perseverance tardó unos cinco años y medio en alcanzar esa distancia; Opportunity necesitó casi quince.\n\nMás del 90 % de su recorrido se hizo con un sistema que le permite detectar obstáculos y elegir el camino mientras avanza. El récord no pone fin a la misión: el vehículo seguirá estudiando rocas marcianas para conocer cómo era ese planeta hace miles de millones de años.\n\nDesliza para ver cuánto avanzó y cómo logra conducir tan lejos.\n\nFuentes: NASA/JPL (12/10/2026), Reuters (13/10/2026) y Space.com.\n\nCréditos visuales: Courtesy NASA/JPL-Caltech. Fotografías y mapa recortados y adaptados cromáticamente.\n\n#KMXRadar #Mars2020 #Perseverance #Marte #NASA",
   "created_at": "2026-10-15T03:30:22Z",
   "headline": "El vehículo Perseverance bate el récord de distancia recorrida fuera de la Tierra",
   "images": [
@@ -30,7 +30,7 @@
     }
   ],
   "publication_id": "kmx-20261015-perseverance-record-marte",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "06-0bbf0bfa4fb6d2ff",
   "sources": [
@@ -59,6 +59,6 @@
       "url": "https://science.nasa.gov/resource/perseverance-rover-path-animation-october-2026-update/"
     }
   ],
-  "status": "visuals_ready",
+  "status": "VERIFICADO",
   "visuals_completed_at": "2026-10-15T04:37:11Z"
 }
