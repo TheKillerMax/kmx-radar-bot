@@ -1,0 +1,28 @@
+{
+  "event_id": "06-aa5148118c98ac92",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Doble uso, opacidad y disuasión: la inteligencia artificial y la erosión de la señalización estratégica - Ministerio de Defensa de España",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "defensa.gob.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Doble uso, opacidad y disuasión: la inteligencia artificial y la erosión de la señalización estratégica - Ministerio de Defensa de España",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm5kUHF1aWo2YkhuenhrY21nU2FGVDdCVUZiU2R5N0Q4QzNLbzQ1UGwwRUxNTDZUcUMyYWlsOWNaMlpSUG5pdjJZaE1OOVp1TmM3VXdLd2xGQ2dvaWZNRHJybDhyX1BnTE9mcElseWlobHFfU3VPU0QyV0lCcUxTUDBJbUlBT3BnOHlRZ0VKTWJITDlfcTd5dE1aV2ZNaV8xU2VSOGFXNF9ENGc?oc=5",
+      "domain": "defensa.gob.es",
+      "publisher": "Ministerio de Defensa de España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 12:40:19 GMT",
+      "primary_hint": false,
+      "excerpt": "Doble uso, opacidad y disuasión: la inteligencia artificial y la erosión de la señalización estratégica Ministerio de Defensa de España"
+    }
+  ]
+}

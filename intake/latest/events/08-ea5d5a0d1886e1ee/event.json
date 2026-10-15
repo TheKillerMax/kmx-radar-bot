@@ -1,0 +1,28 @@
+{
+  "event_id": "08-ea5d5a0d1886e1ee",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "La Gobernadora Sherrill y el Comisionado de Salud Washington reciben la vacuna anual contra la influenza y animan a los residentes a protegerse durante la temporada de virus respiratorio - NJ.gov",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nj.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La Gobernadora Sherrill y el Comisionado de Salud Washington reciben la vacuna anual contra la influenza y animan a los residentes a protegerse durante la temporada de virus respiratorio - NJ.gov",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RYzI4Mm43SUdqVGxKd3pRNUNObEJVUDV5bGdLT2RnNGZxdTQ2c1drd0xZNVhFSDdzOVVVaGhSenEwOU4wMGp0SERIalp2NVRPOXhQWG9hdE9QdWs4dWVtb1BqZGFmWlU?oc=5",
+      "domain": "nj.gov",
+      "publisher": "NJ.gov",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 20:02:13 GMT",
+      "primary_hint": false,
+      "excerpt": "La Gobernadora Sherrill y el Comisionado de Salud Washington reciben la vacuna anual contra la influenza y animan a los residentes a protegerse durante la temporada de virus respiratorio NJ.gov"
+    }
+  ]
+}
