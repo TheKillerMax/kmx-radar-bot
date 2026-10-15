@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-trudy-tormenta-mexico",
+  "generated_at": "2026-10-15",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Imagen real del satélite NOAA-20 captada el 13/10/2026. Es material de archivo, no la posición actual de Trudy. Derechos verificados. No se emplea material CIRA pendiente de revisión.",
+  "assets": [
+    {
+      "key": "trudy_noaa20_20261013",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Trudy_2026-10-13_2015Z.jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Trudy_2026-10-13_2015Z.jpg",
+      "original_creator": "NOAA/NESDIS · sensor VIIRS de NOAA-20 · NASA Worldview",
+      "created_at": "2026-10-13",
+      "license_or_permission": "Dominio público de EE. UU.: fotografía satelital obtenida por NOAA en funciones oficiales (PD-USGov-NOAA).",
+      "license_url": "https://oceanservice.noaa.gov/about/faq.html",
+      "attribution_required": true,
+      "attribution_text": "NOAA-20/VIIRS · NASA Worldview · 13/10/2026",
+      "local_path": "Descarga temporal durante el workflow de GitHub Actions",
+      "retrieved_at": "2026-10-15",
+      "notes": "La ficha de Wikimedia Commons verifica imagen satelital real, procedencia y dominio público. Debe figurar ARCHIVO en cada imagen. No se usa como representación actual de Trudy, ni se sugiere respaldo de NOAA."
+    }
+  ]
+}

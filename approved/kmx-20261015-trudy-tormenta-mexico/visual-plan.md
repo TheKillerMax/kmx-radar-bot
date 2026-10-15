@@ -1,12 +1,7 @@
-# Plan visual editorial — FASE 1
+# Plan visual actualizado — 15/10/2026
 
-Seis imágenes propuestas, 1080 × 1350 píxeles. El único logo es `assets/logo.png`, sin alteraciones. No se crean imágenes en esta fase. Textos visibles escritos en español Unicode NFC.
+El aviso 8 del NHC, emitido a las 09:00 UTC del 15 de octubre, confirmó que Trudy ya es huracán de categoría 1. El plan anterior del 14 de octubre quedó desactualizado. Fuente: https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP1%2Bhtml/150837.shtml
 
-1. **01-trudy-frente-mexico.png.** kicker: «MÉXICO · 14 DE OCTUBRE». title: «La tormenta Trudy se fortalece frente a México». body: «En el aviso del 14 de octubre seguía en el océano Pacífico y podía convertirse en huracán». footer: «NHC · 14/10/2026, 21:00». Fotografía satelital real del 13 de octubre solo si su licencia queda confirmada; en otro caso, diseño tipográfico propio.
-2. **02-trudy-ubicacion.png.** kicker: «¿DÓNDE ESTABA?». title: «A unos 510 kilómetros al sur de Acapulco». body: «Trudy era una tormenta tropical cuando se emitió el aviso». stat: «110 km/h». stat_label: «Vientos máximos sostenidos». footer: «Centro Nacional de Huracanes · 14/10, 21:00». Tarjeta de datos propia sin mapa comercial. Estas dos primeras imágenes explican el hecho sin contexto previo.
-3. **03-podria-ser-huracan.png.** kicker: «¿QUÉ PUEDE PASAR?». title: «Podría convertirse en huracán». body: «El pronóstico indicaba un fortalecimiento rápido, pero todavía no era una confirmación». footer: «Pronóstico del NHC · 14/10/2026».
-4. **04-lluvia-y-costa.png.** kicker: «¿POR QUÉ IMPORTA?». title: «La tormenta puede traer riesgos a las costas». bullets: «Lluvias intensas», «Oleaje peligroso», «Cambios en la trayectoria». body: «Sigue los avisos de tu localidad». footer: «Conagua · NHC».
-5. **05-ruta-no-fija.png.** kicker: «¿LLEGARÁ A TIERRA?». title: «La ruta todavía puede cambiar». body: «Un mapa del tiempo muestra una previsión, no una dirección garantizada». callout: «No se ha confirmado dónde tocará tierra». footer: «NHC · datos sujetos a actualización».
-6. **06-avisos-actualizados.png.** kicker: «¿DÓNDE CONSULTAR?». title: «Revisa los avisos oficiales». body: «Consulta al Servicio Meteorológico Nacional y a Protección Civil. Las condiciones cambian». footer: «NHC y Conagua · datos del 14/10/2026».
+Seis piezas de 1080 × 1350 píxeles: 1) cambio a huracán; 2) viento sostenido de 120 km/h; 3) unos 480 km al suroeste de Acapulco; 4) posible intensificación futura, siempre identificada como pronóstico; 5) riesgos previstos de lluvias y oleaje; 6) avisos oficiales.
 
-FASE 2 debe verificar el aviso más reciente, derechos de cada recurso y cada texto visible de `visuals.json`: kicker, title, body, bullets, callout, footer, stat_label y fuentes. Validar UTF-8 NFC, tildes, signos ¿ y ¡, fuentes, límites, márgenes, contraste, recortes, créditos y legibilidad móvil. Nunca generar fotografías o escenas sintéticas ni crear `.ready` o `.visualize` en FASE 1.
+Fondo documental de Trudy del 13 de octubre captado por NOAA-20/VIIRS, con rótulo ARCHIVO en las seis piezas. Logo único: assets/logo.png. Sin escenas sintéticas. Español Unicode NFC, una idea por pieza, cifras apiladas y desbordamiento bloqueante.

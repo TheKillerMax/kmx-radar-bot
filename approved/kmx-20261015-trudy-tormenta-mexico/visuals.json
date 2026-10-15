@@ -1,0 +1,116 @@
+{
+  "theme": {
+    "name": "trudy-octubre-2026",
+    "background": "#081F31",
+    "panel": "#123B51",
+    "accent": "#5CF3DA",
+    "accent2": "#9CD5F8",
+    "warm": "#FFD18B",
+    "text": "#FFFFFF",
+    "muted": "#E4EDF4"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "trudy_noaa20_20261013": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Trudy_2026-10-13_2015Z.jpg",
+      "credit": "ARCHIVO · NOAA-20/VIIRS · NASA Worldview · 13/10/2026"
+    }
+  },
+  "slides": [
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 1,
+      "kicker": "MÉXICO · 15 DE OCTUBRE",
+      "title": "Trudy ya es huracán de categoría 1",
+      "body": "El NHC confirmó el cambio a las 09:00 UTC.",
+      "file": "01-trudy-frente-mexico.png",
+      "alt_text": "Imagen satelital real de Trudy del 13 de octubre de 2026, rotulada ARCHIVO, con el anuncio de que llegó a huracán de categoría 1 el 15 de octubre."
+    },
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 2,
+      "kicker": "LA INTENSIDAD",
+      "title": "El viento alcanzó fuerza de huracán",
+      "stat": "120 km/h",
+      "stat_label": "VIENTOS MÁXIMOS SOSTENIDOS",
+      "body": "Dato del aviso 8 del NHC.",
+      "file": "02-trudy-ubicacion.png",
+      "alt_text": "Imagen satelital de archivo de Trudy con la cifra de 120 kilómetros por hora de vientos máximos sostenidos, según el NHC el 15 de octubre."
+    },
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 3,
+      "kicker": "¿DÓNDE ESTABA?",
+      "title": "Sigue sobre el Pacífico",
+      "stat": "480 km",
+      "stat_label": "AL SUROESTE DE ACAPULCO",
+      "body": "Avanzaba al noroeste a unos 15 km/h.",
+      "file": "03-podria-ser-huracan.png",
+      "alt_text": "Imagen de Trudy captada por el satélite NOAA-20 el 13 de octubre, rotulada ARCHIVO, con la ubicación aproximada reportada el 15 de octubre."
+    },
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 4,
+      "kicker": "¿QUÉ PUEDE PASAR?",
+      "title": "Podría ser un huracán mayor el viernes",
+      "body": "Es un pronóstico del NHC, no una certeza.",
+      "callout": "El lugar de impacto no está confirmado.",
+      "file": "04-lluvia-y-costa.png",
+      "alt_text": "Fotografía satelital de archivo de Trudy y un texto sobre el pronóstico de posible intensificación a huracán mayor, todavía incierto."
+    },
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 5,
+      "kicker": "RIESGOS PREVISTOS",
+      "title": "Lluvia, oleaje y cambios de ruta",
+      "bullets": [
+        "Lluvias intensas previstas",
+        "Oleaje y corrientes peligrosas",
+        "Trayectoria sujeta a cambios"
+      ],
+      "file": "05-ruta-no-fija.png",
+      "alt_text": "Imagen satelital de archivo de Trudy y una lista sobre posibles lluvias, oleaje peligroso y cambios de trayectoria."
+    },
+    {
+      "photo": "trudy_noaa20_20261013",
+      "archive": true,
+      "footer": "AVISO NHC 8 · 15/10/2026 · 09:00 UTC",
+      "sources": [
+        "NHC · 15/10/2026"
+      ],
+      "n": 6,
+      "kicker": "¿QUÉ HACER?",
+      "title": "Consulta avisos oficiales",
+      "body": "Sigue al Servicio Meteorológico Nacional, Conagua y Protección Civil.",
+      "callout": "La situación puede cambiar en pocas horas.",
+      "file": "06-avisos-actualizados.png",
+      "alt_text": "Fotografía satelital real de Trudy del 13 de octubre, con recomendación de consultar los avisos vigentes de autoridades meteorológicas y de Protección Civil."
+    }
+  ]
+}

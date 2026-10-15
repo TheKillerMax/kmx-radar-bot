@@ -3,46 +3,46 @@
   "publication_id": "kmx-20261015-trudy-tormenta-mexico",
   "source_event_id": "04-ca112c69dc4c3e0f",
   "created_at": "2026-10-15T09:36:00Z",
-  "headline": "Trudy se fortalece frente a México: sigue siendo tormenta tropical",
-  "caption": "La tormenta tropical Trudy se fortalece en el Pacífico, al sur de México.\n\nEl Centro Nacional de Huracanes informó que a las 21:00 del 14 de octubre estaba a unos 510 kilómetros al sur de Acapulco y tenía vientos sostenidos de 110 km/h. Trudy seguía siendo una tormenta tropical. Los especialistas preveían que pudiera convertirse en huracán, pero el pronóstico no confirma dónde tocará tierra.\n\nLas lluvias y el oleaje pueden representar riesgos. Consulta los avisos actuales del Servicio Meteorológico Nacional y de Protección Civil. Las cifras de este post corresponden al aviso del 14 de octubre y pueden quedar desactualizadas.\n\nDesliza para conocer lo ocurrido y lo que sigue.\n\nFuentes: Centro Nacional de Huracanes, Conagua y El País México (octubre de 2026).\n\n#KMXRadar #TormentaTropical #Trudy #Oaxaca #Guerrero",
+  "headline": "Trudy ya es huracán de categoría 1 frente a México",
+  "caption": "Trudy se intensificó a huracán de categoría 1 frente al Pacífico mexicano.\n\nSegún el aviso 8 del Centro Nacional de Huracanes (NHC), emitido el 15 de octubre de 2026 a las 09:00 UTC, el centro se encontraba a unos 480 kilómetros al suroeste de Acapulco, con vientos máximos sostenidos de 120 km/h. Avanzaba hacia el noroeste a unos 15 km/h.\n\nEl NHC pronostica que podría convertirse en un huracán mayor el viernes y aproximarse al suroeste y centro-oeste de México durante el fin de semana. También prevé lluvias de unos 100 a 200 milímetros en Colima y Jalisco. Son previsiones, no hechos confirmados ni daños registrados.\n\nConsulta los avisos vigentes del Servicio Meteorológico Nacional y de Protección Civil. Las cifras corresponden a las 09:00 UTC del 15 de octubre y pueden cambiar rápidamente.\n\nDesliza para conocer la situación y las recomendaciones.\n\nFuentes: NHC, aviso 8 del 15 de octubre; Associated Press, 15 de octubre; Conagua.\n\n#KMXRadar #HuracánTrudy #Trudy #México #ProtecciónCivil",
   "images": [
     {
       "path": "01-trudy-frente-mexico.png",
-      "alt_text": "Trudy se fortalece en el Pacífico frente a México, según un aviso del 14 de octubre."
+      "alt_text": "Imagen satelital real de Trudy del 13 de octubre de 2026, rotulada ARCHIVO, con el anuncio de que llegó a huracán de categoría 1 el 15 de octubre."
     },
     {
       "path": "02-trudy-ubicacion.png",
-      "alt_text": "El 14 de octubre la tormenta Trudy estaba a unos 510 kilómetros al sur de Acapulco y tenía vientos sostenidos de 110 kilómetros por hora."
+      "alt_text": "Imagen satelital de archivo de Trudy con la cifra de 120 kilómetros por hora de vientos máximos sostenidos, según el NHC el 15 de octubre."
     },
     {
       "path": "03-podria-ser-huracan.png",
-      "alt_text": "Pronóstico de posible intensificación de la tormenta Trudy a huracán, todavía sin confirmar."
+      "alt_text": "Imagen de Trudy captada por el satélite NOAA-20 el 13 de octubre, rotulada ARCHIVO, con la ubicación aproximada reportada el 15 de octubre."
     },
     {
       "path": "04-lluvia-y-costa.png",
-      "alt_text": "Infografía sobre posibles riesgos de lluvia y oleaje relacionados con la tormenta tropical."
+      "alt_text": "Fotografía satelital de archivo de Trudy y un texto sobre el pronóstico de posible intensificación a huracán mayor, todavía incierto."
     },
     {
       "path": "05-ruta-no-fija.png",
-      "alt_text": "La trayectoria prevista de Trudy puede cambiar y no confirma dónde llegará a tierra."
+      "alt_text": "Imagen satelital de archivo de Trudy y una lista sobre posibles lluvias, oleaje peligroso y cambios de trayectoria."
     },
     {
       "path": "06-avisos-actualizados.png",
-      "alt_text": "Consejo de consultar los avisos del Servicio Meteorológico Nacional y de Protección Civil."
+      "alt_text": "Fotografía satelital real de Trudy del 13 de octubre, con recomendación de consultar los avisos vigentes de autoridades meteorológicas y de Protección Civil."
     }
   ],
   "sources": [
     {
-      "label": "NHC · aviso 7 del 14 de octubre",
-      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP1%2Bhtml/212045.shtml"
+      "label": "NHC · aviso 8, 15/10/2026, 09:00 UTC",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP1%2Bhtml/150837.shtml"
     },
     {
-      "label": "Conagua · 13 de octubre",
+      "label": "Associated Press · 15/10/2026",
+      "url": "https://apnews.com/article/hurricane-trudy-mexico-pacific-6eb987f5a1ef914582d95b07fce244da"
+    },
+    {
+      "label": "Conagua · formación, 13/10/2026",
       "url": "https://www.gob.mx/conagua/prensa/se-formo-la-tormenta-tropical-trudy-a-partir-de-la-depresion-tropical-veintiuno-e-en-el-oceano-pacifico"
-    },
-    {
-      "label": "El País México · 14 de octubre",
-      "url": "https://elpais.com/mexico/2026-10-14/la-tormenta-tropical-trudy-se-incorpora-al-camino-de-huracanes-del-pacifico-mexicano.html"
     }
   ],
   "ready_to_publish": false,
