@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-perseverance-record-marte",
+  "generated_at": "2026-10-15",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Dos materiales documentales auténticos de NASA/JPL-Caltech. La fotografía Navcam fue captada el día del récord, 11/10/2026; el mapa orbital documenta la ruta a esa fecha y es una cartografía, no una fotografía. Los recortes y el tratamiento cromático no alteran los hechos. La política JPL exige atribución, excluye marcas NASA/JPL y prohíbe insinuar respaldo institucional. Sin material de agencias comerciales ni imágenes generadas por IA.",
+  "assets": [
+    {
+      "key": "navcam_20261011",
+      "source_url": "https://www.jpl.nasa.gov/images/pia26812-perseverance-navcam-image-marks-record-drive/",
+      "direct_url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/PIA26812.png",
+      "original_creator": "NASA/JPL-Caltech (cámara de navegación de Perseverance)",
+      "created_at": "2026-10-11",
+      "license_or_permission": "Política de uso de imágenes JPL: uso informativo permitido sin autorización previa, sujeto a excepciones; obra acreditada a NASA/JPL-Caltech.",
+      "license_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "attribution_required": true,
+      "attribution_text": "Courtesy NASA/JPL-Caltech",
+      "local_path": "Temporal durante el renderizado de GitHub Actions",
+      "retrieved_at": "2026-10-15",
+      "notes": "PIA26812; fotografía genuina del 11/10/2026, sol 2006. No contiene personas o logotipos de NASA como elemento decorativo. Recorte y oscurecimiento informativo."
+    },
+    {
+      "key": "mapa_20261011",
+      "source_url": "https://science.nasa.gov/resource/perseverance-rover-path-animation-october-2026-update/",
+      "direct_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/Perseverance_Record-Setting_Rover_Path_October_11_2026.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1079&w=1920",
+      "original_creator": "NASA/JPL-Caltech (cartografía orbital oficial)",
+      "created_at": "2026-10-14",
+      "license_or_permission": "Reutilización editorial de imagen institucional NASA/JPL-Caltech de su recorrido oficial; atribuida a NASA/JPL-Caltech y sujeta a la política de uso JPL, sin respaldo institucional.",
+      "license_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "attribution_required": true,
+      "attribution_text": "Courtesy NASA/JPL-Caltech",
+      "local_path": "Temporal durante el renderizado de GitHub Actions",
+      "retrieved_at": "2026-10-15",
+      "notes": "Mapa orbital oficial del recorrido a 11/10/2026; imagen estática del recurso NASA del 14/10/2026. Usada recortada por el formato vertical; no presentarla como fotografía."
+    }
+  ]
+}

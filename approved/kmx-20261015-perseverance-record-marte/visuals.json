@@ -1,0 +1,122 @@
+{
+  "theme": {
+    "name": "marte-record-2026",
+    "background": "#101927",
+    "panel": "#17283A",
+    "accent": "#FFBD79",
+    "accent2": "#8BC9E9",
+    "warm": "#FFD49A",
+    "text": "#FFFFFF",
+    "muted": "#E5EDF4"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "navcam_20261011": {
+      "direct_url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/PIA26812.png",
+      "credit": "NASA/JPL-Caltech · imagen real del 11/10/2026"
+    },
+    "mapa_20261011": {
+      "direct_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/Perseverance_Record-Setting_Rover_Path_October_11_2026.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1079&w=1920",
+      "credit": "NASA/JPL-Caltech · mapa orbital real · recorte"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-record-perseverance.png",
+      "photo": "navcam_20261011",
+      "archive": false,
+      "kicker": "MARTE · 11/10/2026",
+      "title": "Perseverance bate el récord de distancia en Marte",
+      "stat": "45,22 km",
+      "stat_label": "DISTANCIA ACUMULADA FUERA DE LA TIERRA",
+      "body": "El vehículo de la NASA superó la marca de Opportunity.",
+      "footer": "IMAGEN REAL · PERSEVERANCE · 11/10/2026",
+      "sources": [
+        "NASA/JPL · 12/10/2026"
+      ],
+      "alt_text": "Fotografía auténtica del terreno de Marte captada por la cámara de navegación de Perseverance el 11 de octubre de 2026. Un recuadro destaca el récord de 45,22 kilómetros de distancia acumulada fuera de la Tierra."
+    },
+    {
+      "n": 2,
+      "file": "02-supera-a-opportunity.png",
+      "photo": "navcam_20261011",
+      "archive": false,
+      "kicker": "LA COMPARACIÓN",
+      "title": "Perseverance supera a Opportunity",
+      "stat": "60 m",
+      "stat_label": "DIFERENCIA APROXIMADA",
+      "body": "Perseverance: 45,22 km. Opportunity: 45,16 km.",
+      "callout": "Son distancias acumuladas, no velocidades.",
+      "footer": "COMPARACIÓN PROPIA · IMAGEN REAL DE MARTE",
+      "sources": [
+        "NASA/JPL · 12/10/2026"
+      ],
+      "alt_text": "Comparación textual sobre una imagen real del suelo de Marte captada en 2026: Perseverance recorrió 45,22 kilómetros y Opportunity 45,16 kilómetros. La diferencia redondeada es de unos 60 metros."
+    },
+    {
+      "n": 3,
+      "file": "03-dos-misiones.png",
+      "photo": "navcam_20261011",
+      "archive": false,
+      "kicker": "DOS MISIONES MARCIANAS",
+      "title": "Alcanzó la marca en menos tiempo",
+      "bullets": [
+        "Perseverance: unos 5 años y medio",
+        "Opportunity: casi 15 años"
+      ],
+      "body": "La comparación se refiere al tiempo necesario para sumar esa distancia.",
+      "footer": "DATOS NASA/JPL · IMAGEN REAL DE MARTE",
+      "sources": [
+        "NASA/JPL · 12/10/2026"
+      ],
+      "alt_text": "Tarjeta comparativa sobre una imagen real de Marte de 2026: Perseverance acumuló el recorrido récord en unos cinco años y medio, mientras Opportunity tardó casi quince años."
+    },
+    {
+      "n": 4,
+      "file": "04-camino-en-marte.png",
+      "photo": "mapa_20261011",
+      "archive": false,
+      "kicker": "¿DÓNDE CONDUJO?",
+      "title": "Su ruta por el cráter Jezero",
+      "body": "El mapa orbital documenta el recorrido desde su llegada en 2021 hasta el 11 de octubre de 2026.",
+      "footer": "RECORTE DE MAPA OFICIAL · NASA/JPL-CALTECH",
+      "sources": [
+        "NASA/JPL · 14/10/2026"
+      ],
+      "alt_text": "Recorte de un mapa orbital real de NASA/JPL-Caltech que representa la ruta de Perseverance por Marte hasta el 11 de octubre de 2026, marcada con una línea clara sobre el terreno del cráter Jezero."
+    },
+    {
+      "n": 5,
+      "file": "05-conduce-solo.png",
+      "photo": "navcam_20261011",
+      "archive": false,
+      "kicker": "¿CÓMO AVANZA?",
+      "title": "Esquiva obstáculos mientras conduce",
+      "stat": ">90 %",
+      "stat_label": "DEL RECORRIDO CON NAVEGACIÓN AUTÓNOMA",
+      "body": "Sus cámaras detectan obstáculos; el sistema calcula caminos entre puntos fijados desde la Tierra.",
+      "footer": "EXPLICACIÓN PROPIA · IMAGEN REAL DE MARTE",
+      "sources": [
+        "NASA/JPL · 12/10/2026"
+      ],
+      "alt_text": "Infografía textual sobre una fotografía real del terreno marciano de 2026. Explica que más del 90 % del recorrido de Perseverance utilizó navegación autónoma y que el equipo humano en Tierra define los destinos."
+    },
+    {
+      "n": 6,
+      "file": "06-que-sigue.png",
+      "photo": "navcam_20261011",
+      "archive": false,
+      "kicker": "¿QUÉ SIGUE?",
+      "title": "La misión continúa en Marte",
+      "body": "Perseverance seguirá estudiando rocas antiguas para reconstruir la historia del planeta.",
+      "callout": "El récord no significa que haya encontrado vida extraterrestre.",
+      "footer": "NASA/JPL · IMAGEN REAL DE MARTE",
+      "sources": [
+        "NASA/JPL · 12/10/2026"
+      ],
+      "alt_text": "Composición informativa sobre fotografía real de Marte tomada por Perseverance en octubre de 2026. El texto indica que la misión sigue estudiando rocas del planeta y que el récord de distancia no demuestra la existencia de vida extraterrestre."
+    }
+  ]
+}
