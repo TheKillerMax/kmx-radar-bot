@@ -2,13 +2,13 @@
   "last_media_id": "17987560875074159",
   "last_processed_generated_at": "2026-10-14T23:52:44Z",
   "last_publication_id": "kmx-20261015-perseverance-record-marte",
-  "last_result": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 1: paquete editorial completo en main; imágenes aún no producidas. Estado anterior visuals_ready corresponde a la publicación anterior.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
   "pending_manifest_generated_at": null,
   "pending_publication_id": null,
-  "phase": "editorial_ready_for_visuals",
+  "phase": "visuals_ready",
   "published_at": "2026-10-08T05:36:23Z",
   "source_event_id": "06-0bbf0bfa4fb6d2ff",
-  "visuals_completed_at": null
+  "visuals_completed_at": "2026-10-15T04:37:11Z"
 }
