@@ -1,14 +1,14 @@
 {
   "last_media_id": "17987560875074159",
-  "last_processed_generated_at": "2026-10-15T08:11:56Z",
-  "last_publication_id": "kmx-20261015-trudy-tormenta-mexico",
-  "last_result": "editorial_incomplete",
+  "last_processed_generated_at": "2026-10-15T19:03:16Z",
+  "last_publication_id": "kmx-20261015-justice-gta6-musica-original",
+  "last_result": "editorial_ready_for_visuals",
   "next_publish_retry_at": null,
-  "note": "FASE 1 2026-10-15T14:07:53Z: research.md está en main; publication.json bloqueado por los controles de la herramienta. Los otros tres archivos aún no se han creado. Recuperar el mismo publication_id. Nota previa: Visual Recovery 2026-10-15: el paquete editorial kmx-20261015-trudy-tormenta-mexico está completo en main, pero faltan approved/kmx-20261015-trudy-tormenta-mexico/visual-sources.json y visuals.json (también visual-qc.json). Ninguna rama phase2-* tiene material de esta publicación. Prepare KMX RADAR visuals (run 38722584621, 10:46 UTC) terminó correctamente, pero registró visual_markers=0 y 'No .visualize packages'; no existe entrada lista para renderizar. Visual Production debe revalidar el aviso meteorológico vigente de Trudy, generar 6 piezas con fuentes/derechos comprobados y Unicode NFC, y dejar los dos JSON completos en main para que GitHub cree .visualize y procese las imágenes. Antecedente ajeno a este paquete: Perseverance pendiente por autorización de Instagram.",
-  "pending_manifest_generated_at": "2026-10-15T14:07:53Z",
-  "pending_publication_id": "kmx-20261015-gta-vi-trailer-lanzamiento",
-  "phase": "editorial_incomplete",
+  "note": "FASE 1 actual, manifest 2026-10-15T19:03:16Z: paquete Justice/GTA VI completo, comprobado en main; sin publicación ni marcadores. Antecedente histórico sin cerrar (manifest 2026-10-15T14:07:53Z): investigación parcial del tráiler de GTA VI bajo kmx-20261015-gta-vi-trailer-lanzamiento; no generar duplicados. Visual Recovery 2026-10-15: el paquete editorial kmx-20261015-trudy-tormenta-mexico está completo en main, pero faltan approved/kmx-20261015-trudy-tormenta-mexico/visual-sources.json y visuals.json (también visual-qc.json). Ninguna rama phase2-* tiene material de esta publicación. Prepare KMX RADAR visuals (run 38722584621, 10:46 UTC) terminó correctamente, pero registró visual_markers=0 y 'No .visualize packages'; no existe entrada lista para renderizar. Visual Production debe revalidar el aviso meteorológico vigente de Trudy, generar 6 piezas con fuentes/derechos comprobados y Unicode NFC, y dejar los dos JSON completos en main para que GitHub cree .visualize y procese las imágenes. Antecedente ajeno a este paquete: Perseverance pendiente por autorización de Instagram.",
+  "pending_manifest_generated_at": null,
+  "pending_publication_id": null,
+  "phase": "editorial_ready_for_visuals",
   "published_at": "2026-10-08T05:36:23Z",
-  "source_event_id": "04-ca112c69dc4c3e0f",
+  "source_event_id": "02-9ca0105fc88ef119",
   "visuals_completed_at": null
 }
