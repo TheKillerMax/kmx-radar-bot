@@ -1,0 +1,105 @@
+{
+  "event_id": "11-62bf755db8669ee3",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Weather forecast for Villajoyosa for 16 October 2026 - todoalicante.es",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 8,
+  "rank_signal": 0.345,
+  "sources": [
+    {
+      "title": "Weather forecast for Villajoyosa for 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUE5zV0NXWUJUWWl4S3hhbHZpUEhpaUdsbmlyV2V3Mm5yUVkwNF9oMzA1cnNVa0xESkhjOFJJVWV5QUlQc2J6UGhTZllNbXVZM3F3MThaemh4M0RfWEl0VUE4OE4ySTdJWkttZ2JVN0dkQ1hPeU1abm1EY3hEQkR0N0tQMUUxcEIySTVKeUthWmpNMmlETWdJUkFR0gGaAUFVX3lxTE9QTnNXQ1dZQlRZaXhLeGFsdmlQSGlpR2xuaXJXZXcybnJRWTA0X2gzMDVyc1VrTERKSGM4UklVZXlBSVBzYnpQaFNmWU1tdVkzcXcxOFp6aHgzRF9YSXRVQTg4TjJJN0laS21nYlU3R2RDWE95TVpubURjeERCRHQ3S1AxRTFwQjJJNUp5S2Faak0yaURNZ0lSQVE?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:29:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Weather forecast for Villajoyosa for 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Alcoy weather forecast for 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3MyOGsweXQ2U0QtVGV5VG5nc2xuYnpXcHJJZGNjS3RvM3R3U1RzVVJKVjR3OGRZdU5nWGtsQzYyb2p5NjZGVjltRmlRV2NnZ0RFLTRPTy1OMUowRnYwb29oR3ZzTnRiRWhvaS1HWUdPMHRjWDluUVl2TFhtWEhhLWc4a0VGbG1jbk82TVVaYVN0d9IBkgFBVV95cUxQY3MyOGsweXQ2U0QtVGV5VG5nc2xuYnpXcHJJZGNjS3RvM3R3U1RzVVJKVjR3OGRZdU5nWGtsQzYyb2p5NjZGVjltRmlRV2NnZ0RFLTRPTy1OMUowRnYwb29oR3ZzTnRiRWhvaS1HWUdPMHRjWDluUVl2TFhtWEhhLWc4a0VGbG1jbk82TVVaYVN0dw?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:29:02 GMT",
+      "primary_hint": false,
+      "excerpt": "Alcoy weather forecast for 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Alicante weather forecast: 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmVwaldUSmcxRlRJS21ueTVHZXZuMlh5WjlNbmY0cDVUcUVUamtCMzhWdS1zWkV2VHR2bW5uSkQycUs5SXlNQm9PUUFNM2ZTT2Y1M3YzM0J4d3lKb1AxdVpDMjR4Wl8xbm9wLWw3TU1pUTVWc0FadHhpTXNrcVVlQngyaVl2aDUtOG02NjNRQkhrcHF5SVHSAZYBQVVfeXFMTU5lcGpXVEpnMUZUSUttbnk1R2V2bjJYeVo5TW5mNHA1VHFFVGprQjM4VnUtc1pFdlR0dm1ubkpEMnFLOUl5TUJvT1FBTTNmU09mNTN2MzNCeHd5Sm9QMXVaQzI0eFpfMW5vcC1sN01NaVE1VnNBWnR4aU1za3FVZUJ4MmlZdmg1LThtNjYzUUJIa3BxeUlR?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:28:52 GMT",
+      "primary_hint": false,
+      "excerpt": "Alicante weather forecast: 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Jávea weather forecast: 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWRGMmxkcGZRa1NMUnZSN3Q4NGlPVGNWMzZHNGZxOVk3WTRqY0VLRVhWVFNLUkdQSkNoNUZ3S2Z5MG9LbDBHVVBYT3VkcExQS1p4Y0hPcXhrZFAxTVE0bWtxaG5jay0xMFp3SGJqMTNHSzVnNXpWSmpicFRhSF9rSlhHYWJlUkZMOUVISkpOZVVFZ9IBkgFBVV95cUxPNWRGMmxkcGZRa1NMUnZSN3Q4NGlPVGNWMzZHNGZxOVk3WTRqY0VLRVhWVFNLUkdQSkNoNUZ3S2Z5MG9LbDBHVVBYT3VkcExQS1p4Y0hPcXhrZFAxTVE0bWtxaG5jay0xMFp3SGJqMTNHSzVnNXpWSmpicFRhSF9rSlhHYWJlUkZMOUVISkpOZVVFZw?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:29:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Jávea weather forecast: 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Weather forecast for Dénia: 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnJkcXZ0UnEtbk5zclJLS2xyWHhXWjJpSlI1NXIyMEZCQWVpTmlRUE9mMUFlYUlUZjVsS2xOMjFESFp6ZnRmYWZLODlCZ2tJeE5TbFA1YktsNjVZRGxUN1l3d2ZrdTFyQXpIR0RqNTZzb01BWWExcHlsXy03WHZmcjdLUC1CUXo2bTFHWW9QYmgxQdIBkgFBVV95cUxQRnJkcXZ0UnEtbk5zclJLS2xyWHhXWjJpSlI1NXIyMEZCQWVpTmlRUE9mMUFlYUlUZjVsS2xOMjFESFp6ZnRmYWZLODlCZ2tJeE5TbFA1YktsNjVZRGxUN1l3d2ZrdTFyQXpIR0RqNTZzb01BWWExcHlsXy03WHZmcjdLUC1CUXo2bTFHWW9QYmgxQQ?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:28:59 GMT",
+      "primary_hint": false,
+      "excerpt": "Weather forecast for Dénia: 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Elche: Weather forecast for 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHpHUlhCZnRtUzNpOEZoaFZheFp6a3lxZDc1VVdTM0VvRVdudnQxWDhKYjdsdEdFZFZXLUxXVGhISlpqM0JoOVVzdFcyckt0blVrSWZHMUowanNJNU5fM243VzNRbDJEYUFWR1Y2MUZjWnY2dWV1ajhIaG1lT09FVWdLR2Y3SnpQYTNWdDdVc1JaQdIBkgFBVV95cUxNaHpHUlhCZnRtUzNpOEZoaFZheFp6a3lxZDc1VVdTM0VvRVdudnQxWDhKYjdsdEdFZFZXLUxXVGhISlpqM0JoOVVzdFcyckt0blVrSWZHMUowanNJNU5fM243VzNRbDJEYUFWR1Y2MUZjWnY2dWV1ajhIaG1lT09FVWdLR2Y3SnpQYTNWdDdVc1JaQQ?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:28:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Elche: Weather forecast for 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Benidorm weather: 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkZvQ2xnV25YUmdzamVmSzVjbl95MkNhcUhLbjlya2xaNHMwdElCWElGRVdpQU5VQ0UzSnJibWVSaHM1eGhzV0hTcHhQTGJKUjRsTHh1VnNqbnozVE1icUxvbkcxS2JmcXNmUldFUU1OZzhUSG9tZkc2cXpQMzhRWi1fY3BBOVBXdGtjci1Pb2lVdFRT0gGUAUFVX3lxTFA2Rm9DbGdXblhSZ3NqZWZLNWNuX3kyQ2FxSEtuOXJrbFo0czB0SUJYSUZFV2lBTlVDRTNKcmJtZVJoczV4aHNXSFNweFBMYkpSNGxMeHVWc2puejNUTWJxTG9uRzFLYmZxc2ZSV0VRTU5nOFRIb21mRzZxelAzOFFaLV9jcEE5UFd0a2NyLU9vaVV0VFM?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:29:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Benidorm weather: 16 October 2026 todoalicante.es"
+    },
+    {
+      "title": "Torrevieja weather forecast for 16 October 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjM2ZTNGX0E4UUFVTVVpUFJDZGtvbEZlNDRCWWM3Nk9TV3BXc1IxUHFjT0hPdXdNNnRoMERBRm5qMjBtVUJRbmdJR2JmSUk2QXU5UlpPRUJwc3hZd1F4M1VjTmpabWlkWXBmMmRZYk1sMUd0UGhxMXNISHg1OU9GM2ZUZkxBeWZER2NQeC1tNUh3VWfSAZgBQVVfeXFMTUFIaXdNWnVJRFdfLUlIZ05tamo4RHpubUR4UDZFdlRDRHM2NlVzU2lJNTYxd0cwRHc5LVl2aVJMT1hmc20zdUE1dlZscEdrUXBqdVFqWkVyLVV5d1lNY0ZrT2x3dFRFTFdOM3Bwby00VHR3a0ZHUVBFR0dFYVVZT1hnbEtwdjNZZGlYS3pwX0QxekoxNEZESEQ?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 04:29:03 GMT",
+      "primary_hint": false,
+      "excerpt": "Torrevieja weather forecast for 16 October 2026 todoalicante.es"
+    }
+  ]
+}

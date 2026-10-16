@@ -1,21 +1,46 @@
 {
-  "event_id": "01-2677814e9d564e62",
+  "event_id": "01-5511d25a49a38d83",
   "category": "MUNDO",
   "risk": "medium",
-  "canonical_title": "Justice reúne a Tame Impala, SZA y King Gizzard & The Lizard Wizard en \"Flower in a Hurricane\", la sorpresa musical de GTA VI - Wake & Listen",
+  "canonical_title": "Nuevo tráiler de lanzamiento de GTA VI reúne a varios artistas para nueva canción: “Flower in a Hurricane” de Justice, con Tame Impala, SZA y King Gizzard & the Lizard Wizard - Sabes.cl",
   "intake_status": "EN DESARROLLO",
-  "verification_signal": 0.61,
+  "verification_signal": 0.685,
   "primary_source_present": false,
   "independent_domains": [
+    "crazyminds.es",
+    "europafm.com",
     "imdb.com",
     "indierocks.mx",
     "sabes.cl",
+    "sopitas.com",
     "wakeandlisten.com"
   ],
   "high_trust_domains": [],
-  "article_count": 4,
-  "rank_signal": 0.75,
+  "article_count": 7,
+  "rank_signal": 0.93,
   "sources": [
+    {
+      "title": "Así suena \"Flower In A Hurricane\", la canción del videojuego \"GTA VI\" a cargo de Justice, Tame Impala y SZA - EuropaFM",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSUJFNE1nSVFkRkxOUW8tdTZRWl9YR19jVE9HSHpXYXU2RU5qcVJjLVpBUjNDM0lzaFpTdnN1REl2QWptTnN0UjZybE5ZRXZfVmxRZmFMVFBITnJheHdlRFBJc2NkNUVfY210VFZxd1dJQjhFRm1KWnRhMkRleUFtUWVUcEVtdFV3aHNpUEp4NERGS292UmVwU1lxc204WnNrUnRYTUxKM2xtUVAzcGUybG1zZjdudzFyWlRURTdneXk5S3Y4aDFKODB4NGo5SF9DbjJVWXFYYzdCUEkya1JVRER5VDhrNTcxcEJpcEdxY9IB7wFBVV95cUxNUzduMlduaE0wUkNndTYxaUI1OFhGYVI2NGtkaFFzTDN1bXpIRDFmS05qb1JfYXVKS0FhZ2l2dWFfRHo1V0ZNcTNPT19LWmpMTUlDRlVqWXFsVFVzdUhVdHdZX19vNFdPQlVPRUYzVXlXYU1VQ1lTOXhnS2pGUkFyNm9fUDl2ZDNzaGVQcjVoTVdvNXNNNWhlNnY5UnVwYWNyQ3FuVjgxaWJRakdxa1JVeHA3NXhSVVBoY2tiMXlkOVJkNTJZb2JyQjFubzNzNG8wZU9iSFF1SENJbnhpaVA5QldWQ0g1SG5kcTRVdm5RNA?oc=5",
+      "domain": "europafm.com",
+      "publisher": "EuropaFM",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 15:57:30 GMT",
+      "primary_hint": false,
+      "excerpt": "Así suena \"Flower In A Hurricane\", la canción del videojuego \"GTA VI\" a cargo de Justice, Tame Impala y SZA EuropaFM"
+    },
+    {
+      "title": "Justice Flower In A Hurricane single, con Tame Impala - CrazyMinds",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm42R1dvWGRDNFFuN2tvclNyZUdvNmJKSEZLdGRZZ1g5MWdrd3BSaEJYM01LcHhKSTNpOXNRZ05saTVmelRreXZOejJxMnhzSDZHc3c2aVFGUWtsUDVpZWsxMjlDNUJ6R3UxcFVuZkhrTEdKWTlrbDJXN3RHWjFZeVpxa2w?oc=5",
+      "domain": "crazyminds.es",
+      "publisher": "CrazyMinds",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 06:53:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Justice Flower In A Hurricane single, con Tame Impala CrazyMinds"
+    },
     {
       "title": "‘Flower in a Hurricane’ Lyrics & Meaning: Justice Teams Up With Tame Impala, Sza & King Gizzard for ‘GTA VI’ - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INzhpMFpEUURORkdYM0djUVd3SzF3NGhHTTBweUp2ZnpORWxkcjM0Y2VwZ1RvQkdEb2dsRjFZWUFKTDlydXBQMTZ6cXJjVWk3MkJ0MzlZcTRvbDN1WGFUOGE0V2piZVJNTHc?oc=5",
@@ -37,6 +62,17 @@
       "seen_at": "Thu, 15 Oct 2026 15:48:44 GMT",
       "primary_hint": false,
       "excerpt": "Justice estrena “Flower In A Hurricane” con Tame Impala, SZA y King Gizzard & the Lizard Wizard Indie Rocks! Magazine"
+    },
+    {
+      "title": "¡Justice lanza nueva canción para el GTA VI!: \"Flower in a Hurricane\" - Sopitas.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DRDhjeDJHWU9rZGF1aDVfbDNvdFgzSDVaZG1Ja1RkUmt4ZmJMMWhvbllJTDRJd1NXaWcza0wybk5wSUFxY2lIZVlhejE3Rjd1ZlU3Mm5IaFJCWU90dEZEUk8zc0dHSlRMMVBELTgtV1RFLXcxbnlQbDFJYVM?oc=5",
+      "domain": "sopitas.com",
+      "publisher": "Sopitas.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 14:03:57 GMT",
+      "primary_hint": false,
+      "excerpt": "¡Justice lanza nueva canción para el GTA VI!: \"Flower in a Hurricane\" Sopitas.com"
     },
     {
       "title": "Justice reúne a Tame Impala, SZA y King Gizzard & The Lizard Wizard en \"Flower in a Hurricane\", la sorpresa musical de GTA VI - Wake & Listen",
