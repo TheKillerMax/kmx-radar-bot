@@ -1,5 +1,5 @@
 {
-  "event_id": "09-fc8c346c70a7c7cf",
+  "event_id": "07-fc8c346c70a7c7cf",
   "category": "MUNDO",
   "risk": "medium",
   "canonical_title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
@@ -20,7 +20,7 @@
       "publisher": "USGS Significant Earthquakes",
       "language": "en",
       "source_country": "",
-      "seen_at": "2026-10-16T06:13:47.040Z",
+      "seen_at": "2026-10-16T11:45:46.199Z",
       "primary_hint": true,
       "excerpt": "PAGER - GREEN ShakeMap - VI DYFI? - V Time 2026-10-16 03:35:31 UTC 2026-10-16 03:35:31 UTC at epicenter Location 51.985°N 157.270°E Depth 135.00 km (83.89 mi)"
     }

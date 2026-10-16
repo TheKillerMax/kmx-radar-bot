@@ -1,0 +1,30 @@
+{
+  "event_id": "11-342f3352b8cfa141",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0RZQ25qd2lQQ0pTNFVoRkN0MDg2VXFHbTVlaktkY1JkMjVfWDFBNWJTb29ja3Y4aUdQY3h6SlFQS3l4WlhIZGgzRXlPQ19kbHE0TlVsZjc3THg1NDVpQjRncHRKc00xT2hlVm9SY2JvZ2hjcGRYZWFtZ01jLXpnMXdGWk1qeEFUcDFMNHl0WHNHcmRnUnppaQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 15:11:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood CNN en Español Trump cancela la transmisión en vivo de la ejecución del primer militar que será fusilado en EE.UU. desde la II Guerra Mundial BBC Trump, tras controversia, anuncia que fusilamiento de tirador de Fort Hood no será transmitido San Antonio Express-News Los supervivientes de Fort Hood elogian a Trump por cancelar la retransmisión en directo de la ejecución de Hasan: «No somos unos bárbaros» Fox News Trump dice que la ejecución del autor de tiroteo en Texas no se transmitirá en vivo Telemundo Miami (51)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "10-7195dd9eef1c4c0f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Más de 3 millones de afiliados a Medicare Advantage necesitan encontrar nuevos planes para 2027 en el tercer año de agitación - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Más de 3 millones de afiliados a Medicare Advantage necesitan encontrar nuevos planes para 2027 en el tercer año de agitación - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXVINmtnRkFCT0ZTUTdhQlBnWGlEd0xaODlaRnBQZ3dmXy1YODYySUhIRjdOdUVIcWxqTlkwUXQ5V3VXU3d3Tm5WdnNmTEVob1JlYnlUZ1RqeHZJU0FkSmEzeEpYMV9pcjFjWlNZRDBURnl1RDJnTGpOUk1PQkFaTC1CVjlfNTA5djBR?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 15 Oct 2026 11:53:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Más de 3 millones de afiliados a Medicare Advantage necesitan encontrar nuevos planes para 2027 en el tercer año de agitación CNN en Español Comienza inscripción de Medicare en Florida: lo qué debes revisar antes de cambiar de plan para 2027 Telemundo Miami (51) Abre el período de inscripción de Medicare Advantage con cambios en planes y costos WFMZ.com La inscripción abierta de Medicare está disponible, y millones de personas mayores necesitan un nuevo plan. Quartz En Dallas: asistencia para la inscripción abierta de Medicare Telemundo Dallas"
+    }
+  ]
+}

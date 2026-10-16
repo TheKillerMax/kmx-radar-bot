@@ -1,8 +1,8 @@
 {
-  "event_id": "03-2ae5544a6719ba25",
+  "event_id": "03-24d27ac104c16b02",
   "category": "ECONOMÍA",
   "risk": "medium",
-  "canonical_title": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central - www.latribuna.com.py",
+  "canonical_title": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central - https://www.latribuna.com.py/",
   "intake_status": "SIN CONFIRMAR",
   "verification_signal": 0.38,
   "primary_source_present": false,
@@ -15,15 +15,15 @@
   "rank_signal": 0.45,
   "sources": [
     {
-      "title": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central - www.latribuna.com.py",
+      "title": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central - https://www.latribuna.com.py/",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmVPOHh4WDBZTlFmZjktRHZTdTQyRDV4OVJWWHE5eWl2OWI1MmlVRGlNb2VHZXdLM1QtSG9UQ1dlWEdJYmQzSVMyU3dzZjRaVTQ2cnpNNUU3bGR5QWdGTm84dll6Mmg4RjhPenZPWm9lYjNvV3V4LUFMTk5IOG15XzgxWFd1bmdSUVlCdWpGVjlXTmVTaVZhZzZoeUdpNHRJTzg4SXZBWDh0dWV5am5icXh3bkpaSkFiU3pGN0hRMFdIVWstNFdFX1Q4SG1qZFdy?oc=5",
       "domain": "latribuna.com.py",
-      "publisher": "www.latribuna.com.py",
+      "publisher": "https://www.latribuna.com.py/",
       "language": "es",
       "source_country": "",
       "seen_at": "Fri, 16 Oct 2026 07:20:00 GMT",
       "primary_hint": false,
-      "excerpt": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central www.latribuna.com.py"
+      "excerpt": "LatinFinance premió a Carlos Carvallo por su gestión frente al Banco Central https://www.latribuna.com.py/"
     },
     {
       "title": "LatinFinance distingue a Carlos Carvallo por su gestión al frente del BCP - Prensa Mercosur",
