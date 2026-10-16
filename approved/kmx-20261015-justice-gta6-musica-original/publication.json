@@ -1,5 +1,5 @@
 {
-  "caption": "Justice compuso la música original de Grand Theft Auto VI, según confirmó Rockstar Games este 15 de octubre.\n\nEl dúo francés también presentó «Flower in a Hurricane», la canción del nuevo tráiler, con Tame Impala, SZA y King Gizzard & The Lizard Wizard.\n\nLa música original que acompaña las escenas del juego no es lo mismo que todas las canciones de sus emisoras. Rockstar dará más detalles sobre ese trabajo.\n\nGTA VI tiene previsto estrenarse el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S. El juego aún no ha salido.\n\nDesliza para conocer a los artistas y qué se confirmó.\n\nFuentes: Rockstar Games, Pitchfork y SPIN (15/10/2026).\nFoto de archivo: Simon Fernandez / CC BY 2.0 (recorte).\n\n#KMXRadar #Videojuegos #GTA6 #RockstarGames #TameImpala",
+  "caption": "Justice compuso la música original de Grand Theft Auto VI, según confirmó Rockstar Games este 15 de octubre.\n\nEl dúo francés también presentó «Flower in a Hurricane», la canción del nuevo tráiler, con Tame Impala, SZA y King Gizzard & The Lizard Wizard.\n\nLa música original que acompaña las escenas del juego no es lo mismo que todas las canciones de sus emisoras. Rockstar dará más detalles sobre ese trabajo.\n\nGTA VI tiene previsto estrenarse el 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S. El juego aún no ha salido.\n\nDesliza para conocer a los artistas y qué se confirmó.\n\nFuentes: Rockstar Games, Pitchfork y SPIN (15/10/2026).\nFoto de archivo (Justice, 2007): Simon Fernandez · CC BY 2.0. Original: https://commons.wikimedia.org/wiki/File:Justice_(band).jpg · Licencia: https://creativecommons.org/licenses/by/2.0/ · Modificaciones: recorte, redimensionado y oscurecimiento informativo.\n\n#KMXRadar #GTA6 #RockstarGames #Justice #TameImpala",
   "created_at": "2026-10-15T21:32:00Z",
   "headline": "Rockstar confirma que Justice compuso la música original de GTA VI",
   "images": [
@@ -29,7 +29,7 @@
     }
   ],
   "publication_id": "kmx-20261015-justice-gta6-musica-original",
-  "ready_to_publish": false,
+  "ready_to_publish": true,
   "schema_version": 1,
   "source_event_id": "02-9ca0105fc88ef119",
   "sources": [
@@ -54,6 +54,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:Justice_(band).jpg"
     }
   ],
-  "status": "visuals_ready",
+  "status": "VERIFICADO",
   "visuals_completed_at": "2026-10-16T04:32:56Z"
 }
