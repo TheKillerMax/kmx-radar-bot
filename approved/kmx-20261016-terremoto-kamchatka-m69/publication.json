@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261016-terremoto-kamchatka-m69",
+  "source_event_id": "09-fc8c346c70a7c7cf",
+  "created_at": "2026-10-16T09:37:25.004Z",
+  "headline": "Un terremoto de magnitud 6,9 sacude Kamchatka, en Rusia",
+  "caption": "Un terremoto de magnitud 6,9 sacudió Kamchatka, en el extremo oriental de Rusia, el 16 de octubre de 2026.\n\nEl Servicio Geológico de Estados Unidos (USGS) lo registró a las 03:35 UTC, a unos 76 kilómetros al noreste de Ozernovskiy y a 135 kilómetros de profundidad.\n\nLa autoridad estadounidense de vigilancia de tsunamis informó que no había alerta ni amenaza asociada a este sismo. Algunos residentes salieron de sus viviendas; en los primeros reportes no se habían confirmado víctimas ni daños materiales.\n\nLos datos del terremoto y el balance de daños pueden actualizarse. Desliza para ver dónde ocurrió y qué dijeron los organismos oficiales.\n\nFuentes: USGS, NOAA, EMSC y EFE (16/10/2026).\n\n#KMXRadar #Terremoto #Kamchatka #Rusia",
+  "images": [
+    {
+      "path": "01-terremoto-kamchatka.png",
+      "alt_text": "Mapa informativo realizado con datos reales que ubica en Kamchatka, Rusia, el terremoto de magnitud 6,9 del 16 de octubre de 2026."
+    },
+    {
+      "path": "02-sin-alerta-tsunami.png",
+      "alt_text": "Tarjeta informativa que explica que la agencia estadounidense NOAA no mantenía alerta ni amenaza de tsunami por el terremoto de Kamchatka."
+    },
+    {
+      "path": "03-donde-ocurrio.png",
+      "alt_text": "Mapa de Kamchatka con el punto del sismo marcado unos 76 kilómetros al noreste de Ozernovskiy."
+    },
+    {
+      "path": "04-profundidad.png",
+      "alt_text": "Gráfico que indica que el Servicio Geológico de Estados Unidos calculó una profundidad de 135 kilómetros para el terremoto."
+    },
+    {
+      "path": "05-primeros-reportes.png",
+      "alt_text": "Tarjeta con el primer balance de Kamchatka: vecinos evacuaron edificios y todavía no se habían confirmado víctimas ni daños."
+    },
+    {
+      "path": "06-comprobar-actualizaciones.png",
+      "alt_text": "Tarjeta que remite al Servicio Geológico de Estados Unidos y a la vigilancia oficial de tsunamis para consultar actualizaciones."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USGS · registro oficial del terremoto, 16/10/2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
+    },
+    {
+      "label": "NOAA · avisos de tsunami, 16/10/2026",
+      "url": "https://www.tsunami.gov/"
+    },
+    {
+      "label": "EMSC · registro sísmico independiente, 16/10/2026",
+      "url": "https://www.emsc-csem.org/"
+    },
+    {
+      "label": "EFE · verificación periodística, 16/10/2026",
+      "url": "https://efe.com/mundo/2026-10-16/terremoto-peninsula-rusa-kamchatka-2/"
+    },
+    {
+      "label": "Reuters · estimación inicial de EMSC, 16/10/2026",
+      "url": "https://www.reuters.com/business/environment/earthquake-magnitude-7-strikes-russias-kamchatka-peninsula-emsc-says-2026-10-16/"
+    },
+    {
+      "label": "Natural Earth · datos cartográficos de dominio público",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals"
+}
