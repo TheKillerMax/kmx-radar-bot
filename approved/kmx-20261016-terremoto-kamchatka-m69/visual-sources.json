@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261016-terremoto-kamchatka-m69",
+  "generated_at": "2026-10-16",
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "note": "Dos piezas utilizan el mapa de intensidad REAL que el USGS produjo para este terremoto concreto, con epicentro marcado y topografía oficial; sustituye la cartografía Natural Earth prevista inicialmente para que el mapa represente el fenómeno verificado. Se utiliza la versión procesada el 16/10/2026 a las 05:38 UTC. El mapa se recorta, redimensiona y oscurece en el renderizado; su escala y leyenda originales no deben interpretarse si quedan ocultas. Cuatro piezas son composiciones tipográficas originales, no escenas ni fotografías sintéticas. Se acredita al USGS sin reproducir su logotipo. Sin fotografías comerciales.",
+  "assets": [
+    {
+      "key": "usgs_shakemap_kamchatka_20261016",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq/shakemap/intensity",
+      "direct_url": "https://earthquake.usgs.gov/product/shakemap/us6000u2mq/us/1792129182504/download/intensity.jpg",
+      "original_creator": "U.S. Geological Survey (USGS), Earthquake Hazards Program · ShakeMap",
+      "created_at": "2026-10-16T05:38:55Z",
+      "license_or_permission": "Mapa de intensidad producido por el U.S. Geological Survey: material gubernamental estadounidense de dominio público, salvo contenidos de terceros expresamente indicados. Este producto ShakeMap se presenta como producto USGS sin aviso individual de copyright.",
+      "license_url": "https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted",
+      "attribution_required": false,
+      "attribution_text": "Mapa y datos: U.S. Geological Survey (USGS) · ShakeMap del 16/10/2026; adaptación editorial: recorte, redimensionamiento y oscurecimiento",
+      "local_path": "Descarga temporal por GitHub Actions desde direct_url; no se almacena el archivo de origen en main.",
+      "retrieved_at": "2026-10-16",
+      "notes": "Producto USGS correspondiente exclusivamente a us6000u2mq (magnitud 6,9; 51,985° N, 157,270° E). Se comprobó la URL directa y la política de derechos; no usar mapas de otros eventos. Fuente sísmica: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq; lectura de datos revisados al 16/10/2026. Se evita usar marcas institucionales como logotipos."
+    }
+  ]
+}
