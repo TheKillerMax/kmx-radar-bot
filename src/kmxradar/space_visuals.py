@@ -332,11 +332,16 @@ def build_space_visuals(package_dir: Path, config: dict) -> list[Path]:
         outputs = []
         total = len(slides)
         for spec in slides:
-            key = str(spec["photo"])
-            if key not in photos:
-                raise RuntimeError(f"Unknown photo source {key}")
-            credit = str(sources[key].get("credit") or "NASA")
-            _render_slide(package_dir, spec, photos[key], credit, total)
+            if str(spec.get("layout") or "photo") == "typographic":
+                photo = Image.new("RGB", (W, H), BG)
+                credit = "COMPOSICIÓN TIPOGRÁFICA ORIGINAL · KMX RADAR"
+            else:
+                key = str(spec["photo"])
+                if key not in photos:
+                    raise RuntimeError(f"Unknown photo source {key}")
+                photo = photos[key]
+                credit = str(sources[key].get("credit") or "FUENTE VISUAL")
+            _render_slide(package_dir, spec, photo, credit, total)
             outputs.append(package_dir / str(spec["file"]))
 
         return outputs

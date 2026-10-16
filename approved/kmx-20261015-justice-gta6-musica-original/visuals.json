@@ -1,0 +1,111 @@
+{
+  "theme": {
+    "name": "justice-gta6-20261015",
+    "background": "#0B1825",
+    "panel": "#173044",
+    "accent": "#35DCC6",
+    "accent2": "#86B7EE",
+    "warm": "#FFCF83",
+    "text": "#F5F8FC",
+    "muted": "#D6E4ED"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "justice_2007": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Justice_%28band%29.jpg",
+      "credit": "Simon Fernandez · CC BY 2.0 · recorte"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-justice-musica-gta6.png",
+      "photo": "justice_2007",
+      "archive": true,
+      "kicker": "GTA VI · 15 DE OCTUBRE",
+      "title": "Justice compuso la música original de GTA VI",
+      "body": "Rockstar lo confirmó. El videojuego todavía no se ha estrenado.",
+      "callout": "CONFIRMADO",
+      "footer": "FOTO DE ARCHIVO · 2007 · RECORTE",
+      "sources": [
+        "Rockstar Games · 15/10/2026"
+      ],
+      "alt_text": "Fotografía real de archivo de Justice, tomada en 2007, con el anuncio confirmado de su trabajo musical para Grand Theft Auto VI."
+    },
+    {
+      "n": 2,
+      "file": "02-justice-invitados.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "LA CANCIÓN DEL NUEVO TRÁILER",
+      "title": "Justice reúne a Tame Impala, SZA y King Gizzard",
+      "body": "«Flower in a Hurricane» incluye a King Gizzard & The Lizard Wizard.",
+      "footer": "COMPOSICIÓN INFORMATIVA · KMX RADAR",
+      "sources": [
+        "Rockstar Games · 15/10/2026"
+      ],
+      "alt_text": "Imagen informativa que anuncia la canción «Flower in a Hurricane» de Justice con Tame Impala, SZA y King Gizzard & The Lizard Wizard."
+    },
+    {
+      "n": 3,
+      "file": "03-que-musica-hizo.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "¿QUÉ MÚSICA HIZO JUSTICE?",
+      "title": "Compuso la música original del juego",
+      "body": "No significa que compusiera todas las canciones que sonarán en sus emisoras.",
+      "callout": "Música original ≠ lista de canciones de radio",
+      "footer": "COMPOSICIÓN INFORMATIVA · KMX RADAR",
+      "sources": [
+        "Rockstar Games · SPIN"
+      ],
+      "alt_text": "Comparación entre la música original creada para GTA VI por Justice y las canciones de otros artistas que se escucharán en sus emisoras."
+    },
+    {
+      "n": 4,
+      "file": "04-cancion-del-trailer.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "¿DÓNDE SE ESCUCHA?",
+      "title": "«Flower in a Hurricane» suena en el tráiler",
+      "body": "La canción también figura en el álbum oficial de GTA VI.",
+      "footer": "COMPOSICIÓN INFORMATIVA · KMX RADAR",
+      "sources": [
+        "Rockstar Games · 15/10/2026"
+      ],
+      "alt_text": "Tarjeta que indica que «Flower in a Hurricane» aparece en el tráiler de lanzamiento y el álbum oficial de GTA VI."
+    },
+    {
+      "n": 5,
+      "file": "05-fecha-prevista.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "¿CUÁNDO SALE GTA VI?",
+      "title": "El estreno todavía está previsto",
+      "stat": "19 NOV",
+      "stat_label": "DE 2026 · ESTRENO PREVISTO",
+      "body": "PlayStation 5 y Xbox Series X|S. El juego aún no ha salido.",
+      "footer": "COMPOSICIÓN INFORMATIVA · KMX RADAR",
+      "sources": [
+        "Rockstar Games · 15/10/2026"
+      ],
+      "alt_text": "Tarjeta sobre el estreno previsto de GTA VI el 19 de noviembre de 2026 para PlayStation 5 y Xbox Series X|S."
+    },
+    {
+      "n": 6,
+      "file": "06-que-sigue.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "¿QUÉ SIGUE?",
+      "title": "Rockstar dará más detalles sobre la música",
+      "body": "La empresa dará más información sobre el álbum de música original.",
+      "callout": "Por ahora, se confirmó el trabajo de Justice.",
+      "footer": "COMPOSICIÓN INFORMATIVA · KMX RADAR",
+      "sources": [
+        "Rockstar Games · 15/10/2026"
+      ],
+      "alt_text": "Resumen que indica que Rockstar ofrecerá más información sobre el álbum de música original de GTA VI."
+    }
+  ]
+}

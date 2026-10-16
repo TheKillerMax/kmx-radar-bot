@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-justice-gta6-musica-original",
+  "generated_at": "2026-10-15",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Una fotografía documental de Justice del 19 de mayo de 2007 se utiliza únicamente en la portada, identificada como ARCHIVO. Las otras cinco piezas son composiciones tipográficas originales sin fotografía externa. La foto fue recortada para el formato vertical, redimensionada y oscurecida para legibilidad; CC BY 2.0 requiere atribución, enlace de licencia y aviso de cambios. Sin escenas sintéticas ni fotogramas del videojuego.",
+  "assets": [
+    {
+      "key": "justice_2007",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Justice_(band).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Justice_%28band%29.jpg",
+      "original_creator": "Simon Fernandez (Simon Fernandez Music Photographer)",
+      "created_at": "2007-05-19",
+      "license_or_permission": "Creative Commons Attribution 2.0 Generic (CC BY 2.0). Se permite adaptación y redistribución con atribución, enlace a la licencia y aviso de modificaciones.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution_required": true,
+      "attribution_text": "Foto: Simon Fernandez · CC BY 2.0 · recorte, redimensionado y oscurecimiento informativo",
+      "local_path": "Descargada temporalmente por GitHub Actions desde direct_url durante el renderizado; no se almacena como foto original en main",
+      "retrieved_at": "2026-10-15",
+      "notes": "Fotografía original de Justice (Xavier de Rosnay y Gaspard Augé) captada el 19/05/2007; no representa el anuncio del 15/10/2026. Wikimedia Commons documenta fecha, autor y licencia Flickr verificada por bot en 2012. La portada lleva rótulo ARCHIVO y crédito; el pie editorial en publication.json indica recorte."
+    }
+  ]
+}

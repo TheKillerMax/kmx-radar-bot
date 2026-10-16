@@ -54,6 +54,7 @@ PUBLIC_TEXT_FIELDS = {
     "bullets",
     "callout",
     "footer",
+    "stat",
     "stat_label",
     "sources",
     "alt_text",
@@ -205,16 +206,23 @@ def _validate_visual_spec(package_dir: Path, visuals: dict, rights_assets: list[
             raise RuntimeError(f"{package_dir.name}: slide {idx} is not an object")
         file_name = str(spec.get("file") or "").strip()
         photo_key = str(spec.get("photo") or "").strip()
+        layout = str(spec.get("layout") or "photo").strip()
         alt_text = str(spec.get("alt_text") or "").strip()
         if not file_name or not file_name.lower().endswith(".png"):
             raise RuntimeError(f"{package_dir.name}: slide {idx} needs a .png file")
         if file_name in seen_files:
             raise RuntimeError(f"{package_dir.name}: duplicate slide filename {file_name}")
         seen_files.add(file_name)
-        if not photo_key or photo_key not in sources:
-            raise RuntimeError(f"{package_dir.name}: slide {idx} references unknown photo source {photo_key!r}")
         if not alt_text:
             raise RuntimeError(f"{package_dir.name}: slide {idx} lacks alt_text")
+        if layout not in {"photo", "typographic"}:
+            raise RuntimeError(f"{package_dir.name}: slide {idx} has unsupported layout {layout!r}")
+        if layout == "typographic":
+            if photo_key:
+                raise RuntimeError(f"{package_dir.name}: typographic slide {idx} must not reference a photo")
+            continue
+        if not photo_key or photo_key not in sources:
+            raise RuntimeError(f"{package_dir.name}: slide {idx} references unknown photo source {photo_key!r}")
 
         source_meta = sources[photo_key]
         if not isinstance(source_meta, dict):
