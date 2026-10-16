@@ -1,19 +1,18 @@
 {
-  "event_id": "01-bb8c88b2f19ca459",
+  "event_id": "04-bb8c88b2f19ca459",
   "category": "CIENCIA",
   "risk": "low",
-  "canonical_title": "NASA: rover Perseverance bate récord histórico de recorrido en Marte con 45,22 kilómetros - Agencia Andina",
+  "canonical_title": "La NASA rompe un récord histórico en Marte: Perseverance supera los 45 kilómetros y se convierte en el vehículo que más ha recorrido fuera de la Tierra - Gizmodo en Español",
   "intake_status": "SIN CONFIRMAR",
-  "verification_signal": 0.495,
+  "verification_signal": 0.38,
   "primary_source_present": false,
   "independent_domains": [
     "andina.pe",
-    "elconfidencial.com",
     "es.gizmodo.com"
   ],
   "high_trust_domains": [],
-  "article_count": 3,
-  "rank_signal": 0.6,
+  "article_count": 2,
+  "rank_signal": 0.45,
   "sources": [
     {
       "title": "La NASA rompe un récord histórico en Marte: Perseverance supera los 45 kilómetros y se convierte en el vehículo que más ha recorrido fuera de la Tierra - Gizmodo en Español",
@@ -33,20 +32,9 @@
       "publisher": "Agencia Andina",
       "language": "es",
       "source_country": "",
-      "seen_at": "Fri, 16 Oct 2026 16:38:00 GMT",
+      "seen_at": "Fri, 16 Oct 2026 22:39:43 GMT",
       "primary_hint": false,
       "excerpt": "NASA: rover Perseverance bate récord histórico de recorrido en Marte con 45,22 kilómetros Agencia Andina"
-    },
-    {
-      "title": "La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVpKdnZCQ0pPUy1BbktjaktSb2M1YVctVnBMVWEwRGRyWTFsOVU0Q1B4N2Y5LWo1TmdobEYxREFhWWlWZGpzV29BSUdwREhEdFVwb3JzLUsxbm44cEFfQU9OTC1jYkRvZURjYTNscUtvcHZuME9ObnpBdFpIY0pVX052QjdhVXR4LUktLWNEUDJ4dm8xQTNUQ211STU2dmhTcDJhdkdtaDc3a0F6b1FUVi1lNVdZRTA?oc=5",
-      "domain": "elconfidencial.com",
-      "publisher": "El Confidencial",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Fri, 16 Oct 2026 06:03:00 GMT",
-      "primary_hint": false,
-      "excerpt": "La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente El Confidencial"
     }
   ]
 }

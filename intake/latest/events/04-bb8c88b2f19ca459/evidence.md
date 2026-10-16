@@ -1,10 +1,10 @@
-# NASA: rover Perseverance bate récord histórico de recorrido en Marte con 45,22 kilómetros - Agencia Andina
+# La NASA rompe un récord histórico en Marte: Perseverance supera los 45 kilómetros y se convierte en el vehículo que más ha recorrido fuera de la Tierra - Gizmodo en Español
 
 - Categoría: CIENCIA
 - Riesgo: low
 - Estado de entrada: SIN CONFIRMAR
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 3
+- Dominios independientes detectados: 2
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -19,13 +19,6 @@ La NASA rompe un récord histórico en Marte: Perseverance supera los 45 kilóme
 ### Fuente 2: andina.pe
 - URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSERnOTEwclQwR1NWcl9BWDllNFZIVVhibjdfaGdiOElfbzF6ZmdmSngxSjhLQmRmbDNRME9HRmN1NzFSMXdxcDM5SkN4VkNFUmxrdzB1NXJIOXRNakI0ZmVxN25xNnBJOXNGS21RWm0tUEZWZHUtODFkM1B3T20tTWNqRG1BQ21lWmt5ZUcyamxYTG5ZNE8zUWIwNFdPOTVVcDd6MHVQRVA1N3RoSXN3X1IwdGFPeDdrbHVuQW03clZaZw?oc=5
 - Título: NASA: rover Perseverance bate récord histórico de recorrido en Marte con 45,22 kilómetros - Agencia Andina
-- Fecha detectada: Fri, 16 Oct 2026 16:38:00 GMT
+- Fecha detectada: Fri, 16 Oct 2026 22:39:43 GMT
 
 NASA: rover Perseverance bate récord histórico de recorrido en Marte con 45,22 kilómetros Agencia Andina
-
-### Fuente 3: elconfidencial.com
-- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVpKdnZCQ0pPUy1BbktjaktSb2M1YVctVnBMVWEwRGRyWTFsOVU0Q1B4N2Y5LWo1TmdobEYxREFhWWlWZGpzV29BSUdwREhEdFVwb3JzLUsxbm44cEFfQU9OTC1jYkRvZURjYTNscUtvcHZuME9ObnpBdFpIY0pVX052QjdhVXR4LUktLWNEUDJ4dm8xQTNUQ211STU2dmhTcDJhdkdtaDc3a0F6b1FUVi1lNVdZRTA?oc=5
-- Título: La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente - El Confidencial
-- Fecha detectada: Fri, 16 Oct 2026 06:03:00 GMT
-
-La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente El Confidencial
