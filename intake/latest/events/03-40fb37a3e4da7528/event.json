@@ -1,0 +1,62 @@
+{
+  "event_id": "03-40fb37a3e4da7528",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Real Madrid calls for La Liga president's resignation after Nazi propaganda comparison - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.43,
+  "primary_source_present": false,
+  "independent_domains": [
+    "lanacion.com.ar",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 4,
+  "rank_signal": 0.52,
+  "sources": [
+    {
+      "title": "Real Madrid ‘demand’ La Liga president Tebas’ resignation - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjd2aDRoaE5ldDRyWXg5VlZiREMtcWFFaFl4UTc4aThuWENDcHY0Znl6VUpnVWthQXVqUklHUXNtYzZlTHdya3ZMeGNSX1dYUGc1TzZZRXAwdHJrUXN4elozay1RdjhFcGplVUFpNmpaSVQ2ZWNhWV9LZ2hYMEdrVw?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 17:07:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Real Madrid ‘demand’ La Liga president Tebas’ resignation Yahoo Sports"
+    },
+    {
+      "title": "Real Madrid calls for La Liga president's resignation after Nazi propaganda comparison - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VdzBRalZvejBKamRmczdva0JEN05wdklxUDNGR2ZGMWRZTVlqRk1IbVVtVWVNRmhhUHNpMXMzLTJkcmxmZlRVZmdjT1JMbEdXVXNHRE1PejR3LTU1aWhGMXR6emxmU0NxajhlSmwzMVdiZkRJSVlUcUNTQ0lmTU0?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 16:39:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Real Madrid calls for La Liga president's resignation after Nazi propaganda comparison Yahoo Sports"
+    },
+    {
+      "title": "Real Madrid demand Javier Tebas’ resignation as La Liga president following controversial statement - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9NSjdYVHVuRnhvbTZwN3JrNENWTkNMQ3pnX0lQamRzVTZ3cDhTaUJ2MlplazlKZURBeUFDbzYyZlhmRjZJcW9waEJmR3E5S0hwVzYzbVVReHBIRVE3Wl9RUzctUkFhc0g1bllrNk0zbkZIUUlodUhKUnE2X2RTLXBaVDFnSFk?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 13:26:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Real Madrid demand Javier Tebas’ resignation as La Liga president following controversial statement Yahoo Sports"
+    },
+    {
+      "title": "Madrid demands La Liga president resigns after comparing attacks on referees with Nazi propaganda - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2UxUVhqSUdRdDdZQU1WZVN2Q3JMb0FaSXU5RmI1RWtQeFFNRE9LVERCcU1hdnYzQWdvZ0hVZXk3WU90cTd6b3F1WnUwOWtRM0VoVVRnUXQyc3d5S0lESDJ5Q0t5TXFIY3pQR3I1V1AyUWxPdkZwVDhPcjROSk1QNjhFY3BSNmowOFZsdVJ2MGhQUHg1NThMMnp5M29iUHQ2TXFDODZxWmVHTGRQX1F2SzV1ejAtMU9aWjZpRTZRNDV0RG1SNHAzcnRRZjFDMnZEX1k5aWR4ZWh3QQ?oc=5",
+      "domain": "lanacion.com.ar",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 14:32:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Madrid demands La Liga president resigns after comparing attacks on referees with Nazi propaganda La Nación"
+    }
+  ]
+}
