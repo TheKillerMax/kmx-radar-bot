@@ -1,16 +1,16 @@
 {
+  "external_error_code": "instagram_auth_190",
   "last_media_id": null,
   "last_processed_generated_at": "2026-10-15T19:03:16Z",
   "last_publication_id": "kmx-20261015-justice-gta6-musica-original",
   "last_result": "publish_error",
-  "next_publish_retry_at": null,
-  "note": "Controlled retry using new Instagram token validation, idempotent publishing and an authenticated-account challenge backoff. No publication is assumed until receipt.",
+  "next_publish_retry_at": "2026-10-17T03:11:52.403287Z",
+  "note": "Instagram requires the account owner to log in to instagram.com and complete the security instructions (Graph API code 190). The current .ready marker and approved media are preserved. Automatic check not before 2026-10-17T03:11:52.403287Z; no duplicate publish.",
   "pending_manifest_generated_at": "2026-10-16T18:45:35Z",
   "pending_publication_id": "kmx-20261016-katie-zacharia-sale-portavocia",
   "pending_source_event_id": "10-d7d93039075619f7",
   "phase": "publish_error",
   "published_at": null,
   "source_event_id": "02-9ca0105fc88ef119",
-  "visuals_completed_at": "2026-10-16T04:32:56Z",
-  "external_error_code": null
+  "visuals_completed_at": "2026-10-16T04:32:56Z"
 }
