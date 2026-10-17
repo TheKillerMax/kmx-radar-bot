@@ -57,7 +57,7 @@ jobs:
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: reconcile publish pipeline"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
       - name: Render any legacy approved media
@@ -70,13 +70,48 @@ jobs:
           git add approved
           if ! git diff --cached --quiet; then
             git commit -m "radar: render approved publication media"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
+      - name: Identify current ready package and authentication backoff
+        id: publish_candidate
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          state_path = Path("data/chatgpt_state.json")
+          state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+          publication_id = str(state.get("last_publication_id") or "")
+          if publication_id:
+              ready = (Path("approved") / publication_id / ".ready").exists()
+          else:
+              ready = any(Path("approved").glob("*/.ready"))
+          auth_hold = state.get("external_error_code") == "instagram_auth_190"
+          retry = str(state.get("next_publish_retry_at") or "")
+          try:
+              retry_at = datetime.fromisoformat(retry.replace("Z", "+00:00"))
+          except ValueError:
+              retry_at = None
+          backoff = bool(auth_hold and retry_at and datetime.now(timezone.utc) < retry_at)
+          manual = os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch"
+          should_publish = ready and (not backoff or manual)
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write(f"should_publish={'true' if should_publish else 'false'}\n")
+          if ready and backoff and not manual:
+              print("Instagram account verification is blocked; skipping repeated Graph API call.")
+          elif not ready:
+              print("No current ready package; skipping unnecessary 15-second media wait.")
+          PY
+
       - name: Wait for raw GitHub media propagation
+        if: steps.publish_candidate.outputs.should_publish == 'true'
         run: sleep 15
 
       - name: Publish first ready package
+        if: steps.publish_candidate.outputs.should_publish == 'true'
         id: publish
         continue-on-error: true
         run: python -m kmxradar publish-approved
@@ -114,7 +149,7 @@ jobs:
           git add -A approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: persist Instagram publication result"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
       - name: Fail job after persisting publication error

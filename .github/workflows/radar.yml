@@ -53,7 +53,7 @@ jobs:
           git add -A intake/latest
           if ! git diff --cached --quiet; then
             git commit -m "radar: refresh latest intake snapshot"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
       - name: Upload ZIP for manual inspection

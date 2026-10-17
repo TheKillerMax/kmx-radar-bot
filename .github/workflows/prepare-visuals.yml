@@ -53,7 +53,7 @@ jobs:
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: reconcile visual pipeline"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
       - name: Render and validate real licensed visuals
@@ -84,7 +84,7 @@ jobs:
           git add approved data
           if ! git diff --cached --quiet; then
             git commit -m "radar: persist visual pipeline result"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
 
       - name: Fail job after persisting visual error

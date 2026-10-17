@@ -40,5 +40,5 @@ jobs:
           git add data/instagram_token.enc data/instagram_token_meta.json
           if ! git diff --cached --quiet; then
             git commit -m "security: refresh encrypted Instagram token"
-            git push origin HEAD:main
+            bash .github/scripts/push-main-safely.sh
           fi
