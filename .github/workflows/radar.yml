@@ -2,8 +2,9 @@ name: Build KMX RADAR intake ZIP
 
 on:
   schedule:
-    # 00:05, 06:05, 12:05 y 18:05 en horario UTC-3
-    - cron: "5 3,9,15,21 * * *"
+    # 00:05, 06:05, 12:05 y 18:05 en America/Santiago (incluye cambios DST)
+    - cron: "5 0,6,12,18 * * *"
+      timezone: "America/Santiago"
   workflow_dispatch:
 
 permissions:

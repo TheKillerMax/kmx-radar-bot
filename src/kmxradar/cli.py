@@ -5,11 +5,11 @@ import json
 import logging
 
 from .collector import collect_package
-from .instagram import get_account
+from .instagram import get_verified_account
 from .media_prepare import prepare_ready_packages
 from .publication import publish_ready_packages
 from .reconcile import reconcile_pipeline
-from .token_store import load_token, refresh_token
+from .token_store import refresh_token
 from .visual_phase import prepare_visual_packages
 
 
@@ -43,7 +43,7 @@ def main() -> int:
     if args.command == "reconcile-pipeline":
         return reconcile_pipeline()
     if args.command == "check-instagram":
-        payload = get_account(load_token())
+        _validated_token, payload = get_verified_account()
         print(json.dumps(payload, ensure_ascii=False, indent=2))
         return 0
     if args.command == "refresh-token":
