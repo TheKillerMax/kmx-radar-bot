@@ -1,0 +1,40 @@
+{
+  "event_id": "01-cef6664a25cce080",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "🏥Injury confirmed: 'Dibu' Martínez will need surgery - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "onefootball.com",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "🏥Injury confirmed: 'Dibu' Martínez will need surgery - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFQtTkZabVVvTVJDazcwNjZWeTZIVm4tY3ZibUlKSjVfOHEyM3h0dnRpem9STE4xWnM5SkoxRVJLdUVtNDM5OUhFNHNFNXFnaURQdURabmgxRzJQWVIyVmRVb3o4ZHliZkdxTHpGN2dDUHFtaGFwRWk0dWtfZDJpYWVzYnprZw?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 19:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "🏥Injury confirmed: 'Dibu' Martínez will need surgery Yahoo Sports"
+    },
+    {
+      "title": "🏥Injury confirmed: 'Dibu' Martínez will need surgery - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWV6WmRIUHBrbURTRjJhc0lXekEta0M4RTZ1RENRTm1WRU53cXdVbjB3M3drRUFHUjNSZUFUWE9Xd2laeGdLRkp5bnRMQVEtdXlKNzFKVXVoTUw1ZUctSG4zcWdTQVNhcksxS1hscThZbkY5X0s5X3U1blFaZG95U1pmZGdFX08wRHFQSmhMdXNieTg?oc=5",
+      "domain": "onefootball.com",
+      "publisher": "OneFootball",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 19:50:45 GMT",
+      "primary_hint": false,
+      "excerpt": "🏥Injury confirmed: 'Dibu' Martínez will need surgery OneFootball"
+    }
+  ]
+}
