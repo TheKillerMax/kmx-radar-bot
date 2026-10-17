@@ -1,15 +1,16 @@
 {
-  "last_media_id": "17987560875074159",
+  "last_media_id": null,
   "last_processed_generated_at": "2026-10-15T19:03:16Z",
   "last_publication_id": "kmx-20261015-justice-gta6-musica-original",
   "last_result": "publish_error",
   "next_publish_retry_at": null,
-  "note": "Instagram publication failed; .ready retained for retry: get_account failed: HTTP 400; type='OAuthException'; code=190; subcode=0; message='Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.'; fbtrace_id='Aiz5DQDtJ7OJySsyeGRKVtS'",
+  "note": "Controlled retry using new Instagram token validation, idempotent publishing and an authenticated-account challenge backoff. No publication is assumed until receipt.",
   "pending_manifest_generated_at": "2026-10-16T18:45:35Z",
   "pending_publication_id": "kmx-20261016-katie-zacharia-sale-portavocia",
   "pending_source_event_id": "10-d7d93039075619f7",
   "phase": "publish_error",
-  "published_at": "2026-10-08T05:36:23Z",
+  "published_at": null,
   "source_event_id": "02-9ca0105fc88ef119",
-  "visuals_completed_at": "2026-10-16T04:32:56Z"
+  "visuals_completed_at": "2026-10-16T04:32:56Z",
+  "external_error_code": null
 }
