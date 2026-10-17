@@ -12,6 +12,6 @@
 ### Fuente 1: cnnespanol.cnn.com
 - URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTVrbDFIQ3UtVlJrQnFGMzF4QkhmX3pydEVrUjA3eXFodFRlTWxIY0NOMVVDX3VWN21JdllyMW05NmdBelJJUzNORTNJMVlGY2lSREJERGlkZWtnU0huRWtZU25zTnlzdzhINkdBaUNyMDJ4ZEVtUjlhWm5WcXJUbg?oc=5
 - Título: Solo duró tres minutos. Así se desarrolló el tiroteo en la escuela de Bend, en Oregon - CNN en Español
-- Fecha detectada: Sat, 17 Oct 2026 10:02:00 GMT
+- Fecha detectada: Sat, 17 Oct 2026 13:24:00 GMT
 
-Solo duró tres minutos. Así se desarrolló el tiroteo en la escuela de Bend, en Oregon CNN en Español Identifican sospechoso del tiroteo escolar en Oregón;anteriormente asistió la escuela, según policía ABC7 Los Angeles Titulares de 16 de octubre de 2026 Democracy Now! Tiroteo en primaria de Bend: maestra ayudó a salvar vidas Telemundo Tiroteo en escuela primaria de Mount Angel moviliza a policías en Oregón WFLA
+Solo duró tres minutos. Así se desarrolló el tiroteo en la escuela de Bend, en Oregon CNN en Español ¿Quién fue Griffin J. John II, el adolescente que perpetró el tiroteo en la escuela Silver Rail de Oregón? Univision Identifican sospechoso del tiroteo escolar en Oregón;anteriormente asistió la escuela, según policía ABC7 Los Angeles Titulares de 16 de octubre de 2026 Democracy Now! Tiroteo en escuela primaria de Mount Angel moviliza a policías en Oregón WFLA

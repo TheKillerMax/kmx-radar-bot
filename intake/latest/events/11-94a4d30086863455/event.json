@@ -1,0 +1,30 @@
+{
+  "event_id": "11-94a4d30086863455",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La BBC presencia el violento ataque de colonos israelíes en Cisjordania contra palestinos y una periodista de EE.UU. - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La BBC presencia el violento ataque de colonos israelíes en Cisjordania contra palestinos y una periodista de EE.UU. - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14d3RqS0Fac3F6WTRqM2RJTk1hQ1FUaENPbVRDQXdBYm4yMGJKclJkRXptejFWdFFfZVRocGNhWWdHQzd6TTNJWFJMTWFLUlFkYVZpQ2NGeDlqRlpn0gFiQVVfeXFMT0xOUnNNTnB5UTRkaDFvNmdVQUxxUlJ6bXRzMWlFMDNjdXUzOFVTbVhncXhEZXhWUGlzaXpMT3ZhSDdSQkRYQzN2clBCQnlhSFpKWlhGMDRuMVB0YkhGbUJXUmc?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 20:54:40 GMT",
+      "primary_hint": false,
+      "excerpt": "La BBC presencia el violento ataque de colonos israelíes en Cisjordania contra palestinos y una periodista de EE.UU. BBC Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

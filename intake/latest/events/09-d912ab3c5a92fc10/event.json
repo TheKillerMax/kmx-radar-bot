@@ -1,0 +1,30 @@
+{
+  "event_id": "09-d912ab3c5a92fc10",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aeVFteWtkd3BCalZ5WkhGOUNPcTdiRGxuUzI4d1F4QVBiQU41WE0zdVNHU2plTGlLSnE0X0lFZW82TmNJT283dkpXNDE3bjRYcE9PdDZNeEpfRTR20gFiQVVfeXFMTkVYQXpQb2tlUkxOMzVZQkxGdEJPTEtvWkpEbkN6OGpKUDdlQU10LS1IdE5IS3ZiUUxVekZXdmdoelhRSl9pLWszUGlGb1hXMUdkcGl1U0R3YmNRb3MxLV85cnc?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 12:35:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte BBC Los supervivientes de Fort Hood elogian a Trump por cancelar la retransmisión en directo de la ejecución de Hasan: «No somos unos bárbaros» Fox News Trump cancela los planes de Hegseth de transmitir en vivo una ejecución por fusilamiento Democracy Now! Trump, tras controversia, anuncia que fusilamiento de tirador de Fort Hood no será transmitido San Antonio Express-News Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood CNN en Español"
+    }
+  ]
+}
