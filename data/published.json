@@ -703,6 +703,44 @@
         }
       ],
       "status": "VERIFICADO"
+    },
+    {
+      "headline": "Rockstar confirma que Justice compuso la música original de GTA VI",
+      "image_urls": [
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/01-justice-musica-gta6.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/02-justice-invitados.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/03-que-musica-hizo.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/04-cancion-del-trailer.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/05-fecha-prevista.png",
+        "https://raw.githubusercontent.com/TheKillerMax/kmx-radar-bot/main/approved/kmx-20261015-justice-gta6-musica-original/06-que-sigue.png"
+      ],
+      "media_id": "18096598457422535",
+      "publication_id": "kmx-20261015-justice-gta6-musica-original",
+      "published_at": "2026-10-17T02:02:03Z",
+      "source_event_id": "02-9ca0105fc88ef119",
+      "sources": [
+        {
+          "label": "Rockstar Games · confirmación oficial, 15/10/2026",
+          "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer"
+        },
+        {
+          "label": "Pitchfork · verificación periodística, 15/10/2026",
+          "url": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi"
+        },
+        {
+          "label": "SPIN · verificación musical, 15/10/2026",
+          "url": "https://www.spinmagazine.com/2026/10/justice-gta-vi-soundtrack/"
+        },
+        {
+          "label": "NME · corroboración independiente, 15/10/2026",
+          "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238"
+        },
+        {
+          "label": "Wikimedia Commons · fotografía de Justice, CC BY 2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Justice_(band).jpg"
+        }
+      ],
+      "status": "VERIFICADO"
     }
   ]
 }

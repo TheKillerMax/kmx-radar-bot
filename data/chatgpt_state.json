@@ -1,16 +1,16 @@
 {
   "external_error_code": null,
-  "last_media_id": null,
+  "last_media_id": "18096598457422535",
   "last_processed_generated_at": "2026-10-15T19:03:16Z",
   "last_publication_id": "kmx-20261015-justice-gta6-musica-original",
-  "last_result": "publishing",
+  "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Verified Instagram access to @kmxradar via Check Instagram connection run 37079806425 (attempt 2); official source revalidated; resume the current approved .ready package with existing idempotency safeguards.",
+  "note": "Publisher completed Instagram publication and recorded the receipt.",
   "pending_manifest_generated_at": "2026-10-16T23:28:50Z",
   "pending_publication_id": null,
   "pending_source_event_id": null,
-  "phase": "publishing",
-  "published_at": null,
+  "phase": "published",
+  "published_at": "2026-10-17T02:02:03Z",
   "source_event_id": "02-9ca0105fc88ef119",
   "visuals_completed_at": "2026-10-16T04:32:56Z"
 }
