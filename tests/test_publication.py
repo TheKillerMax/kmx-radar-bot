@@ -68,7 +68,12 @@ def test_publish_auth_190_preserves_ready_and_sets_retry(tmp_path, monkeypatch):
     data = tmp_path / "data"
     data.mkdir()
     (data / "chatgpt_state.json").write_text(
-        json.dumps({"phase": "publishing", "last_publication_id": "kmx-current"}),
+        json.dumps({
+            "phase": "publishing",
+            "last_publication_id": "kmx-current",
+            "last_media_id": "historical-media",
+            "published_at": "2026-10-08T00:00:00Z",
+        }),
         encoding="utf-8",
     )
     monkeypatch.setattr(publication, "APPROVED_DIR", approved)
@@ -86,6 +91,8 @@ def test_publish_auth_190_preserves_ready_and_sets_retry(tmp_path, monkeypatch):
     state = json.loads((data / "chatgpt_state.json").read_text(encoding="utf-8"))
     assert state["phase"] == "publish_error"
     assert state["external_error_code"] == "instagram_auth_190"
+    assert state["last_media_id"] is None
+    assert state["published_at"] is None
     assert state["next_publish_retry_at"]
     assert (package / ".ready").exists()
     assert not (package / ".published.json").exists()

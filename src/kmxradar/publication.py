@@ -246,6 +246,8 @@ def publish_ready_packages() -> int:
                     publication_id,
                     phase="publish_error",
                     last_result="publish_error",
+                    last_media_id=None,
+                    published_at=None,
                     external_error_code="instagram_auth_190",
                     next_publish_retry_at=retry_at,
                     note=(
@@ -265,6 +267,8 @@ def publish_ready_packages() -> int:
                 publication_id,
                 phase="publish_error",
                 last_result="publish_error",
+                last_media_id=None,
+                published_at=None,
                 external_error_code=None,
                 next_publish_retry_at=None,
                 note=f"Instagram publication failed; .ready retained for retry: {exc}",

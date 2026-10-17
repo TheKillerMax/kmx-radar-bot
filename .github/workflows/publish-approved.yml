@@ -139,6 +139,11 @@ jobs:
                   out.write(f"- Next automatic check: {state.get('next_publish_retry_at') or 'unspecified'}\n")
               if note:
                   out.write(f"- Detail: {note}\n")
+              backlog = sorted(p.parent.name for p in Path("approved").glob("*/.ready")
+                               if p.parent.name != publication_id)
+              if backlog:
+                  out.write(f"- **Other ready packages ({len(backlog)}) — recheck freshness:** "
+                            + ", ".join(backlog) + "\n")
           PY
 
       - name: Persist receipt, history and pipeline state
