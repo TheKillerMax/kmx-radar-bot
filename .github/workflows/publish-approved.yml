@@ -81,6 +81,31 @@ jobs:
         continue-on-error: true
         run: python -m kmxradar publish-approved
 
+      - name: Summarize publication and external blocks
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          state_file = Path("data/chatgpt_state.json")
+          state = json.loads(state_file.read_text(encoding="utf-8")) if state_file.exists() else {}
+          phase = str(state.get("phase") or "unknown")
+          publication_id = str(state.get("last_publication_id") or "none")
+          note = str(state.get("note") or "").replace("\n", " ")
+          summary = Path(os.environ["GITHUB_STEP_SUMMARY"])
+          with summary.open("a", encoding="utf-8") as out:
+              out.write("### KMX RADAR publication status\n")
+              out.write(f"- Publication: `{publication_id}`\n")
+              out.write(f"- State: `{phase}`\n")
+              if state.get("external_error_code") == "instagram_auth_190":
+                  out.write("- **BLOCKED BY INSTAGRAM ACCOUNT VERIFICATION**; no post was sent.\n")
+                  out.write(f"- Next automatic check: {state.get('next_publish_retry_at') or 'unspecified'}\n")
+              if note:
+                  out.write(f"- Detail: {note}\n")
+          PY
+
       - name: Persist receipt, history and pipeline state
         if: always()
         shell: bash

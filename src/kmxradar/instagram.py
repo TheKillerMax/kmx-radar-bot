@@ -8,12 +8,20 @@ from pathlib import Path
 import requests
 
 from .config import editorial_config
-from .token_store import load_token
+from .token_store import load_token, save_token
 
 LOG = logging.getLogger(__name__)
 
 
-def _safe_api_error(response: requests.Response, action: str) -> RuntimeError:
+class InstagramAPIError(RuntimeError):
+    """A sanitized Graph API error with a machine-readable error code."""
+
+    def __init__(self, message: str, code: int | str | None = None) -> None:
+        super().__init__(message)
+        self.code = code
+
+
+def _safe_api_error(response: requests.Response, action: str) -> InstagramAPIError:
     try:
         payload = response.json()
     except Exception:
@@ -21,12 +29,13 @@ def _safe_api_error(response: requests.Response, action: str) -> RuntimeError:
     error = payload.get("error") if isinstance(payload, dict) else {}
     if not isinstance(error, dict):
         error = {}
-    return RuntimeError(
+    return InstagramAPIError(
         f"{action} failed: HTTP {response.status_code}; "
         f"type={error.get('type')!r}; code={error.get('code')!r}; "
         f"subcode={error.get('error_subcode')!r}; "
         f"message={str(error.get('message') or 'non-JSON error')!r}; "
-        f"fbtrace_id={error.get('fbtrace_id')!r}"
+        f"fbtrace_id={error.get('fbtrace_id')!r}",
+        code=error.get("code"),
     )
 
 
@@ -45,6 +54,36 @@ def get_account(token: str | None = None) -> dict:
     )
     _raise_api_error(response, "get_account")
     return response.json()
+
+
+def get_verified_account() -> tuple[str, dict]:
+    """Use the encrypted token, or a separately verified GitHub secret.
+
+    Do not replace an encrypted credential with an untested or mismatched
+    account. An Instagram security checkpoint still requires account-owner
+    action if neither credential works.
+    """
+    token = load_token()
+    try:
+        return token, get_account(token)
+    except InstagramAPIError as exc:
+        if str(exc.code) != "190":
+            raise
+        alternative = os.environ.get("INSTAGRAM_ACCESS_TOKEN", "").strip()
+        if not alternative or alternative == token:
+            raise
+        try:
+            account = get_account(alternative)
+        except Exception:
+            LOG.warning("Alternative Instagram secret failed validation; original token retained.")
+            raise exc
+        expected = str(editorial_config().get("brand", {}).get("handle") or "").lstrip("@").casefold()
+        actual = str(account.get("username") or "").casefold()
+        if not actual or (expected and actual != expected):
+            raise RuntimeError("GitHub Instagram secret resolves to an unexpected account; token not rotated")
+        save_token(alternative, {"source": "github-secret-validated", "reason": "stored-token-recovery"})
+        LOG.warning("Recovered Instagram access using verified GitHub secret; encrypted token updated.")
+        return alternative, account
 
 
 def find_recent_media_by_caption(
@@ -183,8 +222,7 @@ def _wait_public_url(url: str, attempts: int = 10, seconds: int = 5) -> None:
 
 
 def publish_package(package_dir: Path, manifest: dict) -> dict:
-    token = load_token()
-    account = get_account(token)
+    token, account = get_verified_account()
     ig_id = str(account.get("user_id") or account.get("id") or "")
     if not ig_id:
         raise RuntimeError(f"Unable to obtain Instagram professional account id: {account}")

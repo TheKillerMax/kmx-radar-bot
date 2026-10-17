@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: kmx-radar-token
+  group: kmx-radar-main-writer
   cancel-in-progress: false
 
 env:
@@ -24,6 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
@@ -39,5 +40,5 @@ jobs:
           git add data/instagram_token.enc data/instagram_token_meta.json
           if ! git diff --cached --quiet; then
             git commit -m "security: refresh encrypted Instagram token"
-            git push
+            git push origin HEAD:main
           fi

@@ -89,3 +89,52 @@ def test_publish_or_recover_raises_when_post_never_appears(monkeypatch):
         assert "real publish failure" in str(exc)
     else:
         raise AssertionError("Expected publish failure to propagate")
+
+
+
+def test_get_verified_account_uses_only_validated_alternative(monkeypatch):
+    monkeypatch.setattr(instagram, "load_token", lambda: "stale")
+    monkeypatch.setenv("INSTAGRAM_ACCESS_TOKEN", "fresh")
+    monkeypatch.setattr(instagram, "editorial_config", lambda: {"brand": {"handle": "@kmxradar"}})
+    saved = []
+    monkeypatch.setattr(instagram, "save_token", lambda token, metadata: saved.append((token, metadata)))
+
+    def fake_get_account(token):
+        if token == "stale":
+            raise instagram.InstagramAPIError("Instagram challenge", code=190)
+        return {"username": "kmxradar", "user_id": "1"}
+
+    monkeypatch.setattr(instagram, "get_account", fake_get_account)
+    token, account = instagram.get_verified_account()
+    assert token == "fresh"
+    assert account["username"] == "kmxradar"
+    assert saved[0][0] == "fresh"
+
+
+def test_get_verified_account_rejects_secret_for_wrong_account(monkeypatch):
+    monkeypatch.setattr(instagram, "load_token", lambda: "stale")
+    monkeypatch.setenv("INSTAGRAM_ACCESS_TOKEN", "wrong")
+    monkeypatch.setattr(instagram, "editorial_config", lambda: {"brand": {"handle": "@kmxradar"}})
+    saved = []
+    monkeypatch.setattr(instagram, "save_token", lambda *args: saved.append(args))
+
+    def fake_get_account(token):
+        if token == "stale":
+            raise instagram.InstagramAPIError("Instagram challenge", code=190)
+        return {"username": "otheraccount", "user_id": "2"}
+
+    monkeypatch.setattr(instagram, "get_account", fake_get_account)
+    import pytest
+    with pytest.raises(RuntimeError, match="unexpected account"):
+        instagram.get_verified_account()
+    assert saved == []
+
+
+def test_get_verified_account_no_alternate_does_not_hide_checkpoint(monkeypatch):
+    monkeypatch.setattr(instagram, "load_token", lambda: "stale")
+    monkeypatch.delenv("INSTAGRAM_ACCESS_TOKEN", raising=False)
+    monkeypatch.setattr(instagram, "get_account", lambda token: (_ for _ in ()).throw(
+        instagram.InstagramAPIError("Challenge", code=190)))
+    import pytest
+    with pytest.raises(instagram.InstagramAPIError):
+        instagram.get_verified_account()

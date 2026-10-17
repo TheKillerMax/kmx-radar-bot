@@ -42,17 +42,44 @@ def load_token() -> str:
 
 
 def refresh_token() -> str:
+    """Refresh without silently preferring a stale encrypted token forever.
+
+    A GitHub secret is accepted as a recovery candidate only after its
+    Instagram account is verified and a refresh succeeds. Never print tokens.
+    """
     token = load_token()
-    host = editorial_config()["instagram"]["graph_host"]
-    response = requests.get(
-        f"{host}/refresh_access_token",
-        params={"grant_type": "ig_refresh_token", "access_token": token},
-        timeout=30,
-    )
-    response.raise_for_status()
-    payload = response.json()
+    cfg = editorial_config()
+    host = cfg["instagram"]["graph_host"]
+
+    def request_refresh(candidate: str) -> dict:
+        response = requests.get(
+            f"{host}/refresh_access_token",
+            params={"grant_type": "ig_refresh_token", "access_token": candidate},
+            timeout=30,
+        )
+        response.raise_for_status()
+        return response.json()
+
+    source = "refresh"
+    try:
+        payload = request_refresh(token)
+    except requests.HTTPError:
+        alternative = os.environ.get("INSTAGRAM_ACCESS_TOKEN", "").strip()
+        if not alternative or alternative == token:
+            raise
+        # A refreshed access token must still belong to the correct account.
+        from .instagram import get_account
+
+        account = get_account(alternative)
+        expected = str(cfg.get("brand", {}).get("handle") or "").lstrip("@").casefold()
+        actual = str(account.get("username") or "").casefold()
+        if not actual or (expected and actual != expected):
+            raise RuntimeError("Refusing Instagram refresh with a secret for another account")
+        payload = request_refresh(alternative)
+        source = "refresh-from-verified-github-secret"
+
     new_token = payload.get("access_token")
     if not new_token:
         raise RuntimeError("Instagram refresh response did not contain access_token")
-    save_token(new_token, {"expires_in": payload.get("expires_in"), "source": "refresh"})
+    save_token(new_token, {"expires_in": payload.get("expires_in"), "source": source})
     return new_token

@@ -4,10 +4,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import json
 import logging
+import os
 import re
 
 from .config import DATA_DIR, editorial_config, load_yaml
-from .instagram import publish_package
+from .instagram import InstagramAPIError, publish_package
 from .utils import read_json, utcnow_iso, write_json
 
 LOG = logging.getLogger(__name__)
@@ -65,6 +66,19 @@ def _set_chatgpt_state(publication_id: str, **updates) -> None:
     for key, value in updates.items():
         state[key] = value
     write_json(CHATGPT_STATE_FILE, state)
+
+
+AUTH_RETRY_MINUTES = 90
+
+
+def _auth_retry_pending(state: dict) -> bool:
+    """Avoid hammering an Instagram security checkpoint on every Actions run."""
+    if os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch":
+        return False  # Explicit manual health rechecks may run immediately.
+    if state.get("phase") != "publish_error" or state.get("external_error_code") != "instagram_auth_190":
+        return False
+    retry_at = _parse_iso(state.get("next_publish_retry_at"))
+    return bool(retry_at and datetime.now(timezone.utc) < retry_at)
 
 
 def _validate_manifest(package_dir: Path, manifest: dict) -> list[str]:
@@ -158,6 +172,15 @@ def publish_ready_packages() -> int:
     else:
         ready_dirs = all_ready_dirs
 
+    if _auth_retry_pending(pipeline_state):
+        LOG.warning(
+            "Instagram account verification still blocked for %s; retry after %s. "
+            "The .ready marker is preserved; no duplicate publish attempted.",
+            current_id,
+            pipeline_state.get("next_publish_retry_at"),
+        )
+        return 0
+
     allowed, limit_reason, retry_at = _rate_limit_status()
     if not allowed:
         publication_id = ready_dirs[0].name
@@ -215,10 +238,35 @@ def publish_ready_packages() -> int:
         try:
             result = publish_package(package_dir, manifest)
         except Exception as exc:
+            if isinstance(exc, InstagramAPIError) and str(exc.code) == "190":
+                retry_at = (
+                    datetime.now(timezone.utc) + timedelta(minutes=AUTH_RETRY_MINUTES)
+                ).isoformat().replace("+00:00", "Z")
+                _set_chatgpt_state(
+                    publication_id,
+                    phase="publish_error",
+                    last_result="publish_error",
+                    external_error_code="instagram_auth_190",
+                    next_publish_retry_at=retry_at,
+                    note=(
+                        "Instagram requires the account owner to log in to instagram.com "
+                        "and complete the security instructions (Graph API code 190). "
+                        "The current .ready marker and approved media are preserved. "
+                        f"Automatic check not before {retry_at}; no duplicate publish."
+                    ),
+                )
+                LOG.error(
+                    "Instagram blocked access to account (Graph API 190). "
+                    "No publication completed; retaining .ready for checked retry at %s.",
+                    retry_at,
+                )
+                return 0
             _set_chatgpt_state(
                 publication_id,
                 phase="publish_error",
                 last_result="publish_error",
+                external_error_code=None,
+                next_publish_retry_at=None,
                 note=f"Instagram publication failed; .ready retained for retry: {exc}",
             )
             LOG.exception("Instagram publication failed for %s", publication_id)
@@ -258,6 +306,7 @@ def publish_ready_packages() -> int:
             last_media_id=result.get("media_id"),
             published_at=published_at,
             next_publish_retry_at=None,
+            external_error_code=None,
             note="Publisher completed Instagram publication and recorded the receipt.",
         )
         LOG.info("Published %s", publication_id)
