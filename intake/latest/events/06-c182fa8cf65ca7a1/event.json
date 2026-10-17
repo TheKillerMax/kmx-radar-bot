@@ -1,5 +1,5 @@
 {
-  "event_id": "10-c182fa8cf65ca7a1",
+  "event_id": "06-c182fa8cf65ca7a1",
   "category": "MUNDO",
   "risk": "medium",
   "canonical_title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
@@ -20,7 +20,7 @@
       "publisher": "USGS Significant Earthquakes",
       "language": "en",
       "source_country": "",
-      "seen_at": "2026-10-17T07:15:25.040Z",
+      "seen_at": "2026-10-17T08:49:11.040Z",
       "primary_hint": true,
       "excerpt": "PAGER - YELLOW ShakeMap - VII DYFI? - V Time 2026-10-17 05:06:57 UTC 2026-10-17 05:06:57 UTC at epicenter Location 28.018°N 66.171°E Depth 10.00 km (6.21 mi)"
     }

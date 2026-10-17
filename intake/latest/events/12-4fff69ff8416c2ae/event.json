@@ -1,0 +1,30 @@
+{
+  "event_id": "12-4fff69ff8416c2ae",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor, mientras se empeoran las relaciones con Ucrania - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor, mientras se empeoran las relaciones con Ucrania - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUJiQkVRQjBDTWZ5N0VDZXJ0N0hTUGlnOUhULUgzNVkwRl9UZkJaR1luV1duZWxZUW41Y2IwckU2UDVHX0JSTlIwb29nUnJqbFBNakZPSXNtMy1xVGVNWlc1UzhwaFRxMWs4Q3lzcy1uNjBORVFLM1k4a1VibjNBeXdzS2J5MlRXN21vQm84b2tEWDV6cF9HaXhYOA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 12:35:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor, mientras se empeoran las relaciones con Ucrania CNN en Español Zelenskyy pide apoyo a nuevas sanciones de EEUU a Rusia tras suspensión por parte de Trump San Antonio Express-News Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones EL PAÍS Trump pausa sanciones a Rusia que el Congreso aprobó y él mismo ratificó, tras acuerdo con Putin para comprar diésel Telemundo Trump pausa paquete de sanciones contra Rusia alegando motivos de \"interés nacional\" France 24"
+    }
+  ]
+}
