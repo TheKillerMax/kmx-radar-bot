@@ -1,0 +1,28 @@
+{
+  "event_id": "09-142e0baed4e42bdd",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Aeronave e instrumentos de Dragonfly - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ciencia.nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Aeronave e instrumentos de Dragonfly - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vVG5zSEJzak9MRWUxbk05bmJLd0E4OEpxNDgtT1pkZFpsQ2QtU2lMVHJNcE41QldJdElxbVlHQzhpMVJ6M2dMTGJqWHJfSkY4T3Jfb0d4Sy1NUnZvTGxod2xSME9UWVVRSUtobjlySQ?oc=5",
+      "domain": "ciencia.nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 22:07:11 GMT",
+      "primary_hint": false,
+      "excerpt": "Aeronave e instrumentos de Dragonfly NASA (.gov)"
+    }
+  ]
+}

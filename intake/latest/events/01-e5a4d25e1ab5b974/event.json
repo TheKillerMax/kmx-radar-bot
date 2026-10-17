@@ -1,0 +1,52 @@
+{
+  "event_id": "01-e5a4d25e1ab5b974",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer - IMDb",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "crunchyroll.com",
+    "fomoera.com",
+    "imdb.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TS1BpZVhPLW94djZ3N0I5RXdOa0FGckVSUFpObXRKRDRNZ3VnSnU1RFNIc0xjWV9IY21yX0YzazNTQnROSDFpUnlUczlwQUVxVHpXVDV5SXB3N0RnTDl2RlBmTW5BZ3ZlTEtLVjh5Zw?oc=5",
+      "domain": "imdb.com",
+      "publisher": "IMDb",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 02:49:08 GMT",
+      "primary_hint": false,
+      "excerpt": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer IMDb"
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War - The Calamity estrena tráiler final - Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmY3NHpXcm9FWkF4N2c2R2F1UFdqb3JRWTZRWWRQVlBzNnlnUllCdm1zMGJSTHhVNGZjMmlMLWV4azZOeXBRc1ZrUVhZTzZzcjZyazB3NmVHMlo5eVlnWXpWX2NEU18xMmZPak92WFYwd0gydkJaMlkxazdPTTJUUjZkeWMweFVNdzNUbEs3UFZVMHRUbXJqV1Q1UUQ2bXU1dDRGbHUyWXNvSkZDcmlsZkdQOG5VaXlwc00wTg?oc=5",
+      "domain": "crunchyroll.com",
+      "publisher": "Crunchyroll",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 20:23:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Bleach: Thousand-Year Blood War - The Calamity estrena tráiler final Crunchyroll"
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War lanza su último tráiler - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZ1NoWE5NRmlqYk90YVpKUDRLODF3bS1tQXNxNDVHdmN4VXNYUEdSdUprZWFxcFJwT0VHXzBHMC1iYVY5eG5SelNKOU1faGExMHQ4?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 23:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Bleach: Thousand-Year Blood War lanza su último tráiler https://fomoera.com/"
+    }
+  ]
+}
