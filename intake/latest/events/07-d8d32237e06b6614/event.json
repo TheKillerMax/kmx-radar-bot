@@ -1,0 +1,30 @@
+{
+  "event_id": "07-d8d32237e06b6614",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "En 2024, Doral ayudó a Trump a volver a la presidencia. Hoy, poco antes de las nuevas elecciones, es una \"ciudad fantasma\" - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "En 2024, Doral ayudó a Trump a volver a la presidencia. Hoy, poco antes de las nuevas elecciones, es una \"ciudad fantasma\" - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTy1QXzl0c3dyYUFLdVJvLVdRSElJZE5MemZYalpVbUxkNWhob1NSRjN0QkwydW0wYldoNWUxbUdIc1ZuLVJ4aUdVa0duSEVYQTVjWE9GbmhkNFJ2bmtDQVJPaVI4U2dlYlR0T3ZnSnJzX1dMVEdwTFNCRUVlZVBseDFJZElYQ09qb2pkME1VZUQ3MGxJbDlv?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 16 Oct 2026 14:49:00 GMT",
+      "primary_hint": false,
+      "excerpt": "En 2024, Doral ayudó a Trump a volver a la presidencia. Hoy, poco antes de las nuevas elecciones, es una \"ciudad fantasma\" CNN en Español Candidatos de Doral respaldan a Trump mientras ofensiva migratoria aviva temores El Nuevo Herald Christi Fraga habla del temor migratorio en Doral y del impacto en los comercios Diario Las Américas N+ Univision Conducts Statewide Poll in Florida Ahead of the November 2026 Midterm Elections TelevisaUnivision Trump pierde respaldo entre los latinos de Florida rumbo a las elecciones | Esta Semana, Ep. 33 N+"
+    }
+  ]
+}

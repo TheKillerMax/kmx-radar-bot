@@ -14,4 +14,4 @@
 - Título: Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas - CNN en Español
 - Fecha detectada: Sat, 17 Oct 2026 16:39:00 GMT
 
-Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas CNN en Español Bomberos combaten incendio en el sur de California; hay 16.000 evacuados y 6 viviendas dañadas AP News Incendios en el sur de California consumen viviendas costeras Chicago Tribune Buen samaritano alerta a familia del peligro del incendio Norte Telemundo 52 Pequeños fuegos en el sur de California mientras el calor y el viento elevan el riesgo de incendios New Haven Register
+Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas CNN en Español Bomberos combaten incendio en el sur de California; hay 16.000 evacuados y 6 viviendas dañadas AP News Buen samaritano alerta a familia del peligro del incendio Norte Telemundo 52 Incendios en el sur de California consumen viviendas costeras Chicago Tribune Calor y viento avivan incendios de matorrales en sur de California; población vive sin electricidad Beaumont Enterprise

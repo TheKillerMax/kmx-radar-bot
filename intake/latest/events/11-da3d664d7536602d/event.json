@@ -1,0 +1,30 @@
+{
+  "event_id": "11-da3d664d7536602d",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los campos de la muerte en América Latina: ¿en cuántas fronteras y regiones quedan minas antipersonal? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los campos de la muerte en América Latina: ¿en cuántas fronteras y regiones quedan minas antipersonal? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSERXUS11Y0VDb1A4R3Z5bENxYUg5Z19KZDNpYW1TN216MWFNNzVnRGVDWHA5UHdiN1BpbjN4aTBBWWJLT285TEhjREF5UnhHVVFyWV9YTkF3N2psSmVESXQwcGdhR0d5dVdjNHRISGlBTUNtUnJyMzdDd2hGa3Y3a002NEVsT09zb0hvRE10MA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 11:16:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los campos de la muerte en América Latina: ¿en cuántas fronteras y regiones quedan minas antipersonal? CNN en Español"
+    }
+  ]
+}
