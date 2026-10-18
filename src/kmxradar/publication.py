@@ -143,6 +143,12 @@ def _already_published(publication_id: str) -> bool:
     return any(p.get("publication_id") == publication_id for p in posts)
 
 
+def _validate_before_publishing(package_dir: Path, manifest: dict) -> None:
+    # Local import prevents a circular module dependency at startup.
+    from .reconcile import _validate_publishable_package
+    _validate_publishable_package(package_dir, manifest)
+
+
 def publish_ready_packages() -> int:
     auto = load_yaml("autopublish.yml")
     if not bool(auto.get("enabled", False)):
@@ -160,17 +166,32 @@ def publish_ready_packages() -> int:
 
     pipeline_state = read_json(CHATGPT_STATE_FILE, {})
     current_id = str(pipeline_state.get("last_publication_id") or "")
-    if current_id:
-        ready_dirs = [p for p in all_ready_dirs if p.name == current_id]
-        if not ready_dirs:
-            LOG.warning(
-                "Ignoring %d stale .ready marker(s); current publication is %s",
-                len(all_ready_dirs),
-                current_id,
-            )
-            return 0
-    else:
-        ready_dirs = all_ready_dirs
+    if not current_id:
+        LOG.error(
+            "Refusing to publish: no active last_publication_id; "
+            "%d .ready marker(s) remain untouched.",
+            len(all_ready_dirs),
+        )
+        return 0
+
+    ready_dirs = [p for p in all_ready_dirs if p.name == current_id]
+    if not ready_dirs:
+        LOG.warning(
+            "Ignoring %d noncurrent .ready marker(s); active publication is %s",
+            len(all_ready_dirs), current_id,
+        )
+        return 0
+
+    active_phase = str(pipeline_state.get("phase") or "")
+    if active_phase not in {
+        "publishing", "publishing_waiting_rate_limit", "publish_error"
+    }:
+        LOG.warning(
+            "Refusing to publish %s while its phase is %r: "
+            "explicit publishing approval is required.",
+            current_id, active_phase,
+        )
+        return 0
 
     if _auth_retry_pending(pipeline_state):
         LOG.warning(
@@ -224,16 +245,30 @@ def publish_ready_packages() -> int:
             )
             continue
 
-        errors = _validate_manifest(package_dir, manifest)
-        if errors:
-            message = f"Invalid publication package {publication_id}: {'; '.join(errors)}"
+        if (package_dir / ".published.json").exists():
+            message = (
+                f"Refusing to republish {publication_id}: .published.json exists "
+                "but publication history is not synchronized. "
+                "Manual receipt reconciliation is required."
+            )
+            LOG.error(message)
+            _set_chatgpt_state(
+                publication_id, phase="publish_blocked",
+                last_result="publish_blocked", note=message,
+            )
+            return 0
+
+        try:
+            _validate_before_publishing(package_dir, manifest)
+        except Exception as exc:
+            message = f"Invalid publication package {publication_id}: {exc}"
             _set_chatgpt_state(
                 publication_id,
                 phase="publish_blocked",
                 last_result="publish_blocked",
                 note=message,
             )
-            raise RuntimeError(message)
+            raise RuntimeError(message) from exc
 
         try:
             result = publish_package(package_dir, manifest)

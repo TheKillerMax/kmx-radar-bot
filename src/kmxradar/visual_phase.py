@@ -249,14 +249,28 @@ def prepare_visual_packages() -> int:
         LOG.info("No .visualize packages")
         return 0
 
+    active_id = str(read_json(STATE_FILE, {}).get("last_publication_id") or "")
+    if not active_id:
+        LOG.warning("Visual markers found without active publication; leaving all untouched")
+        return 0
+
     processed = 0
     for marker in markers:
         package_dir = marker.parent
+        if package_dir.name != active_id:
+            LOG.warning(
+                "Ignoring noncurrent .visualize marker for %s (active=%s)",
+                package_dir.name, active_id,
+            )
+            continue
         phase = _phase_for(package_dir)
         if phase not in RENDERABLE_PHASES:
-            raise RuntimeError(
-                f"{package_dir.name}: expected one of {sorted(RENDERABLE_PHASES)}, got {phase!r}"
+            LOG.warning(
+                "Skipping .visualize for %s: phase %r is not renderable; "
+                "preserving marker without regressing state.",
+                package_dir.name, phase,
             )
+            continue
 
         manifest_path = package_dir / "publication.json"
         visuals_path = package_dir / "visuals.json"

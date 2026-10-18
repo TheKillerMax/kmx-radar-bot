@@ -73,7 +73,10 @@ def test_reconcile_does_not_create_ready_without_qc(tmp_path, monkeypatch):
         "images": [],
         "sources": [{"url": "https://example.org", "label": "Fuente"}],
     })
+    state_file = tmp_path / "data" / "chatgpt_state.json"
+    _write(state_file, {"last_publication_id": "kmx-test", "phase": "publishing"})
     monkeypatch.setattr(reconcile, "APPROVED_DIR", approved)
+    monkeypatch.setattr(reconcile, "CHATGPT_STATE_FILE", state_file)
 
     assert reconcile.reconcile_publish_markers() == 0
     assert not (package / ".ready").exists()
@@ -103,3 +106,68 @@ def test_reconcile_ignores_noncurrent_ready_candidate(tmp_path, monkeypatch):
 
     assert reconcile.reconcile_publish_markers() == 0
     assert not (stale / ".ready").exists()
+
+
+def test_receipt_reconcile_preserves_pending_note_when_already_consistent(tmp_path, monkeypatch):
+    approved = tmp_path / "approved"
+    package = approved / "kmx-done"
+    package.mkdir(parents=True)
+    _write(package / ".published.json", {
+        "publication_id": "kmx-done",
+        "published_at": "2026-10-17T02:02:03Z",
+        "instagram": {"media_id": "ig-123"},
+    })
+    state_file = tmp_path / "data" / "chatgpt_state.json"
+    state = {
+        "phase": "published", "last_result": "published",
+        "last_publication_id": "kmx-done",
+        "last_media_id": "ig-123",
+        "published_at": "2026-10-17T02:02:03Z",
+        "note": "Último intake pendiente por revisión editorial.",
+        "pending_manifest_generated_at": "2026-10-17T23:02:41Z",
+    }
+    _write(state_file, state)
+    monkeypatch.setattr(reconcile, "APPROVED_DIR", approved)
+    monkeypatch.setattr(reconcile, "CHATGPT_STATE_FILE", state_file)
+    assert reconcile.reconcile_receipts() == 0
+    assert reconcile.reconcile_receipts() == 0
+    assert json.loads(state_file.read_text(encoding="utf-8")) == state
+
+
+def test_reconciler_without_active_id_does_not_restore_archived_markers(tmp_path, monkeypatch):
+    approved = tmp_path / "approved"
+    package = approved / "old"
+    package.mkdir(parents=True)
+    _write(package / "publication.json", {
+        "publication_id": "old",
+        "schema_version": 1,
+        "ready_to_publish": True,
+        "status": "VERIFICADO",
+    })
+    state_file = tmp_path / "data" / "chatgpt_state.json"
+    _write(state_file, {})
+    monkeypatch.setattr(reconcile, "APPROVED_DIR", approved)
+    monkeypatch.setattr(reconcile, "CHATGPT_STATE_FILE", state_file)
+    assert reconcile.reconcile_visual_markers() == 0
+    assert reconcile.reconcile_publish_markers() == 0
+    assert not (package / ".ready").exists()
+    assert not (package / ".visualize").exists()
+
+
+def test_preflight_rejects_unicode_degradation_in_publication(tmp_path):
+    import pytest
+    import unicodedata
+    package = tmp_path / "kmx-current"
+    package.mkdir()
+    for i in range(1, 7):
+        (package / f"{i:02d}.png").write_bytes(b"fake")
+    manifest = {
+        "schema_version": 1, "publication_id": "kmx-current",
+        "ready_to_publish": True, "status": "VERIFICADO",
+        "headline": unicodedata.normalize("NFD", "Árbol de prueba"),
+        "caption": "Texto #KMXRadar #Prueba #Árbol",
+        "sources": [{"url": "https://example.org", "label": "Fuente"}],
+        "images": [{"path": f"{i:02d}.png", "alt_text": "Texto alternativo"} for i in range(1, 7)],
+    }
+    with pytest.raises(RuntimeError, match="Unicode NFC"):
+        reconcile._validate_publishable_package(package, manifest)

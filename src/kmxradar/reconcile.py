@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 import json
 import logging
+import unicodedata
 
 from .config import DATA_DIR
 from .publication import APPROVED_DIR, _validate_manifest
@@ -61,8 +62,23 @@ def _validate_publishable_package(package_dir: Path, manifest: dict) -> None:
     errors = _validate_manifest(package_dir, manifest)
     if errors:
         raise RuntimeError(f"{package_dir.name}: {'; '.join(errors)}")
+    if str(manifest.get("publication_id") or "") != package_dir.name:
+        raise RuntimeError(f"{package_dir.name}: publication_id does not match package directory")
     if str(manifest.get("status") or "") not in FINAL_STATUSES:
         raise RuntimeError(f"{package_dir.name}: publication status is not final")
+    public_fields = [
+        ("headline", manifest.get("headline")),
+        ("caption", manifest.get("caption")),
+    ] + [
+        (f"images[{i}].alt_text", item.get("alt_text"))
+        for i, item in enumerate(manifest.get("images") or [])
+        if isinstance(item, dict)
+    ]
+    for field, value in public_fields:
+        if not isinstance(value, str) or not value.strip():
+            raise RuntimeError(f"{package_dir.name}: {field} is missing")
+        if unicodedata.normalize("NFC", value) != value or "\ufffd" in value:
+            raise RuntimeError(f"{package_dir.name}: {field} is not valid Unicode NFC")
     _validate_visual_qc(package_dir, manifest)
     assets = _validate_rights(package_dir)
     visuals_path = package_dir / "visuals.json"
@@ -84,12 +100,28 @@ def reconcile_receipts() -> int:
         if (package_dir / ".ready").exists():
             (package_dir / ".ready").unlink(missing_ok=True)
             changed += 1
+        state = read_json(CHATGPT_STATE_FILE, {})
+        if str(state.get("last_publication_id") or "") != publication_id:
+            continue
+        already_consistent = (
+            state.get("phase") == "published"
+            and state.get("last_result") == "published"
+            and str(state.get("last_media_id") or "") == str(instagram.get("media_id") or "")
+            and state.get("published_at") == receipt.get("published_at")
+            and not state.get("external_error_code")
+            and not state.get("next_publish_retry_at")
+        )
+        if already_consistent:
+            # Preserve pending-intake context and avoid repeated no-op commits.
+            continue
         if _update_state_for(
             publication_id,
             phase="published",
             last_result="published",
             last_media_id=instagram.get("media_id"),
             published_at=receipt.get("published_at"),
+            external_error_code=None,
+            next_publish_retry_at=None,
             note="Pipeline reconciler confirmed the Instagram receipt and publication history.",
         ):
             changed += 1
@@ -102,6 +134,9 @@ def reconcile_visual_markers() -> int:
         return 0
 
     current_id = str(read_json(CHATGPT_STATE_FILE, {}).get("last_publication_id") or "")
+    if not current_id:
+        LOG.warning("No active publication: refusing to restore visual markers for archived packages")
+        return 0
     for package_dir in sorted(p for p in APPROVED_DIR.iterdir() if p.is_dir()):
         if current_id and package_dir.name != current_id:
             continue
@@ -151,7 +186,12 @@ def reconcile_publish_markers() -> int:
     if not APPROVED_DIR.exists():
         return 0
 
-    current_id = str(read_json(CHATGPT_STATE_FILE, {}).get("last_publication_id") or "")
+    state = read_json(CHATGPT_STATE_FILE, {})
+    current_id = str(state.get("last_publication_id") or "")
+    if not current_id or str(state.get("phase") or "") in {
+        "published", "publish_blocked", "needs_refresh"
+    }:
+        return 0
     for package_dir in sorted(p for p in APPROVED_DIR.iterdir() if p.is_dir()):
         if current_id and package_dir.name != current_id:
             continue

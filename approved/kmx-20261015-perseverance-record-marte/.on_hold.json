@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261015-perseverance-record-marte",
+  "hold_status": "on_hold_needs_editorial_and_instagram_review",
+  "hold_reason": "Noncurrent .ready created 2026-10-15 remains without .published.json or data/published.json entry. Its presence incorrectly blocked subsequent editorial intake. Archiving only the publishing trigger; not deleting or declaring the story rejected/published.",
+  "original_ready_marker": "auto-reconciled: 2026-10-15T05:30:08Z\n",
+  "original_ready_blob_sha": "58305b56733b09be76e7bcfce7e5b8b36120db25",
+  "held_at": "2026-10-18T04:18:08.373Z",
+  "conditions_to_reactivate": [
+    "Check whether Instagram already has this exact publication/caption; reconcile any real receipt first.",
+    "Revalidate NASA/JPL source, all time-sensitive facts, rights and image QC against current evidence.",
+    "Explicitly select this package as active with a fresh publishing approval; do not restore .ready merely because it existed previously."
+  ],
+  "content_preserved": true,
+  "removed_ready_trigger": true
+}

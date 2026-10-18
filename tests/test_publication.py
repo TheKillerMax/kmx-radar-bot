@@ -84,6 +84,7 @@ def test_publish_auth_190_preserves_ready_and_sets_retry(tmp_path, monkeypatch):
     monkeypatch.setattr(publication, "editorial_config", lambda: {
         "runtime": {"max_posts_per_day": 8, "min_minutes_between_posts": 75}
     })
+    monkeypatch.setattr(publication, "_validate_before_publishing", lambda *args: None)
     monkeypatch.setattr(publication, "publish_package", lambda *args: (_ for _ in ()).throw(
         InstagramAPIError("security checkpoint", code=190)
     ))
@@ -113,3 +114,78 @@ def test_auth_retry_pending_skips_until_deadline(monkeypatch):
     assert publication._auth_retry_pending(state)
     monkeypatch.setenv("GITHUB_EVENT_NAME", "workflow_dispatch")
     assert not publication._auth_retry_pending(state)
+
+
+def test_ready_without_active_id_remains_unpublished(tmp_path, monkeypatch):
+    import kmxradar.publication as publication
+    approved = tmp_path / "approved"
+    package = approved / "kmx-old"
+    package.mkdir(parents=True)
+    (package / ".ready").write_text("old", encoding="utf-8")
+    state_file = tmp_path / "chatgpt_state.json"
+    state_file.write_text("{}", encoding="utf-8")
+    monkeypatch.setattr(publication, "APPROVED_DIR", approved)
+    monkeypatch.setattr(publication, "CHATGPT_STATE_FILE", state_file)
+    monkeypatch.setattr(publication, "load_yaml", lambda _: {"enabled": True})
+    monkeypatch.setattr(publication, "publish_package",
+                        lambda *args: (_ for _ in ()).throw(AssertionError("MUST NOT PUBLISH")))
+    assert publication.publish_ready_packages() == 0
+    assert (package / ".ready").exists()
+
+
+def test_published_phase_cannot_republish_lingering_ready(tmp_path, monkeypatch):
+    import kmxradar.publication as publication
+    approved = tmp_path / "approved"
+    package = approved / "kmx-done"
+    package.mkdir(parents=True)
+    (package / ".ready").write_text("old", encoding="utf-8")
+    state_file = tmp_path / "chatgpt_state.json"
+    state_file.write_text(json.dumps({
+        "last_publication_id": "kmx-done", "phase": "published",
+    }), encoding="utf-8")
+    monkeypatch.setattr(publication, "APPROVED_DIR", approved)
+    monkeypatch.setattr(publication, "CHATGPT_STATE_FILE", state_file)
+    monkeypatch.setattr(publication, "load_yaml", lambda _: {"enabled": True})
+    monkeypatch.setattr(publication, "publish_package",
+                        lambda *args: (_ for _ in ()).throw(AssertionError("MUST NOT PUBLISH")))
+    assert publication.publish_ready_packages() == 0
+    assert (package / ".ready").exists()
+
+
+def test_publisher_rejects_ready_without_visual_qc(tmp_path, monkeypatch):
+    import pytest
+    import kmxradar.publication as publication
+    approved = tmp_path / "approved"
+    package = approved / "kmx-current"
+    package.mkdir(parents=True)
+    (package / ".ready").write_text("ok", encoding="utf-8")
+    (package / "01.jpg").write_bytes(b"fake")
+    manifest = {
+        "schema_version": 1, "publication_id": "kmx-current",
+        "ready_to_publish": True, "status": "VERIFICADO",
+        "headline": "Titular", "caption": "Texto #KMXRadar #Tema #Lugar",
+        "sources": [{"url": "https://example.org", "label": "Fuente"}],
+        "images": [{"path": "01.jpg", "alt_text": "Texto alternativo"}],
+    }
+    (package / "publication.json").write_text(json.dumps(manifest), encoding="utf-8")
+    data = tmp_path / "data"
+    data.mkdir()
+    (data / "chatgpt_state.json").write_text(
+        json.dumps({"phase": "publishing", "last_publication_id": "kmx-current"}),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(publication, "APPROVED_DIR", approved)
+    monkeypatch.setattr(publication, "PUBLISHED_FILE", data / "published.json")
+    monkeypatch.setattr(publication, "STATE_FILE", data / "state.json")
+    monkeypatch.setattr(publication, "CHATGPT_STATE_FILE", data / "chatgpt_state.json")
+    monkeypatch.setattr(publication, "load_yaml", lambda _: {"enabled": True})
+    monkeypatch.setattr(publication, "editorial_config", lambda: {
+        "runtime": {"max_posts_per_day": 8, "min_minutes_between_posts": 75}
+    })
+    monkeypatch.setattr(publication, "publish_package",
+                        lambda *args: (_ for _ in ()).throw(AssertionError("MUST NOT PUBLISH")))
+    with pytest.raises(RuntimeError, match="visual-qc.json missing"):
+        publication.publish_ready_packages()
+    state = json.loads((data / "chatgpt_state.json").read_text(encoding="utf-8"))
+    assert state["phase"] == "publish_blocked"
+    assert (package / ".ready").exists()
