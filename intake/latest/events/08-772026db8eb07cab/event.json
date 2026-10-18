@@ -1,0 +1,30 @@
+{
+  "event_id": "08-772026db8eb07cab",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Cuatro muertos tras un gran incendio en una base militar de Canadá - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Cuatro muertos tras un gran incendio en una base militar de Canadá - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUlobWVhMjNKa2hEYVBlS0hWeDZ0SVJWcnk1alBvOFBubXY4NHhXTjgySzZTb1NHbWZhX3pkN3h4d3ZFTnVFLU1vUF9HNTFVOEJCX2w2SUpKNmhEY3lna291R1dzVjJhcW9TajVWcGFsZGZDYlBxMUIzQ19lQjZ3SHM5Sk50NUZ3bklUc05n?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 09:24:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Cuatro muertos tras un gran incendio en una base militar de Canadá CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

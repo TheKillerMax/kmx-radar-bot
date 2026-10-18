@@ -1,0 +1,30 @@
+{
+  "event_id": "09-2ef4ec2db58103a5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La FGR acusa al exfiscal de Chihuahua César Jáuregui de traición a la patria por el caso de los agentes de la CIA - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La FGR acusa al exfiscal de Chihuahua César Jáuregui de traición a la patria por el caso de los agentes de la CIA - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT3FVWnVka2J3V0VpM1Z5WjlZMEhjY212ZGkwMHZMSWRPbjA5YzFYdWVDOW9aandUQ1Y0bm9ONG81dEhRNVdIVlVDRVFzTkdTendXYjVEa1psTVJzdnJIeE1pblRLVm5oWEZxYTZvTE5vNEtkWks3MVZPZTgxZF8xcjFFUTk3UTdpRnhzUjUtQTdaMUt2THl6c21IZEZNTGE4dXRMblVPcDZNb0xxUkI3aE9GMlhkUlNYM3ZPSjUyZjdaWkNMZVdDdDl1VjBRLTc1b0RkeUVYaEtqTVJqejBndTBVSWtmS0VKVzVN?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 02:21:24 GMT",
+      "primary_hint": false,
+      "excerpt": "La FGR acusa al exfiscal de Chihuahua César Jáuregui de traición a la patria por el caso de los agentes de la CIA EL PAÍS El caso de los agentes encubiertos de la CIA provoca un terremoto político EL PAÍS Detienen al exfiscal de Chihuahua por presuntas faltas en un operativo en el que participaron agentes de la CIA CNN en Español Detienen a César Jáuregui por 'traición a la patria' Reforma Imputa la FGR al ex fiscal de Chihuahua por traición a la patria La Jornada"
+    }
+  ]
+}

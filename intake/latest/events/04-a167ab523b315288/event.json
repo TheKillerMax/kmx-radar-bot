@@ -1,0 +1,30 @@
+{
+  "event_id": "04-a167ab523b315288",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Una maestra compasiva y sus pequeños alumnos: las víctimas del tiroteo escolar en Bend, Oregon - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Una maestra compasiva y sus pequeños alumnos: las víctimas del tiroteo escolar en Bend, Oregon - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYTZjdEpGcXBqa3dHeVhUVXVaMU1OdDRlM0w4anVlcS1rNWNfQ1VNa0hfNmJPTGhfUlBkeGQzdWJOMDRoanB0VHNyQWNsalFPdlhFRTJDMDN2RUFoLWsyaDJYQmFCSHh3djI4MHZ0LW5pWGlHZ01CaDBIOTBxalBGQmpQM3B5QQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 15:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Una maestra compasiva y sus pequeños alumnos: las víctimas del tiroteo escolar en Bend, Oregon CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

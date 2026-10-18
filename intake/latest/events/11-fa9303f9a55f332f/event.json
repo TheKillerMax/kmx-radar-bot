@@ -1,0 +1,30 @@
+{
+  "event_id": "11-fa9303f9a55f332f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Quién es Elizabeth Holmes, la exejecutiva de Silicon Valley en prisión que protagoniza un nuevo documental? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Quién es Elizabeth Holmes, la exejecutiva de Silicon Valley en prisión que protagoniza un nuevo documental? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWVqNTk5THFzWFZvaVFjczNycUxmXzJCVDZRRXJnRnlFa1pGUXU3SEtlRl9uVVRpR3NVUDQyZzh4S1JxeW82T09VRmtNT3FtUWV1dkdQTG9ic011bnpnQTZnX2JEdFpPMjFWYmV4QUlqRFNiSUlWQ3czemM2TmlFb0llSVR0N0pSdmp6SFZBbFo4WXktb08ycm0yVQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 14:35:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Quién es Elizabeth Holmes, la exejecutiva de Silicon Valley en prisión que protagoniza un nuevo documental? CNN en Español Documental sobre Elizabeth Holmes da la sorpresa en una taquilla dominada por “Street Fighter” San Antonio Express-News Reseña de ‘You Can See Everything’: el escrutinio de una mente escurridiza The New York Times Adiós a 'Parásitos' y 'Cadena perpetua'. Los cinéfilos afirman que acaba de estrenarse la mejor película de todos los tiempos Espinof Elizabeth Holmes afirma que nunca ha mentido en nuevo documental. La reacción de Nathan Fielder lo dice todo Yahoo en Español Vida y Estilo"
+    }
+  ]
+}

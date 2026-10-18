@@ -1,0 +1,30 @@
+{
+  "event_id": "05-8106e9d76354febb",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3E5c1VCdUwxZTRhQXluZ0hMLUhadWhVYlhxWW9BbnRjbW1fYkU5eXFhZDM4UFU2ZnpjZnJtcXpRRWswQ2lZUG45a1hGWkZlMXJnLW9rQm43RndfaEFVbk50UkZWa3BiQ0h0QWNjNVNMd2RWeF9iSWtERWxjRlVrX25zdW5CYkxyT2JTVDNhOUlfTXNKWmt2dF8zQ3czQ3FYZklQcGlWbmo?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 16:39:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Un nuevo incendio forestal en el sur de California se expande rápidamente y quema varias viviendas CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

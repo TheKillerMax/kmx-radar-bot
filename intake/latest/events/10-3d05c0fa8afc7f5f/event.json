@@ -1,0 +1,30 @@
+{
+  "event_id": "10-3d05c0fa8afc7f5f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump intentaba que los precios bajaran antes de las elecciones intermedias, pero Irán también tiene voz y voto - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump intentaba que los precios bajaran antes de las elecciones intermedias, pero Irán también tiene voz y voto - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTFF6ZGdXdU9xWTQ2c2phNDhNdmFzUTAwSXh3SEplX0JpMFZNdHVabnhhaFJKckl1eXYtMlM2Rnl4ZHJCRWRvYmR1d3pRM0s2N09lUUpFNGFFV3dHSFR0dEE3a1JpWWdadDZmNEtNbFBLNHBZWGFKQWRRcXZuaWtsLTNuTQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 14 Oct 2026 19:54:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump intentaba que los precios bajaran antes de las elecciones intermedias, pero Irán también tiene voz y voto CNN en Español Wall Street tiene su peor día desde julio por el repunte de la inflación en EEUU Laredo Morning Times Precios de la gasolina en EEUU provocan el mayor aumento en la inflación mayorista en 4 años Los Angeles Times Consumidores de EEUU resisten alza de precios, pero ¿por cuánto tiempo? Beaumont Enterprise UBS prevé tres alzas de Fed hasta marzo 2027 tras inflación EE.UU. de septiembre Yahoo Finanzas"
+    }
+  ]
+}

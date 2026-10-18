@@ -1,0 +1,30 @@
+{
+  "event_id": "07-19e2d8b27d186846",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2xzaHNvWXI2TVp4TlhHRU9xa3ZDNkVjZVJtLW41NWRlbUw5UUhvSUJaam9FeGo2QXlEWjlUZGZNRWh3cl91Zl90WlJONmg0SnJtZk5TWWZSUHI1bVFhUE1GWE5YWjYyakN0cTFhOTBFc3o0RHZtWmV3eVpnNmpEazVrS3NXeU1xN3A5VTlYR3BTeGQyQXpma1Jld2JrUQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 15:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump CNN en Español"
+    }
+  ]
+}
