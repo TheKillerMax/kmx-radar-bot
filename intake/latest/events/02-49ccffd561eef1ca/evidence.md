@@ -1,0 +1,94 @@
+# Moderate mag. 4.0 earthquake - North Pacific Ocean, 45 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 17, 2026, at 05:01 pm (GMT -5) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVVhdzBGeVB6S2RqdWNCZEloUkt5NEdzbWp0Zm1KMXcxMHlKTzFSdUs5aUlQc1JQX01FSWJwUVlGT2RrSzR5eWN3SXdlRkl2TlZkNDNWcV9ZNG11SE5pdGZ4cURwMWxlWk5aaTlKeVdhb2E2VjV3dUE4a09wc0V0bEl2YWZ4Y1JkbDZZZ0JNVnliSUVCRzlwY3QxTmU0MlFDbVU1bm50bGcyRWxJb1Z1QlJ3a3E1Q1NIV0o3RExCT3pqLTd0LW1YZ3JlVVZXd04wb2pSWXAtUmQ?oc=5
+- Título: Light mag. 3.5 earthquake - 58 km northwest of David, Provincia de Chiriqui, Panama, on Saturday, Oct 17, 2026, at 10:20 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 04:38:34 GMT
+
+Light mag. 3.5 earthquake - 58 km northwest of David, Provincia de Chiriqui, Panama, on Saturday, Oct 17, 2026, at 10:20 pm (GMT -5) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRWclVDbG1FeG5yMlliR3ptLTgyTXRmem02ZWtZVDJCaC1xTVJyZ2dxR3VGb1BGVUhVT0hocFU3dUF4c2xKNTRPeWVXdmt2aTFIYUgtdW13Q0lSd2xHRm5vcDM2YXg5aHVKcnZ6WlBpMGRBXzFXR1VlQjZOU3V4dDFGTWtIbTZuU3VCYkNqQUR4ZnZkZl9MMG5ncko2VnM?oc=5
+- Título: Light Mag. 3.5 Earthquake - Panama on Saturday, Oct 17, 2026, at 10:05 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 03:35:26 GMT
+
+Light Mag. 3.5 Earthquake - Panama on Saturday, Oct 17, 2026, at 10:05 pm (GMT -5) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdElVOU5pQ21TYTRmM2VSYTcyRUFJdTduU1BuV1dfUUJiOTJSTGVDVndkUVZkeXFjeDd0Q2JXM1Jxamw3bEJVdGhpcDRXNlhlVjZ5bmdHX3NWeWlxRkFXdVNKY1diRU4zWFJiMVdHMHlLRlZTck9lcWlrWklzMXJ4cmdvdEQ1dXJLU2VldXpqbGRSZWZLVjJ4aklkNXQtRHRacGM1YXVNOER6bFlqLWlydHhhTjFlOHJkWUxjTFBEOFpERHdLS2pnc282OFR1c1p0V3B3MVZB?oc=5
+- Título: Light mag. 3.6 earthquake - 31 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 17, 2026, at 11:35 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 04:50:00 GMT
+
+Light mag. 3.6 earthquake - 31 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 17, 2026, at 11:35 pm (GMT -5) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUlXMmd6NnJvWXFGT1p4eFhKaU9taS11bzRvazFjcDdjQnZfZ3JubkZnbWZ5YTZMUWV0Ykt5bU9GTkczMDdYaFJ5RHBfbzlOSFdpT2ZEajRiQlF1eFdHZUZkMDZIZzRDc0hndW9EV1pCRWtnbzhUOFI0SG8wYk80LVpFQWxCSWtXaXhicmk5U0E0S05XU2dfblBLVzNSLW8?oc=5
+- Título: Light Mag. 3.6 Earthquake - Panama on Saturday, Oct 17, 2026, at 08:47 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 01:59:57 GMT
+
+Light Mag. 3.6 Earthquake - Panama on Saturday, Oct 17, 2026, at 08:47 pm (GMT -5) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2NLX0FtZlRtRUJraWVXRldteDJrR3RJVlJITVJlOENGOEFxSENEU1NRSzh4RmhrSWNhZno1b1A5dktxd2JMeE9PWHdBSzhVRTFlbXZ6WnRxMjh0a1p4MHRMMlRGc1ZoXzVfd3otaXBTVDE1YURVTVdIWnpfUDhFRmpzSGVtcWFFeHdBbHpfZEt3Y2JHRWlQSkM2Sks5QzhwSzVTckFxWVRsRmNsUEdiNnUxTEhqSHBXcWpUQjEzdTA3NmxMZk40?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 96 km west of Quibdo, Departamento del Choco, Colombia, on Sunday, Oct 18, 2026, at 02:16 am (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 07:16:07 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 96 km west of Quibdo, Departamento del Choco, Colombia, on Sunday, Oct 18, 2026, at 02:16 am (GMT -5) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmV4dWhxS2ctcjBpTWxVUFM2eDBsSVhpSWhMM2pPbm85NGIzZmlDVzNNZDEwOW5ibnNPZWZTdXpEcTBTZXhmM1FaY2JBN2E1bDJQU1d0bVZHbnVZNU43M19vYmJmWHJINnBlZlJJVG1aNmRab01WUC1tV1VlUkpqYjJqOWxZWEFKbXJ5dGFvTDBadEhtRmxIUkMzMGJENlU?oc=5
+- Título: Moderate mag. 4.2 earthquake - Panama on Sunday, Oct 18, 2026, at 03:20 am (Universal Time) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 03:22:00 GMT
+
+Moderate mag. 4.2 earthquake - Panama on Sunday, Oct 18, 2026, at 03:20 am (Universal Time) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOTE2Q09ob3BCMWdIbjdQbjdheUI0Vmw0N2dQSHNnd2FsWEZDVzR5T2VJSE9NdGNENnMzUTZjdGx2UnZGU0xXTVZub0RIX3p0Mnk0SGFiV0liZWRVUDRtVzlaNVNJalZZYWlEcy1nZDk4WlNiWUdyeVl2dXBvWXpiZEh5OHBkNTVhLXR2VGR1TTNtaFp3bXpwREluYllmZ2JsMllMSk1iT25lNU9uQXh6MFA2TWQ5aF8tZEZQSTZkYVkyblVQYXk0NlhaaThzd05WdmkxWkxB?oc=5
+- Título: Light mag. 3.2 earthquake - 32 km northeast of Cabo San Lucas, Estado de Baja California Sur, Mexico, on Saturday, Oct 17, 2026, at 05:40 pm (GMT -7) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 01:28:31 GMT
+
+Light mag. 3.2 earthquake - 32 km northeast of Cabo San Lucas, Estado de Baja California Sur, Mexico, on Saturday, Oct 17, 2026, at 05:40 pm (GMT -7) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1Noczh0QWNZOEZFaGo1blJMNVI3UUVQX1ZVSDlTTW9UdkJqVm9YalRzaTQxOHp6aXM0THJGUEVNdkY2ZXY0SV9EWVdaSF9ZdUg2bWNpUmNVSnpHYlpXQXVNM1EzUUo5dk9qSFkxLUFkN1hlSHpPT0FvTkNnTjRid0VYRWV4Z0FERE9VRlFfSWljeFh1Y0N2QmJNUTM3bVNRcGZaT1J3?oc=5
+- Título: Mag. 2.8 quake (unconfirmed) - El Salvador on Saturday, Oct 17, 2026, at 11:07 pm (Universal Time) - 53 minutes ago - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 05:53:33 GMT
+
+Mag. 2.8 quake (unconfirmed) - El Salvador on Saturday, Oct 17, 2026, at 11:07 pm (Universal Time) - 53 minutes ago Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxObGhaZ2FvX2hFWnlsUl9Md2oyT1o0LWkyY3c4dHJyM3JzVEs3aE9LVVN3emRDTG12QkIzV2lISDhzcmxGYnk1dlBlR1Vvcm5uQlY4OFM5R2hXMW9HRFFjV2ZzZ0FGRUV3a3hVQkJZaDNNZjdleFhRY3ZLVTBPakc5RHRfZVBTSmQ5LUViZ3ZiZDF1OGhqWG1oQVJWNWQ2TXozRzNfLW9B?oc=5
+- Título: Weak mag. 2.7 earthquake - 48 km Al Suroeste De La Libertad, El Salvador, on Saturday, Oct 17, 2026, at 10:32 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 04:48:33 GMT
+
+Weak mag. 2.7 earthquake - 48 km Al Suroeste De La Libertad, El Salvador, on Saturday, Oct 17, 2026, at 10:32 pm (GMT -6) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGFGTlFDN1VIZkxxRWxKOVZyVDJCWFdFbDlrVUk5SHNvTnBpSjFvVWl3NXNoM2E4bWpEbHFaVko2eE9CY3ZqVXNBdXp6UDNlSlUydDdra3MtSS04WGc4bW9Mekg5ZDlFdFVTUjRPSjVQRXVZYTJ2RFJHZTZiU213Z0YtWW0xcC1rT3BFbFJzd3FSajN4WW5PUldrZjg4Q0RYQ2YzeE5BU2VQY3dEeHc?oc=5
+- Título: Light mag. 3.5 earthquake (unconfirmed) - 31 km south of Bucaramanga, Departamento de Santander, Colombia, on Saturday, Oct 17, 2026, at 07:11 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 00:33:25 GMT
+
+Light mag. 3.5 earthquake (unconfirmed) - 31 km south of Bucaramanga, Departamento de Santander, Colombia, on Saturday, Oct 17, 2026, at 07:11 pm (GMT -5) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNRExkemRaZzRPZHdCempHYUdac3JsQkpLYmQ0aEE0VVdpZzJ0Z1Nkd1c2eWdyRUFuODQtUS1xZlJEcHB0eVhNckM1VDFRN1dDQXVSc1d4SURpU3N4WUdjSWFZd2k4cVJONmpuZ0F0VUVyWGZuVF9Yd3FCV1hlR3BDNXNjQi1udnhUSHFwNUx3YW5aOXVyUHExV2pvbjFaa0o4b09HYndKdFNmdHVPVmFIMzBiSXJtSW9fcTNFQ01tcElnN0EycXpOT09ucko?oc=5
+- Título: Light mag. 3.7 earthquake (unconfirmed) - North Pacific Ocean, 67 km south of San Miguel, El Salvador, on Saturday, Oct 17, 2026, at 09:34 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 03:40:34 GMT
+
+Light mag. 3.7 earthquake (unconfirmed) - North Pacific Ocean, 67 km south of San Miguel, El Salvador, on Saturday, Oct 17, 2026, at 09:34 pm (GMT -6) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzY2LTNlZ3hlYi1DMFhfczBMM1ZGbGFpQzhCQjZTYnZhQU1mZWNiNHNqVHJqRnU3dWJjdnlJemI5OUJOcE04LUFpMDBDdXBzbHVpUDNHTmR4WkxwVlRxSy05MlZlaDZUV1R0OXItQjcyV20ySDRnMmNaRFBtdGY0eWVwZ3dVbUVKaTNnREpJUkdBcWVPdTc1R3NpNVVWbjFzSXk0ZmRPWVpjUE5KdjRHUzUzeFM5Y2pyUzQxaWZkeVppU0tmVnJLQnVkOV8?oc=5
+- Título: Light mag. 3.9 earthquake (unconfirmed) - North Pacific Ocean, 89 km south of San Miguel, El Salvador, on Saturday, Oct 17, 2026, at 03:34 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 18 Oct 2026 04:48:33 GMT
+
+Light mag. 3.9 earthquake (unconfirmed) - North Pacific Ocean, 89 km south of San Miguel, El Salvador, on Saturday, Oct 17, 2026, at 03:34 pm (GMT -6) Volcano Discovery
