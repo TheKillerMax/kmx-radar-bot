@@ -14,4 +14,4 @@
 - Título: Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky - BBC
 - Fecha detectada: Sun, 18 Oct 2026 02:18:42 GMT
 
-Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky BBC Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor y provoca rechazo en Ucrania CNN en Español Zelenskyy pide apoyo a nuevas sanciones de EEUU a Rusia puestas en suspenso por parte de Trump Chicago Tribune Ucrania lamenta la decisión de Trump y Rusia la califica de "histórica" DW.com La sorpresiva decisión de Trump de suspender sanciones a Rusia desata indignación en el Congreso AP News
+Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky BBC Ver más títulos y perspectivas en Google Noticias

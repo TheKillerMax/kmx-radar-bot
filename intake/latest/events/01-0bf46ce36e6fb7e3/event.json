@@ -1,0 +1,40 @@
+{
+  "event_id": "01-0bf46ce36e6fb7e3",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Metro de Madrid exposes Ayuso's strategy: Sol station reopens after \"restoring\" the \"necessary safety and health\" conditions - El Constitucional",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elconstitucional.es",
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Metro de Madrid exposes Ayuso's strategy: Sol station reopens after \"restoring\" the \"necessary safety and health\" conditions - El Constitucional",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMUpmS2ctaDV6ZzhRdm5maGF5ekNSZ0xFVGJveWxjRV9NMUlqazRfTzFtWS1mVll1UTZVVDJVTGp1ejBxSnQyYWN4U043c3FScksyd2dwcXFrUlp5NlRCNTUyY2xmZjdKWkdBWWt0ZTZVT25GMEpBb0Q2M096VnRLS3ZOSjVlNWZtbDJjZ3QtYlBEVzM2OEZkb0xfa1dPTlhoMS15SVdZUlJoVWdRb1F1V2VyMnl4Tzd5c2hKaF9rWk5ZdnF1bGdmZUVEN19kdS00RGk0dF81eEJJaUJPSGMyYjVmYUVhbGZ2V3ZpUTBRRGdqWGVoSG9ja2twY0ZXcEU2bndNeUxsTHVCbS1vOGNB?oc=5",
+      "domain": "elconstitucional.es",
+      "publisher": "El Constitucional",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 07:54:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Metro de Madrid exposes Ayuso's strategy: Sol station reopens after \"restoring\" the \"necessary safety and health\" conditions El Constitucional"
+    },
+    {
+      "title": "Sol metro station reopens after 'necessary health and safety conditions' are restored - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalgtRTc1UDF6R1E0XzV0TUNERk9Nb1ppUnptQUxBcmNZNHprWFRibnNnQzhZazRuVTJWRUxWaEtRZy00WDRXdHZVVE91QjQ0M29EYS1IV0xxXzE2eFpVUjAxRDFzMldrUFpyVGNoWTVmQ1daVnN0VkowUkY3SVRDNUlsbXh4Qnk1bzNlQnV0UWtkazJj0gGUAUFVX3lxTE9qWC1FNzVQMXpHUTRfNXRNQ0RGT01vWmlSem1BTEFyY1k0emtYVGJuc2dDOFlrNG5VMlZFTFZoS1FnLTRYNFd0dlVUT3VCNDQzb0RhLUhXTHFfMTZ4WlVSMDFEMXMyV2tQWnJUY2hZNWZDV1pWc3RWSjBSRjdJVEM1SWxteHhCeTVvM2VCdXRRa2RrMmM?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 21:52:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Sol metro station reopens after 'necessary health and safety conditions' are restored todoalicante.es"
+    }
+  ]
+}

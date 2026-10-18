@@ -14,4 +14,4 @@
 - Título: Fotoperiodista de The Washington Post es hospitalizada tras un ataque de colonos israelíes en la Ribera Occidental - CNN en Español
 - Fecha detectada: Sun, 18 Oct 2026 01:02:00 GMT
 
-Fotoperiodista de The Washington Post es hospitalizada tras un ataque de colonos israelíes en la Ribera Occidental CNN en Español Ver más títulos y perspectivas en Google Noticias
+Fotoperiodista de The Washington Post es hospitalizada tras un ataque de colonos israelíes en la Ribera Occidental CNN en Español Embajador de EEUU en Israel condena ataque de colonos a reportera y otras noticias de Oriente Medio AP News Fotógrafa del Washington Post es atacada brutalmente por colonos israelíes Primera Hora Atacan a diplomáticos en la Cisjordania ocupada y otras noticias en Oriente Medio Chicago Tribune Colonos israelíes atacan a palestinos en la cosecha de la aceituna y otras noticias en Oriente Medio New Haven Register
