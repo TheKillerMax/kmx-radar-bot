@@ -5,14 +5,14 @@
   "last_publication_id": "kmx-20261015-justice-gta6-musica-original",
   "last_result": "published",
   "next_publish_retry_at": null,
-  "note": "Última publicación Justice/GTA VI cerrada con recibo; Perseverance/Marte retenida mediante .on_hold.json sin .ready. Intake 2026-10-18T13:11:53Z en FASE 1 pendiente por bloqueo de escritura. Conservar publicación cerrada y retomar solo mediante una operación permitida.",
-  "pending_manifest_generated_at": "2026-10-18T13:11:53Z",
-  "pending_publication_id": "kmx-20261018-incendio-base-wainwright-canada",
-  "pending_source_event_id": "10-d58f579cdc6ad894",
+  "note": "La publicación anterior Justice/GTA VI permanece cerrada con recibo. Perseverance retenida en .on_hold.json. Intake 2026-10-19T16:25:39Z investigado; paquete NO incorporado por bloqueo del conector GitHub. Pendiente anterior 2026-10-18T13:11:53Z no procesado. Requiere resolver autorización de escritura, sin duplicar paquetes.",
+  "pending_manifest_generated_at": "2026-10-19T16:25:39Z",
+  "pending_publication_id": "kmx-20261019-helen-haines-atropello-australia",
+  "pending_source_event_id": "08-87a458c2ffe2fa16",
   "phase": "published",
   "published_at": "2026-10-17T02:02:03Z",
   "source_event_id": "02-9ca0105fc88ef119",
   "visuals_completed_at": "2026-10-16T04:32:56Z",
   "pending_editorial_status": "editorial_incomplete",
-  "pending_editorial_error": "La integración GitHub bloqueó por controles de seguridad la creación de objetos Git para research.md, publication.json y visual-plan.md. No se creó commit; el paquete NO existe en main. No repetir esa escritura bloqueada sin resolver la causa."
+  "pending_editorial_error": "FASE 1 del manifest 2026-10-19T16:25:39Z: GitHub bloqueó por controles de seguridad create_blob de research.md, publication.json, visual-plan.md y visual-sourcing-plan.md. Solo handoff.json se creó como objeto Git suelto; NO existe paquete ni commit en main. No continuar ni eludir los controles sin resolver el bloqueo."
 }
