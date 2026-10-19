@@ -1,0 +1,30 @@
+{
+  "event_id": "10-3f383f367d9d0da6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44REQtU3ZwaHRpaU1IQ3BGYUFVWU1xakdBX0ZPb0FoRzU3ZjRiRTRQb1RCVG54aFZLd09LZDAzNlVTTUtURmtZQzBhWjJnSmhiSGF4dGJUdkxoblR40gFiQVVfeXFMTk9NY253RC0wdkU2akhUN2lTUGQ1WUw0aGRGcXhwbU93dzdsbzBWVkhBNnlLZkFvMTAxVDgwazh3Q0VuVGR3SlpQdXNVYlYtTGdhV0REVDJrNl94YUFUdDZLS0E?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 19 Oct 2026 14:03:45 GMT",
+      "primary_hint": false,
+      "excerpt": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo BBC Qué se sabe del opioide sintético camuflado en pastillas falsas en EEUU: es 10 veces más potente que el fentanilo y 1.000 más que la morfina Infobae Los Ángeles confirma una muerte vinculada al opioide ciclorfina Hispanos Press Alerta en Estados Unidos por nuevas drogas sintéticas más allá del fentanilo que preocupan a las autoridades Debate Salud Pública reporta primera muerte por droga sintética \"más potente que el fentanilo\" Telemundo 52"
+    }
+  ]
+}

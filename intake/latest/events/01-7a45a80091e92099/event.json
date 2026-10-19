@@ -1,0 +1,40 @@
+{
+  "event_id": "01-7a45a80091e92099",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "¿Timba con las reservas de oro argentino? La AGN confirmó pérdidas por USD 1.023 millones del Central y habría ‘dedos marcados’ - Chubutline",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "chubutline.com",
+    "mundoempresarial.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Deutsche Bank y oro argentino: pérdidas por USD 1.023 millones - Mundo Empresarial AR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamRfT3BQRS1QRUJ1cDFSckllU3dzbmRHbkp4YVk2emZFTHc3eHFOVXlIY0Q4U05CMktZeWJ4WW1pMDd3ai02WDJKYzFNTTBIUWlNbnRCMlFUb3FXUDE0Q2RfQkFhNXNsX0gxbWlBck5jaUtjbGRIbkJwQnVMeGRoZmFWY1JSdGhES2NFYl9iUGtmYnlj?oc=5",
+      "domain": "mundoempresarial.ar",
+      "publisher": "Mundo Empresarial AR",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 19 Oct 2026 16:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Deutsche Bank y oro argentino: pérdidas por USD 1.023 millones Mundo Empresarial AR"
+    },
+    {
+      "title": "¿Timba con las reservas de oro argentino? La AGN confirmó pérdidas por USD 1.023 millones del Central y habría ‘dedos marcados’ - Chubutline",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeUY5dmtHMFFYTXZJTjc4RkVyVjJ0MmE4czNKak9UaHAtdjl1V3FwWWtxc0Fzd0hCRVIyUTBOaUhMRGpRdC1WWEUycnFXUy1UWU0zQThJRTJRMTZLZHk4Zmg3Ql8xV2h5c1VTNHE5RXFUSk9ockJvSHJGVS16ekgzR2Q4UUg0VFlzUkFGN3JOSk0wWEpRM3doQkVvRklmcTU4Y1ZWMk1FSks5WkdLc21PY2dLRmc2WmFOekZEWmlaWUJNenJLY21lUnZsVFJ6MzhrekNmNVktZzNIMDJzay1Ceg?oc=5",
+      "domain": "chubutline.com",
+      "publisher": "Chubutline",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 19 Oct 2026 04:46:25 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Timba con las reservas de oro argentino? La AGN confirmó pérdidas por USD 1.023 millones del Central y habría ‘dedos marcados’ Chubutline"
+    }
+  ]
+}
