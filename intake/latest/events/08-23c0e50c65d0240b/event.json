@@ -1,0 +1,30 @@
+{
+  "event_id": "08-23c0e50c65d0240b",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Por qué el fiasco de Katie Zacharia es una gran vergüenza para Trump y su Casa Blanca - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Por qué el fiasco de Katie Zacharia es una gran vergüenza para Trump y su Casa Blanca - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUtlWllUUFNYeld2aTB5UFpOMlVPQmwtS2VGV0o1aTE2RldhenNsQ3J5dWdkOEVjeTZNNmlLVWx3U0lSLVR1Q2JhcE1mSzJLMWtrMzFCLWRKY0xtbURrQk02dVJYQXduQ0tWSG1xa0lUeG9hUm5PSWY0TWR3cy10T29XeHd2S0ZYbk5kb3h5bEo4eHJ3?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 17 Oct 2026 12:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Por qué el fiasco de Katie Zacharia es una gran vergüenza para Trump y su Casa Blanca CNN en Español El despido de la portavoz de Trump desliza a la Casa Blanca hacia el caos a dos semanas de las ‘midterms’ EL PAÍS Análisis: la secretaria de prensa de la Casa Blanca, Katie Zacharia, fue arrojada a un torbellino y falló en un momento crítico para Trump BBC ¿Por qué Trump decidió despedir a Katie Zacharia como secretaria de Prensa después de solo 5 días: \"¿Alguien la investigó?\" CNN en Español \"Fue un honor trabajar para él\": Katie Zacharia dedica publicación de despedida al presidente Donald Trump Univision"
+    }
+  ]
+}

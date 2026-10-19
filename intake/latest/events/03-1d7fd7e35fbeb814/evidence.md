@@ -1,0 +1,24 @@
+# La NASA confirma que el Perseverance ha recorrido más de 45 km en Marte y ha batido un récord - Vistazo
+
+- Categoría: CIENCIA
+- Riesgo: low
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 2
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: vistazo.com
+- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ09OMlVNZ0JZeTlPTHhtS1FldTFIcnBTWVpxWGVyRDJOYUpHbHZZc1l0VHIxQ1JVdTl6N0VYVndRTTAxLVdMQjRLYTBnZ1VoUkdxY2E2RVhCMG5FMlZyTWJxVnJKeHE0bEVGVEhWUWRZdmk4NmJITFI0MnJVdnA4R3gwdE9UcEFicnU2dURpNmgyNTZxcm43WXB0OE9VQUIyU3lXYWczMV9kQ3FqNWtEbkNHbGVxeGNjejkxZkJQTDMzanZCVkE?oc=5
+- Título: La NASA confirma que el Perseverance ha recorrido más de 45 km en Marte y ha batido un récord - Vistazo
+- Fecha detectada: Mon, 19 Oct 2026 00:01:00 GMT
+
+La NASA confirma que el Perseverance ha recorrido más de 45 km en Marte y ha batido un récord Vistazo
+
+### Fuente 2: planoinformativo.com
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ1dITE9SRnhpUXFXaFY0NlI0dVJ2UlE3UUpFWnQwNm9pbmJNaHRad29UTEd2M0lLczlmOGh5N01ONXRWb2Q0X242REdrMDktdGtkaFVxUDI0YmFkenhfZFhYeWsyZldIQjNvNnlMV1lxY0Q5aW9uRTl0cGNLbFVRNzdvaUNjVnM2SkZHS1RKUGFfdmc0MU03NkE4b21jQjVISDdtNF9oQjVORGxQUXQtZW9nVEFKUExzamVHZnJBUzZCeEVRd3dn?oc=5
+- Título: La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros - Plano Informativo
+- Fecha detectada: Mon, 19 Oct 2026 02:59:00 GMT
+
+La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros Plano Informativo

@@ -1,0 +1,40 @@
+{
+  "event_id": "02-f59a0851fc18eaf1",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Afirman que el Deutsche Bank participó en la operación del oro de Caputo y Bausili - La Política Online",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elsello.info",
+    "lapoliticaonline.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Afirman que el Deutsche Bank participó en la operación del oro de Caputo y Bausili - La Política Online",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0VKT2RPYW5EWkNHU21OM0FQbDd1RUZ4UVppaktyWVd6bXFEeEs1Q0hxRjZQRExsZnVxbjlXTHd0V1JrdUxiQlp2ZzlOMnJESXFmbVpzS0tIelBON1liVjRCc0FjUFJoam9TXzVnWDVqdkVHbVFNSjJjck5ma1dzdG8zT3NYNjV2M1dmWmpBam5LMDZVSHgyR1JIdmNEMWlKZ05hMXJER3YxMnNMSHpNR2JheXFKTE5ibXhad3lsaVpjdTFSdnfSAcYBQVVfeXFMTkJTczg3UjFUX1NQbGVvMjF5M0pGMzU2M1VEYXNoYmx3cFRwNmxlYnZyYjM1cXY2R3RQV3NxVExBOTAtNUV0UktnVzhkclNIalNhdFZhVWRDOFRVbThfZ3kyY0czT0xxaGl1QTBpV3UtSU9MczB5OTI4aF9MN1R3aEtXZm9nc096R0pfMUF1a1o1S21lel93VjgwR3ZuREdreVNIQUxzcjl4V1VHby1HYURDaUk0XzdjcU9RSnNFcGE1MkUyb3lR?oc=5",
+      "domain": "lapoliticaonline.com",
+      "publisher": "La Política Online",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 18 Oct 2026 22:49:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Afirman que el Deutsche Bank participó en la operación del oro de Caputo y Bausili La Política Online"
+    },
+    {
+      "title": "Confirman que el Deutsche Bank participó en la operación del oro de Caputo y Bausili - ElSello.Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDdsTlZrcXNiOEdrY05TQ0FMMm91eTBpU1hMdWxRLUJGRFQxYmJiR0lxY0plR29pZ2t1d1FGazFXYl83bDZuZWZSTWtSN1NQbzBRWWZWaHRyZFFCSk43QTRjWEVRZlEwU2c2bGtEX0w3V0l0VEM3T3NIT1BmNjFHTFJQX1Q0V25zOWU0M2swdDNqMHFRRHdLX292LXlyLUVseWM2N05zemU5WEViTVNoU0c1Tm9rcW9s?oc=5",
+      "domain": "elsello.info",
+      "publisher": "ElSello.Info",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 19 Oct 2026 00:38:44 GMT",
+      "primary_hint": false,
+      "excerpt": "Confirman que el Deutsche Bank participó en la operación del oro de Caputo y Bausili ElSello.Info"
+    }
+  ]
+}
