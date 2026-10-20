@@ -1,0 +1,30 @@
+{
+  "event_id": "12-30ccb5d14ec13744",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Las relaciones entre Estados Unidos y Ucrania se deterioran en medio de la desconfianza mutua entre Trump y Zelensky - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Las relaciones entre Estados Unidos y Ucrania se deterioran en medio de la desconfianza mutua entre Trump y Zelensky - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTBuTXJ5b0tPQUlodVkxZ0VjS3N6NlpxVkdqMU9aa3BpUU0zVGFpRWtqQXNpaTFVWWFpTl84anc5MGdDZ2M2TFg5V3BPemExUm96SklUSEpJMGRta3ZuVjJyaFZnaEZ2c0owY0FpbEU0bTdxOUFWbVhucmg0bURXZjVma3FLbXZmaFFyZ0F6YVA4NHdnVU5IWUFiUnRxR3Bl?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 19 Oct 2026 15:14:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Las relaciones entre Estados Unidos y Ucrania se deterioran en medio de la desconfianza mutua entre Trump y Zelensky CNN en Español El impulso de Trump por lograr acuerdos con Rusia aumenta su frustración con Ucrania The New York Times Relaciones de EEUU con Ucrania alcanzan nuevo mínimo por cambios en la postura de Trump AP News Ucrania: Volodímir Zelenski acusa a Washington de retrasar la entrega de misiles interceptores France 24 Zelenski acusa a Trump de presionar a Ucrania para que se rinda ante Rusia Bloomberg.com"
+    }
+  ]
+}

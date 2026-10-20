@@ -1,0 +1,66 @@
+{
+  "event_id": "01-d890893bfd0097d8",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.67,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elsol.com.ar",
+    "g5noticias.cl",
+    "latercera.com",
+    "los40.cl"
+  ],
+  "high_trust_domains": [
+    "latercera.com"
+  ],
+  "article_count": 4,
+  "rank_signal": 0.86,
+  "sources": [
+    {
+      "title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3J0MUNuNXRPV1FpaWp5clctSmZoeVlxeUIyM2xfNFlyQkJsbkxWcEJ4WGFEUVl2NExXQXQ1S2tlOWNuamlGM3R5cU1GTWE1eDFDM0RpX1BOTVEyUDVjQVFMRVRzQzRxT1VFekJBT0RhcWxYbG5zckNqOHdxbnBsRms2VUZqSXhtdGFlYjBaX1ppcE45bkJUM3hZcGhsTi1pdkpKR0duLWpkX1NDeHFHWdIB0gFBVV95cUxQNkVBdmpzTGJTVl9JZkZBOXZuRVVDMHFzVXhwaE5TNmhtTEcyek1oS3VkVVp5VlBITVdRQV9jd3BCSElkWHdmbEV6Q0lURFJjdE9TUFFoWmFPNWRvNWpnU0IzUlZoSE81VmZxYWZOcUJGUnFMZXJsS0dzSnFoX0luUmlSV0pGWnZfaEZ1ZkdjNmt3NnhqTzN0NnpNaEFKTTQ5OTVIczExQm5Xd3N3d3k5TlRKMF9MTUx1a29hbkwycElKVl9xVEw2V2FqaVBlTndPbnc?oc=5",
+      "domain": "latercera.com",
+      "publisher": "La Tercera",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 13:18:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial La Tercera"
+    },
+    {
+      "title": "Flood Hub: cómo usar la herramienta de Google que permite anticipar inundaciones con IA - G5noticias",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVVLSzdYUnVlVUFzLUJiYnRhZGxXNHJKSjdhTUFEUWpQTEc0ZWtFN2swbzlVN001Z3Jma2sxdVpVRTY2ZFltZF83R1RuZS04WGlrMUpxVV84SEFnVmJjelRvb3JzV0VqTGxtWm81dG9mRTM3M0NkZ2FiNTIwOGMtWUdJeG9Kc2JibmhfcnlpLXBua0VkWkdlR2VkbTBDLWMyNVRpQ3NpcURKTUtybDZyTVZhZGNvVlZjTnM2Yg?oc=5",
+      "domain": "g5noticias.cl",
+      "publisher": "G5noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 15:30:07 GMT",
+      "primary_hint": false,
+      "excerpt": "Flood Hub: cómo usar la herramienta de Google que permite anticipar inundaciones con IA G5noticias"
+    },
+    {
+      "title": "Flood Hub: cómo usar la herramienta de Google que predice inundaciones con IA - Diario El Sol Mendoza",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFhiVlZZa0xTT1RVYmZVcm5BQlhuR1pMMkJRVWpYM3BXSk9fcVZDNFZibWhMX3dmWTk2NHdnMVQxZkRlaFN1MndEZkV6V3NDSzQxU1BZZnhEdXdhcWZJNGhtblRoNElzYWlKN0ZjZk1uZU83WkJTZTV5SFVxdm9GTXJwdk9SX1FsSE9xMXJad2JTSDFITkRmeEZpb21wOElxbnAzTno4WW82bGk5SUpF?oc=5",
+      "domain": "elsol.com.ar",
+      "publisher": "Diario El Sol Mendoza",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 21:25:29 GMT",
+      "primary_hint": false,
+      "excerpt": "Flood Hub: cómo usar la herramienta de Google que predice inundaciones con IA Diario El Sol Mendoza"
+    },
+    {
+      "title": "Sistema frontal en Chile: cómo usar la herramienta de Google que permite anticipar inundaciones con IA - LOS40",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkNmYWluLU9EWnp0d09iMmdZd01JeU9yRXkxZ3dnblg1Y2tIR3Y3YjQtVjJya0JRYVFqc2xEa2FjaXhsNU5RSkdYQ0IzTUctNFlMc3ppZ2tWZlM5LXVFQXVDN2VLbkMyYm5FUWw2OVZlNUhZOU5xa3JLSU4yb0dtNUVKZ2taN1ZRM1pOSkpFeG9HblZISHVjVjJIMHVxZFgwdEUxVWhjZklwS29wM3Z6cVdLeVExdGM3bzA4WEFodlFfVFpZV21nRXVn0gHeAUFVX3lxTE9HNGR4TFZrd056MzhNR1hrYXg3SmpWdzJZVEdPTnppekVOS3pDQUxNNjdOeUd6ZHdNM1JodEtrQjllYjJjeW1tcnVmQW05dTc4WmExX3VVVWJSaktIOTE0OGVCb1I2ZVR2c3pJdmNqNXd1VW5lX2R3Q3UzNWEzX0o4UkFZVGZUU1ZCU3FPYmM3VFZsR2l1UEMxak1zNnhBakNGTjVoMV82QUJEbkhhQnFPMjUwYmU1VkZtM1VTVXJZYzBtdnpiQWVLSWtLazd0a3piNUZIUW1uM29IZlVqQQ?oc=5",
+      "domain": "los40.cl",
+      "publisher": "LOS40",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 20:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Sistema frontal en Chile: cómo usar la herramienta de Google que permite anticipar inundaciones con IA LOS40"
+    }
+  ]
+}

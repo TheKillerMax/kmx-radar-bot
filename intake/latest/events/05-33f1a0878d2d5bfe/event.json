@@ -1,0 +1,28 @@
+{
+  "event_id": "05-33f1a0878d2d5bfe",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA ayudará a revelar los misterios de las lunas de Marte en una nueva misión - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ciencia.nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La NASA ayudará a revelar los misterios de las lunas de Marte en una nueva misión - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXJzdDluczJwTUNYRlJlVnFTdEVaSGl2YkZXbGVLRDhmbktUR1IxLS1LbU5hWGptUDcyRWhqeGFhTE1RRE41ZVlWc0w2ZUVWbWFXNkV6bjVYQmxubHk4YmdJaWVpVzNiUWw4WGJhTnZPeEs2RHRlUjduQXNzLXVGdnpBckxXckN6dTdDdS0tQllCako5akVST3FEN3VWd0xBRkhQSUFWS2p1VlIzaTBROXNwc3IzX0VoYkExMFBn?oc=5",
+      "domain": "ciencia.nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 20:14:50 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA ayudará a revelar los misterios de las lunas de Marte en una nueva misión NASA (.gov)"
+    }
+  ]
+}

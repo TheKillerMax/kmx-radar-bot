@@ -1,0 +1,28 @@
+{
+  "event_id": "06-13e0cd1b0bb72324",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA invita a personas de todas las edades y niveles de experiencia al Desafío Space Apps - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ciencia.nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La NASA invita a personas de todas las edades y niveles de experiencia al Desafío Space Apps - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLU93aUo1MHFMbjB1YndQUG1rRnZ5emZISHJaWk1BZU1IWmZscW43QXdUSlg5U0lmaEdjV2hSbGNNdXhZUVRfbnVJYnZfQ1FId2JtUkdGcGpIMWIxNkJ1bjdiSENNaVhLdHd2Wm9Pbmdhc3lxYl81LUtWa1M1dFlUd0NZSzVjMzJiNkNhYjc0LWhLR1JKREZhQWh5eTY5U0w3QVZXYUxvMk5leXhtOEM4eE1nWHlXVV84bGZGbE1rSnBsSEJka2cxTTJ3ZmE?oc=5",
+      "domain": "ciencia.nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 14:37:36 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA invita a personas de todas las edades y niveles de experiencia al Desafío Space Apps NASA (.gov)"
+    }
+  ]
+}
