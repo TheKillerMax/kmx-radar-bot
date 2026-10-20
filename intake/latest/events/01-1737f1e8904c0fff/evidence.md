@@ -4,7 +4,7 @@
 - Riesgo: low
 - Estado de entrada: EN DESARROLLO
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 6
+- Dominios independientes detectados: 4
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -24,11 +24,11 @@ Richard Riehle, 'Office Space' and 'Casino' character actor, dead at 78 Yahoo
 Richard Riehle, best known for Office Space and Star Trek, has died at 78 IMDb
 
 ### Fuente 3: noticias.foxnews.com
-- URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekVBS2hhZ3JmTHV2R0tIRXE4VHU3NHJ0SU1hRUdFR1pDcVAtd3V4RWNRQmJ3LVVaSHQtM1M5NUZnQURnVVh3MGU4NEJWVFZTU0ZRLVp5UkNNWWE5M1ZOTXZha1MxazBrWXF6VG1fMmJTZEZZdU5RZHAzb3dlUjlxUDdPT21UMjRoc3ZR?oc=5
-- Título: 'Office Space' star Richard Riehle dead at 78 - Fox News
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjh5NzBnOUJ0bkhMaVN4dmJjYWlHZXkxNlVXa2E4UWlGek90NG01NnBHU3BPcUdnT3VxQXdkNGE1MkdtbXAwYnl2YVJZQ2x6Qy1RSnRhU0tWZWViMXNERjBXN05hLUVkYWxER2IxZG4yTDl2c0JRYzFlM1dOWGN5SHNlYXNiTE01ZWJPVGloek8?oc=5
+- Título: Richard Riehle, actor secundario de «Office Space» y «Casino », fallece a los 78 años - Fox News
 - Fecha detectada: Tue, 20 Oct 2026 00:21:59 GMT
 
-'Office Space' star Richard Riehle dead at 78 Fox News
+Richard Riehle, actor secundario de «Office Space» y «Casino », fallece a los 78 años Fox News
 
 ### Fuente 4: imdb.com
 - URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbTNKUHNlbm83cXdPRy1iY2pIczFXdUZHY3VWcjF3QXZNM1FDWTVSS3dvOEdDblZTWkFiYzJzaUFEdFpuVVhZeV85M2U1a0hrQm1hM0M0dXlJaHEzeUpTNGc5RUJITjRONTVFMlN3?oc=5
@@ -51,23 +51,9 @@ Richard Riehle, Legend Of Korra & Office Space Star, Dies At 78 IMDb
 
 Richard Riehle, Office Space Actor, Dead At 78 IMDb
 
-### Fuente 7: univision.com
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9GYnhMWE40RV9xbDBXQkVvRHE1YUt4RlN2U0h1VXRraHNya0RJUHh1c1UwSUdwSmc1VHFiNXVuRlVWdlppd1Zpa0F6TGlSOFhXMHdmUjBSMDBsTFMtWmNvcUhibXN0ekhsb0pNaA?oc=5
-- Título: Muere Richard Riehle, actor de ‘Deuce Bigalow: Male Gigolo’ y ‘Office Space’ - Univision
-- Fecha detectada: Mon, 19 Oct 2026 17:56:59 GMT
+### Fuente 7: eluniverso.com
+- URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFcwNF93QnVDVTliZzdwSkFKbktnMXNMRUIxNkV6Wi1HcXlIVVJUclh6VWYwX2tiUmpTTWFIZ25QSkJYWUtCekJoVmR1TTRQdnRjb19YY0pqSU5tMmJZYXFNV29yS2FyUUNtRlIxRDQyVXRJMnA0OVVZNk9kaExfZVlnTzBsZjZoVXlhWF9UcFFfNmhSODBJbVpWLUlYbWFnUFVUSnBDN3lvSXNtZUpsTjBhMHRZT2R1Y000S2xPczFYQdIB1gFBVV95cUxQRFhTOVJLU2ZIZWtBa2NBX2JQZE5BTGNXOVU1UlF2ME05ME4zNUk1Nnd6VXloQmJtclNwOW5HTU5PMzROUFVuakFqM3pHTDluZ2JyLV9Pa3dlNE4tbE92U3pyaXhrUzdvdGFzWXF3cDJFbDQ4czkweGczLVpuMVI2UWVFVkJpbFNYUVJ6WF9GN3gwUmtrQ2VXVTEySi1FWUFwRmpOMF93MnJHSWtULUo0azI4U2RrMlZ2WkZfRGt5Z3hVNDNEdFN2MXBSZUEwT04yVFdySGRR?oc=5
+- Título: Muere Richard Riehle, actor de The Office y Office Space, a los 78 años - El Universo
+- Fecha detectada: Tue, 20 Oct 2026 12:41:00 GMT
 
-Muere Richard Riehle, actor de ‘Deuce Bigalow: Male Gigolo’ y ‘Office Space’ Univision
-
-### Fuente 8: infobae.com
-- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2hNREdpV0l6SE5TckNmLWxFd21BRV9mbUQtVGdBX3Z6MUVnS01SWVZqVWJ0N2lMZHJoXzR2WEpXdE1sMzVYVDFKUW1IamRkOUhGMjR2SU5VUU5PMEQ1bGRGTVMxenFPeVRIUW9US0hwUHlCb2RrQmtIakhnQTBxYVdoN2tZdG5Kckw0Q2VOSEpoQ3U4R2VpYUh1YTlIZ2xPSVIxbDI4VFJ1NlRlTWVrc2hrb1Q4QU8wQUNVeXpjUm03Z0ZWR2R1WVNLc9IB5gFBVV95cUxORm5kbm9mSHlLZ1ZaLUQxOV9zVDlFVVZQM2RVVGlpSFJsY2tfLXFmenFrbkhQNmtFMGkwaEZPTGZaeHJFZ21hWDh0X2pPU1B3bWZteEttUEc4dE9Fd1FSWno5Q0NzSGtjQWlSRTk3RjRsc3BnZUdZLWxUU0dHeGlUUjhIN0d5R2hkTm4tTmxaLWVtVTB2eDdSakdwYVl2ZmM1dEkxNXpqLWZQZnhlNlhUMW1OQXlrblZKRzFKNnQwVENlSDJwNGtmNWljYXloejB1LXdsdzVJTU9yZ2xxNDJoN3VYOUlDZw?oc=5
-- Título: Murió Richard Riehle, actor de ‘Office Space’, tras más de cinco décadas de carrera - Infobae
-- Fecha detectada: Mon, 19 Oct 2026 21:58:00 GMT
-
-Murió Richard Riehle, actor de ‘Office Space’, tras más de cinco décadas de carrera Infobae
-
-### Fuente 9: elfinanciero.com.mx
-- URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWQ1OWdOTmhBWGFVWThKUUtxYWM2LTdlM2syN3RwSXBQeEhGUDlwZkZtSFhoMUU0djViUmJ0eDRMNUtiTGs0Z2dXdkFXSDBuUlAzbGxuNXVtT1NJTWc1UzZTSzFaMWQ4T2lXXzg0NnJWTGszMXVwS0k0eXNxd2IzUVBDajdjcWk0MHRScTE2UzRkc2UxangzS2pDM1BzYmlfUmFzREx1MjY2UHBKaE5GMmpGOA?oc=5
-- Título: Muere Richard Riehle, actor de ‘Gigoló por accidente’, ‘Office Space’ y el Papá Noel más querido de Hollywood - El Financiero
-- Fecha detectada: Mon, 19 Oct 2026 19:48:46 GMT
-
-Muere Richard Riehle, actor de ‘Gigoló por accidente’, ‘Office Space’ y el Papá Noel más querido de Hollywood El Financiero
+Muere Richard Riehle, actor de The Office y Office Space, a los 78 años El Universo

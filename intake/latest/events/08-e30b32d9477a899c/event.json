@@ -1,0 +1,30 @@
+{
+  "event_id": "08-e30b32d9477a899c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Tienen los demócratas expectativas demasiado altas para las elecciones intermedias? Lo analizamos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Tienen los demócratas expectativas demasiado altas para las elecciones intermedias? Lo analizamos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDdGREllQ0psa0lqMFpEVTJjLXpDZEtQYTZXakFWSnFJUzhyR253RXQtc0ZqT2hEeGpiY2ZBUXI2SkRBZ2hQcHp4cGNmZHJ0QWZGWGZuWHRLWmZRbmhXb3RjajdFQ0tjNFUzWVFOVlkwUVVueEpRdmdiV0U1UndDRUI0M196VGZhdkpFWURrTG1Qc3BwbE4xbWZB?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 11:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Tienen los demócratas expectativas demasiado altas para las elecciones intermedias? Lo analizamos CNN en Español Los republicanos moderados temen verse arrastrados por la impopularidad de Trump EL PAÍS Elecciones de medio término: Así llega Trump a las urnas este 3 de noviembre Univision La aprobación de Trump cae a un mínimo histórico a semanas de las elecciones de medio mandato EFE - Agencia de noticias ¿Se encamina el Partido Republicano a una derrota histórica? Las cifras que encienden alarmas a dos semanas de las elecciones legislativas en EE. UU. El Tiempo"
+    }
+  ]
+}
