@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261020-alberta-referendum-canada",
+  "source_event_id": "11-224626fd16d443b8",
+  "manifest_generated_at": "2026-10-20T19:10:02Z",
+  "created_at": "2026-10-20T21:57:51Z",
+  "headline": "Alberta rechaza abrir el camino hacia una posible separación de Canadá",
+  "caption": "Alberta votó por seguir en Canadá. Pero ¿qué decidió exactamente el referéndum?\n\nEl 19 de octubre de 2026, esta provincia canadiense eligió entre mantener su situación actual o iniciar los pasos legales para celebrar después otra votación vinculante sobre una posible separación.\n\nEn el recuento provisional divulgado el 20 de octubre, alrededor de tres de cada cuatro votos contabilizados respaldaron permanecer en Canadá. Las cifras todavía pueden variar.\n\nLa consulta no significaba independizarse de inmediato. Tampoco resuelve por sí sola las diferencias políticas entre Alberta y el Gobierno federal.\n\nElections Alberta prevé publicar los resultados oficiales el 29 de octubre. Desliza para conocer las opciones de la consulta y qué falta por confirmar.\n\nFuentes: Elections Alberta, Reuters y Associated Press (19–20/10/2026).\nFoto de archivo (2011): WinterE229 / WinterforceMedia · CC0 1.0. Mapa: EOZyo · dominio público. Ninguno muestra la votación de 2026.\n\n#KMXRadar #Alberta #Canadá #Referéndum #PolíticaCanadiense",
+  "images": [
+    {
+      "path": "01-alberta-consulta.png",
+      "alt_text": "Fotografía de archivo de 2011 del Parlamento de Alberta en Edmonton, junto al titular sobre el rechazo provisional a abrir un proceso de separación de Canadá."
+    },
+    {
+      "path": "02-que-se-voto.png",
+      "alt_text": "Texto informativo sobre las dos opciones del referéndum: permanecer en Canadá o comenzar el proceso legal para otra consulta vinculante sobre la separación."
+    },
+    {
+      "path": "03-resultados-provisionales.png",
+      "alt_text": "Gráfico de barras original: alrededor de tres de cada cuatro votos contabilizados respaldaron que Alberta permanezca en Canadá; cifras provisionales."
+    },
+    {
+      "path": "04-donde-queda-alberta.png",
+      "alt_text": "Mapa real de dominio público que sitúa a Alberta en el oeste de Canadá; no representa resultados electorales."
+    },
+    {
+      "path": "05-que-significa.png",
+      "alt_text": "Tarjeta informativa que aclara que el voto del 19 de octubre no declaró la independencia de Alberta ni autorizó iniciar trámites para otro referéndum vinculante."
+    },
+    {
+      "path": "06-que-sigue.png",
+      "alt_text": "Tarjeta con la fecha prevista de resultados oficiales, 29 de octubre de 2026, y una advertencia sobre la provisionalidad del recuento."
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "sources": [
+    {
+      "label": "Elections Alberta · pregunta 10 y convocatoria",
+      "url": "https://www.elections.ab.ca/elections/referendum/"
+    },
+    {
+      "label": "Elections Alberta · recuento no oficial",
+      "url": "https://results.elections.ab.ca/"
+    },
+    {
+      "label": "Elections Alberta · calendario de verificación",
+      "url": "https://www.elections.ab.ca/resources/media/news-releases/2026-10-19-2/"
+    },
+    {
+      "label": "Reuters · resultados parciales y contexto, 20/10/2026",
+      "url": "https://www.reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19/"
+    },
+    {
+      "label": "Associated Press · confirmación independiente, 20/10/2026",
+      "url": "https://apnews.com/article/alberta-canada-referendum-independence-carney-ed0d58ef051859ce12052e75d2d6e8a0"
+    },
+    {
+      "label": "Wikimedia Commons · fotografía real de archivo y CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg"
+    },
+    {
+      "label": "Wikimedia Commons · mapa en dominio público",
+      "url": "https://commons.wikimedia.org/wiki/File:Alberta,_Canada.svg"
+    }
+  ]
+}
