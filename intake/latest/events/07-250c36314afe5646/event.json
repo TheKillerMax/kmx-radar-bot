@@ -1,0 +1,28 @@
+{
+  "event_id": "07-250c36314afe5646",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Euro area monthly balance of payments: August 2026 - European Central Bank",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ecb.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Euro area monthly balance of payments: August 2026 - European Central Bank",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlV1NlBJVEs4NFJGcG56V2cxYVhoWU1lQkIwMHE1dU8xcVEwbmhxVEN1YnZqZDh0M2FrSnRUbTNjRW96Mm1Ud3Y5Z3ZrM0VaTnZJU2U4OEVwVmhoTXhJUlplLUhpeUtEVXcwWUxGcFJ5VjZnTEVYb3FIQndDRlF6eTlUbmJidmV1XzVv?oc=5",
+      "domain": "ecb.europa.eu",
+      "publisher": "European Central Bank",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 08:30:57 GMT",
+      "primary_hint": false,
+      "excerpt": "Euro area monthly balance of payments: August 2026 European Central Bank"
+    }
+  ]
+}

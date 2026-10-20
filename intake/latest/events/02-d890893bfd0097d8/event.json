@@ -1,0 +1,42 @@
+{
+  "event_id": "02-d890893bfd0097d8",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "g5noticias.cl",
+    "latercera.com"
+  ],
+  "high_trust_domains": [
+    "latercera.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3J0MUNuNXRPV1FpaWp5clctSmZoeVlxeUIyM2xfNFlyQkJsbkxWcEJ4WGFEUVl2NExXQXQ1S2tlOWNuamlGM3R5cU1GTWE1eDFDM0RpX1BOTVEyUDVjQVFMRVRzQzRxT1VFekJBT0RhcWxYbG5zckNqOHdxbnBsRms2VUZqSXhtdGFlYjBaX1ppcE45bkJUM3hZcGhsTi1pdkpKR0duLWpkX1NDeHFHWdIB0gFBVV95cUxQNkVBdmpzTGJTVl9JZkZBOXZuRVVDMHFzVXhwaE5TNmhtTEcyek1oS3VkVVp5VlBITVdRQV9jd3BCSElkWHdmbEV6Q0lURFJjdE9TUFFoWmFPNWRvNWpnU0IzUlZoSE81VmZxYWZOcUJGUnFMZXJsS0dzSnFoX0luUmlSV0pGWnZfaEZ1ZkdjNmt3NnhqTzN0NnpNaEFKTTQ5OTVIczExQm5Xd3N3d3k5TlRKMF9MTUx1a29hbkwycElKVl9xVEw2V2FqaVBlTndPbnc?oc=5",
+      "domain": "latercera.com",
+      "publisher": "La Tercera",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 13:18:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial La Tercera"
+    },
+    {
+      "title": "Flood Hub: cómo usar la herramienta de Google que permite anticipar inundaciones con IA - G5noticias",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVVLSzdYUnVlVUFzLUJiYnRhZGxXNHJKSjdhTUFEUWpQTEc0ZWtFN2swbzlVN001Z3Jma2sxdVpVRTY2ZFltZF83R1RuZS04WGlrMUpxVV84SEFnVmJjelRvb3JzV0VqTGxtWm81dG9mRTM3M0NkZ2FiNTIwOGMtWUdJeG9Kc2JibmhfcnlpLXBua0VkWkdlR2VkbTBDLWMyNVRpQ3NpcURKTUtybDZyTVZhZGNvVlZjTnM2Yg?oc=5",
+      "domain": "g5noticias.cl",
+      "publisher": "G5noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 15:10:44 GMT",
+      "primary_hint": false,
+      "excerpt": "Flood Hub: cómo usar la herramienta de Google que permite anticipar inundaciones con IA G5noticias"
+    }
+  ]
+}
