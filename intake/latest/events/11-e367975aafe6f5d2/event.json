@@ -1,0 +1,30 @@
+{
+  "event_id": "11-e367975aafe6f5d2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Quién es Stephen Hubbard, el exprofesor estadounidense liberado tras pasar 4 años en la cárcel en Rusia - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Quién es Stephen Hubbard, el exprofesor estadounidense liberado tras pasar 4 años en la cárcel en Rusia - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tSzBHQjdFSE9aMGMtNFczYjh3WmEzaE00Y0h4bXp5LWN2M0FGeWNJMGwxa0pjZmpuaHlPZVM5WllIRTFpejNBYXp0TUhJUGZWSkplZHZxVUZMbUtL0gFiQVVfeXFMT2RxMGZzNExXNlZYckx1akRuR2VFUE40clJ0VTg4QzhadzhqSmpBOGlkOFk4NmN4WlNQejRIY0oxdFNFYjJlMmtWbTFSTVlramZzVGNTamZLd1gyZXFkQkpZd0E?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 16:43:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Quién es Stephen Hubbard, el exprofesor estadounidense liberado tras pasar 4 años en la cárcel en Rusia BBC Rusia libera al estadounidense Stephen Hubbard durante una visita del enviado de EEUU AP News Rusia libera a estadounidense acusado de trabajar como mercenario en Ucrania, dice enviado de EEUU San Antonio Express-News Rusia libera a un profesor estadounidense que estaba en la cárcel acusado de ser mercenario en Ucrania, tras la presión de Trump Putin Fox News Petróleo y elecciones: los porqués del acercamiento de Trump a Putin France 24"
+    }
+  ]
+}

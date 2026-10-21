@@ -1,0 +1,30 @@
+{
+  "event_id": "12-ae0c0b9061e7b68a",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump? - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnYWVGbW9RV1ZuZ0ZnLUpDckxyYXBBTFR1NGlxNlpzaW42VURiWVh4bzFBUHFEQ2tfT3JmUHB6aUExSER2Zk9UN2FMaFoteERHU2RCdXl5ZG1SNXkz0gFiQVVfeXFMUGJnbGRZRzNwWm5rZE05emNwdGktcVJOSk9TM2hWUTJ0QUlZSXpobzRCbmdGM3hXbFN6bS1zV3NZbHZ0Tl92Q2IzQjRHNjBSSFYyUDExMW53a0RGU1VUZ0EtUkE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 14:04:41 GMT",
+      "primary_hint": false,
+      "excerpt": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump? BBC Dos trabajos para sobrevivir: la historia de Víctor y muchos hispanos en EE.UU. Telemundo Trump y Vance dan discursos distintos sobre la economía: la \"edad de oro\" frente a \"en proceso\" San Antonio Express-News Bolsillos bajo presión: este es el precio que podría condicionar a los votantes latinos CNN en Español De \"una época dorada\" a \"estamos trabajando en ello\": Trump y Vance presentan visiones diferentes sobre la economía Univision"
+    }
+  ]
+}

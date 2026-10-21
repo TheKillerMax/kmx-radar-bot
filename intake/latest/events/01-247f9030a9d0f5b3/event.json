@@ -1,0 +1,52 @@
+{
+  "event_id": "01-247f9030a9d0f5b3",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Piden detalles sobre las operaciones con oro realizadas por el Banco Central - DameNoticias",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "damenoticias.com",
+    "diarioelzondasj.com.ar",
+    "telesoldiario.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Piden detalles sobre las operaciones con oro realizadas por el Banco Central - DameNoticias",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEM0QVRCaUJnNlBlUjh5cmoxYk5KNHRDSlJVT1hkbzhKU0tsRmhwQnYxdzB6b0JPZFBWNm1ZYmx4QlV0TjE4c09JTjNyWGJCcDFJRkEwWHh0b3FrMHVRbEdLUWV6Q2YxOU9CM1dabHYxa3oyOFYzdl9uN3N6RHJJZXRPcHNodXJoa1hVdlNVZ1lmWkJIRFhnTl9xMlZmb2hkNm1Qbk9mczhPRm5IbTJycXFEMmxja1dz?oc=5",
+      "domain": "damenoticias.com",
+      "publisher": "DameNoticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 19:39:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Piden detalles sobre las operaciones con oro realizadas por el Banco Central DameNoticias"
+    },
+    {
+      "title": "La Justicia pidió informes por las operaciones con oro del Banco Central - El Zonda",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWc4dVJURlFFOWNOb3NCMFJDTnpTSmFUNVBQMDZtSVdDZEoyT1I5QllMUk9JUHI0SThFUGdwTVJGQmZHOUQyMld3N0x3TEZUM3lRN2x3Unp0cUNLdERTd0tWWDYxTVNDNWpGS1E4SEJ5aDZ2b21neGdmSkRnbkp2WkE3czByY3NLSy1Nd2VmMmx6SVNUdjZMRUp4TjV1XzRvcUh1Q1JyNi1jYmRETGJhd2t4blQ4RDBpSFE?oc=5",
+      "domain": "diarioelzondasj.com.ar",
+      "publisher": "El Zonda",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 18:11:11 GMT",
+      "primary_hint": false,
+      "excerpt": "La Justicia pidió informes por las operaciones con oro del Banco Central El Zonda"
+    },
+    {
+      "title": "La Justicia pidió informes por las operaciones de oro del Banco Central - TeleSol Diario",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzh5bXQ3OGNJUi1BVmRFVWtZQmd5Z1FtQ1BqU0tGOXpCZjRaNVBrYmFmT0RlNWVmVXJDUVBHLWNPVUs5ek8teXh2bGVjV2ZrbUh1aWFpQkhBRy14dkd3UC16VFJIM2hPTkJMVnh6UkRvRUhBNGRxWnhLSGNUY3doZ2VXMXFqOHh2Y0JUcE91blJiVWYxVS1NYnZ2aWM0WlR0eWNNSjYwVVdHYkJa?oc=5",
+      "domain": "telesoldiario.com",
+      "publisher": "TeleSol Diario",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 18:11:10 GMT",
+      "primary_hint": false,
+      "excerpt": "La Justicia pidió informes por las operaciones de oro del Banco Central TeleSol Diario"
+    }
+  ]
+}
