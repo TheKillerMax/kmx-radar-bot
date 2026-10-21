@@ -1,0 +1,40 @@
+{
+  "event_id": "03-462989b46445dad2",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Zalando nombra a Tom Christenson como Senior Vice President para acelerar su negocio B2B - El Mundo Financiero",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elmundofinanciero.com",
+    "periodicopublicidad.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Zalando nombra a Tom Christenson como Senior Vice President - Periodico PublicidAD",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmp3UVB5NVRUR2JQT2tmU2VfLUIxNnZQRnJhUWQ5bXBBVm1ubHFHQ2dUZmZhdnJhRGpqSTl6TldSajZnWTc5aFltci1tNVVNc3ZpcFJZWVRfdlpudEZQWnRWVXEweFVhbDQxZ0FWdy1WMF80SnBzaGRoWkRtdDhoWUczV2VGUXNCVXJPZjVPMUJmdnlfYVFWZWJpOWduOUdsTXpRRnpDQ0hSLUdXVWNTd201Z3JKZ3otaG9id2JQSUx3STNWdmUtZDMtZ1JNdjBqN1EyeDB5Z0FSQdIB3wFBVV95cUxPdDc3dnVHSTJ1MTNvaVhUTl9PZ09QWW5hQWpKdTVDOTM2RWJGeDg0NkRaX25VbElZc21iT3EwUnUyTmEzcHBiNlJxRmdTUWVZUkFnMGViYkxYOUJKaldvaVRiLVRBZ1JlNU1DcjEtVTVUZUZIUjQtcTljQ1NjUWpJY3JNS0FGeDVRa0FXWHlFbG5Xa29kdmNPMFN6MXVYTDRIaWlGZWR6dS10N0FUR1lSSkdZYnRfc2tNNUhCY3ZWYWZ3V0t1SUJZV1NvOHFuc0tJMG1IWVNJbFk4bS1oRk9j?oc=5",
+      "domain": "periodicopublicidad.com",
+      "publisher": "Periodico PublicidAD",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 07:38:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Zalando nombra a Tom Christenson como Senior Vice President Periodico PublicidAD"
+    },
+    {
+      "title": "Zalando nombra a Tom Christenson como Senior Vice President para acelerar su negocio B2B - El Mundo Financiero",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2NxR1ZTWU1OQ2pVRkVQVmRNUFRhdlVkNFVMMnpGUGVURmRSS3dWTHFIcWdzNUg0OHFsSThkMmZtTVVMSjRJbF9ILVpORWR5NGhURTQ2RkFjbFRVaDl5d29qdGxiNDdjR0F2RDFEeElzaFdmQlhWeU1ZQUk3MU1RNGxzYmVjbkV0N2ZuUzV1THdLamdaMTRJQ1QtYU9ESVo2UDhlZE5vc0h6cUE5dExkREVUUXVoUEZTWEFvaFJfaURpdkJ4M3BsU1Y3eTRFUFFCV3d4YU9tWVRLdkpFUXJnUXFRc1ZWbnlf?oc=5",
+      "domain": "elmundofinanciero.com",
+      "publisher": "El Mundo Financiero",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 09:11:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Zalando nombra a Tom Christenson como Senior Vice President para acelerar su negocio B2B El Mundo Financiero"
+    }
+  ]
+}
