@@ -1,0 +1,28 @@
+{
+  "event_id": "08-9d1de7fbc63d61e9",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Por la gran convocatoria, la charla del científico argentino de la NASA se realizará en la Usina Cultural - Edusalta",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "edusalta.gov.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Por la gran convocatoria, la charla del científico argentino de la NASA se realizará en la Usina Cultural - Edusalta",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY3EwRkQwSEZFMTFSSlQ2a0ZGSk5WVjgzSEI3c2VuMzUyZ3EyLUM5dEs0UEN2Q3RKYk56Zkc2aXBaalM2WFpTOVFZOXphWTFXYTJuZEl5N0VES3NLN3RUQzNuaGpWOVRfckV6aTd2RW9YcXBGQjJPZ3JvWmxVTVRJaWtuYXJwcDA1YjhYOTdFR296RzRwQjJPY20xQmV4RHAyS1Z0SW05SS1ZN1JtOGxMVlNwamFiTm54MmxpeFdOR3FGS01WaWp4QmRaalNOS2FveDVodXUyMklTeWktMktVSDhDQjUyZjNVM255M2JwWndWNy15R1d5cFl2QkFmbUpOZk4yQWZSUnA?oc=5",
+      "domain": "edusalta.gov.ar",
+      "publisher": "Edusalta",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 15:56:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Por la gran convocatoria, la charla del científico argentino de la NASA se realizará en la Usina Cultural Edusalta"
+    }
+  ]
+}
