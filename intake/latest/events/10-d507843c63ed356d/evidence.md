@@ -14,4 +14,4 @@
 - Título: Comienza la votación anticipada en Florida y Texas. Los latinos juegan allí un rol clave - CNN en Español
 - Fecha detectada: Mon, 19 Oct 2026 19:44:00 GMT
 
-Comienza la votación anticipada en Florida y Texas. Los latinos juegan allí un rol clave CNN en Español Comienza votación anticipada en Miami-Dade con 28 centros abiertos hasta el 1 de noviembre Telemundo Miami (51) Inicia votación anticipada mientras electores expresan preocupación por economía y costo de vida WPLG Local 10 Más de 106.000 votos en Miami-Dade: así avanza la participación electoral en Florida Infobae Votación anticipada en Palm Beach y la Costa del Tesoro de cara a las intermedias WPEC
+Comienza la votación anticipada en Florida y Texas. Los latinos juegan allí un rol clave CNN en Español Comienza votación anticipada en Miami-Dade con 28 centros abiertos hasta el 1 de noviembre Telemundo Miami Votación anticipada en Palm Beach y la Costa del Tesoro de cara a las intermedias WPEC Inicia votación anticipada mientras electores expresan preocupación por economía y costo de vida WPLG Local 10 Texas bate récords de voto anticipado en varios condados Primera Hora

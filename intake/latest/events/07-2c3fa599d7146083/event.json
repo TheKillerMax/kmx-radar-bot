@@ -1,0 +1,149 @@
+{
+  "event_id": "07-2c3fa599d7146083",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Moderate mag. 4.9 earthquake - North Pacific Ocean, Panama, on Tuesday, Oct 20, 2026, at 07:20 pm (Costa_Rica time) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 33,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Light mag. 3.6 earthquake - 50 km southeast of Changuinola, Provincia de Bocas del Toro, Panama, on Wednesday, Oct 21, 2026, at 03:07 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVVHcDRsUmxqVzhPdDRhYmhzVmlHVW5TeG5GYWdLd1FaQTFIU1A0TG5VQ2NpZWZZZFJ3VnhwNnBlQ1A2TlJReU1EeGlSM1RWT0J0cnF6UjdvSkhQYWZCSnBTMFFCcmNHbFhteG5LR1JOdGVTYkNjYm1ua2sxamVCSmlqeS12bFMzVjRlVGVDMDU1cXZDa1FpTmJMblVpSGNxeTh3VENzUmJ4RnNPY1BxUklkQWdpNm94WW1xVF9WbzM?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 08:20:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - 50 km southeast of Changuinola, Provincia de Bocas del Toro, Panama, on Wednesday, Oct 21, 2026, at 03:07 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Strong mag. 5.0 earthquake - South OF Panama on Tuesday, Oct 20, 2026, at 08:20 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GOE9Zb1h0a3pUX0E1S0dtRXhoTWc1MEpZczRWSXFPOFVfYXVUYUpiRE0zUnMtNEZkUWtEZ2hMZUZoVXZCem5INkp6ZjExM3lsblBza2h2bEUzdGp2M0UxVUEzOUhxVWh2VWgtc0I1V2RFNndhNEltQ0lMS2M1cnc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 01:19:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Strong mag. 5.0 earthquake - South OF Panama on Tuesday, Oct 20, 2026, at 08:20 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.1 earthquake - 23 km north of Usulutan, Departamento de Usulutan, El Salvador, on Tuesday, Oct 20, 2026, at 11:16 am (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkhqVGIyeTRIQXRqcGVCSWlDUlR2b05kNEFUclBFcVNsa0hzcnFfNXdVUWdCMEZVX3RlUHFncXVwNGthblNaLVRncjJpbFRKTGJSTFJXcFhDWVhDVm0ybjlsV2ZmVEdhX2hLaXpOWk05SkFtVnJTRE5ucGMteHBjM2VaYTNlYWtHS2hfd1pERXdscllxcWxxNUxfbGQ2cDF5bl9SYTBEa3NwaTZBcjlUWFduTEVFUWgyUkg2LVZfZXBYOGRaY1hpQVhyQQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 23:18:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.1 earthquake - 23 km north of Usulutan, Departamento de Usulutan, El Salvador, on Tuesday, Oct 20, 2026, at 11:16 am (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.2 earthquake (unconfirmed) - Panama-Costa Rica Border Region on Wednesday, Oct 21, 2026, at 07:00 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbGlueXBMSEN3R1dqYmw0SVNTbF9Bc3NMd1VheGlBWlZsMXdrMTF1MEkzamwwZkVMZmRYcUNLWXZ4NlRiVGdmaDBFOUNUWXpCT0xUVkVJeVFueGlXTThuc2t3TTE3REd6cDlPVE5hY1pRTVUxQ3Y0d3ZCdGl1VU0?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 07:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.2 earthquake (unconfirmed) - Panama-Costa Rica Border Region on Wednesday, Oct 21, 2026, at 07:00 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake (unconfirmed) - Panama on Wednesday, Oct 21, 2026, at 05:45 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rVnZwSVRldFV4eFQwV2o2MGVRay1tUFp6cmFmQUQ4Smo3ZE1JalpBbGM2a0xqOEJGSUtyVm5tOVIybUE4TDU2OTUyc25TRHMtamtEbkM0eDlLbDhNREowdU1RSXVpQ2l6UHdzb295YnlMYnBZSTZQeGs5ZVBHRHM?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 05:50:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake (unconfirmed) - Panama on Wednesday, Oct 21, 2026, at 05:45 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.2 earthquake (unconfirmed) - Provincia de Bocas del Toro, 66 km north of David, Provincia de Chiriqui, Panama, on Wednesday, Oct 21, 2026, at 06:02 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zRVEyYjE3T2dlM3FPYWRDSDBYdXMzY2dWWFJRR01VMjJ5M0pSV3pZVE1NM01vbTZ2MEcteFlQLUlmR3NCOWF6MV94QjJwU0JjM2l1LTFVX3pUNkRzVWY2UWM4Qk12QkNtcjBNc2NFWTh6aUx1ZUZ1WWQ0XzNkS00?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 06:02:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.2 earthquake (unconfirmed) - Provincia de Bocas del Toro, 66 km north of David, Provincia de Chiriqui, Panama, on Wednesday, Oct 21, 2026, at 06:02 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake (unconfirmed) - 44 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Wednesday, Oct 21, 2026, at 02:50 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVZiQ29EeWdVU0JZSnVIVllzWkxvTm5MZzNIWUhmT0xaTEpMZDctVklLanROY1oxNXJHdmZMcF9icjBlVVQtNm41bmpxQ0FwS1lZdWNKcFdFX3dLQVBNYXJQYW1jaVBuMURtRXA1ZUJ3c1FGUXFlRF9Fam5FaEdIUzZKV0FOZmJ1Ul83bUF1TzZoa3NtWm1DSXBRN3BVOFU?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 07:56:32 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake (unconfirmed) - 44 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Wednesday, Oct 21, 2026, at 02:50 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.8 earthquake - Puerto Rico on Wednesday, Oct 21, 2026, at 03:47 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSHJDem9yRFg5cGNJNUltNnVrRlY0SklwQnB3YnZzN2JDcHRhVlU2TkotdlYxRVNHOXFDc200aW9wTVBONk04Q0ZGRTNHVlE3VXRubm9ScDJudzY2THdqMzMwdS1Qam9hRTg1M2JrX0dxQktFRXRJVWdtYnRGTlk?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 04:03:13 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.8 earthquake - Puerto Rico on Wednesday, Oct 21, 2026, at 03:47 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - 28 km south of Las Tablas, Provincia de Los Santos, Panama, on Wednesday, Oct 21, 2026, at 03:09 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnJtOWFTeTVGZ3ZEcUx5SktnUmZSOGxubzFfd0syMWRJcHpseTBuYW1Wa0IzTUs3QWNtX2pZQ3lrYnkwSEFNM0JLU3BLNXpmT3JEVG41UjRKMjNIMEZzZ0tUSDZLek9MSnNpcWstbDVGMDFQSVNOSXREaFRhdFpDbDF6RTcyX25YRHN2OXE0V2dONmhUNDBVUWFCN1dCVjA?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 08:20:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - 28 km south of Las Tablas, Provincia de Los Santos, Panama, on Wednesday, Oct 21, 2026, at 03:09 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.6 earthquake (unconfirmed) - Provincia de Herrera, 56 km south of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 21, 2026, at 05:04 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IUmNlaUI5REd5WE5yLXlmUHRTaHR4djV5a3cyYTdvSzRMTFo2ZjNXQThzaFN4ektjQ1FIUVJhMGpZN3lWbGprOTcwQUFLWGRkTXRXd0dmQ19ZNHM0SzQtdFlTNXFINVk2NjhxN2xDMFlSRnBfU3A2UlZEODRfYTA?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 05:07:32 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.6 earthquake (unconfirmed) - Provincia de Herrera, 56 km south of Santiago, Provincia de Veraguas, Panama, on Wednesday, Oct 21, 2026, at 05:04 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.7 earthquake - Caribbean Sea, 51 km west of Isla Popa Island, Panama, on Tuesday, Oct 20, 2026, at 02:28 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzg5ZEZuT2xXQlVSaW5mOFdYWWRXbDlmYjJfUnVLNk9jcndJMkV2STFaeVVEUGo5Vy1FUllfZGV5Wm5vVkROVTBsc3poclhjcTdqUzdnc3k1ZUlkTmk5UXVodEZtVUt1b1RBMWNNdWdvUU1fSXhKeUFkRHl6Y2xKbjlqellKSjB2dU5NVFVRNV92c2dkZVVEMktKN2V4YkxrVU9Gc3AySzZOMXBUVDVQd3hsNU1maUVDR0ItRnpKbklRTTctYzVsRU5CancyR0ZFRlE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 19:37:05 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.7 earthquake - Caribbean Sea, 51 km west of Isla Popa Island, Panama, on Tuesday, Oct 20, 2026, at 02:28 pm (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake (unconfirmed) - Panama-Costa Rica Border Region on Wednesday, Oct 21, 2026, at 04:21 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GR1djNFZLWFZPNXNINWwtTDBFZGxxdTlSTlFDNEdJOHVxOUdmY29ZSFVOMjlDZjY5QkVsTVdacDloU21pRHVnUGJ2NVVfUUVaem56NWVKLW9BaEpFeDBJZnRER1FnUHhQUk1TUml6MllRSU9CdFBuODNaSmdVaGc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 04:24:30 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake (unconfirmed) - Panama-Costa Rica Border Region on Wednesday, Oct 21, 2026, at 04:21 am (Universal Time) Volcano Discovery"
+    }
+  ]
+}

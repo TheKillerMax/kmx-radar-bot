@@ -1,0 +1,28 @@
+{
+  "event_id": "04-1b6c35bd6485d9e9",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Secretary of War Pete Hegseth Speech on the Arsenal of Freedom in Dayton, Ohio (As Deliver - U.S. Department of War (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "war.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Secretary of War Pete Hegseth Speech on the Arsenal of Freedom in Dayton, Ohio (As Deliver - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOU9fNUdrdFpkMEJTcGxFUFNRdDEwbEZUQnE0dzgxSVdHRHVlRHFrbzEtajZHUWJIQVdGLTA4Z1J1QXlWMzBzT3otbkJZcGlIZWlVVlBsZUE0LVEzLWpYUnFxOTlGTi1ZVXFReUNMOUl4aW5ER0hUWURWbzY2cFRlcUE0dm40blhLd0g0WGl1eFRsRElWc2tod05GSFdneUplMXVCSXVlRG1saC1taHN3QmZEd2FqZnU5bEZkT1hKLWM3M1lFMV8zRlZTWnlXZ1NjNTM0?oc=5",
+      "domain": "war.gov",
+      "publisher": "U.S. Department of War (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 20 Oct 2026 21:49:52 GMT",
+      "primary_hint": false,
+      "excerpt": "Secretary of War Pete Hegseth Speech on the Arsenal of Freedom in Dayton, Ohio (As Deliver U.S. Department of War (.gov)"
+    }
+  ]
+}

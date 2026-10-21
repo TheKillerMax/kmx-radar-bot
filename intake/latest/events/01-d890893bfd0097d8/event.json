@@ -3,20 +3,19 @@
   "category": "MUNDO",
   "risk": "medium",
   "canonical_title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
-  "intake_status": "EN DESARROLLO",
-  "verification_signal": 0.67,
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.555,
   "primary_source_present": false,
   "independent_domains": [
     "elsol.com.ar",
     "g5noticias.cl",
-    "latercera.com",
-    "los40.cl"
+    "latercera.com"
   ],
   "high_trust_domains": [
     "latercera.com"
   ],
-  "article_count": 4,
-  "rank_signal": 0.86,
+  "article_count": 3,
+  "rank_signal": 0.71,
   "sources": [
     {
       "title": "Flood Hub: cómo usar la herramienta de Google que anticipa inundaciones con inteligencia artificial - La Tercera",
@@ -50,17 +49,6 @@
       "seen_at": "Tue, 20 Oct 2026 21:25:29 GMT",
       "primary_hint": false,
       "excerpt": "Flood Hub: cómo usar la herramienta de Google que predice inundaciones con IA Diario El Sol Mendoza"
-    },
-    {
-      "title": "Sistema frontal en Chile: cómo usar la herramienta de Google que permite anticipar inundaciones con IA - LOS40",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkNmYWluLU9EWnp0d09iMmdZd01JeU9yRXkxZ3dnblg1Y2tIR3Y3YjQtVjJya0JRYVFqc2xEa2FjaXhsNU5RSkdYQ0IzTUctNFlMc3ppZ2tWZlM5LXVFQXVDN2VLbkMyYm5FUWw2OVZlNUhZOU5xa3JLSU4yb0dtNUVKZ2taN1ZRM1pOSkpFeG9HblZISHVjVjJIMHVxZFgwdEUxVWhjZklwS29wM3Z6cVdLeVExdGM3bzA4WEFodlFfVFpZV21nRXVn0gHeAUFVX3lxTE9HNGR4TFZrd056MzhNR1hrYXg3SmpWdzJZVEdPTnppekVOS3pDQUxNNjdOeUd6ZHdNM1JodEtrQjllYjJjeW1tcnVmQW05dTc4WmExX3VVVWJSaktIOTE0OGVCb1I2ZVR2c3pJdmNqNXd1VW5lX2R3Q3UzNWEzX0o4UkFZVGZUU1ZCU3FPYmM3VFZsR2l1UEMxak1zNnhBakNGTjVoMV82QUJEbkhhQnFPMjUwYmU1VkZtM1VTVXJZYzBtdnpiQWVLSWtLazd0a3piNUZIUW1uM29IZlVqQQ?oc=5",
-      "domain": "los40.cl",
-      "publisher": "LOS40",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Tue, 20 Oct 2026 20:30:00 GMT",
-      "primary_hint": false,
-      "excerpt": "Sistema frontal en Chile: cómo usar la herramienta de Google que permite anticipar inundaciones con IA LOS40"
     }
   ]
 }
