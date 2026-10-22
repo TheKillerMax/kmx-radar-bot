@@ -1,0 +1,40 @@
+{
+  "event_id": "04-83b784bf63fb1e84",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Sitios web de todo el mundo cierran después de que la IA detectara una vulnerabilidad crítica que afecta al 70% de internet - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "tynmagazine.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La IA detectara una vulnerabilidad crítica que afecta al 70% de internet de todo el mundo - TyN Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUkRRanJoREdkVWNuWkd3T05VQkdVWU1lXzV4RGJRV1pwMUdBUnJITERzcENFR3p2NVVpNTc5OUpJajN2TjMtLUZwa1pXUDBxMTVLWDBzSWoxTklub29XYm1laENvRXBzbFJqNUlkazhFaEJLaDN1LVFNUXFkRWZhQWtTOVhpNGlRZ0ZQUmM3V2NrbXZNN2k3QXJCLTk5OHRtd1ctR0hzNW5FRmlxLVM3RzFqOA?oc=5",
+      "domain": "tynmagazine.com",
+      "publisher": "TyN Magazine",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 12:29:41 GMT",
+      "primary_hint": false,
+      "excerpt": "La IA detectara una vulnerabilidad crítica que afecta al 70% de internet de todo el mundo TyN Magazine"
+    },
+    {
+      "title": "Sitios web de todo el mundo cierran después de que la IA detectara una vulnerabilidad crítica que afecta al 70% de internet - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDdpeWNabHE2ZElvRnFxRjBaSTh1aGo3cTlzdV9vSmFqbWhsVjdOdnFXUnBBeWlNcDBmNkdMS2w1RjNCRWJxVUJCYnlwaW1JZ2lHM3BuWUtBOU53YjFGeGZISnR1MmtjLUY0akVrVDR2ZjItaEpOVTdMdXpOYXFYRVg1YmtFR0U?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 11:59:57 GMT",
+      "primary_hint": false,
+      "excerpt": "Sitios web de todo el mundo cierran después de que la IA detectara una vulnerabilidad crítica que afecta al 70% de internet Yahoo"
+    }
+  ]
+}

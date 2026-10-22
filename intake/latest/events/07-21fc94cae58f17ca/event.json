@@ -1,0 +1,40 @@
+{
+  "event_id": "07-21fc94cae58f17ca",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Nigeria activa vigilancia epidemiológica tras confirmar contagio de ébola - teleSUR",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "telesurtv.net",
+    "tn8.ni"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Nigeria activa vigilancia epidemiológica tras confirmar un caso de ébola - TN8",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHd0WE5TV2pJZ1pBeEF4ME5RVTdFWUJoMmtaUXRkWGVYeENRbExrbDNMb2liWFZJVFZZY18taTlwT0hSbHdmbDZENFZrNTVnTWh6QXBUeFFmNm0tMmlSY3Z6Z1l4OFZoS1MxZFJ5cUxUSDhjY19IeURLSEVSd2hraUJHLWlpdnpaQV9GZzFFWVFjRWcyakc2WjNxZDJLeTQ?oc=5",
+      "domain": "tn8.ni",
+      "publisher": "TN8",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 12:37:38 GMT",
+      "primary_hint": false,
+      "excerpt": "Nigeria activa vigilancia epidemiológica tras confirmar un caso de ébola TN8"
+    },
+    {
+      "title": "Nigeria activa vigilancia epidemiológica tras confirmar contagio de ébola - teleSUR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVBCdkhIS0ZOWkRHVDhwa1BBZlBkOXZiSjdHeDQzd19CRWh4SjJZanlORXhVVUdHVVV3bTQtSlE0c2doVkNhc2ZkVUsxa2s4cXZsOEU0U3U4Nk92ek5vU2xLVmtHNG1aX0VCMnNRQWtRNVcxbWxrcDRsRWRvZVFDRlVadVNsS3NJanM5azRpcWFNY2lnZGxB?oc=5",
+      "domain": "telesurtv.net",
+      "publisher": "teleSUR",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 10:39:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Nigeria activa vigilancia epidemiológica tras confirmar contagio de ébola teleSUR"
+    }
+  ]
+}

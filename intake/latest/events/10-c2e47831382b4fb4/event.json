@@ -1,0 +1,28 @@
+{
+  "event_id": "10-c2e47831382b4fb4",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Cybercrime crackdown in Africa nets 1,462 arrests, recovers over USD 105 million - Interpol",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "interpol.int"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Cybercrime crackdown in Africa nets 1,462 arrests, recovers over USD 105 million - Interpol",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZnR2WGxLZDR1ODlfREpHbjlDT1NKc1JkeHBOOE9uVFhQWUlLQ2FWcWowNE5sQmV1bmV3UjRxQjF5M3BoajA2UktWMnIyWE5Bb3luZGlpb3Rxa1Itd20tbjJjWTY2a193eHp0NWxYak1QaEJTb0tXdjRPSHlFU2tkV3RndmxuWURNMU5uVF9FRWRhR0NnbFhxNVlUZjM3STAyaUlTa05WU3R1Q0dyVElUT0xnYTFrQ0Qyc3NueFlyTDR1Y2dCWWw2QjZuOTJSN01CUmNrMWdfQVFOZnIxcThzMDZn?oc=5",
+      "domain": "interpol.int",
+      "publisher": "Interpol",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 09:21:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Cybercrime crackdown in Africa nets 1,462 arrests, recovers over USD 105 million Interpol"
+    }
+  ]
+}

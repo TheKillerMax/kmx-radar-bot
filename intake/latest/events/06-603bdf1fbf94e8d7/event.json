@@ -1,0 +1,40 @@
+{
+  "event_id": "06-603bdf1fbf94e8d7",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Discovery Kids y HBO Max anuncian nueva temporada de El mundo de Luna ambientada en la Amazonía - Prensario Internacional",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cveintiuno.com",
+    "prensario.net"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Discovery Kids y HBO Max anuncian nueva temporada de El mundo de Luna ambientada en la Amazonía - Prensario Internacional",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUdXUmVYSEZXSlhHVU5XNy1UakZyRFdUZWpyWVRvSmhIaUpXNEtYR2VOWWFvMF9jNi02Y0tvNzh1TE5LS09BUTVXaVBPTmVSNWtMRFI5aEpmQlhHV1JhdGhOWE5oNmU2bk5hMTJuVHNiemtEUWc0LTJXM2F2bFJyY2J1allWcjctQUZ5U0xYcEliNDBCbXNiOHJmdlQ0ZUxONzNkak9SMWhIQmoxaFlJbjhoZUxWSjZLWDQ2NXg0c3pOVnE4bG1rOUxvdW51Nm5oRkJ3?oc=5",
+      "domain": "prensario.net",
+      "publisher": "Prensario Internacional",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 13:32:05 GMT",
+      "primary_hint": false,
+      "excerpt": "Discovery Kids y HBO Max anuncian nueva temporada de El mundo de Luna ambientada en la Amazonía Prensario Internacional"
+    },
+    {
+      "title": "Pinguim Content produce nueva temporada de ‘El mundo de Luna!’ para Discovery Kids y HBO Max - Cveintiuno",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0owemREVEQ0akx3NUFQaUNsbWFhOGFWOHF4QnIzNTVSXzBYUVNzVkl1RTdrQy1RR0djWUU1Zml3MVFTdUl4X1RzVUZpbTBoWkowZGRKbHhEc3JWSFRGYTdjY2ZVMmxuS2o0emdLazhRcDgtT0ZjSTZlMy0ycHBYalQ5VzJsNDFxZUwzaWdDYklKbE5HOEFKUkZ1VEMzanhoeklWbVBVZjhKUEdQSU1TdEFLQQ?oc=5",
+      "domain": "cveintiuno.com",
+      "publisher": "Cveintiuno",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 12:21:50 GMT",
+      "primary_hint": false,
+      "excerpt": "Pinguim Content produce nueva temporada de ‘El mundo de Luna!’ para Discovery Kids y HBO Max Cveintiuno"
+    }
+  ]
+}
