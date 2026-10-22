@@ -1,0 +1,40 @@
+{
+  "event_id": "05-c27db9422d8adf80",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Easterly Government Properties declara dividendo trimestral de $0.45 - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Easterly Government Properties declara un dividendo trimestral de 0,45 dólares - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMzlTNmRZZklaOGtPVHdOYnVoZE9SR1EyNlZDTjI2MDE2NVJwTGFkbGN3WFRaU1lRWHVLRXJoT20zOEsyeVpzTHZzNHUzNkpxYUNkZWNXWndPb1FpMGhhaXFDT0VET1VtbTI2NDY2blZlRG1uRVZFZUFCTDRCU0FrTXdCelNsS2ZibENhSlhMdnRSNWlkSVpHTldpOXFxcUQ4bEtYODZDYW8zZnlKbmZNR0hYLTVjaGRscXZfMG5ZVXhEamlSSXNNQ2lvNm5OQQ?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 20:48:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Easterly Government Properties declara un dividendo trimestral de 0,45 dólares Investing.com España"
+    },
+    {
+      "title": "Easterly Government Properties declara dividendo trimestral de $0.45 - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHVacXBveUdhVEdfSnNSR29zdUZfTUhYeVZlUmFPNUItbGNQSWE2QmhSRWVZNEhYNWlNZUVvekRvM1NmeGtQRVo2dGZFTGVfdzZ5XzFMTEhPVHM5bTQ4TmkzZDZRbl9NUXZ6WWVmYnlhTDlFWERtWDBnTkdUWTFNS2Mxb3pxcEtOQTR1ZHhFVkF3a01lTEJoWm5TSE91c3h1X1l4d0VYWU9NMHN6SGl1S2hDal9yUnlQS2xGeVlCbw?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 21:10:47 GMT",
+      "primary_hint": false,
+      "excerpt": "Easterly Government Properties declara dividendo trimestral de $0.45 Investing.com México - Finanzas, Bolsa y Forex"
+    }
+  ]
+}
