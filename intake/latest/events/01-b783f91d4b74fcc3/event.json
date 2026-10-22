@@ -1,0 +1,66 @@
+{
+  "event_id": "01-b783f91d4b74fcc3",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido - France 24",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.67,
+  "primary_source_present": false,
+  "independent_domains": [
+    "animalshealth.es",
+    "aristeguinoticias.com",
+    "france24.com",
+    "rtvcnoticias.com"
+  ],
+  "high_trust_domains": [
+    "france24.com"
+  ],
+  "article_count": 4,
+  "rank_signal": 0.86,
+  "sources": [
+    {
+      "title": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTRWazRweXB0Q1RpLXFXb2stVTZQRHNDaEIwMTR3SE5oSWVzcllyZ0lvRDh4S0o2bW4yQXEydHh4ZlBGR21jT2Y3dzlGOGt2NC1yeWdZc19tNDlrS0ZUelUtWTFFMEhTWUlmQ3BjNzB4d0xWUzRrUl9CUjFpQ0t3MHNiZlo1UGVpc3FXMEJfQWRVcXo4eDBhODFBY01iRmtMTWFPT21BS09FWTUxblhFRl9ZZmVZdHVoczg2WWxicHFnVWRFOHlvLVZoRzM2endCekNYQTA2U2pDTlZQ?oc=5",
+      "domain": "france24.com",
+      "publisher": "France 24",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 18:13:49 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido France 24"
+    },
+    {
+      "title": "Francia reporta primer caso de virus shamonda en humanos - Aristegui Noticias",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnQtY2ZScUNCUXI3b3BINkU4dllxX0JKcnlKWkh0SXk2ZG91RFhYSjNsY1B2bVJjb0NmN3Vjb3YtVHhJVDRGWW9zUXVPNXpKbWMwMGxucDZnRE5EVGxmQVREbkFNUVVmVGxBYVhaQ3ktbnpWYm5OTFI1cE9xeVpRU2JEeFRXZ3RvanFncDU2bkEzQUhrbDVUaWpOZmhuNkk?oc=5",
+      "domain": "aristeguinoticias.com",
+      "publisher": "Aristegui Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 18:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia reporta primer caso de virus shamonda en humanos Aristegui Noticias"
+    },
+    {
+      "title": "Primer caso de Shamonda en humanos: Francia detecta el virus en un paciente fallecido - Animalshealth.es",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWNCSVNfM2dIOHA2QWNYT1pDcy1scUduV2ktQ3E4UFAteTRjYThuaktDWjQwMU5nMjRQQmR2aUVIWHJ0TU1USktZRWI5b2tFc05TM0dMckZlRS12MVJ1Rnhzck9vQTZfTXFiM3ZiRy1tQ19vSDlxQnJLUUF4REhaMlZkM3pkQkE2OEt5bkYzSkJwR3R0WDhBM0JpRjBNb1dNa18weHBobXRaS25VZ1HSAbMBQVVfeXFMTUFRUDZxR3VXTWJIRU5UX0VyQ0FwYjlvd3FjUThRRTlxdkJWb0lQLXZfaVRvb3M3c29La08xbXBsaUdRSXpOZmpuSVVxQkI5aWt4bHdOU0xWQlhnZ2RPcmMyZ1RQSVdRYlhCUzNWZGVBbElxSUs5b0ZGU0NQaWFWT2dvOHBQaHNqOUxrNEw3cVhHMjVNeEU5MUlJQUM2ZGRIdkJTODh4LTgtWlBzWjdpMEVaZ0k?oc=5",
+      "domain": "animalshealth.es",
+      "publisher": "Animalshealth.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 08:25:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Primer caso de Shamonda en humanos: Francia detecta el virus en un paciente fallecido Animalshealth.es"
+    },
+    {
+      "title": "Francia reporta el primer fallecido por el virus Shamonda - RTVC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU1OaTdBLUt3c1VVajJQUDVJUjY3SUxUQ3g1V1VtZzUyRXlJbE5Ha2FYanNIU2psWTlIZFBmRVNjZk5ZVnUxbl9jRUtxaG5HNTFkeE00d0tJLVg0bXpBZzVOZkthS21UZU1HbTRNWi1hVW1Wa0p0blJhaW4ydXRGRzMteXdJNVVra2JMbXN1akduWnBWMVNGQUFLQzd6VU5xWVpQdW9R?oc=5",
+      "domain": "rtvcnoticias.com",
+      "publisher": "RTVC Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 14:34:17 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia reporta el primer fallecido por el virus Shamonda RTVC Noticias"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
 
 - Categoría: SALUD
 - Riesgo: high
-- Estado de entrada: EN DESARROLLO
+- Estado de entrada: SIN CONFIRMAR
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 5
+- Dominios independientes detectados: 3
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -29,17 +29,3 @@ El 96% de las víctimas de violencia sexual por sumisión química no comunica l
 - Fecha detectada: Thu, 22 Oct 2026 11:22:03 GMT
 
 El 95,7% de las víctimas jóvenes de sumisión química no denuncia la agresión a los servicios sanitarios ni a las autoridades La Razón
-
-### Fuente 4: europasur.es
-- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxOU19vR0YzWVBKUTFubmlucE9LNUZpWlJRRXZfSHA2d1NpaWZBZTFLZFEteHkycEZKYjBiclBIbTQ5eFlwRERXS3A4UFZTOWFidXh5QzRPcWxYdGY5dEx0amswZjhISkpnTFlrNWIwMXF0cmRRVnFvdFNBTTdOcHBtQUVRdW1OVDA2V0Vxc1YtMk1vSHl6WG5FVdIBmAFBVV95cUxOU19vR0YzWVBKUTFubmlucE9LNUZpWlJRRXZfSHA2d1NpaWZBZTFLZFEteHkycEZKYjBiclBIbTQ5eFlwRERXS3A4UFZTOWFidXh5QzRPcWxYdGY5dEx0amswZjhISkpnTFlrNWIwMXF0cmRRVnFvdFNBTTdOcHBtQUVRdW1OVDA2V0Vxc1YtMk1vSHl6WG5FVQ?oc=5
-- Título: Sólo cuatro de cada cien víctimas de violencia sexual por sumisión química denuncia - Europa Sur
-- Fecha detectada: Thu, 22 Oct 2026 12:13:19 GMT
-
-Sólo cuatro de cada cien víctimas de violencia sexual por sumisión química denuncia Europa Sur
-
-### Fuente 5: tuperiodico.soy
-- URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjJzOWpHRkRvV0g4R2o5UmpjM1V2LWxBVG1mQjBjMWtKczNwcDBfV0FNTTdTa01QdlE5Vms1WC1YYktlOVJ3d2duNGxkSy1CMV9iYU5EN1VJSFV2dEdKcUlCQTItcjlveUJib2E3YmVoZ0pheHlMMVZpVnpiTG1rV1c4RDBrYXh2VzJqNHlzUXMxRl8xc2ZFdFZ5U1U3M3RVcUIzWjl0Wm0wUF95R1dweg?oc=5
-- Título: El 96% de las víctimas de violencia sexual por sumisión química no comunica la agresión a las autoridades, según estudio - https://tuperiodico.soy/
-- Fecha detectada: Thu, 22 Oct 2026 12:08:44 GMT
-
-El 96% de las víctimas de violencia sexual por sumisión química no comunica la agresión a las autoridades, según estudio https://tuperiodico.soy/

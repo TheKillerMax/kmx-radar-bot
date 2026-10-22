@@ -1,0 +1,40 @@
+{
+  "event_id": "08-e7c64f99e248be2d",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "OMS en contacto con Francia para investigar primer caso de infección humana por virus Shamonda - EL UNIVERSAL",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "edicionmedica.ec",
+    "eluniversal.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "OMS en contacto con Francia para investigar primer caso de infección humana por virus Shamonda - EL UNIVERSAL",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaG96UkMxdE9UMFF1YnlHenhnYzFZc2JESmhLOFYycnA2NWVlQkRpdTFWLUZUXzVCclhmaEdYdzhHNVM5WlNyX1AxZ25aU2tRTXZROXJNUjA3b2RtSUlXZmhlX2tqQS1xbnlpN3BBZjlDb0QycmVEamNBanMwcmQzellEMFBjV0xOdXBBTGV5Q0UtSFo3MWxKQURKZldNYThfajN0N0JGb2tTaUFnenlReXlRZ2lBQ2dEU2xtQWdSbENmZm1UYm82eDRFSlViTzBoYjJDSjlfbEpDQQ?oc=5",
+      "domain": "eluniversal.com",
+      "publisher": "EL UNIVERSAL",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 16:54:15 GMT",
+      "primary_hint": false,
+      "excerpt": "OMS en contacto con Francia para investigar primer caso de infección humana por virus Shamonda EL UNIVERSAL"
+    },
+    {
+      "title": "Francia investiga la primera infección humana documentada por el virus Shamonda tras la muerte de un paciente - Edición Médica",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeE5FZ296ek1Qcmx6Xy11V2NCTk5iTmxmUUI5b1Z4cFVwcmprTVRCNzZrR3dsbzhQajd3bWExclk1cFgwZ2o0VmpBRjZVQk5vakptLU9mZHg0S3BjM1pBUUkxM2M2clRqbDdNTnY5b3RKamFIMUVhbVdoVmdudWdHUVROV1hiRnB4SWtETlNabk1ESzd2UlpOX0NnMlg2dmJlRXhVMEM4enJaQlBQaHZCclNYUlpaTzhPc2JhZThIMlNpVjUxaThfVllNbzZFV2EzZHJ2dXZjVVZaWTdLQnV0RmVHejdaZ1RMUmdiaEJ0S1R0MzlBUjVNenFfTEZVUQ?oc=5",
+      "domain": "edicionmedica.ec",
+      "publisher": "Edición Médica",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 11:08:51 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia investiga la primera infección humana documentada por el virus Shamonda tras la muerte de un paciente Edición Médica"
+    }
+  ]
+}

@@ -1,21 +1,19 @@
 {
-  "event_id": "01-367b9fd9cfaa6dc6",
+  "event_id": "03-367b9fd9cfaa6dc6",
   "category": "SALUD",
   "risk": "high",
   "canonical_title": "El 96% de las víctimas de violencia sexual por sumisión química no comunica la agresión a las autoridades, según estudio - Diario Siglo XXI",
-  "intake_status": "EN DESARROLLO",
-  "verification_signal": 0.635,
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
   "primary_source_present": false,
   "independent_domains": [
     "diariosigloxxi.com",
-    "europasur.es",
     "infobae.com",
-    "larazon.es",
-    "tuperiodico.soy"
+    "larazon.es"
   ],
   "high_trust_domains": [],
-  "article_count": 5,
-  "rank_signal": 0.81,
+  "article_count": 3,
+  "rank_signal": 0.6,
   "sources": [
     {
       "title": "El 96 % de víctimas de violencia sexual por sumisión química no denuncia a las autoridades - Infobae",
@@ -49,28 +47,6 @@
       "seen_at": "Thu, 22 Oct 2026 11:22:03 GMT",
       "primary_hint": false,
       "excerpt": "El 95,7% de las víctimas jóvenes de sumisión química no denuncia la agresión a los servicios sanitarios ni a las autoridades La Razón"
-    },
-    {
-      "title": "Sólo cuatro de cada cien víctimas de violencia sexual por sumisión química denuncia - Europa Sur",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU19vR0YzWVBKUTFubmlucE9LNUZpWlJRRXZfSHA2d1NpaWZBZTFLZFEteHkycEZKYjBiclBIbTQ5eFlwRERXS3A4UFZTOWFidXh5QzRPcWxYdGY5dEx0amswZjhISkpnTFlrNWIwMXF0cmRRVnFvdFNBTTdOcHBtQUVRdW1OVDA2V0Vxc1YtMk1vSHl6WG5FVdIBmAFBVV95cUxOU19vR0YzWVBKUTFubmlucE9LNUZpWlJRRXZfSHA2d1NpaWZBZTFLZFEteHkycEZKYjBiclBIbTQ5eFlwRERXS3A4UFZTOWFidXh5QzRPcWxYdGY5dEx0amswZjhISkpnTFlrNWIwMXF0cmRRVnFvdFNBTTdOcHBtQUVRdW1OVDA2V0Vxc1YtMk1vSHl6WG5FVQ?oc=5",
-      "domain": "europasur.es",
-      "publisher": "Europa Sur",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Thu, 22 Oct 2026 12:13:19 GMT",
-      "primary_hint": false,
-      "excerpt": "Sólo cuatro de cada cien víctimas de violencia sexual por sumisión química denuncia Europa Sur"
-    },
-    {
-      "title": "El 96% de las víctimas de violencia sexual por sumisión química no comunica la agresión a las autoridades, según estudio - https://tuperiodico.soy/",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjJzOWpHRkRvV0g4R2o5UmpjM1V2LWxBVG1mQjBjMWtKczNwcDBfV0FNTTdTa01QdlE5Vms1WC1YYktlOVJ3d2duNGxkSy1CMV9iYU5EN1VJSFV2dEdKcUlCQTItcjlveUJib2E3YmVoZ0pheHlMMVZpVnpiTG1rV1c4RDBrYXh2VzJqNHlzUXMxRl8xc2ZFdFZ5U1U3M3RVcUIzWjl0Wm0wUF95R1dweg?oc=5",
-      "domain": "tuperiodico.soy",
-      "publisher": "https://tuperiodico.soy/",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Thu, 22 Oct 2026 12:08:44 GMT",
-      "primary_hint": false,
-      "excerpt": "El 96% de las víctimas de violencia sexual por sumisión química no comunica la agresión a las autoridades, según estudio https://tuperiodico.soy/"
     }
   ]
 }
