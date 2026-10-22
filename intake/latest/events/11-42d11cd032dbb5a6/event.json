@@ -1,0 +1,30 @@
+{
+  "event_id": "11-42d11cd032dbb5a6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Amputan las piernas a legisladora australiana atropellada en un presunto ataque deliberado - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Amputan las piernas a legisladora australiana atropellada en un presunto ataque deliberado - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHl3Vmp6MjQ4ZHg1UnE0WmJ6elNnWXVEUmY1YnhHSS1rNjFpcmlDNDIteTNIMG9SU2F4QU9nem5SNlNzb0pONGZKY2VnMm9ZZ2tZSVZlN3lDRWd0ODBOdHJmbHFrcWpoeHdLQzNZemptOTk3cHNCajlTZnl5YXNPY1FhSG9TM0QzUXRqY2FrRVJDMWttMnQwWkNZSWlVYmM?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 21 Oct 2026 09:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Amputan las piernas a legisladora australiana atropellada en un presunto ataque deliberado CNN en Español La parlamentaria australiana atropellada ha perdido ambas piernas Los Angeles Times Policía australiana presenta cargos contra detenido por atropello de legisladora Reading Eagle La diputada australiana Helen Haines pierde las dos piernas por el atropello supuestamente deliberado EL PAÍS El primer ministro de Australia dice que el atropello a una legisladora \"no es un accidente\" AP News"
+    }
+  ]
+}

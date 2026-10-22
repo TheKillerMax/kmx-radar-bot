@@ -1,0 +1,28 @@
+{
+  "event_id": "03-4185aa6a554e5269",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Sobredosis fatal relacionada con opioides derivados del kratom - SF.gov",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "sf.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Sobredosis fatal relacionada con opioides derivados del kratom - SF.gov",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaTI0MUcwWUQyckNJVVk4dzh6eTlBNUVkcDM4MTBXWndDSGJPeC1ER1hYbWl6Y3d5UW5uMHdCTUIyN3NWNmpEMHZIblYyU0dZbWllU2RPamo1dS11bTBpS0VhZmdMYVg0VzNxcXYwekRFZXd4MGd2Y3QtanpITVU?oc=5",
+      "domain": "sf.gov",
+      "publisher": "SF.gov",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 04:34:08 GMT",
+      "primary_hint": false,
+      "excerpt": "Sobredosis fatal relacionada con opioides derivados del kratom SF.gov"
+    }
+  ]
+}

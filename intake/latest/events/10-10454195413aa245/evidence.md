@@ -14,4 +14,4 @@
 - Título: A medida que se acerca la cumbre climática, la ONU afirma que el límite actual de calentamiento de 1,5 °C ya no es alcanzable - CNN en Español
 - Fecha detectada: Wed, 21 Oct 2026 08:56:00 GMT
 
-A medida que se acerca la cumbre climática, la ONU afirma que el límite actual de calentamiento de 1,5 °C ya no es alcanzable CNN en Español Reporte ONU muestra que el mundo pierde terreno ante el cambio climático y culpa un poco a EEUU AP News El mundo se encamina a un calentamiento de 2,6 °C en este siglo, alerta la ONU France 24 Es necesario recortar las emisiones un 18 % en cuatro años para limitar el pico de temperatura a 1,7 grados UN News La ONU proyecta que la humanidad va perdiendo terreno en la lucha contra el cambio climático Univision
+A medida que se acerca la cumbre climática, la ONU afirma que el límite actual de calentamiento de 1,5 °C ya no es alcanzable CNN en Español Ver más títulos y perspectivas en Google Noticias
