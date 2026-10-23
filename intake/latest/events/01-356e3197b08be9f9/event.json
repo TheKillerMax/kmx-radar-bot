@@ -1,0 +1,64 @@
+{
+  "event_id": "01-356e3197b08be9f9",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "¿Qué es Shamonda, el virus que afecta al ganado y que se ha detectado por primera vez en una persona en Francia? - Local 3 News",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.61,
+  "primary_source_present": false,
+  "independent_domains": [
+    "baenegocios.com",
+    "busqueda.com.uy",
+    "elhorizonte.mx",
+    "local3news.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 4,
+  "rank_signal": 0.75,
+  "sources": [
+    {
+      "title": "¿Qué es Shamonda, el virus que afecta al ganado y que se ha detectado por primera vez en una persona en Francia? - Local 3 News",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSFg5aTgxbGZTdVdsSlNEcXh3MlRVRW1EYnc2d19GcEFKekQ2cV9xVF9ZZURUSVM4NW02OENpVzIzSHcxT1pldFRiT0JDdm1sRmVmRFAyMnR5SEVPYkl2WlJIczBJcU1pa3QtemEzeWlGYXFOdmlMS0Nwb1BNM2xSckZaVUczZkpBOURCdm16U2NZeTFDUHl2TjhnS3E2UnpfX3YtQ2daOHZrMUlteXFIRTEzSHFLOGFhYkRINjFGYWQ1Ymx4c2RjT0xreF9EMXZZRDhHMV95a3hSYVlSS3g4M0RSM0YzUTd5Q3pwbGJmTkpwcjhmcHpNbF9GOEZEMDVDeUNJOGI3OA?oc=5",
+      "domain": "local3news.com",
+      "publisher": "Local 3 News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 09:53:56 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Qué es Shamonda, el virus que afecta al ganado y que se ha detectado por primera vez en una persona en Francia? Local 3 News"
+    },
+    {
+      "title": "Qué es el virus Shamonda, detectado por primera vez en un humano en Francia - BAE Negocios",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY29UNjN5VTZRaGl3UnB4MDVVZjVoaHJXQ3p0WjJMVzUzTkRjNkE2bklSUm5pLWRkNjlEMF9uSkZobjNkR1VmaVV3Ym9xMmlDN2trYWpZbVBTLWw3MEwtQ3EwbktXWUJ6bllYdHpjMkh4ZzY5b29oaTIxdjZoM0hkUGV2X2hUVV9ONlNXYmIxaGRFVEt3NXVNYlBHOTNNaDJqcWhnT1VKSkdBZEpWcXNFNTln?oc=5",
+      "domain": "baenegocios.com",
+      "publisher": "BAE Negocios",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 20:52:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Qué es el virus Shamonda, detectado por primera vez en un humano en Francia BAE Negocios"
+    },
+    {
+      "title": "Francia detecta primer caso humano del virus Shamonda - El Horizonte",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlgtVzR3emU3WUJQVi1Hd0h0NmhwVkJ5aG5SWXlkOEhJWTZlS1NFYlh5ZlJwTTZFTmdOdC1NR3pOcmtLbFc4VVcwYS1NcFBZMnoxRmpSVlpwTUh3MmpNZ0F4ODg0ZzRqYk82VTlZd2xzRkRLdklKMlk5MTlORHlzWFBMTnk1aTY5alFJSjVmMG9hMjNlVWlsbXJiYTdxWGd4Y0V2SU83OUs?oc=5",
+      "domain": "elhorizonte.mx",
+      "publisher": "El Horizonte",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 20:56:38 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia detecta primer caso humano del virus Shamonda El Horizonte"
+    },
+    {
+      "title": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido - BÚSQUEDA",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTGxldzg4NE5JQkVfLVpZejhXMDZxbmd0WHQxQThSQURPdFAwLWtSNUNfSDBTTllMSWpfX2Q0ZGtiekctQjNwbzdHYTVFZDhJYU1tbWg1WGZjVE15QXFTaDR6b2FwbW01Qi1GZnUtaWpVaFVHOGhZVEVRS0ZVWTRoV1NTQ0NYdzdnTVhLUjhfLVlsaGlid1hWeWxseFlfYUx5UDR3Um03dVNIN1BaTHBYMG92dmw5cXA5eVR1djlxR2pMeTBKYVlrMEpRVGE?oc=5",
+      "domain": "busqueda.com.uy",
+      "publisher": "BÚSQUEDA",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 20:17:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido BÚSQUEDA"
+    }
+  ]
+}
