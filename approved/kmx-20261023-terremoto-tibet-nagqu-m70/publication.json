@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261023-terremoto-tibet-nagqu-m70",
+  "source_event_id": "12-4d0e5e05c4acdb01",
+  "manifest_generated_at": "2026-10-23T08:27:27Z",
+  "created_at": "2026-10-23T09:26:24Z",
+  "headline": "Un terremoto de magnitud 7,0 deja al menos 16 muertos en el Tíbet",
+  "caption": "Un terremoto de magnitud 7,0 sacudió el norte del Tíbet, en China, el jueves 22 de octubre. Las autoridades informan de al menos 16 personas fallecidas y 76 heridas, según una actualización del viernes 23.\n\nEl temblor ocurrió a las 22:33, hora local, cerca de Baqen, en la región de Nagqu. El Servicio Geológico de Estados Unidos calculó 18 kilómetros de profundidad y la red sísmica china informó 10 kilómetros: son estimaciones de distintos organismos.\n\nSegún el balance oficial difundido por Xinhua, centenares de viviendas se derrumbaron. Más de 12.000 personas fueron reubicadas, mientras continúan los rescates y la evaluación de daños.\n\nLas cifras son provisionales y podrían cambiar. Desliza para ver dónde ocurrió y qué sabemos hasta ahora.\n\nFuentes: USGS, autoridades chinas, Xinhua, Reuters y Associated Press (22–23/10/2026). Cartografía: Natural Earth, dominio público.\n\n#KMXRadar #Terremoto #Tíbet #China #Sismos",
+  "images": [
+    {
+      "path": "01-terremoto-tibet.png",
+      "alt_text": "Mapa informativo original con la ubicación aproximada del sismo de magnitud 7,0 del 22 de octubre de 2026 en Nagqu, Tíbet, China; balance provisional de al menos 16 fallecidos."
+    },
+    {
+      "path": "02-donde-ocurrio.png",
+      "alt_text": "Mapa de Natural Earth con un punto en el norte del Tíbet, cerca de Baqen, y la hora local del terremoto, 22:33 del 22 de octubre de 2026."
+    },
+    {
+      "path": "03-balance-provisional.png",
+      "alt_text": "Tarjeta informativa: al menos 16 personas fallecidas y 76 heridas según actualización de autoridades locales publicada por Reuters el 23 de octubre de 2026."
+    },
+    {
+      "path": "04-danos-en-viviendas.png",
+      "alt_text": "Tarjeta documental con la cifra provisional de al menos 339 viviendas derrumbadas, atribuida a la autoridad de Nagqu según Xinhua y Associated Press."
+    },
+    {
+      "path": "05-evacuaciones-y-rescate.png",
+      "alt_text": "Gráfico tipográfico que indica más de 12.000 personas reubicadas según Xinhua, junto a una nota sobre rescate y recuperación de servicios."
+    },
+    {
+      "path": "06-que-falta-saber.png",
+      "alt_text": "Tarjeta final que informa de réplicas y de la revisión continua de víctimas y daños, sin ofrecer predicciones de nuevos terremotos."
+    }
+  ],
+  "ready_to_publish": false,
+  "status": "editorial_ready_for_visuals",
+  "sources": [
+    {
+      "label": "USGS · registro original del sismo, 22/10/2026",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
+    },
+    {
+      "label": "Ministerio de Gestión de Emergencias de China / Xinhua · respuesta oficial, 22/10/2026",
+      "url": "https://www.news.cn/politics/20261023/d8bb1ab3f2fe47eaba1734407d9acf66/c.html"
+    },
+    {
+      "label": "Xinhua · balance inicial del Gobierno de Nagqu, 23/10/2026",
+      "url": "https://www.news.cn/politics/20261023/1504202b7b854ca581a7d3c85c2d9251/c.html"
+    },
+    {
+      "label": "Reuters · actualización sobre víctimas, evacuación y réplicas, 23/10/2026",
+      "url": "https://www.reuters.com/world/china/injuries-chinas-tibet-rise-65-after-earthquake-death-toll-remains-16-2026-10-23/"
+    },
+    {
+      "label": "Associated Press · daños, rescate y datos del USGS, 23/10/2026",
+      "url": "https://apnews.com/article/china-earthquake-tibet-be27a2db79ada1c6309914d173b983a8"
+    },
+    {
+      "label": "Natural Earth · términos de dominio público para cartografía",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+    },
+    {
+      "label": "USGS · derechos de reutilización de datos oficiales",
+      "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"
+    }
+  ]
+}
