@@ -1,0 +1,28 @@
+{
+  "event_id": "08-4d0e5e05c4acdb01",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 7.0 - 191 km ENE of Nagqu, China",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 7.0 - 191 km ENE of Nagqu, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-10-23T00:51:51.955Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - ORANGE ShakeMap - VIII DYFI? - VII Time 2026-10-22 14:33:40 UTC 2026-10-22 14:33:40 UTC at epicenter Location 32.381°N 93.780°E Depth 18.00 km (11.18 mi)"
+    }
+  ]
+}

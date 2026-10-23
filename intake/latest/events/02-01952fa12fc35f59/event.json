@@ -1,0 +1,42 @@
+{
+  "event_id": "02-01952fa12fc35f59",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Asian football endorses Infantino re-election in apparent U-turn - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "afp.com",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [
+    "afp.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Asian football endorses Infantino re-election in apparent U-turn - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1oSm9SSlhDdFRqSEZxQkQ3X3BJUUwxank4X3RmdFY5aGdOWXlKd2VQNHVzODBPSEdqRHU2eHJNSXNOWHp3ZTBwdmo5aHpyeEJ2alBhZEdxbUhCb250Nm1oNC15X3JpbVNkQkhjbkNROGZleW5lWHJVMENHbmVyVEdIaW5EOUg1dWRFMG9ORFlpUWpvQ3c?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 09:56:03 GMT",
+      "primary_hint": false,
+      "excerpt": "Asian football endorses Infantino re-election in apparent U-turn Yahoo Sports"
+    },
+    {
+      "title": "Asian football endorses Infantino re-election as FIFA president - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xVFNCNTJjV2VxNjczSzhDQmJLbEo4b2xjNDJfaFRySTVJWjA5WGl3dnhHeGlCM2NxeG5tLU11NmVoMzItbTdabWpHVQ?oc=5",
+      "domain": "afp.com",
+      "publisher": "AFP.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 06:37:04 GMT",
+      "primary_hint": false,
+      "excerpt": "Asian football endorses Infantino re-election as FIFA president AFP.com"
+    }
+  ]
+}

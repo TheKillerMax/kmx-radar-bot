@@ -1,0 +1,28 @@
+{
+  "event_id": "07-8b556bc2b8358ea4",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Harvard abre fellowship en liderazgo para profesionales de salud global - Bogota.gov.co",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "bogota.gov.co"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Harvard abre fellowship en liderazgo para profesionales de salud global - Bogota.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU03SVp6SnQ4WF8wVFl4WDduZVNFU2s5N0RZUndHdU5vNDRNemp6aGExbmtmZTBYc0dNSGE0YWVSZ2cybzNkY2dXZ3YyRlRiNVZqOFNqMVJ2Slh2MThZTk5ZelJMTjgzS0VibkxrRjc1aGx3QnVJWXZqWThseE90Z0hWUzBfY3VpZXNQeXZvQkE1VmpuTXVKTXVPV2o3Ql9peDFhcGcwUF9HQlJESGJscGpHcmE1NW4ycFVv?oc=5",
+      "domain": "bogota.gov.co",
+      "publisher": "Bogota.gov.co",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 21:45:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Harvard abre fellowship en liderazgo para profesionales de salud global Bogota.gov.co"
+    }
+  ]
+}

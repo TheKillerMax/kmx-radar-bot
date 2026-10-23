@@ -1,0 +1,40 @@
+{
+  "event_id": "03-50150af58944bc91",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUVDa09VTnhHWm1NbXBjTE9Jb0o5X3k5cDhEdU9pdGJqdmRNQVV6Nk1FQ2dYNnI5VzZIR05FSGpxZDhZMlo0Z0ZRbUg3cEVOX2hkT2dha2Y1dUYyZmJxRnBEczJZcm5INDBpYzkxWThVamxiNE92S1BQQllUeVY3akRIM1dyZmR1WGl2WDlsU0RGZmh0M3NlYmZkdG5KQWdIeVM1MTBkMFVLYjhGaHpqLWV4R0FERmlUbllHc0tB?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 11:53:18 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3B0Y2xHOVJOOEFhQ2hMQlpsSXBManh6bjBaMmNJY3cxTkNkbmRrV01kemVQTHdxZnFHMktwWWJ4MlVkTVlSaHgzdTItUm5aQkI2OVdsaHhTUWhvQTVlajF3NGhFWEgwMHdVdTFvc1diNUFwTHFYYjRrUWV5ME9ncm9CNGxZUEtUZGs3TW1ocTRDZTRmUHQxdVEzMkJpQjV1RGpwNWplb0VLeFVUOFpveWgtU3lEOHp2ZkdxbWN3?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 11:52:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com España"
+    }
+  ]
+}
