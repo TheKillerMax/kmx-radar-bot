@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "publication_id": "kmx-20261023-terremoto-tibet-nagqu-m70",
+  "generated_at": "2026-10-23",
+  "logo": "assets/logo.png",
+  "format": "1080x1350",
+  "note": "Solo material documental real: dos piezas con el mapa de intensidad estimada ShakeMap del evento us6000u43g, producido por USGS el 22/10/2026, y cuatro composiciones tipográficas informativas originales. El mapa no representa daños observados ni fotografías de rescate. Se emplea el único logo oficial assets/logo.png sin alteraciones; no se usan imágenes de agencias comerciales, escenas sintéticas ni fotografías sin licencia.",
+  "assets": [
+    {
+      "key": "usgs_nagqu_shakemap",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2026-10-22_Nagqu,_China_M7_earthquake_shakemap_(USGS).jpg",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2026-10-22_Nagqu%2C_China_M7_earthquake_shakemap_%28USGS%29.jpg",
+      "original_creator": "United States Geological Survey (USGS), Earthquake Hazards Program",
+      "created_at": "2026-10-22",
+      "license_or_permission": "Dominio público de Estados Unidos: mapa ShakeMap producido íntegramente por USGS, agencia federal estadounidense. Reutilización y adaptación permitidas; identificación de la fuente y de la modificación.",
+      "license_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+      "attribution_required": false,
+      "attribution_text": "USGS · ShakeMap del 22/10/2026 · dominio público · composición adaptada",
+      "local_path": "Descarga temporal del original desde direct_url durante GitHub Actions; no se almacena como archivo original en main",
+      "retrieved_at": "2026-10-23",
+      "notes": "Wikimedia Commons documenta origen USGS, evento us6000u43g, dominio público y archivo JPEG original de 812 × 1008. Se adapta al lienzo 1080 × 1350 con recorte, tinte y superposición de textos, identificado como mapa de intensidad estimada, no fotografía ni mapa de daños. Crédito visible en piezas 01 y 02."
+    }
+  ]
+}

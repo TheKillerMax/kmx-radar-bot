@@ -1,0 +1,118 @@
+{
+  "theme": {
+    "name": "kmx-nagqu-20261023",
+    "background": "#071522",
+    "panel": "#0A2C3D",
+    "accent": "#38E8C1",
+    "accent2": "#83B8EF",
+    "warm": "#FFCB85",
+    "text": "#F6FAFC",
+    "muted": "#CDDEE7"
+  },
+  "format": "1080x1350",
+  "logo": "assets/logo.png",
+  "sources": {
+    "usgs_nagqu_shakemap": {
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2026-10-22_Nagqu%2C_China_M7_earthquake_shakemap_%28USGS%29.jpg",
+      "credit": "USGS · ShakeMap del 22/10/2026 · dominio público · composición adaptada"
+    }
+  },
+  "slides": [
+    {
+      "n": 1,
+      "file": "01-terremoto-tibet.png",
+      "photo": "usgs_nagqu_shakemap",
+      "archive": false,
+      "kicker": "TÍBET · 22 DE OCTUBRE",
+      "title": "Un terremoto de magnitud 7,0 sacude el norte del Tíbet",
+      "stat": "7,0",
+      "stat_label": "Magnitud registrada · USGS",
+      "body": "Al menos 16 personas fallecidas. El balance sigue actualizándose.",
+      "footer": "MAPA DE INTENSIDAD ESTIMADA · USGS",
+      "sources": [
+        "USGS · Reuters · 23/10/2026"
+      ],
+      "alt_text": "Mapa real de intensidad sísmica estimada por USGS para el terremoto de magnitud 7,0 del 22 de octubre de 2026 cerca de Nagqu, Tíbet; sobreimpreso el balance provisional de al menos 16 fallecidos."
+    },
+    {
+      "n": 2,
+      "file": "02-donde-ocurrio.png",
+      "photo": "usgs_nagqu_shakemap",
+      "archive": false,
+      "kicker": "¿DÓNDE OCURRIÓ?",
+      "title": "Cerca de Baqen, en la región de Nagqu",
+      "stat": "18 / 10 km",
+      "stat_label": "Profundidad estimada: USGS / CENC",
+      "body": "22 de octubre · 22:33 hora local. El mapa muestra intensidad estimada, no daños.",
+      "footer": "MAPA SÍSMICO · USGS · 22/10/2026",
+      "sources": [
+        "USGS · Centro de Redes Sísmicas de China"
+      ],
+      "alt_text": "Mapa real ShakeMap de USGS con epicentro cerca de Baqen, en Nagqu, Tíbet, y la hora local del terremoto, 22:33 del 22 de octubre de 2026. Es intensidad estimada, no daños observados."
+    },
+    {
+      "n": 3,
+      "file": "03-balance-provisional.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "BALANCE PROVISIONAL",
+      "title": "Al menos 16 personas fallecidas",
+      "stat": "16",
+      "stat_label": "Fallecidos según autoridades locales",
+      "body": "El reporte del 23 de octubre también registra 76 personas heridas.",
+      "callout": "CIFRAS SUJETAS A ACTUALIZACIÓN",
+      "footer": "REUTERS · 23/10/2026",
+      "sources": [
+        "Autoridades locales · Reuters"
+      ],
+      "alt_text": "Tarjeta informativa: al menos 16 personas fallecidas y 76 heridas, según la actualización de autoridades locales difundida por Reuters el 23 de octubre de 2026."
+    },
+    {
+      "n": 4,
+      "file": "04-danos-en-viviendas.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "VIVIENDAS AFECTADAS",
+      "title": "339 hogares con viviendas derrumbadas",
+      "stat": "339",
+      "stat_label": "Hogares afectados · balance inicial",
+      "body": "La autoridad de Nagqu informó los derrumbes. Las inspecciones continúan.",
+      "footer": "XINHUA · AP · 23/10/2026",
+      "sources": [
+        "Nagqu · Xinhua · Associated Press"
+      ],
+      "alt_text": "Tarjeta documental: 339 hogares con viviendas derrumbadas, según el balance inicial comunicado por la autoridad de Nagqu y publicado por Xinhua."
+    },
+    {
+      "n": 5,
+      "file": "05-evacuaciones-y-rescate.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "EVACUACIONES",
+      "title": "Más de 12.000 personas reubicadas",
+      "stat": "+12.000",
+      "stat_label": "Personas trasladadas a lugares seguros",
+      "body": "Los equipos de emergencia continúan el rescate y la evaluación de daños.",
+      "footer": "XINHUA · REUTERS · 23/10/2026",
+      "sources": [
+        "Xinhua, citada por Reuters"
+      ],
+      "alt_text": "Tarjeta tipográfica: más de 12.000 personas trasladadas a lugares seguros, según Xinhua citada por Reuters el 23 de octubre de 2026."
+    },
+    {
+      "n": 6,
+      "file": "06-que-falta-saber.png",
+      "layout": "typographic",
+      "archive": false,
+      "kicker": "¿QUÉ SIGUE?",
+      "title": "El balance puede cambiar",
+      "body": "Continúan las réplicas y las inspecciones. Las autoridades actualizarán las cifras de víctimas y daños.",
+      "callout": "CONSULTA LAS FUENTES OFICIALES",
+      "footer": "USGS · AUTORIDADES · 23/10/2026",
+      "sources": [
+        "USGS · Autoridades locales · Reuters"
+      ],
+      "alt_text": "Tarjeta final sobre réplicas y revisión continua de víctimas y daños; no contiene predicciones sísmicas."
+    }
+  ]
+}

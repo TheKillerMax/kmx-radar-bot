@@ -5,31 +5,31 @@
   "manifest_generated_at": "2026-10-23T08:27:27Z",
   "created_at": "2026-10-23T09:26:24Z",
   "headline": "Un terremoto de magnitud 7,0 deja al menos 16 muertos en el Tíbet",
-  "caption": "Un terremoto de magnitud 7,0 sacudió el norte del Tíbet, en China, el jueves 22 de octubre. Las autoridades informan de al menos 16 personas fallecidas y 76 heridas, según una actualización del viernes 23.\n\nEl temblor ocurrió a las 22:33, hora local, cerca de Baqen, en la región de Nagqu. El Servicio Geológico de Estados Unidos calculó 18 kilómetros de profundidad y la red sísmica china informó 10 kilómetros: son estimaciones de distintos organismos.\n\nSegún el balance oficial difundido por Xinhua, centenares de viviendas se derrumbaron. Más de 12.000 personas fueron reubicadas, mientras continúan los rescates y la evaluación de daños.\n\nLas cifras son provisionales y podrían cambiar. Desliza para ver dónde ocurrió y qué sabemos hasta ahora.\n\nFuentes: USGS, autoridades chinas, Xinhua, Reuters y Associated Press (22–23/10/2026). Cartografía: Natural Earth, dominio público.\n\n#KMXRadar #Terremoto #Tíbet #China #Sismos",
+  "caption": "Un terremoto de magnitud 7,0 sacudió el norte del Tíbet, en China, el jueves 22 de octubre. Las autoridades informan de al menos 16 personas fallecidas y 76 heridas, según una actualización del viernes 23.\n\nEl temblor ocurrió a las 22:33, hora local, cerca de Baqen, en la región de Nagqu. El Servicio Geológico de Estados Unidos calculó 18 kilómetros de profundidad y la red sísmica china informó 10 kilómetros: son estimaciones de distintos organismos.\n\nSegún el balance oficial difundido por Xinhua, centenares de viviendas se derrumbaron. Más de 12.000 personas fueron reubicadas, mientras continúan los rescates y la evaluación de daños.\n\nLas cifras son provisionales y podrían cambiar. Desliza para ver dónde ocurrió y qué sabemos hasta ahora.\n\nFuentes: USGS, autoridades chinas, Xinhua, Reuters y Associated Press (22–23/10/2026). Mapa de intensidad estimada: USGS ShakeMap (dominio público); no es un mapa de daños observados.\n\n#KMXRadar #Terremoto #Tíbet #China #Sismos",
   "images": [
     {
       "path": "01-terremoto-tibet.png",
-      "alt_text": "Mapa informativo original con la ubicación aproximada del sismo de magnitud 7,0 del 22 de octubre de 2026 en Nagqu, Tíbet, China; balance provisional de al menos 16 fallecidos."
+      "alt_text": "Mapa real de intensidad sísmica estimada por USGS para el terremoto de magnitud 7,0 del 22 de octubre de 2026 cerca de Nagqu, Tíbet; sobreimpreso el balance provisional de al menos 16 fallecidos."
     },
     {
       "path": "02-donde-ocurrio.png",
-      "alt_text": "Mapa de Natural Earth con un punto en el norte del Tíbet, cerca de Baqen, y la hora local del terremoto, 22:33 del 22 de octubre de 2026."
+      "alt_text": "Mapa real ShakeMap de USGS con epicentro cerca de Baqen, en Nagqu, Tíbet, y la hora local del terremoto, 22:33 del 22 de octubre de 2026. Es intensidad estimada, no daños observados."
     },
     {
       "path": "03-balance-provisional.png",
-      "alt_text": "Tarjeta informativa: al menos 16 personas fallecidas y 76 heridas según actualización de autoridades locales publicada por Reuters el 23 de octubre de 2026."
+      "alt_text": "Tarjeta informativa: al menos 16 personas fallecidas y 76 heridas, según la actualización de autoridades locales difundida por Reuters el 23 de octubre de 2026."
     },
     {
       "path": "04-danos-en-viviendas.png",
-      "alt_text": "Tarjeta documental con la cifra provisional de al menos 339 viviendas derrumbadas, atribuida a la autoridad de Nagqu según Xinhua y Associated Press."
+      "alt_text": "Tarjeta documental: 339 hogares con viviendas derrumbadas, según el balance inicial comunicado por la autoridad de Nagqu y publicado por Xinhua."
     },
     {
       "path": "05-evacuaciones-y-rescate.png",
-      "alt_text": "Gráfico tipográfico que indica más de 12.000 personas reubicadas según Xinhua, junto a una nota sobre rescate y recuperación de servicios."
+      "alt_text": "Tarjeta tipográfica: más de 12.000 personas trasladadas a lugares seguros, según Xinhua citada por Reuters el 23 de octubre de 2026."
     },
     {
       "path": "06-que-falta-saber.png",
-      "alt_text": "Tarjeta final que informa de réplicas y de la revisión continua de víctimas y daños, sin ofrecer predicciones de nuevos terremotos."
+      "alt_text": "Tarjeta final sobre réplicas y revisión continua de víctimas y daños; no contiene predicciones sísmicas."
     }
   ],
   "ready_to_publish": false,
@@ -56,8 +56,8 @@
       "url": "https://apnews.com/article/china-earthquake-tibet-be27a2db79ada1c6309914d173b983a8"
     },
     {
-      "label": "Natural Earth · términos de dominio público para cartografía",
-      "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+      "label": "USGS ShakeMap · mapa de intensidad estimada del sismo, 22/10/2026; dominio público",
+      "url": "https://commons.wikimedia.org/wiki/File:2026-10-22_Nagqu,_China_M7_earthquake_shakemap_(USGS).jpg"
     },
     {
       "label": "USGS · derechos de reutilización de datos oficiales",
