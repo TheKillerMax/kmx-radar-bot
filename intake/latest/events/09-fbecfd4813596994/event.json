@@ -1,0 +1,30 @@
+{
+  "event_id": "09-fbecfd4813596994",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Amy Acton habla sobre su dolorosa infancia tras la difusión de un anuncio de Ramaswamy en el que aparece su madre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Amy Acton habla sobre su dolorosa infancia tras la difusión de un anuncio de Ramaswamy en el que aparece su madre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb05ZWVBTWGJqa2RjZ1Q5THhSQ0gzRGtYaHZpaXZldjRVV3g4b1dPZEZMTmcxTk9TUWF5My1BaHpGSllMX3hqejhIVTFHZ3ZTTTRDbkFDazFlQm82aEQzcmJCaEVSUy0zSU8xbmFEUjBJTDBBZl9vOTl6T2N6Y0dkOF9tbWpBRkE?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 12:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Amy Acton habla sobre su dolorosa infancia tras la difusión de un anuncio de Ramaswamy en el que aparece su madre CNN en Español Gobernador republicano de Ohio denuncia anuncio de su partido que usa a madre de candidata rival San Antonio Express-News Ramaswamy defiende anuncio que usó a madre de su rival demócrata The Morning Call El presidente Trump respalda el polémico anuncio de Ramaswamy y critica al gobernador republicano de Ohio por condenarlo Univision Trump respalda a Ramaswamy por anuncio republicano que usó a madre de candidata demócrata Chicago Tribune"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "event_id": "03-aaaf9943a1e7ea41",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956 - Consilium.europa.eu",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956 - Consilium.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPVkdMX3hJRHV1ekhtWjdFZXFPY0t6N3Q4OE9hVllDMWh3UHFrSWRTekl1Q3ZvZWs4MFNJVGR5ZHVGN3J0QmMwaGlTNXhEZTZxcU94TGc4RFNDWHpxWWFPdEprSDNfYlZTNjNTVVZEcDJJQjRWa2lhNUF5TFhMS09CWUtLTW9UUS0xUzQ4azZURUhCaXMtcjMzTVZPMTBfckNlU3M1ZUdpSGUxSGV3TlZFOGpFTVBIVnNKUnN6ZGJmSlF1SkJ5WU1DWHlTQWFqNmVSWERvR0F3bjZodFlycnk1c08zREFlQkVvWFJpVjFDY19hT0h6ZVdUS1dmVFJialpsank2M2czazBmc1NHUy1mWkpyNUsxSnFCZlBYNVlyWF9jQQ?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Consilium.europa.eu",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 13:36:52 GMT",
+      "primary_hint": false,
+      "excerpt": "Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956 Consilium.europa.eu"
+    }
+  ]
+}

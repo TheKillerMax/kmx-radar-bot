@@ -1,0 +1,30 @@
+{
+  "event_id": "12-0bc2266e7d16b168",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Una vacuna experimental de ARNm reduce en un 42 % el riesgo de reaparición del melanoma - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Una vacuna experimental de ARNm reduce en un 42 % el riesgo de reaparición del melanoma - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWFuVlNaSEltRWhmM0tRb2tfZWdRQXFRbnpCUUNheHhBR0VPMkcySi1xREl2UVZSejQxVjdrWG4xaFBjQ2lKNzBHNVBLc0tPeURxdTY4bEpLbnZhV2hOeFQxVWZWUHBFNWJYLWdoMXNkZFdpQXVUdkFUUXdpNHRsOGtaRTNNdk5VSjR3?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 22:07:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Una vacuna experimental de ARNm reduce en un 42 % el riesgo de reaparición del melanoma CNN en Español Vacuna de Moderna contra melanoma entusiasma a médicos, pero inquieta a Wall Street Bloomberg Las acciones de Moderna y Merck se desploman tras la filtración de datos sobre la vacuna contra el melanoma EL PAÍS Una vacuna experimental logró reducir el riesgo de recaída de melanoma en 40% WIRED La vacuna personalizada contra el cáncer reduce más del 40% el riesgo de muerte La Vanguardia"
+    }
+  ]
+}

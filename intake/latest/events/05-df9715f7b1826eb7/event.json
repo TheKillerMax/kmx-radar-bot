@@ -1,0 +1,30 @@
+{
+  "event_id": "05-df9715f7b1826eb7",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El Departamento de Justicia de Trump buscará bloquear los resultados del Senado en Alaska si el republicano titular pierde - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El Departamento de Justicia de Trump buscará bloquear los resultados del Senado en Alaska si el republicano titular pierde - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUI1M1FwT0dIcXBGbmlJQ2NKQkw0Q2VleUlCSC1MS0JoaERrYlpXYXY5X0NTaEdWZkhSSlc4aFloU3BkcU45bWNqTU1QOXpFQ1FHZE8tM1hZaXEyRS1FdFlvMmVFR0xkN1VmVGlhZFBEbzlJVk9KQ2dSYmN1U2dXaVl4Z1NDRDFfMjZxVWRCZ3FCOVp1NEMwa25Wcl9uai11?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 19:11:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Departamento de Justicia de Trump buscará bloquear los resultados del Senado en Alaska si el republicano titular pierde CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

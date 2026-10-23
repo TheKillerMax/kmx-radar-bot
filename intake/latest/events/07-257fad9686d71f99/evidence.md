@@ -1,0 +1,17 @@
+# EE UU desmantela un negocio millonario de fraude matrimonial: 40.000 dólares por una pareja y la promesa de una ‘green card’ - EL PAÍS
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: elpais.com
+- URL: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZml5dEFWdHNCbm1qUVVqVEdrcTFCUjJIMkI1QXZEbW0xM0VqbTNkU0Rxbkd6Q0pYZmJuRjJVc3ZiV0EyVUNael94NTMyRk1mSHVmQVlwRVZ4LVVpY2d0T2Jla3J3bVBVaEhlblIzOWJlNFYwT2FmRl9fTk9OdDczQXBPUTh5cmpsQTF3ak9xVnFWVXRIc2hFN3BGbDlVS0VCbWpkN2NaNnM4a05USUxqVURURTM3blMtSkQ3d0FtektTQ0k5YkdrX2F3cDVzWFNRZXZJSVVkclltZUMxcjdEVGsxN3hFUHA3RWs0cldacGRxcEdGS1hhbzJkQ2HSAZACQVVfeXFMUGhSalIzU090SmtkaU9JSG82a0RJdkVBNF8wNmZ1QkdGdkRfSVpmaGtFa2NPakZVbGJreThWNnN4U3czZ3B0dGtKaXBmMWpzOEthWWQ3Y3MzRzk4RlcxVXJieW8xTHNhdHQ4RXZTTExjY19XZ2s2ODB6Vjk0ZzNnMGpOdjRfSExWQ214bDk0bllPdERKQ0VCOGJSbm1OVkFQbnZVNlJrdnBLeEYzcmN1aWxkQTh0eFRYdk1yanlPM05sR2FINmNuMjRoZEhhZ3NUdDNWbGdJUFd2LUxYSzBqMS02VWdXenpPWjJCaUNpNDlMZ0QySl9DaHFUZnJGbU5xdFZsSWdPdWJpMTg0R3B1Sjc?oc=5
+- Título: EE UU desmantela un negocio millonario de fraude matrimonial: 40.000 dólares por una pareja y la promesa de una ‘green card’ - EL PAÍS
+- Fecha detectada: Thu, 22 Oct 2026 18:07:54 GMT
+
+EE UU desmantela un negocio millonario de fraude matrimonial: 40.000 dólares por una pareja y la promesa de una ‘green card’ EL PAÍS Arrestan a 6 personas en EEUU por presunta red de fraude matrimonial Los Angeles Times Hasta 40 mil dólares por casarse con ciudadanos de EEUU: así funcionaba la red de matrimonios falsos de Massachusetts Univision Las consecuencias si te descubren un fraude matrimonial para obtener ciudadanía estadounidense Listín Diario Bodas falsas por $40,000: cae red que arreglaba matrimonios con inmigrantes para obtener residencia El Nuevo Día
