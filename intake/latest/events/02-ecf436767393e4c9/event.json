@@ -1,0 +1,52 @@
+{
+  "event_id": "02-ecf436767393e4c9",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Gears of War: E-Day habría costado más de $500 millones de dólares y sus ingresos iniciales apuntan hacia un gran fracaso para XBOX - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "atomix.vg",
+    "es-us.noticias.yahoo.com",
+    "gamersrd.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Gears of War: E-Day habría costado más de $500 millones de dólares y sus ingresos iniciales apuntan hacia un gran fracaso para XBOX - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekIyUG1UWjRlZElUWHRTTm9JNWJtTEI3dHV2Q3NGWGwtcVlxTEd3TUlvX1IzbU92NXV5YTRvc0VUMlZ0M3VLcnM2VllqRmJvLUFTWE51Tm9yQ2ZhbG1vQ1BLR25fRFNDOE1Tc3VhT2tTcUJQT1ltZm9NUl9JQ2gtTGZ3?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 22:04:44 GMT",
+      "primary_hint": false,
+      "excerpt": "Gears of War: E-Day habría costado más de $500 millones de dólares y sus ingresos iniciales apuntan hacia un gran fracaso para XBOX Yahoo"
+    },
+    {
+      "title": "El desarrollo de Gears of War: E-Day habría costado $500 millones de dólares - Atomix",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUp5bU5CVmpXZFNETkxWQl9TWTVBRU9ZSHh4dGc4SEQySjdsWWpwR3duVTN6VW5zMWNXQzhGUmRISzlnQ3dmeDQza0UxWjlzZWFVYW5KbWlwMURab1hyZnZxdHBGY0FVWENONzliUHFmZG9ENzFvWnRiNlItNVhaanFwbkxZS2Z4bDU0QzhCZ0YtSmREQzVF?oc=5",
+      "domain": "atomix.vg",
+      "publisher": "Atomix",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 21:32:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El desarrollo de Gears of War: E-Day habría costado $500 millones de dólares Atomix"
+    },
+    {
+      "title": "Presupuesto de Gears of War: E-Day habría sido de $500 millones - GamersRD.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vNlZJYjRtSzN0aXJlX25xby1WX0dZUk5SRnV1TF9SZ3VPQlF2UmM4N09ZZ2dydnFpbzZ4X2pydW54YTFTTUdGeXdXYWpTS3RmS0lIMmg5YzlFVHpUUWZzUFY5NnJPcDM4QzcxZjV6QnA4RVU?oc=5",
+      "domain": "gamersrd.com",
+      "publisher": "GamersRD.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 22 Oct 2026 20:28:22 GMT",
+      "primary_hint": false,
+      "excerpt": "Presupuesto de Gears of War: E-Day habría sido de $500 millones GamersRD.com"
+    }
+  ]
+}
