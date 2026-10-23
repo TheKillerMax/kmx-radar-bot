@@ -3,16 +3,16 @@
   "last_media_id": null,
   "last_processed_generated_at": "2026-10-23T08:27:27Z",
   "last_publication_id": "kmx-20261023-terremoto-tibet-nagqu-m70",
-  "last_result": "editorial_ready_for_visuals",
+  "last_result": "visuals_ready",
   "next_publish_retry_at": null,
-  "note": "FASE 1 verificada en main: manifest 2026-10-23T08:27:27Z; paquete kmx-20261023-terremoto-tibet-nagqu-m70 con 5 archivos completos y ready_to_publish=false. Justice/GTA VI sigue publicado y cerrado en su recibo e historial. Perseverance sigue en on_hold y no se reactiva. Pendiente histórico de 2026-10-19T16:25:39Z sin entrega editorial: fue supersedido por el intake actual; no se duplicó ni publicó.",
+  "note": "Phase 2 completed: real licensed visuals rendered and QC passed. No .ready created.",
+  "pending_editorial_error": null,
+  "pending_editorial_status": null,
   "pending_manifest_generated_at": null,
   "pending_publication_id": null,
   "pending_source_event_id": null,
-  "phase": "editorial_ready_for_visuals",
+  "phase": "visuals_ready",
   "published_at": null,
   "source_event_id": "12-4d0e5e05c4acdb01",
-  "visuals_completed_at": null,
-  "pending_editorial_status": null,
-  "pending_editorial_error": null
+  "visuals_completed_at": "2026-10-23T10:37:09Z"
 }
