@@ -14,4 +14,4 @@
 - Título: Ataques gigantescos sacuden Kyiv, horas después de que Putin aceptara reanudar las conversaciones de paz - CNN en Español
 - Fecha detectada: Thu, 22 Oct 2026 12:13:00 GMT
 
-Ataques gigantescos sacuden Kyiv, horas después de que Putin aceptara reanudar las conversaciones de paz CNN en Español Ver más títulos y perspectivas en Google Noticias
+Ataques gigantescos sacuden Kyiv, horas después de que Putin aceptara reanudar las conversaciones de paz CNN en Español Rusia bombardea la capital ucraniana, Kiev, con misiles y drones tras aceptar diálogos de paz San Antonio Express-News Rusia mata a más civiles en Ucrania al tiempo que el enviado de EE.UU. Steve Witkoff elogia a Putin y lo califica de “humanitario” Democracy Now! Rusia ataca instalaciones energéticas y viviendas en la región ucraniana de Zitomir SWI swissinfo.ch Misiles rusos golpean a Ucrania El Nuevo Día

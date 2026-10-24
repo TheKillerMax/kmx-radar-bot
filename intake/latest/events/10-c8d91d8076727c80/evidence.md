@@ -14,4 +14,4 @@
 - Título: Al menos siete personas mueren en un tiroteo sin precedentes en una iglesia de Jordania - CNN en Español
 - Fecha detectada: Fri, 23 Oct 2026 22:43:00 GMT
 
-Al menos siete personas mueren en un tiroteo sin precedentes en una iglesia de Jordania CNN en Español Ver más títulos y perspectivas en Google Noticias
+Al menos siete personas mueren en un tiroteo sin precedentes en una iglesia de Jordania CNN en Español Siete muertos, 40 heridos en ataque a iglesia en Jordania AP News Siete muertos tras ataque en iglesia de Jordania y otras noticias en Oriente Medio Los Angeles Times Siete muertos, 34 heridos en ataque a iglesia en Jordania Chicago Tribune Al menos siete muertos por el ataque de dos hombres armados en una iglesia de Jordania durante un entierro EL PAÍS
