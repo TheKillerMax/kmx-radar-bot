@@ -1,0 +1,30 @@
+{
+  "event_id": "08-ef66aaf29afa464a",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU. - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU. - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQW5wXzJZSzNwNktiTG9ULUI2X2xuWFZNRG5WU2R1QWZRV1lQMlNwUlZDOHItUVhxcGc0QzFWOGIzYVZKMXFUOUprWGNRYnBhSkN2ODYzMU5EeTgt?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 00:29:03 GMT",
+      "primary_hint": false,
+      "excerpt": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU. BBC Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
