@@ -19,6 +19,6 @@ PAGER - GREEN ShakeMap - IV Time 2026-10-24 02:35:57 UTC 2026-10-24 02:35:57 UTC
 ### Fuente 2: earthquake.usgs.gov
 - URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2
 - Título: M 6.9 - 197 km WNW of Port-Olry, Vanuatu
-- Fecha detectada: 2026-10-24T06:30:03.858Z
+- Fecha detectada: 2026-10-24T09:32:17.265Z
 
 PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-10-24 02:31:28 UTC 2026-10-24 02:31:28 UTC at epicenter Location 14.056°S 165.546°E Depth 10.00 km (6.21 mi)
