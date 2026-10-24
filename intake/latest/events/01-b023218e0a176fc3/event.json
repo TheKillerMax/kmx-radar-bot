@@ -1,0 +1,64 @@
+{
+  "event_id": "01-b023218e0a176fc3",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Infantino confident 'vast majority' support his FIFA re-election bid - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.49,
+  "primary_source_present": false,
+  "independent_domains": [
+    "afp.com",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [
+    "afp.com"
+  ],
+  "article_count": 4,
+  "rank_signal": 0.63,
+  "sources": [
+    {
+      "title": "Infantino says backed by 'vast majority' in bid for re-election - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJQThuYmp4ZjdoYmoyMDNuN3pyTW5RYVBFejIxX3dya3lUWUo5WTJFV210SzBqbmRBRi1STlBJQmdCLXMyVFI2MTE5dw?oc=5",
+      "domain": "afp.com",
+      "publisher": "AFP.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 18:05:48 GMT",
+      "primary_hint": false,
+      "excerpt": "Infantino says backed by 'vast majority' in bid for re-election AFP.com"
+    },
+    {
+      "title": "Infantino confident 'vast majority' support his FIFA re-election bid - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2dTQXdvanBZdU9IalBTZ1dGa3hidEROcF9uR2d4aElGSkpTNkdKMHRjT0RKb2dFRUZZMF8tcUpMVFlCbnVqQ09YbngzQ25ubS1Yd1hsWi05ZW1aeVVzRGR6R2U5dUhEYUJyYUpmVDFXQkF4R1Q0U2NrSXpRYTdMbERDS2JiZ0hETkQ5YlZDdE5RbDZz?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 11:48:22 GMT",
+      "primary_hint": false,
+      "excerpt": "Infantino confident 'vast majority' support his FIFA re-election bid Yahoo Sports"
+    },
+    {
+      "title": "Infantino says he is backed by 'vast majority' - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkVsMlI1TEpUZ1pVbzBuOXlGQzdlOHI4aUpIQ1JVdHRsVWJQS2FTTTBzOThsRXhOLVB1UFlGWjVSU3R5Y2VYQmdEaHR4QWprUlkxcW5KbzRwX3RicE5tTDNGTjdPVzJzQkNkcW1uWGRzWVBvcmJNQkFpOXg2ZjlHZ0pQRW1vMnZpZ3BOUw?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 11:10:07 GMT",
+      "primary_hint": false,
+      "excerpt": "Infantino says he is backed by 'vast majority' Yahoo Sports"
+    },
+    {
+      "title": "Gianni Infantino laughs in the face of critics and claims ‘vast majority’ support him - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTJGU2plY29jNG1HSU1wcXpsQ0JXc29IaGd3dFJ2c29zQ3V3cUNMcGNtelNCSW1wbHV5OUZUdmV2VGhZdWRoejRtcHZMdWlRbjZKdFE4M1ZfVC1mQzZBa2VoakJDdXJSaS1scG5xYk5Ed2FaRFpxZFJZcjEzdWxWOFZ6dnpzV1c4WFlpb0FR?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 11:49:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Gianni Infantino laughs in the face of critics and claims ‘vast majority’ support him Yahoo Sports"
+    }
+  ]
+}

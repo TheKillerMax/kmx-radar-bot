@@ -1,0 +1,30 @@
+{
+  "event_id": "10-472df43605046786",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEZCS3NHNVhHYURUaDVpUjNBRXp4YVhNTWxCSXNlaGRGYWFSQlBqSVpMVWlsNXdmRGNpdlZGZ0tnVUR6Q19OanlVemljR3FJNGZ5T2I1eVo1VDhCTGw3VDhzNnprYzktVjNjM0lYckVmUlJRVjNHcGxUOExQckN1MnRieHVmVGtiOHhpR01qNFZSQVZi?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 10:09:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos CNN en Español Inmigrantes que buscan la ciudadanía de EEUU son blanco de la ofensiva de Trump contra voto ilegal Los Angeles Times Jueza ordena al gobierno de Trump frenar investigación de voto de no ciudadanos en 9 estados San Antonio Express-News Juez pone freno al DHS, ICE, USCIS y CBP para ir puerta en puerta en busca de supuestos votantes no ciudadanos Univision Jueza limita operativos del DHS en nueve estados por riesgo de intimidación a votantes CiberCuba"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+# Light mag. 3.6 earthquake - North Pacific Ocean, 69 km southwest of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 12:41 pm (GMT -5) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5
+- Título: Kilauea - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 09:19:56 GMT
+
+Kilauea Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTVXcnVMak03ZENialpYdjdlN21HMWNlaVRaZVNjTFB2dVFtT3hBUG90QWRQN3NVYVdjVFZnX3RzSVF5NjJhREFZaExPVHJ1RlI0Z21mX3lPcjc0M21MYzIzQml3elgwUm5WaDU3aWxUMFkyYXlNWFJhbVV5UC1mNFMzcDlmTFdPR09UZ2xpTWc2LW9BTHdRT0hRVlNIb0VGc2p4TDVCQ1ZTMmdwWmtmNlVVVl91VTd3eFltbFM0c1JSRXN2OHZmdFc5OFk?oc=5
+- Título: Mag. 3.4 earthquake - Argentina: Jujuy on Saturday, Oct 24, 2026, at 04:21 am (Buenos_Aires time) - just now - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 21:58:10 GMT
+
+Mag. 3.4 earthquake - Argentina: Jujuy on Saturday, Oct 24, 2026, at 04:21 am (Buenos_Aires time) - just now Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRE5VemVSRW5hUzVMdTVQeUlBX1pYaUpsWGFZTVNuZml1SWJRMTM1SEpsY0lzS2U1Y0pqSjlIQmNGbldzaDhxdWQ0SGFDb3l1M2hqV3RQU0xST00zUHl5U05rb0VZSDZKeDRaX0JLU2x2SzlVSlVNMVE3NklielEwSVdUaGYyRVFlX0hKUGFaMXlURnFzdEFGM0tSV1ZiaGpNQjI2NzRBaXV5OWNCRFcxVVFyVDBKMzNhSDBRNHkzTHdtc29UT0ZlT2RuZnNjOUtkMU5ubGJn?oc=5
+- Título: Moderate mag. 4.4 earthquake - North Pacific Ocean, 166 km southwest of Retalhuleu, Guatemala, on Saturday, Oct 24, 2026, at 09:52 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 16:21:04 GMT
+
+Moderate mag. 4.4 earthquake - North Pacific Ocean, 166 km southwest of Retalhuleu, Guatemala, on Saturday, Oct 24, 2026, at 09:52 am (GMT -6) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2NJSWdiN1Y1MUFxeHpwM3lJNzg1M252cTJ2Xy1kYjNxczJFX2NzZWFrQlpOWTk2eW55eVJxa0hIcXRyeGlRcVVIYVBKY2RydWdhSFBXMDVFeVY4Y09kY2F4UmpEYTNWRXZZaGg1amFETElqVHpwSlQwaFlxUG9aV1oxb0hZdkNVOXh6dTJlWmx6MFNGTW5OcWZ6QS1hbzVtN3FielNhZy1uX2dFdEZUWnJYeDNXMFlZcU9RNTRVbzlLbVpheGQtcHNyYkgyaW9IaWZILWR1Z2I2RTVUaVE?oc=5
+- Título: Small magnitude 2.8 earthquake reported 45 km southeast of Clermont-Ferrand, France - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 18:51:24 GMT
+
+Small magnitude 2.8 earthquake reported 45 km southeast of Clermont-Ferrand, France Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2JVZVVhR0ROZThIdVRmZGF4dzk1UE9Ra0xoN3Q5eHcyWkhMOTFvX21lb0tLYjZ6VjZ4M1c4NHFMTGJZLWhPVTlZdUx6Nmo0RzhyYU9YVVFYdng5MllOVFBGSHZyOGVSNlY2VjBLOVBWMElHWHhxM1IzaUswaWpqYl9nTm1XVG5pRzB6azRIR3lGODVDNE5tWE9wRm93OGxVYmZpRGJMOWpWeHFRT3hz?oc=5
+- Título: Light mag. 3.2 earthquake - Puerto Rico Region on Saturday, Oct 24, 2026, at 09:07 pm (Universal Time) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 21:45:00 GMT
+
+Light mag. 3.2 earthquake - Puerto Rico Region on Saturday, Oct 24, 2026, at 09:07 pm (Universal Time) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQemROaXFmRFlZdFUzRUw3Ui1FbWFySm1qQzRab080N3FlWng4RUd1WnNqRFlRVW9tWkhQRUVoMnVVbWJscVVWX1JuNi14TGxEODZiWVg4Q0xQYWhOaXkwRHF2dnBtZ21DX1VoLUtWdTRxb082aEtiSjROeHVuNWN1aFU4U2gzR0dPYXZicDhza0xzRk9EdGNiSmdLU3B3UGFuSjJVb3l3NzZ4YTFTWHJib3lwanZtM1NMT2JCVw?oc=5
+- Título: Moderate mag. 4.2 earthquake - North Pacific Ocean, 73 km southwest of Mapastepec, Estado de Chiapas, Mexico, on Saturday, Oct 24, 2026, at 06:27 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 12:49:58 GMT
+
+Moderate mag. 4.2 earthquake - North Pacific Ocean, 73 km southwest of Mapastepec, Estado de Chiapas, Mexico, on Saturday, Oct 24, 2026, at 06:27 am (GMT -6) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUdCYTVuenp2eUw4aV8wRjFYOW1PWTVpam1hQkJacmI3V3FZTTI2cXpJNnZuNzlWR2JJTW15ck1aa1o0WmZtRHpES29iaUUtRlpwcTI3TUNVMzRldFZqVm91NTlLSFAzUWZmY2lLTG9SUW5oVlc2VURRcDcxMzhCa3hWQlpUNUg2MHZXeThHcWJuZGhpUDNvZTBfOHBaUXM?oc=5
+- Título: Light mag. 3.7 earthquake - 44 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 24, 2026, at 08:38 pm (Universal Time) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 20:46:11 GMT
+
+Light mag. 3.7 earthquake - 44 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 24, 2026, at 08:38 pm (Universal Time) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGdLY0tiM3Q5d0o4elZaQlVjZnVMeUJfRXdqd0FkeGJ4dzBUeHF0ZmZYV1dsM0dwYTNZQjh1TFIxTkRQQ3ZpY0kyMUg1bXVwanVwaTM4WG95aVJ6TUtXOUM3THpCTUJCdHdsZmllWG9HRjlNR2pTOHVQd2tqZzdIVGJGY0ptcHhDb2I1NEV5WWZ3WkRqLVZvYjYzcHVhVFE?oc=5
+- Título: Light mag. 3.6 earthquake - 48 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 11:47 am (GMT -5) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 17:58:18 GMT
+
+Light mag. 3.6 earthquake - 48 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 11:47 am (GMT -5) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdvdFhxNjVkRlJlV3JwSVMwRm50ZUt5OU5iQVBCSk5NSkFYanlBVWkxSXpiUDhZVDg4U0pNZV9YUzlHNmlYajFvSFhRZmxHd3pvdkhFd0ZTaDNqQkJVOC1IdlZ5MnNQM0E5UEF3QWtjM2dtTjl4ck9rdjVxZFZiT09WbmhNbjhJT2JzM3NpWHhBa2xfTEJVUm9DQzFvUUE?oc=5
+- Título: Light mag. 3.7 earthquake - Provincia de Herrera, 62 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 01:46 am (GMT -5) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 17:29:44 GMT
+
+Light mag. 3.7 earthquake - Provincia de Herrera, 62 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 01:46 am (GMT -5) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOODFKcHR5dUF5Nk9KakhaVkF4bXZTaWlIY09rWkhPUVBGWFRsYXBHWmh5aWdLUnQzdmRpT3R2cVlrQzRTMFZKTHBBUGJzamN1MktVLW5ZalZURzVJeWJPaEZ4QmFqZDBwQXR5WFF6SUZscEk5NXBERVVvVGZRUHlZdmx2STJLeW10TDJmXzJtY3k0dTBLUDVBd2V5ZUh5Mkk?oc=5
+- Título: Light mag. 3.6 earthquake - North Pacific Ocean, 69 km southwest of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 12:41 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 18:01:20 GMT
+
+Light mag. 3.6 earthquake - North Pacific Ocean, 69 km southwest of Santiago, Provincia de Veraguas, Panama, on Saturday, Oct 24, 2026, at 12:41 pm (GMT -5) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmVBTEZUbnJKM0xpNlBmczFpb1BrU05GNk8wRnBaMTNQNEhWSjRMNHdyQjcxTmlEQ3VfRFZrckY1dW9ERTJ0bUIwc29XWTEyYzYxVEY5QUhFTzFZaG4yU05XMnV1c0NmZ3Zod1BlUDdCN01idktSdTdpek5WYnNaMG85aHNuanVhcXdWbVM3RklPelM5bkozRWdDT0pPZ0k?oc=5
+- Título: Light mag. 3.5 earthquake - Panama on Saturday, Oct 24, 2026, at 09:00 pm (Universal Time) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 21:08:00 GMT
+
+Light mag. 3.5 earthquake - Panama on Saturday, Oct 24, 2026, at 09:00 pm (Universal Time) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3RsR0hZTEk4MWZzazJ3NHV3Zl9ldXVKUWItZDhZSG1DZFc0cmdWWkE4bnZpTVFaSF9wZDI5cE5CZHlqQ2lkWWRYWUJNRDFyMUtlNi1JWDBrV0MycEdwLXVvZjVGMVBRVnNabzl3ajlXazdIcXpIQTNmRnpObmhVQlVqTzZWNmxLWjBfc0FoR3Q3dU1wRjEyQjhIOWtzOGp3ZVljSndoXzJBNU96OWRvZ3N0enQ1bVBhczBMWktsUy1zUXhZVnZzZVh3?oc=5
+- Título: Moderate mag. 4.1 earthquake (unconfirmed) - North Pacific Ocean, 149 km west of Retalhuleu, Guatemala, on Saturday, Oct 24, 2026, at 03:52 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 24 Oct 2026 16:39:42 GMT
+
+Moderate mag. 4.1 earthquake (unconfirmed) - North Pacific Ocean, 149 km west of Retalhuleu, Guatemala, on Saturday, Oct 24, 2026, at 03:52 am (GMT -6) Volcano Discovery

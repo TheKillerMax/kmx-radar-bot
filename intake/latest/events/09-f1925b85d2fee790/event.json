@@ -1,0 +1,30 @@
+{
+  "event_id": "09-f1925b85d2fee790",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Lula o Flávio Bolsonaro? Quien resulte ganador no tendrá una tarea fácil - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Lula o Flávio Bolsonaro? Quien resulte ganador no tendrá una tarea fácil - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFB5VzlxbmNmMElocmp3Q3ZkUUhaVzZGeFBTUFRMY1pkNF9hMXJ3bnFNNFVYSV8wRDlvdEpZV0FFUUtPeDFJWEZTUHQ0c054Wkh0MzZGRkYzbU5Pbks2RkN0Z1ZreWhqMXA3T2ZWUGM4RXBFZFM5ckN1TnNCRWVLSU8yMEYxM1g2cUxvNkJmcTVEOWotekFGUW42WQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 20:03:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Lula o Flávio Bolsonaro? Quien resulte ganador no tendrá una tarea fácil CNN en Español Qué saber sobre la segunda vuelta de la elección presidencial en Brasil AP News Bolsonaro aventaja en dos puntos a Lula a horas del balotaje en Brasil, según encuestas Yahoo Vila Militar, el barrio de Río de Janeiro donde la trama golpista no existió EL PAÍS Lula y Bolsonaro se dirigen a los indecisos en el último debate presidencial en Brasilºº San Antonio Express-News"
+    }
+  ]
+}
