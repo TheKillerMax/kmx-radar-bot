@@ -1,0 +1,30 @@
+{
+  "event_id": "05-76bcf7e6e5666eca",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZHhJWnMxWlBHZDg1UUNzdFhJam9lX1NIOWdObUtiTmNGNTRRbnZBZ0JMT3M0MnBxb29VTHN1djdVUk5ndllMLWlsZld0WnVaRXpIUk56b1o4VUtO0gFiQVVfeXFMTW9oWjNCUHA4R0lxR1FuLU01V0hyTFhoREhfNmM1NWw4RTMwd3VxaW5CSFBsUWd6TUZCOE9UekpaaWxOcTlxYnFBRVRmX0NiUnhFcjJsYWlWSDMxcUpuYXFqaUE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 01:40:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas BBC Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas BBC Bukele afirma que cuerpos encontrados no son de los soldados salvadoreños desaparecidos en Haití Chicago Tribune La misión antipandillas en Haití enfrenta su primera crisis The New York Times Un rescate imposible: la cruzada de Nayib Bukele contra las “pandillas satánicas” de Haití France 24"
+    }
+  ]
+}

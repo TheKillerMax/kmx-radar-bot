@@ -14,4 +14,4 @@
 - Título: ¿Quién es Gadi Eisenkot, el principal rival de Netanyahu en las elecciones en Israel? - CNN en Español
 - Fecha detectada: Sat, 24 Oct 2026 15:05:00 GMT
 
-¿Quién es Gadi Eisenkot, el principal rival de Netanyahu en las elecciones en Israel? CNN en Español Quiénes son los "ciudadanos palestinos de Israel" y por qué pueden tener la llave para desbancar a Netanyahu BBC Qué podría significar la victoria o la derrota de Netanyahu para la economía de Israel. Al-Monitor Viven fuera de Israel; ahora vuelven para votar contra Netanyahu EL PAÍS Elecciones en Israel: la hora de la verdad para Netanyahu RFI
+¿Quién es Gadi Eisenkot, el principal rival de Netanyahu en las elecciones en Israel? CNN en Español Decenas de miles de israelíes en el extranjero podrían viajar de regreso para una votación clave AP News Quiénes son los "ciudadanos palestinos de Israel" y por qué pueden tener la llave para desbancar a Netanyahu BBC Qué podría significar la victoria o la derrota de Netanyahu para la economía de Israel. Al-Monitor Viven fuera de Israel; ahora vuelven para votar contra Netanyahu EL PAÍS

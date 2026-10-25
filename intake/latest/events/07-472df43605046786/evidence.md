@@ -12,6 +12,6 @@
 ### Fuente 1: cnnespanol.cnn.com
 - URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEZCS3NHNVhHYURUaDVpUjNBRXp4YVhNTWxCSXNlaGRGYWFSQlBqSVpMVWlsNXdmRGNpdlZGZ0tnVUR6Q19OanlVemljR3FJNGZ5T2I1eVo1VDhCTGw3VDhzNnprYzktVjNjM0lYckVmUlJRVjNHcGxUOExQckN1MnRieHVmVGtiOHhpR01qNFZSQVZi?oc=5
 - Título: El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos - CNN en Español
-- Fecha detectada: Sat, 24 Oct 2026 10:09:00 GMT
+- Fecha detectada: Sun, 25 Oct 2026 05:05:00 GMT
 
-El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos CNN en Español Inmigrantes que buscan la ciudadanía de EEUU son blanco de la ofensiva de Trump contra voto ilegal Los Angeles Times Jueza ordena al gobierno de Trump frenar investigación de voto de no ciudadanos en 9 estados San Antonio Express-News Juez pone freno al DHS, ICE, USCIS y CBP para ir puerta en puerta en busca de supuestos votantes no ciudadanos Univision Jueza limita operativos del DHS en nueve estados por riesgo de intimidación a votantes CiberCuba
+El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos CNN en Español Inquietan a funcionarios de California las exigencias de confiscar votos de "no ciudadanos" AP News Inmigrantes que buscan la ciudadanía de EEUU son blanco de la ofensiva de Trump contra voto ilegal Los Angeles Times Juez pone freno al DHS, ICE, USCIS y CBP para ir puerta en puerta en busca de supuestos votantes no ciudadanos Univision El Departamento de Justicia exige a condados de California que identifiquen a posibles votantes que no sean ciudadanos Telemundo
