@@ -1,0 +1,40 @@
+{
+  "event_id": "01-3973996afa8f25b3",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "El lehendakari recibirá el lunes a Juanma Moreno en el Palacio de Ajuria Enea de Vitoria - Diario Siglo XXI",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "democrata.es",
+    "diariosigloxxi.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El lehendakari recibirá el lunes a Juanma Moreno en el Palacio de Ajuria Enea de Vitoria - Diario Siglo XXI",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1o4MUs0VGROUzRvM1l4LWs4cVJZYjBHWC1MZXlwUC10QXpGaU9MZE5sbXBaLU1rT3R4QVZ0ODg0bkxWakFTT252VGxxNHpkTXZFbDFmUkIwMWEyZ2JDazJESWlabzNma09xdUM3dVdHcHVrZldld0ZmUEpaWDl2OC1SdGJtU1R0aXh1eFp4RDZqZExuVmZ4Z0d4VjNmMjNZd3VoeHRLb3pSWkNib3BJQmlsbVVoLXM0QTEybFZmbkR1b1YtRWp1SGpkTQ?oc=5",
+      "domain": "diariosigloxxi.com",
+      "publisher": "Diario Siglo XXI",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 11:22:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El lehendakari recibirá el lunes a Juanma Moreno en el Palacio de Ajuria Enea de Vitoria Diario Siglo XXI"
+    },
+    {
+      "title": "El lehendakari se reunirá el lunes con Juanma Moreno en Ajuria Enea - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGpIS0xUV19JQVFua3IwazV0cEtua2F5WTYxeFhERWdwTjdidUFIZ21lNE9sQjlnUXllc2RlbjVFSGdyN0kzQ1pWZlQtb1FRMEYwcm16bXM3dXNOeWlRcHVoRTBXZHdkVndXekg3MkxlOTJWWkxrUzlMZXJVckU5YjNvZGN0WUpEc3Y4MlVxXzhxcTVGQ25ZMjBQLUNjTFNqQU1mYlFrN0JHZ9IBqgFBVV95cUxQeGpIS0xUV19JQVFua3IwazV0cEtua2F5WTYxeFhERWdwTjdidUFIZ21lNE9sQjlnUXllc2RlbjVFSGdyN0kzQ1pWZlQtb1FRMEYwcm16bXM3dXNOeWlRcHVoRTBXZHdkVndXekg3MkxlOTJWWkxrUzlMZXJVckU5YjNvZGN0WUpEc3Y4MlVxXzhxcTVGQ25ZMjBQLUNjTFNqQU1mYlFrN0JHZw?oc=5",
+      "domain": "democrata.es",
+      "publisher": "Demócrata",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 12:24:42 GMT",
+      "primary_hint": false,
+      "excerpt": "El lehendakari se reunirá el lunes con Juanma Moreno en Ajuria Enea Demócrata"
+    }
+  ]
+}

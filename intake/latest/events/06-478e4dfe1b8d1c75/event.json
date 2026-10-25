@@ -1,0 +1,149 @@
+{
+  "event_id": "06-478e4dfe1b8d1c75",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Light mag. 3.4 earthquake (unconfirmed) - North Pacific Ocean, 48 km southwest of Mapastepec, Estado de Chiapas, Mexico, on Saturday, Oct 24, 2026, at 07:07 am (GMT -6) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 25,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Moderate earthquake of magnitude 4.5 just reported 57 miles southeast of Akutan, Alaska, United States - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVmpMcF9LT0lIQVE3cEV4SGZ2bHF5MG1CeDNOcUdiN00tRXpiTFR2Y2xUQldfZHloZlRwdDlSVU14TzhKUEhtXzZsVy1OeWIwOGsya3gwaG9zTU9GYXc2WEZVUHlyd08wRHNRX3EzWUQ2czFySmJtYmpqakJ0VjFhTWp2X2VuWUlnM0ZvNmhaZnl2YkNfUmhjaUN0N19QbzNOUVQxRHRDdkNvdjd5NG5CWmo0czY3X0hXQzNtX1RXUXJ3NWc4Q0ZNVXZGZHN2MndjTkZvcmlwTzMtS25mTEZrbTAzcGRwRVdEcERCTDBUVm95alQ5MVE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 10:51:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate earthquake of magnitude 4.5 just reported 57 miles southeast of Akutan, Alaska, United States Volcano Discovery"
+    },
+    {
+      "title": "Kilauea - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 15:08:11 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilauea Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.9 earthquake (unconfirmed) - Panama on Sunday, Oct 25, 2026, at 12:09 pm (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORm1Od1JZcmx3X3dBMGdmbk1LSE9mbEVVQWpGNlA4TXJLNlZreUZVN19kQXgzRFFnUjhQZVFiaF96OTlUa1FQNjBNVjdVMWtzdTdNQURhbDI3cjNsNnp6Uk5FZ3ZWd2Q2NFBHaUdoaGZsVll5YUtqSExUdzVIa1g2QWM2VUN2LUI2OWxUN0EzSnZ0MWFzVTJKejZoMUdfS0E?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 12:12:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.9 earthquake (unconfirmed) - Panama on Sunday, Oct 25, 2026, at 12:09 pm (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake (unconfirmed) - Panama on Sunday, Oct 25, 2026, at 10:01 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTZXZk9jMjZGbWk1Zlk4d09KRzRqSUhOX1JXNnY5Y09MX2FKYzRKeFdoNWpFejJ5Y1VHcUVXdUxNMlhQcFpvQUZkS0hESTNGaFE4Sk5jV0VfUi10S1hTUkE1YURxaVk4TlFEaXYtME9xQkNMX2dLaFRWbHFZckRsTmJQc0NTY0o3dzBzSGFqVzF6RU9NblNsQWhmSnRybEk?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 10:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake (unconfirmed) - Panama on Sunday, Oct 25, 2026, at 10:01 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.9 earthquake (unconfirmed) - Guatemala on Saturday, Oct 24, 2026, at 11:47 pm (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2h2dTFUV29EaWdFTWlzdWdmdFNxZEkxdVZnRm9ORjRFenM0ZmhSVUxJeF9NWkxpSm1KUWZReTFmMUpBVzJ5Z0ljZ2RENzlPcmhRWG1ELUItelVxMDJqSTRaNDdhWGNDaFpEeW9kNXNfajBXeDV6RUNmWktTRHZMRDVseHlZM0l5TDZzcDZIR0RidWwyaXZCUE5BRU0wRV9NMU5j?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 06:18:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.9 earthquake (unconfirmed) - Guatemala on Saturday, Oct 24, 2026, at 11:47 pm (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake (unconfirmed) - North Pacific Ocean, 194 km south of Panama City, Provincia de Panama, Panama, on Sunday, Oct 25, 2026, at 01:26 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUtnMWlPYUFuWGRLR21pbTE5RVFhaENFR2dLanpWNVdTMG1FNmRCUlAyYWhsQV9aNndQajZBQU5rMFBnVThUR2ZRNVl6c0JTcTRpWGctOEtKOG5QdzFiX3dBRnE4T1FnUEtnMXBfdEU5UV9NR0Fka2V5V2IzLXk1aU9yYmhtYVVIQUsxd3E1TWdiN2F1c0MxdmNFcGV0cDFHUF9qQkRmR2NSWDA?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 06:30:45 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake (unconfirmed) - North Pacific Ocean, 194 km south of Panama City, Provincia de Panama, Panama, on Sunday, Oct 25, 2026, at 01:26 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.2 earthquake - North Atlantic Ocean, 89 km northwest of Arecibo, Arecibo, Puerto Rico, on Saturday, Oct 24, 2026, at 05:07 pm (GMT -4) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2JVZVVhR0ROZThIdVRmZGF4dzk1UE9Ra0xoN3Q5eHcyWkhMOTFvX21lb0tLYjZ6VjZ4M1c4NHFMTGJZLWhPVTlZdUx6Nmo0RzhyYU9YVVFYdng5MllOVFBGSHZyOGVSNlY2VjBLOVBWMElHWHhxM1IzaUswaWpqYl9nTm1XVG5pRzB6azRIR3lGODVDNE5tWE9wRm93OGxVYmZpRGJMOWpWeHFRT3hz?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 24 Oct 2026 21:47:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.2 earthquake - North Atlantic Ocean, 89 km northwest of Arecibo, Arecibo, Puerto Rico, on Saturday, Oct 24, 2026, at 05:07 pm (GMT -4) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.4 earthquake - 57 km west of San Antonio de los Cobres, Departamento de Los Andes, Salta Province, Argentina, on Sunday, Oct 25, 2026, at 01:36 am (GMT -3) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlhnMVlSOUtrMEdWS1FmS3dvRVptY3I3ZFZBcXktaXRJSV95QnN6cUVxV2w1bjVXWW1jeFp6c0pTVFB4NTdrNW44a0lDUjVWTHNhc1FVY2dnRGUtSVh4TGNtQlRMM0FXdzNtZGFvR2ZiSTlOY3NueFNTUWRDX3RWVGRadF83VFFZY3FCOUpJRDRXSVNjR0Z0VVQ5eWt1WjlyQTM0LWtSTHF1Rm8?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 05:10:17 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.4 earthquake - 57 km west of San Antonio de los Cobres, Departamento de Los Andes, Salta Province, Argentina, on Sunday, Oct 25, 2026, at 01:36 am (GMT -3) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.8 earthquake - North Pacific Ocean, 74 km southwest of Santiago, Provincia de Veraguas, Panama, on Sunday, Oct 25, 2026, at 12:52 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTUyT21Ha3FSZ1F4RFBSeE0zZXhOaDFGRkJSMHQxRTB0SC1ZeWdPTDgzakFGVXBNcXl0bm9ESktoeV9BOFUybDVZb0R5X1hWS0lOMm13SXZOYk0xX0dNV0x4SWlTSHltd3dYa1JOdE1KcEg5SzlwbjZ5YUJFMnU0a2h0QWxvS0hqZE8tS1NXVEVLT1hrY2JEeFgzZlhCcTQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 06:16:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.8 earthquake - North Pacific Ocean, 74 km southwest of Santiago, Provincia de Veraguas, Panama, on Sunday, Oct 25, 2026, at 12:52 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light Mag. 3.5 Earthquake - Panama on Sunday, Oct 25, 2026, at 07:41 am (Universal Time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTW1iTzNFZTBWRkg5ZkxpdEFCdXprUEIxdjVwTWRlQmpSajd3TVVhNUpqaXhzLXdCU1N6REl4eENvUG9yU0l2NEk2V3g1amg3VmhvYU40bEVyV3pvV2o1T2hkV2dWSk1VaHB1M2hYaV9YWFNXZU9sZl9mMnJfMng5MGRITjFaZHRsOGd6eWFVR21PaUsxcHItX2VhblRsR2c?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 07:43:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Light Mag. 3.5 Earthquake - Panama on Sunday, Oct 25, 2026, at 07:41 am (Universal Time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.1 earthquake - North Pacific Ocean, 143 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 02:06 am (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGFyMWZWbVN3TVQtMXVaaUdIRVRyeFZwREVwcW1VdHNTVlBwRDFuaGUtSFJ5b0ZJVXNvcm1aUEpvYmNSY2dmWHBDa2lERzFUekNsOEpWdGdaRWN4T2FPc1lhbGh5bjlJcUw1QWVqbWdGVlhfakEyMEszQlFrR292RGItRHlRYTBTcHl4QUJoc2xiRExBNGZQaGVqWUp1M1BTd1VjTnh3ZjdTejQtcHBOUmhVTlh2Sm5NcGJtVmJSVGQ0Ry1PZGFBQjhpNWFndUN6ZEE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 09:20:32 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.1 earthquake - North Pacific Ocean, 143 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 02:06 am (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.8 earthquake - 5 km north of Atoyac de Alvarez, Estado de Guerrero, Mexico, on Saturday, Oct 24, 2026, at 01:26 pm (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3RhS29wcFNiUjNYbU5kMXFMWFlCZjFFSjNNdlQxc0V6OGxsZHpSeDFoa3dDWWtTRHN6Q2V0eWxGcW8wNXNiOWVzSnVhRmZ5UUtWdkx4SVJ1UEtWbkFjYkk4dWtaRkpZZ1BVOGppS1ZteTFpdG1IOU9hQmg3aGhreHkxM29lX2EyUmF6blQwZlZLREtPcFI4ME5mM1J0RUJRRWZ2WU9pT3M0NVU?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 02:10:17 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.8 earthquake - 5 km north of Atoyac de Alvarez, Estado de Guerrero, Mexico, on Saturday, Oct 24, 2026, at 01:26 pm (GMT -6) Volcano Discovery"
+    }
+  ]
+}
