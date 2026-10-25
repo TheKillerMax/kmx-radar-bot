@@ -1,0 +1,30 @@
+{
+  "event_id": "09-d5a374df32acb2fe",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Hieren a 11 personas en un tiroteo cerca del estadio de una universidad de Florida - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Hieren a 11 personas en un tiroteo cerca del estadio de una universidad de Florida - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVdDbGYxQzNxMF9NNUFCQ2RybTFIODg5ckNMZlIybUJhb1dvcXlZUjNMQ1pQZERNQmRpUzBvSjJyX0tKQmMwTE1aZVpBaUhoeHdySEExMl9PNGhuNTF6eEJSX0Z2eUJZdXVOdkZ5SncybDlObXp0WU4yMTQ2QjlrMk91ZEdCbGZyMFlraE51aVdHOC1YcVE4T0ltbw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 10:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Hieren a 11 personas en un tiroteo cerca del estadio de una universidad de Florida CNN en Español Al menos 12 heridos en un tiroteo cerca de un estadio universitario de fútbol americano en Florida AP News Un tiroteo cerca del estadio de la Universidad Florida A&M deja 12 heridos, entre ellos varios menores Telemundo Tiroteo en Florida deja al menos 12 heridos, incluidos seis menores, cerca de un estadio universitario Univision Tiroteo cerca del estadio de la Universidad Florida A&M deja 12 heridos El Nuevo Día"
+    }
+  ]
+}
