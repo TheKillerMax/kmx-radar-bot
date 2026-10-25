@@ -1,0 +1,30 @@
+{
+  "event_id": "07-07bad5250d7fbddc",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGtNM1hvX3BiTWI1VWdxTExMR3hwOUJMMFFibVUyTjQxcVFLTFZYNFFRMlRNU3hIdWI4aDdIbkJ6c1VUeUMyUlFZdWNKYlc1NXU0RWhyT1ZIcUlVSmpiR3R5Ql9tYnNNWklhWGdZb092RlVDWXNLQzdSMUc2ZUhCWVhVNms3OWt6Y25Za1lXa2trM3BUT3M1X081MDNFQVMxN2xWd25VSEtEbGNrbVNYT0Jpb0ZLZ2JEOHYydC01N1fSAcABQVVfeXFMUDRxcDhfYkZDWnM4dDFDRWRtd29VZEZQVG02eWVBWlRNNzFsN2l3ZTNMN3lyQWF1c1BiQzFjUWIzekR6eXZvaGxlUkNVLVJMREFEWGhIRXZtNGNsNFRncHNmbm1naEZVXzhKT0p2NE5GY0NlNy1JLTFzV3poanM2MXFiZzYwRWNQUEJRdXUxMWs4dVBlVjM3aGZrcXBKZ3ZiczdMdFlJdXV5ekJENHNtOWtsOVNoSFRNakRvNzZSZXZ5?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 03:09:07 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska DW.com Las demandas electorales de Trump en Alaska y California no necesitan prosperar para tener consecuencias CNN en Español Trump demanda para frenar la certificación electoral en Alaska si pierde el republicano Primera Hora Dan Sullivan contra Dan Sullivan: esto es lo que debe saber sobre el litigio en curso por el Senado en Alaska Telemundo El Gobierno de Trump demanda para bloquear una posible victoria demócrata en la contienda por el Senado en Alaska France 24"
+    }
+  ]
+}
