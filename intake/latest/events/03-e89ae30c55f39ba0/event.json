@@ -1,0 +1,40 @@
+{
+  "event_id": "03-e89ae30c55f39ba0",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA acelera el programa Artemis para volver a pisar la Luna en 2028: qué cambios aplica y cómo prepara a sus astronautas - Infobae",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "infobae.com",
+    "mediosobson.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La NASA acelera el programa Artemis para volver a pisar la Luna en 2028: qué cambios aplica y cómo prepara a sus astronautas - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNM01DZTFvWVR2TzdUNVptN1RYXzNwdHdBTElnbjd6SzFnWmhOaTRLNDFackFmNk5UYkdVY0NkY3BGTGltQnhCOW5TYWxmMjJQWGExQWg5ZFpFbFpIZXRtSXVxb1lvNl9LSzV4LVRjV3dBdm1BUzZXenZkajZWV3ZFTW1sNGpKd0RMLXFaUVJFeWlpVW9TNW5EWl9BazJjOVJyTEItamJMUnNkU2hjQ1c4U21va2NRREd3NE9JVU5RUmlrNnpENkFfYWNQNGEzb3ZWRWRBanY2NnNYS2ViWGdBeDhFM2dackpIX29EZWZBN1k4WWpLYkFWV0xQdGtCUHdEZGxtbU5mbnM3V0JvaE9Td9IBqwJBVV95cUxPY1JGanBVbDU1eDBxTWVJX0gtLThxdTZNTzY0aXB3aDZQVnAxdjNmTjh2UmN6LXR2UFh0Z1NfQlBBM3VocDZaSHpsUXZ3dDVWZ2ZBLTlSRmVvY3BtdVpIT2gyeTBiZFhsc3h6UDBvcE5yd25Yb20wVV93LXEyNVZVMHprQXlEWUtRS2dpQXBXOXoySlMxcTdacVRUWmtxZUx6akQ1UjZucWpGY0oxMm5XNEhTYzRxU3Q4c1cwUGNJZE4wOTdYNkRUOTAxNGxqZmJHMF8xNG5kZ1pwN0NwZEVndjdONGJsZzlwOE5rdEJhc1E1OHBfQVRqNW1rMW94a0lRZTZwNU1fdkhmN3NpRUllNkJGUDBGSV9FejM2RkRwYkhjQmNiN0NBRlRiZw?oc=5",
+      "domain": "infobae.com",
+      "publisher": "Infobae",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 19:45:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA acelera el programa Artemis para volver a pisar la Luna en 2028: qué cambios aplica y cómo prepara a sus astronautas Infobae"
+    },
+    {
+      "title": "NASA acelera ´Artemis´ para volver a la Luna en 2028 - Medios OBSON",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlhaWEk0d0lacktzNWwwdkpEdVJIbmxsN2dEVklFX3BqZ3hseWdCUi1DV1VoTC0wNkFncWdoeUNiTVhJdk1jUlBid254X250V1BaNGJfVVNNSzJwenlFWklvcG44SVRDTGVkamQ0RzdIWDRvblJ4NnBzbl9zV1JFRmR6cnhkZXMwY0JlQXJiQQ?oc=5",
+      "domain": "mediosobson.com",
+      "publisher": "Medios OBSON",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 25 Oct 2026 23:39:57 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA acelera ´Artemis´ para volver a la Luna en 2028 Medios OBSON"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+# Light mag. 3.5 earthquake (unconfirmed) - North Pacific Ocean, 45 km east of Crucecita, Estado de Oaxaca, Mexico, on Sunday, Oct 25, 2026, at 08:58 am (GMT -6) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5
+- Título: Kilauea - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 06:18:24 GMT
+
+Kilauea Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTROd0hWcnpfaGozVGJlei15R2pmcUI0Snc0SnByLUFiZHphdUJoekFyZWhtUlo4R3NUdVVNelBUVjJMZUVKd3Y2NlpuQjM2TnQwbng2UmlzSER0eEY3T1lCOXZ2SndUdnlTbXh5aURuSmJtT3N1T1ozU3ZLMk1DNDV3TUxuVGpSblhPalR2aUZkWkJ1ZlV4WW5IUXhTejBxbWFlQ3A2aTk5cmduYnphVG1CdU5SWWM1OVNVU0xSUV9JNXpLTnRsT2xn?oc=5
+- Título: Light mag. 3.1 earthquake - 19 km northwest of Tecpan de Galeana, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 03:36 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 02:15:22 GMT
+
+Light mag. 3.1 earthquake - 19 km northwest of Tecpan de Galeana, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 03:36 pm (GMT -6) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMk4xM2l3bTFfRHVBZkoyVmVLdS02TDdzN013bzloMWpJbnlBeDNOa0xGQVE3MUphVXhYY212VFRFaWhrcndpemhZbnc0UTgzZXZlSjFaYWNFdDFOVlUwQ2ZwWTZDX2NxQnhlVmU2ME1RNkZXdTVYRFNzYnNfOEp4SDQ0S0VDdHY4dHFiNnllNUxveW5HTWFQbHBuWjEyczZtV1QyenMxeHY0TUsxbkZuejZkRG81NEtIaVNZblEzMDFiWEU?oc=5
+- Título: Moderate mag. 4.1 earthquake - Guatemala: Offshore Chiapas, Mexico, on Sunday, Oct 25, 2026, at 10:19 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 04:58:36 GMT
+
+Moderate mag. 4.1 earthquake - Guatemala: Offshore Chiapas, Mexico, on Sunday, Oct 25, 2026, at 10:19 pm (GMT -6) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0d3aXdtZnB3ZktDSUpiTzh2ajdxNU9sNHNMdDZhSDhkOVFGMk1BRHVVbW9JSG9SNHQ4dGhsdmFEaU54MjVKQnIxTlFtTm5wMERCT2hXRmk5cFJTc3ZQVE1xSVV2VWZtNlpqUE11dW5oTWpDMi1HS2hiNktXNlA5QUJDcVVLdWFmZmt5NVRSX00xLVI5WExLUF91ZmV3bS04dGhpbjVOZzVMSXc?oc=5
+- Título: Mag. 4.0 earthquake - Guerrero, Mexico, on Sunday, Oct 25, 2026, at 03:15 pm (GMT -6) - 2 hours 45 minutes ago - Volcano Discovery
+- Fecha detectada: Sun, 25 Oct 2026 21:35:51 GMT
+
+Mag. 4.0 earthquake - Guerrero, Mexico, on Sunday, Oct 25, 2026, at 03:15 pm (GMT -6) - 2 hours 45 minutes ago Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmVpNFZObTZSUDQ5SmJqU3R0NElKVEZWQXBwTEhvaEpkdGFnTnZIZEhIZlRFLXIycHdpYUppaEJfUUZkdlBGelNSVHk2Y2dBRnBKSGpQc2l0ejBGR2lmcTBMQkdPT3FMU3VIR05sNS1qSXJCWXlUQzlaM2swOHZNb1pPcDg3bUhYQ1REN2hCNlAzeUhMYkF4MUd4d2N1dUF2UjZEek8wNnkycEdQSUJZbWJaLXVkX3NiLVdz?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 144 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 02:13 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 25 Oct 2026 20:31:31 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 144 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 02:13 pm (GMT -6) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEQtdV9UVUNvMW1LQmw3SkJLTU4wU1cyaWFuekk4RW0yS0ItQVhJZDlDWjdiODY1TFRtN0hDTy1pT0E2VHJsZGRCQWdRNWs1MFVCZVpkTXhNYUNHUGQzRVJYcmUzbFFPaEMzX1lTemsyRmIzWWR5NG9STDlxUXVhQUJrMDNsdWh0VnRDQzJMTTZ5aUp1MmxvX3MyaGc4S28?oc=5
+- Título: Light mag. 3.5 earthquake - North Pacific Ocean, 41 km south of Sona, Provincia de Veraguas, Panama, on Monday, Oct 26, 2026, at 03:14 am (GMT -5) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 08:32:35 GMT
+
+Light mag. 3.5 earthquake - North Pacific Ocean, 41 km south of Sona, Provincia de Veraguas, Panama, on Monday, Oct 26, 2026, at 03:14 am (GMT -5) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU5FVXl2QlJIdXVkalN4Y281b0c3Vm54TVlvOXEtUjA5dVE5LVYtVWxFbEpfVG5lTzNpTUptRUlKUU11cWNOLU5uYlpGbXdLcjRDSUJrMnZabWNQV3RlaFQzVDM2NnJrd0lHQVVZcERSeDJUWVppRkJQTDc0VHJ5QWhyMVNEZTdFOVpucTlvTUxxa1hWRWNYSldBUXUxX3NQNVBkdXgtN21TcDQ?oc=5
+- Título: Moderate mag. 4.3 earthquake (unconfirmed) - North Pacific Ocean, 151 km south of Santiago, Provincia de Veraguas, Panama, on Sunday, Oct 25, 2026, at 04:30 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Sun, 25 Oct 2026 21:34:00 GMT
+
+Moderate mag. 4.3 earthquake (unconfirmed) - North Pacific Ocean, 151 km south of Santiago, Provincia de Veraguas, Panama, on Sunday, Oct 25, 2026, at 04:30 pm (GMT -5) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjdCUlFIQ0dSRjVWRFhXcDcxaWxNeGpfNG5feXRUQWtVdEZ5eUt5SUlVZmt4R1JNSE12eFhXcEU1TjloZlFYUWhYajBKT2s0enI4VnktUHpPd0M1QUQyemZGc2J6R2lVa0pPRFF1MVQ2T0pYcEh3QUpsSVRBNWdmb0VCbWhnWWViRGN0NHlkQ1cxWS10TFVyUUh6SHpqMU12UVVWRTNfTGxmc3IxQ1Qxdy1ObDBtZWJpSkxocE9n?oc=5
+- Título: Light mag. 3.4 earthquake (unconfirmed) - 29 km south of Ometepec, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 10:09 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 02:15:22 GMT
+
+Light mag. 3.4 earthquake (unconfirmed) - 29 km south of Ometepec, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 10:09 am (GMT -6) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXdpeHh2YUdVNkE4cURDRGF0b3NsOGYtS0Z0UUpFR2F0VFpQaFFHVXhuYmdLY1YzYjFFNGRoN2t4ek9FaThpZ0R0OFhhQUl2YTJJV1FaWjdTZGtfX1J0WU5kQXprZDY4b19lSzlUbzAwTDFWbFZQUmVjVWpicXFWalhZVTNTZ3ppVUoxeXlraEo1b1JNZDRldThQRkxXSFVtV1BJcFBXVExOcjBvbmVHUmVmYmRqU3V0VFlhbF9PcTFiRFRTVUF5eVhKZllXdw?oc=5
+- Título: Light mag. 3.8 earthquake - North Pacific Ocean, 45 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 05:39 pm (Universal Time) - Volcano Discovery
+- Fecha detectada: Sun, 25 Oct 2026 18:26:48 GMT
+
+Light mag. 3.8 earthquake - North Pacific Ocean, 45 km southwest of Tapachula, Estado de Chiapas, Mexico, on Sunday, Oct 25, 2026, at 05:39 pm (Universal Time) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVA3WHE4Q09BSENEUjR6Wm1vcVJxVG1rRjdOYmJza0RZR09CM0JrY0wydEYyOXdZb3kxVHVWZWczSy1HYUE4ZXc2a2w4eWYxQVR4VHpaTkhYU3BqNzBRSDBkVGc2Nk5zbnNUYzh0dUJwNFRCSXZHYzVDcUFlLWF6bDRnT3BzYy1tUGRwazZxZzd0OGVkU09LNzZ4TkJmV3NkV3VRVlN5a3hlSzBiOW1LSWEwemlrQ2JKbFFweUdNUUc5WjZjdU1sYkxPY3ZLN2pyeUd6SHM0dw?oc=5
+- Título: Light mag. 3.5 earthquake - Estado de Jalisco, 41 km northeast of Manzanillo, Estado de Colima, Mexico, on Sunday, Oct 25, 2026, at 03:24 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 02:15:22 GMT
+
+Light mag. 3.5 earthquake - Estado de Jalisco, 41 km northeast of Manzanillo, Estado de Colima, Mexico, on Sunday, Oct 25, 2026, at 03:24 pm (GMT -6) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3g0dGtjU1RpeEJJWnRHLVNjb3JrazF0WjdvR2t0TzU1dnd1M2sxYXJUYnlaWTQxNlcxc2F1Y3UxbW0taThoTElWQktJR19BSzNkMDdPajh6STJISFFzX2ROclNfMzBkVjBwSFduTGNBWW1PaFFZRURUOHpWQk1nakxyQzFhbEpkWURpU0dXXzlaeG1MUk1RYjEtZGdoRmtoQXZva1ZwSXluNURPa0J5M3Rnb1NIVHRtSVdtTUV3WnBGQ3JOTFlnU1JZclJUS1U?oc=5
+- Título: Light mag. 3.5 earthquake - 47 km northeast of Acapulco de Juárez, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 04:18 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 25 Oct 2026 22:16:46 GMT
+
+Light mag. 3.5 earthquake - 47 km northeast of Acapulco de Juárez, Estado de Guerrero, Mexico, on Sunday, Oct 25, 2026, at 04:18 pm (GMT -6) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxORkRRVEF4R0J1NkdyQkZ1T2dSV3dJU1A2ZThVTzVuWVdKTlViQXlXOGdMOWliU3VZYzFwbnJjNkxxNnJrS3p4aWxmdkNEVmhETWhqZDRObFRXQ2RSeGNXNEZVQkJULTVHTTN6dzV4enNUdHdNVUxkb3FuZVVobWZjZHdUOTJKQXVwdlNnbkpLZDN2OGhqanVpUWVnOHVZY010U0pqWDVn?oc=5
+- Título: World Earthquake Report for Monday, 26 October 2026 - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 05:37:36 GMT
+
+World Earthquake Report for Monday, 26 October 2026 Volcano Discovery

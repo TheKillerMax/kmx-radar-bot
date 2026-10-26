@@ -1,0 +1,30 @@
+{
+  "event_id": "12-5f427b2bf456f53c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmpYTGVZbVNMM01JY1QzUnhqZDRRUXEwVjNwSHZnWkRxcXNyVU9pZU9JNnpFdEVZUlZPQnVIZXM1ODk2TWdSdzJKTkkzUFhTb0t1SThORWQwUjk1Vjg0T1hjRkFrTlR3TTdTVEVNTDRPUnQ4bmVDT1RzT2t5S1R5aHFlZUc4dFc1MEZYaEltU0U4LS05X2tVSy1Hdw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 23 Oct 2026 16:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
