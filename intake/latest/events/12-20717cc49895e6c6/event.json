@@ -1,0 +1,30 @@
+{
+  "event_id": "12-20717cc49895e6c6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YWxha1dRTG1GMGd0V2lwN3pWUHZwX0JvbWNlVlVrdkNZaDN5Z2tqQ1hCQkNhaVVMeHJxd1Q2VHNUQmVnMHhhcHNFbUdqOS1VNTF6MXdKQ3VsTmhW0gFiQVVfeXFMTW9mVFUzZ1dNTzdxWGZrQWxndFF4ZVZEcUZoM21PV00zVXNDcGxiMTNyTTRXLXRzSldLMXJBUU95SlZVWHpINy1jbHR6S1llSElNYTJoSmVyUlVkZXVMQjU2b3c?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 26 Oct 2026 12:06:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía BBC"
+    }
+  ]
+}
