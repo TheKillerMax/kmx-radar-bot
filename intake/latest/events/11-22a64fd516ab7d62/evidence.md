@@ -1,0 +1,94 @@
+# Light mag. 3.6 earthquake (unconfirmed) - North Pacific Ocean, 95 km south of Pijijiapan, Estado de Chiapas, Mexico, on Monday, Oct 26, 2026, at 06:58 pm (GMT -6) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGl6UXpFOFJKaHIwcE84Z3dyRmNsMmhiak1SX0FLY25wWTlPOXgtLS0zSXBGZmt4QXNndlZCTkdQZF82aXotUjc5YnBzOENqdlN1end6T3BmT0FFbGh6R3VyaU8yVnV0V3lENXRyUkhRVUhSRks2dzVnU05sWTI0SF9Bb0tfaHBIeDBVQ1ZaOXZrTlRpVFF2ajFOS2docGNYT3YydF8zM3VhR1JGWUZnZEVYOGhITml4VHc?oc=5
+- Título: Moderate mag. 4.6 earthquake - 20 km northeast of Arriaga, Estado de Chiapas, Mexico, on Tuesday, Oct 27, 2026, at 06:01 am (Merida time) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 12:01:52 GMT
+
+Moderate mag. 4.6 earthquake - 20 km northeast of Arriaga, Estado de Chiapas, Mexico, on Tuesday, Oct 27, 2026, at 06:01 am (Merida time) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUNFYzdCQnZWcHpaQ1NQbGVtR3VRbHd2TWhKbHAzZmRYdDB3emFTVUliVTVoaEd0NXJwQkZVa2xPZ3ZRQU44aDBaTldNTExMQWJqY1EwUHFsZGRxUi0xRGdXSXBWdGxzc2c5V2hzX3BvSXZ6eGtRT2N6SDRFV29ZRmRMMUl2d0hEVlBsMzl3OEZENlVyWlNDSXFVTE0yRWJoZ3l0b2NIUHl6ZTE4?oc=5
+- Título: Light mag. 3.2 earthquake (unconfirmed) - 22 km northeast of Coalcoman de Vazquez Pallares, Mexico, on Monday, Oct 26, 2026, at 08:43 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 14:48:37 GMT
+
+Light mag. 3.2 earthquake (unconfirmed) - 22 km northeast of Coalcoman de Vazquez Pallares, Mexico, on Monday, Oct 26, 2026, at 08:43 pm (GMT -6) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbURzN1NiMEpKcGkxMXZvVmR4RnFxNUlkXzhIYmhMUmlMU19OYjI5T2swaHlPVEM0WWViN05PVnRwN1lvQmlFSDlKN19IclFGLXhjVWkyQmlGQVk5aEFQalFHOHJULUIycDNVeUdxYnVsZDR4RzN1dVZxYUJsUDFoaVNxdXpCYkNsNDc2RFZ0N3ZaQkZKQmJES2ZHUEZNU1hYODZzT3QybmMwallIOTM2ZXJfOV95dkRkbnhn?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 79 km southwest of Crucecita, Estado de Oaxaca, Mexico, on Tuesday, Oct 27, 2026, at 04:15 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 10:57:08 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 79 km southwest of Crucecita, Estado de Oaxaca, Mexico, on Tuesday, Oct 27, 2026, at 04:15 am (GMT -6) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk0UW1Ja0xLRVU4MERwWDc0Q3NYRVk0YlV6R2xpbGlpRGYtUlF6QktuWUJYN290TlJVd2txbWFpWk5tanBJR3RybVk1VVlrUkt3Q3NaR19XOGMtd2xQZjdPSGllVW9MbGpKXzQzbTVjd1UyaTVMc2NqTWFzeXdTNDN1SnJVdDBGY2lZejZ6Uk9rZldrcDNtemExVFN5bmpZcUd3VzJPNjNPeXVPUUNYMS1ZZ0ZoTTRD?oc=5
+- Título: Light mag. 3.7 earthquake - 69 km north of Santa Rosalia, Estado de Baja California Sur, Mexico, on Tuesday, Oct 27, 2026, at 03:59 am (GMT -7) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 14:40:59 GMT
+
+Light mag. 3.7 earthquake - 69 km north of Santa Rosalia, Estado de Baja California Sur, Mexico, on Tuesday, Oct 27, 2026, at 03:59 am (GMT -7) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWRNT1g2THpOZi1GNFJ1T0t3QzlWcm4yLVlvVHZ5cC1XU0RoaUVEOGNqQm1kMEd2cDR2SXduTG5JSm9IUkc3WHQtaHpwS0U4S091X0dLNmhLU2UxbHFBOVZiUkVmMERqRldBT0hnekFNWnBLaFVnTHJKUzRPRElSNFdHTzltTVdyVWpn?oc=5
+- Título: La Paz, Estado de Baja California Sur, Mexico, Earthquakes: Latest Quakes - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 09:56:45 GMT
+
+La Paz, Estado de Baja California Sur, Mexico, Earthquakes: Latest Quakes Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDNFWS14TVVFSFJFeUNOc3dtX1pGZnBHZnRJNkluOVZKUU9taVlmVFRwUEhZMy00dDlvaFo1emljYlNwUDVYMkJBU2xLZVZBOHB2QVZlU1BSaHJQS281YUhFcTZiY2pSRVF3enJiY1FNMi1BT0VndUFKaGZjd3BVSU5KR2k1UWFPMUVYakVucDlpOENBZWRBczRnOUt4aUhjM3pPbDAwTXk0dk9ucXNN?oc=5
+- Título: Weak mag. 2.5 earthquake - Veinticinco de Mayo, 43 km southeast of San Juan, Departamento de Capital, San Juan Province, Argentina, on Tuesday, Oct 27, 2026, at 09:27 am (GMT -3) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 12:56:09 GMT
+
+Weak mag. 2.5 earthquake - Veinticinco de Mayo, 43 km southeast of San Juan, Departamento de Capital, San Juan Province, Argentina, on Tuesday, Oct 27, 2026, at 09:27 am (GMT -3) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVk5ZXAwamVMNFpSR29DWWR3cGQ2ZFpiY2xyOEdBajlwUVE1RENqLTNRMXlxMTVXX3RvenpoUmNsdTZlekZFRzhHSWFRWVJDd1FmdWcxMThXQlZmZk1wZnNkVnM5eTc0VXJhU2dsREM2RG1felVKcnBGbnhmdmNQVENNUEVPQnZEa3lPTHBkY1otZW9xOGNxYUJNVW1jc1VFeWphSjJLU0dadGhWNGJaVEh0cmg?oc=5
+- Título: Light mag. 3.3 earthquake - Baja California, Mexico, on Tuesday, Oct 27, 2026, at 03:21 am (GMT -7) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 11:03:21 GMT
+
+Light mag. 3.3 earthquake - Baja California, Mexico, on Tuesday, Oct 27, 2026, at 03:21 am (GMT -7) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk0zLUJvYVY0Y1dVYnBrY0RUdS1nN2hwaFg1RkxDdDlmVzhXNS1BNlhRV214MkplTFB1SC02SG9ZQjFBVXRPanhHUFNXQVJBX0tuT1BFLUctNjFIVk12MEQyQXB4cVlIY0QtdWFqNlU5VWVIR2VqM3BnZU9LN0NlSGdseC1FZm5tejRBNXpjRHZtQmg0dFVod1ZiM1huc0h1dTJOR1pWdTRkZ2d3d0ZYM0lCYVdyRDA?oc=5
+- Título: Moderate mag. 4.4 earthquake - Jujuy Province, Argentina, on Tuesday, Oct 27, 2026, at 11:41 am (Universal Time) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 11:42:23 GMT
+
+Moderate mag. 4.4 earthquake - Jujuy Province, Argentina, on Tuesday, Oct 27, 2026, at 11:41 am (Universal Time) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHkteVZaTzZJU21NM19IQnI5NEwySk85Zm5oME03aWttenIwZXFkVGI4UmdWejB2UUd2amRES2ZESWx1XzlDN0plSElaOFp3VlA1VGxnemFCcE5xZG9sOUlvenVNX0xTQ2w2Vk5xOTJhV1JTQ2pmUVowUXBzVXBqX0wtVTFUaUxjZVBYOFZmeVk0OXk1NlMzU3FyNzdYN2xOdHhmRjVxWlhlLWc?oc=5
+- Título: Mag. 3.4 earthquake - Guerrero, Mexico, on Tuesday, Oct 27, 2026, at 03:52 am (GMT -6) - 4 hours ago - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 10:42:18 GMT
+
+Mag. 3.4 earthquake - Guerrero, Mexico, on Tuesday, Oct 27, 2026, at 03:52 am (GMT -6) - 4 hours ago Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPai11TWZBQnk4MEY3MG5ISVVSQ29aT1czS1dwWG9ESTloaGJNTFZlX0VCdVYxTjg2bk8wQjV0c0d0VlRxRG04VnRjekxzOGJrd3QxWE1weU9sa2cwRmhIU0h1VS1pa0JjSnROMFRYS0xPSUJQdWZ5YmZMcU1rQXgwM3JuMmpLdm43ZXlBZmU2N0hoNXVISkpjbmF4dFlzYXh0UGZIT3ZIam0?oc=5
+- Título: Light mag. 3.5 earthquake - Oaxaca, Mexico, on Tuesday, Oct 27, 2026, at 03:40 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 10:42:20 GMT
+
+Light mag. 3.5 earthquake - Oaxaca, Mexico, on Tuesday, Oct 27, 2026, at 03:40 am (GMT -6) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3ZFSVViVjNjaDRHcWZzSzNhM0xYMlZFMmtfTDh0RHgtS3lqVUpENUtsTFlyWXdVWGo1OFZpLTdRMTNtOGFBbXd5MFZYd2dtV2cya1VsMURFVTdHZC1xUWRzMXpKcDhXUmRYU1RhMkJjNVRKdkdvQkFjYms0eVZfZ0tXYXVJcW5XU2hUS05GSHhHb0RiWnVaWThWLWs3MGtpM0ZYVFdIWkQxNktBMlBTZGhGR2xQZnc3N0paZ3pn?oc=5
+- Título: Light mag. 3.1 earthquake (unconfirmed) - 52 km east of Acapulco de Juárez, Estado de Guerrero, Mexico, on Tuesday, Oct 27, 2026, at 12:57 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 14:48:37 GMT
+
+Light mag. 3.1 earthquake (unconfirmed) - 52 km east of Acapulco de Juárez, Estado de Guerrero, Mexico, on Tuesday, Oct 27, 2026, at 12:57 am (GMT -6) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUcya2JMOU0xbG1qSE0xSVhzVVJnRk1XTXNxNThZaGJKZDM0b2pzVi1hcFQyLU9qMU82Slg0QXFIWHdPaTlmOWMtcHI1ZDYtVGYyUWZINnVPLTNLOWZTSkZuU0trRXFIeUNxN2tqRDlkaElUeEdTU0xmRVZlc1NGNkhEVndkWllSMkxURDI3ZzhRUHB4aU9NN1k5WVhQT2I0dUJFaHdnMHA0b29ZSUlIRkxOcTluYXdX?oc=5
+- Título: Moderate mag. 4.2 earthquake - Mexico: Gulf OF California on Tuesday, Oct 27, 2026, at 11:27 am (Universal Time) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 11:30:19 GMT
+
+Moderate mag. 4.2 earthquake - Mexico: Gulf OF California on Tuesday, Oct 27, 2026, at 11:27 am (Universal Time) Volcano Discovery

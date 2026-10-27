@@ -1,0 +1,40 @@
+{
+  "event_id": "04-f5dfab6ef41db152",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm4yb2Z6WmJKWlVuZVI0bmFRVEM2ZS1FdTh4OGt2VmI5ZzVXOEJkRFRQUFY3bkxNa1Z6WWdYdjdLV1dhc2Z0aG9hX0lXQ3pzUHprVHpkay0yOTRicFhtWXg5X3NPTy1vSnlRVHRleFBWSEhhdFFTWnpNR1prNjRSWjJvek5Vei1VMGluSE0yMGYtN2ZLVG50QUhkUjV0VnNic1RsTzd5RnUwcHgwLXctaDd1SnR5cU5UMDBFZHpR?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 14:43:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com España"
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2J4LWV0bHdENXlYX0lpZjNBZFlvUk5KbVJNRjQ0cWJNWkRTRFF5MnVPWDBoZUp2cFIxbkVua0ZXN2NfeUpacm9vQkp4enIxVXpaMFJLdV9fYS1jb2szZVpRTDVma2RTVy1nUk9lTU1pSGFGbXdNcEJiMnlKUUdmNVZxbzQ4dGlvOGtKa2N4OTMzWHNPYjNoVVRLeEFRWFhMQ1hJeEtKcHpNM01rR3J5dzBTcFRMZmlzUW5EZXNn?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 14:49:48 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    }
+  ]
+}
