@@ -1,0 +1,30 @@
+{
+  "event_id": "12-41d1f7f1604fadc8",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Flávio Bolsonaro dice que fue notificado para entregar sus pasaportes y que no puede salir de Brasil - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Flávio Bolsonaro dice que fue notificado para entregar sus pasaportes y que no puede salir de Brasil - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWJNNVdlcnN4NnpheGtQSVd6VExFbkRjWEZKMHdxM25rRG9LRk5BcmZnLTV4Mm5aTGVaUnUzMm80UHFtUkRJdFRTczFHTloxdzg0U190eThPb3lZVC05SEx0OXhPdlRSdXlSMm1HQ0g1YUJRR3gyWGFZRy1USlVRZGdSOHdGeTJrcjdjblhOVkluUURCMVpabC1wTkgybzBh?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 26 Oct 2026 21:06:36 GMT",
+      "primary_hint": false,
+      "excerpt": "Flávio Bolsonaro dice que fue notificado para entregar sus pasaportes y que no puede salir de Brasil CNN en Español Tras la derrota frente a Lula, la policía le prohibió salir del país a Flávio Bolsonaro Clarin.com Flávio Bolsonaro denuncia que le retuvieron el pasaporte y renuncia a pedir la anulación de la elección El Mundo La Justicia de Brasil le prohibió salir del país a Flavio Bolsonaro por una investigación de blanqueo de capitales Infobae Flávio Bolsonaro dice que un juez le ha pedido entregar su pasaporte EFE - Agencia de noticias"
+    }
+  ]
+}
