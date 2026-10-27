@@ -1,0 +1,94 @@
+# Light mag. 3.5 earthquake - North Pacific Ocean, 43 km southwest of Sona, Provincia de Veraguas, Panama, on Monday, Oct 26, 2026, at 11:16 pm (GMT -5) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3FKa0FhZ1c2dV8zOGMzVGt4MWtqYWNsenRYQTJCUXR6VTZKbWxzd0x4RU1lYmVvTXdfd3BpWG5hc2t6b3N3dkxidlJwaWFpQ1R2YzF2RDdRckpZN0R2RFh1U2VoQW45Wi15bmctNzJxUE00cU8telN0VjRiUlRZeTFmOTF4RXI5OU5mQWs0V1FjcWlyZHd4SzVxODB1dHd4?oc=5
+- Título: Moderate mag. 4.0 earthquake - 13 km northwest of Azogues, Canar, Ecuador, on Monday, Oct 26, 2026, at 10:55 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 04:01:32 GMT
+
+Moderate mag. 4.0 earthquake - 13 km northwest of Azogues, Canar, Ecuador, on Monday, Oct 26, 2026, at 10:55 pm (GMT -5) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPTW5YR0c3eFRlaVMzN0Nzc1MwaUJwNDdzOFVSZkY4NWpjbnM5TmlMYmdqek01amlLOUE4SGFWRG1GMHQtYUZWdEFYa1RxYnByOHZpeHpzNm4wWGpCd0pmVUp2MlZjM29WMnJyWmppUTE0dERKbm5Sd1IwbVZPWXRCYVgzR3hBLWF4MUt3STJmSXp3VmVxbWRsbFJQcTRNRWxxU2tGZEdZTHVsOTB4dDhGbTZmbDZCaVdQenlkMDlR?oc=5
+- Título: Weak mag. 2.6 earthquake - 9 km southwest of San Marcos, Estado de Guerrero, Mexico, on Monday, Oct 26, 2026, at 02:49 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 07:35:00 GMT
+
+Weak mag. 2.6 earthquake - 9 km southwest of San Marcos, Estado de Guerrero, Mexico, on Monday, Oct 26, 2026, at 02:49 pm (GMT -6) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkRkLWE4QjhVVjdTMXp2cHlMWjdUTGdzdXRHbU56UGlBX2hzaXRvUTNxdTdpYmtabUFJMF90ZF9sV3lBejlHLVowQm9vX1ZKOExtNVdSWEFlU1ZsMDdxSGRNMEVDUXB1R2JoSllPbk1qT05jckVudDBmU0FiSFVsdV9WTWQ1dW9aaDZBdEJiTzhORkNmMUtwdWI2eFViTzhIckRXNnU2SzFfYUJZMFFvTEJxN0E?oc=5
+- Título: Weak mag. 2.5 earthquake - 4 km Al NORESTE De SAN JOSE DEL CABO, BCS, on Monday, Oct 26, 2026, at 02:17 pm (GMT -7) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 07:35:00 GMT
+
+Weak mag. 2.5 earthquake - 4 km Al NORESTE De SAN JOSE DEL CABO, BCS, on Monday, Oct 26, 2026, at 02:17 pm (GMT -7) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWk3VHJnMzRJTEhxdHQ5WXVTSS10dHJuSTlwX0F5TjRLOVYxUHJWM0cxcDR3UkxZSFFUd2NkdnY0aXFlb0VoNnptdWRIZFdacklfT3Q1a1QyU01GT2EwbnRHOVpSZHk3aFVLdWM1QjJFeFRmUE1GV0FuZy1vdDlvVjBVWmkyWTlhZzJ6eklBUnJDLWp0dmdYWUozX1hvcVU?oc=5
+- Título: Light mag. 3.9 earthquake - 25 km south of Las Tablas, Provincia de Los Santos, Panama, on Monday, Oct 26, 2026, at 08:45 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 02:51:28 GMT
+
+Light mag. 3.9 earthquake - 25 km south of Las Tablas, Provincia de Los Santos, Panama, on Monday, Oct 26, 2026, at 08:45 pm (GMT -5) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVV0VlI0bWo5eDFSZUYtaFNRSHZlUDY4MVRnMmkyVWJueXcyZzlIZFBVZmdNb0NORmdodE1QcXlFYUV4NmNld1dhSG9xaGZLQTVWNUhuVWFuNjNhR0lfZFRHRVhkTEtiSWtIUk1EVjAtZmtLNTlMWm94bEEycDk4eDVTZEdlSENtWHZwa0N0NUJ3RXN1WlJVY0I5dlNkXzQ?oc=5
+- Título: Light mag. 3.5 earthquake - North Pacific Ocean, 43 km southwest of Sona, Provincia de Veraguas, Panama, on Monday, Oct 26, 2026, at 11:16 pm (GMT -5) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 04:26:35 GMT
+
+Light mag. 3.5 earthquake - North Pacific Ocean, 43 km southwest of Sona, Provincia de Veraguas, Panama, on Monday, Oct 26, 2026, at 11:16 pm (GMT -5) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxObm14UGxxMkkzWW9LYmRCMFRDcTZzbFNheWxDNDl2V2JqOWhubDlxdzQ4MERFQWw2WHFna25oUkQ4d24wOWFVVVo3SXFjbENnWnNmVmtYRzNnaGk1UlhrMkpQX1FOYm5NZjFNcjdiZlhIaF92ai1kejQtWGlKcmw1Q2lNQTJOUTZFR3JPLTBGVzZHN0ViX0pIYWNKajVybW9tNl9aSWFLaGRYb19jdFdfWTBOOV9fQTRrRXBSTlhkRQ?oc=5
+- Título: Light mag. 3.4 earthquake (unconfirmed) - Mexico-Guatemala Border Region on Monday, Oct 26, 2026, at 05:57 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 06:13:34 GMT
+
+Light mag. 3.4 earthquake (unconfirmed) - Mexico-Guatemala Border Region on Monday, Oct 26, 2026, at 05:57 pm (GMT -6) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVRTeFFZbVFlODFDXzhVMGNudmFsRjBzeGxsRjBSX0xNTjhEX3E4d0hDUDJvYVkzWjdydWhmMFl1N01lVHFrWE9EWk9HN1NrNThrdGJreVltSE1RYnc2Y2pxSGo3c0l3YS1YM3NwaVBLQk1WVFVva1hfN0xnWEd3N2I2b1BpZ0FwNG5NcXZ5aURLUDRjUU1ZSHN2TjhSU3pDUkxnWXhZM3JtelNkQXNOWEF2Um9nY2RLOUFVTGkteTdtaUtITFRlZHdUeVc?oc=5
+- Título: Light mag. 3.1 earthquake - North Pacific Ocean, 53 km south of Usulutan, El Salvador, on Monday, Oct 26, 2026, at 01:27 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 20:00:23 GMT
+
+Light mag. 3.1 earthquake - North Pacific Ocean, 53 km south of Usulutan, El Salvador, on Monday, Oct 26, 2026, at 01:27 pm (GMT -6) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXFiVFpRMmFkTWxXbEFxT1VLUXpvU1FTVzhqNkljeUZNdGxlUGQ0WldBSHFnZE92UUFpQlBqWEl1LXBiTUozU0R5d3BGaUVsQ2I1MDBoaEkwdW9vcGhtS0k3ZnROSEJna1k1SkJuUnpsb3p5azlhRVByVmFPSzlqZzBDaVZUcnlTaUNoUUhqRWMtUUdPSHBsT2Utel9oMmdKRnN2VS1zeUtqSmlNYlVaVzR3VFhiVmc5eXoxQUVSNGRNeFRqZGVsZE1Jc3p2Zw?oc=5
+- Título: Moderate mag. 4.0 earthquake - North Pacific Ocean, 67 km southwest of Tapachula, Estado de Chiapas, Mexico, on Monday, Oct 26, 2026, at 04:19 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 26 Oct 2026 20:51:17 GMT
+
+Moderate mag. 4.0 earthquake - North Pacific Ocean, 67 km southwest of Tapachula, Estado de Chiapas, Mexico, on Monday, Oct 26, 2026, at 04:19 am (GMT -6) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelRra0xmcWh2Y1VYZXRJaHhrQnludFBPUkRJbTU0U2p4N2d6STZfNlB1aEcxWkJEaml1Y2VZeHgyY0JrLWRsal9SZm1KTEE2SXp5VC1maS15ZmU4NEpwdC1LXzl0QTNDMno4R1p3b2U1R0tFb0ZPd3ppNU1hUlhTaTVHTlRwUkpRNW4xS3dTNWxILXJld2dtT0VwS0lzVFdOX3RIYTFHTllnTXd0dW5OOHZ6T0l6T3Nj?oc=5
+- Título: Light mag. 3.5 earthquake - North Pacific Ocean, 56 km southeast of La Placita de Morelos, Mexico, on Monday, Oct 26, 2026, at 04:08 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 02:05:23 GMT
+
+Light mag. 3.5 earthquake - North Pacific Ocean, 56 km southeast of La Placita de Morelos, Mexico, on Monday, Oct 26, 2026, at 04:08 pm (GMT -6) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXlmU0tZajlHNUh1MFJTakJGTWNZd0tydGxQUE92R0NKVUw3QzVIeXFGWEN3dWljNTJtVVlaUG9jak1jdjh1YnI5Sk1sdXYySUg4S1FRbmV6OHJkTTBXQjJoYzRRYllIYmhzLTZRX0xRWDFEODNqTTF3ME10ZTFQdkNraUlwOXFmR0YxSjlVMVp4eEUtNEl6RWZyX0NqcTA?oc=5
+- Título: Light mag. 3.5 earthquake - 55 km southwest of Chitre, Provincia de Herrera, Panama, on Tuesday, Oct 27, 2026, at 12:45 am (GMT -5) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 06:00:50 GMT
+
+Light mag. 3.5 earthquake - 55 km southwest of Chitre, Provincia de Herrera, Panama, on Tuesday, Oct 27, 2026, at 12:45 am (GMT -5) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFExLWFXWlhEb1JaNWFfWFVVMF8ybFVaTjB1bS1ZR2R3cWh4WWhyTUgtVW1QdGlIZjRrUUhZQlVrSkxIVHdCcC1McmZkTFdtS04xXzZDcW1lVFhOb3pVSW9ubVh6X1dOU2FWQ0tEakw2czBVMjduUnZNcXNFdVByUDdLVS1TN2hZYUg1UFJIcW5GTklVOF8tV05uUHF3Q3VfTUdwTDhYb1g?oc=5
+- Título: Light mag. 3.5 earthquake - Oaxaca, Mexico, on Monday, Oct 26, 2026, at 02:35 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 02:05:23 GMT
+
+Light mag. 3.5 earthquake - Oaxaca, Mexico, on Monday, Oct 26, 2026, at 02:35 pm (GMT -6) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkVGMjVuV3Z5dGNQU3ZwZHRJNWRVODZGZWVZM1pRd2RIRE12THlUaW41RzJmSGJ2QWFqclhscnZ0WnlTbnM1TWdMZDc0VXg4UUVXR0RkcS02ejAwTmw4REJXZTlSS3I1SnJqVnZaNDlJZGdiQ2ZEaWVNbzdDSjkzcDZqU2J3VmNtaHY2Sng2NzVfTk9ZTUpYSXIxUnd3dEVKRlA4LXRRNWlDN3c?oc=5
+- Título: Light mag. 3.4 earthquake - 40 km southwest of Ayutla de los Libres, Estado de Guerrero, Mexico, on Monday, Oct 26, 2026, at 01:44 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Tue, 27 Oct 2026 02:05:23 GMT
+
+Light mag. 3.4 earthquake - 40 km southwest of Ayutla de los Libres, Estado de Guerrero, Mexico, on Monday, Oct 26, 2026, at 01:44 pm (GMT -6) Volcano Discovery

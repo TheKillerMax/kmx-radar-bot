@@ -14,4 +14,4 @@
 - Título: ¿Cómo reaccionó la derecha de América a la victoria de Lula? Varios saludos y dos ausencias - CNN en Español
 - Fecha detectada: Mon, 26 Oct 2026 14:28:00 GMT
 
-¿Cómo reaccionó la derecha de América a la victoria de Lula? Varios saludos y dos ausencias CNN en Español Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos BBC Dignatarios de todo el mundo felicitan a Lula por su reelección en Brasil Los Angeles Times Las progresistas estadounidenses Ocasio-Cortez y Bernie Sanders celebran la victoria de Lula Fox News Titulares de 26 de octubre de 2026 Democracy Now!
+¿Cómo reaccionó la derecha de América a la victoria de Lula? Varios saludos y dos ausencias CNN en Español Por qué Flávio Bolsonaro pidió anular las elecciones en Brasil pese a las pocas posibilidades que tenía de lograrlo, según los expertos BBC El milagro de los nueve dedos EL PAÍS Dignatarios de todo el mundo felicitan a Lula por su reelección en Brasil The Morning Call La victoria de Lula en Brasil frena en seco el Escudo de las Américas de Donald Trump El Mundo

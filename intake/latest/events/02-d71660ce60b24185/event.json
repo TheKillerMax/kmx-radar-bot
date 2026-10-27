@@ -1,0 +1,40 @@
+{
+  "event_id": "02-d71660ce60b24185",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Dubai Chambers lanza el primer mercado de IA agéntica del mundo creado por una cámara de comercio - Rutland Herald",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "businesswire.com",
+    "rutlandherald.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Dubai Chambers lanza el primer mercado de IA agéntica del mundo creado por una cámara de comercio - Rutland Herald",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSjVER01GdHF4T1BGSUs1ajZzLVFLMlFTbVI4OWpadUxWbVF3RW95d3ZuX2QzOFdxd3o0S2JEQjFFdlc3M2l3RGhUMXlPbmJ4QWYzcVQ5S2NZWDFfQTRMT2Y5UnZYc2x1RXBZWFZJenNBVUxTNHRSRTBPdUt4WEJsbl9pRll3ZXowYU1XM1o2UldwX1p0YXBUc3MzR2pkRUJQc2ZZQ2RhNm1qUnBROUVCeEdodEdCeVJ0V2NtU19vOGVqMFJFNmFPamRPSWU5T1B5R1luU1RRb0VsYlFzMTVDWXJGRjByUXZweE5vb0VzMm1CRW4tZW1xOVJHUGpYNDh2MkE?oc=5",
+      "domain": "rutlandherald.com",
+      "publisher": "Rutland Herald",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 26 Oct 2026 23:32:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Dubai Chambers lanza el primer mercado de IA agéntica del mundo creado por una cámara de comercio Rutland Herald"
+    },
+    {
+      "title": "Dubai Chambers lanza el primer mercado de IA agéntica del mundo creado por una cámara de comercio - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEVEVkWU9MMFAtMHc4bHNkeEJyWW5rUHJ4M0RmZ01yVy1XTnR2enhjWmxNbHhuT2VVMEViVzktSWQ4aVpCeTNrMWprbVlybXFMMXo2WWktcXZZOGkwVTExQ254RDRfcUU?oc=5",
+      "domain": "businesswire.com",
+      "publisher": "Business Wire",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 26 Oct 2026 23:32:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Dubai Chambers lanza el primer mercado de IA agéntica del mundo creado por una cámara de comercio Business Wire"
+    }
+  ]
+}
