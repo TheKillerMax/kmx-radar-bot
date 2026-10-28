@@ -8,7 +8,7 @@
   "note": "FASE 3 BLOQUEADA por actualización oficial del 23/10/2026 (rueda de prensa de Nagqu, balance a las 13:00 hora de China): 339 hogares con viviendas DERRUMBADAS O DAÑADAS, no 339 con viviendas derrumbadas. Corrige publication.json caption ('centenares de viviendas se derrumbaron'), visuals.json pieza 04 title/alt_text y publication.json alt_text 04. Repite FASE 2 para renderizar la imagen 04, revisar fuentes, geometría y QC; revalida cifras/frescura antes de aprobar. Fuente: Xinhua (https://www.bjnews.com.cn/detail/1792731443129594.html), Reuters 23/10 (https://www.reuters.com/world/china/injuries-chinas-tibet-rise-65-after-earthquake-death-toll-remains-16-2026-10-23/). No crear .ready ni publicar.",
   "pending_editorial_error": null,
   "pending_editorial_status": null,
-  "pending_manifest_generated_at": "2026-10-28T09:33:31Z",
+  "pending_manifest_generated_at": "2026-10-28T20:13:45Z",
   "pending_publication_id": null,
   "pending_source_event_id": null,
   "phase": "needs_refresh",
