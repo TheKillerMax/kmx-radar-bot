@@ -1,0 +1,30 @@
+{
+  "event_id": "09-ae5ea6ad3ea23f74",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Plazos, vacancia y renovación de la Justicia: así plantea EE.UU. la hoja de ruta de Venezuela hacia las elecciones - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Plazos, vacancia y renovación de la Justicia: así plantea EE.UU. la hoja de ruta de Venezuela hacia las elecciones - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1dsSVRqbWc3bDdFMzhmaDhFV2pOdTA0SnFBZmlfY28yN2ZNMzRiRXAxRDdTY3E5NEhnZkdlRDVZRGpkZ3JQZGxRblhJWVdYaEN5dExaUHdQNlVEbktSSHd5MEJiMGpHX0taOVU1LVhITURmaGNCSDVUNW5rU3NhbnhoRnpYZTJhOF9vSmQwdk12SmNzSktSMQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 20:44:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Plazos, vacancia y renovación de la Justicia: así plantea EE.UU. la hoja de ruta de Venezuela hacia las elecciones CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "07-65b3943c0159567f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FMzAyZUdVOHBYSmlXaVhoODNPWTJxV0RsME9vb3NIeW1YY0F6Mng4REtHSDhMdDZmTzBlbjlTLUF2VjNycUlDWWJ5TlpMUzhMT1o5RHdUaGgyTjFP?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 12:21:29 GMT",
+      "primary_hint": false,
+      "excerpt": "Los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump BBC Rubio: EEUU había dicho a autoridades venezolanas que Machado debería poder regresar San Antonio Express-News Venezolanos en el sur de Florida siguen de cerca el próximo paso de María Corina Machado WPLG Local 10 ¿Cómo fue el viaje de María Corina Machado de regreso a Venezuela? Esto sabemos CNN en Español María Corina Machado regresa a Venezuela y exige elecciones libres USA Today"
+    }
+  ]
+}

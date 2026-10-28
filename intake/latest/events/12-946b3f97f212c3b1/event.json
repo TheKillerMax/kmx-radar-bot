@@ -1,0 +1,30 @@
+{
+  "event_id": "12-946b3f97f212c3b1",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Descubren una misteriosa red de túneles bajo Liverpool. Ahora creen saber de qué se trata - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Descubren una misteriosa red de túneles bajo Liverpool. Ahora creen saber de qué se trata - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1hwMEVFTmp2amdOc040Ri02T1F1aklEOXhmNUNndjJUNUN5dnJ3eVhSdkRLajBmXzVyeUw3WXQ0eHkxNXRFUjNxNEI5bi1GSm9mVjRidmdtOVo3STJiUVNQNlZRUEYwTXBSZm10OGJDZlA0V3FZaUtjSHVyUDdpSDFILXI?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 14:58:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Descubren una misteriosa red de túneles bajo Liverpool. Ahora creen saber de qué se trata CNN en Español"
+    }
+  ]
+}
