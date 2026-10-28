@@ -1,0 +1,28 @@
+{
+  "event_id": "03-07a332bf8f98b5fd",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "“El 10 de agosto nos unió”, Gobernadora presenta proyecto para declarar esa fecha como Día de la Solidaridad y la Unión de los Vallecaucanos - Gobernación del valle",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "valledelcauca.gov.co"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "“El 10 de agosto nos unió”, Gobernadora presenta proyecto para declarar esa fecha como Día de la Solidaridad y la Unión de los Vallecaucanos - Gobernación del valle",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdE9RT2JZNjVNX0JXdWZiTnNrbUtLVXlSVUtKVXFHZjBjVkdEUC0yUnBsUGpjR1hLOU5rNkJldHplR2s2aUdFckF4MU1Tay1qRlc1b2J1eGw2RVRHNEE2MHpOcFJxUTJWV0NjRTdHS3VoUEVoZGJTeHpYQTFGWnZGUXY5N1RlQnE1dEkzdmtFRGhzaUxfcTFLdkVqR1BfRGxWblJ1d2huN0hwME1lenVTTXh4RHZNVGtBVGFkbkZ1cEZFNUtZTW5KTjN2Y3ExWlhSNHF0aGlfQ0NBeVFBM3huYVY4ajd2V0RFY3doZTMzNmhNZ09IaEpGLTRwdzJqMGlpTG4zc2VLWENpc0FoejhVWm1sa2dMWU5oWFFv?oc=5",
+      "domain": "valledelcauca.gov.co",
+      "publisher": "Gobernación del valle",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 28 Oct 2026 18:13:00 GMT",
+      "primary_hint": false,
+      "excerpt": "“El 10 de agosto nos unió”, Gobernadora presenta proyecto para declarar esa fecha como Día de la Solidaridad y la Unión de los Vallecaucanos Gobernación del valle"
+    }
+  ]
+}

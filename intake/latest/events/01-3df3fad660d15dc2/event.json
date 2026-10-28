@@ -1,0 +1,40 @@
+{
+  "event_id": "01-3df3fad660d15dc2",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Un rover de la NASA detecta partículas de polvo ultrafinas en Marte - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "es.tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Un rover de la NASA detecta partículas de polvo ultrafinas en Marte - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWhfd0NYdXhmSFVsRGpzZVVyalRNTUhuSHFxd0lPSFhyUzNRMmI5V0dfRHlTeHJwdDlyblpJRENRZUplemVrX2pKeDZBQ3BIY2MwbC13aGFCS0k5anU5S2lWenBINnpNSHJ1ZW1oa2R4Smc1RHFIeVU2XzBubFlrbUtka19RbFFqOHZ2Uk1EY0xMZw?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 28 Oct 2026 14:51:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Un rover de la NASA detecta partículas de polvo ultrafinas en Marte Yahoo"
+    },
+    {
+      "title": "Un rover de la NASA detecta partículas de polvo ultrafinas en Marte - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4eUlVY1FacGJyTGVRVHpTZGRaOHhfRjJzMmsxRXBJQnR2LXQyZVhfM0dDX0hUVTFObFV6Y3VrdGVvUzU0ZThPZFRTREJYMGd4ZzdYQTdMZkdXVzFab1VmR1Mzb09yQUdFUlVabjJ3UHp3LWg3aWZv?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 28 Oct 2026 14:49:08 GMT",
+      "primary_hint": false,
+      "excerpt": "Un rover de la NASA detecta partículas de polvo ultrafinas en Marte TradingView"
+    }
+  ]
+}
