@@ -1,0 +1,28 @@
+{
+  "event_id": "03-75b60a83967d8d26",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Bogotá strengthens climate resilience with a €70 million KfW loan and up to €3 million in German grants - Bogota.gov.co",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "bogota.gov.co"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Bogotá strengthens climate resilience with a €70 million KfW loan and up to €3 million in German grants - Bogota.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXBhd1RXVE9oTkVuM2p4M3pzOE1mXy14YjBQTnJuQW1BaFUtdHVPSmN3eXdVaUxObmRUOFNiZVJHQ0QycG0waVY1X1cxdlBaVUZpUllCdkhpcmZnMEJsNlBTTFhrSEZSdGZHTy1WQXhJWEFwRERRcWV1NEtYejhEclBZSWZyNXEtR01tZmJYMHFULWduRko3eTlhdXVjalZodVJZMXlqQU9ramNZS0lN?oc=5",
+      "domain": "bogota.gov.co",
+      "publisher": "Bogota.gov.co",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 22:57:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Bogotá strengthens climate resilience with a €70 million KfW loan and up to €3 million in German grants Bogota.gov.co"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "07-45e95323eb39f9bd",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La familia de Alex Pretti afirma que las autoridades federales siguen obstaculizando sus gestiones para obtener justicia - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La familia de Alex Pretti afirma que las autoridades federales siguen obstaculizando sus gestiones para obtener justicia - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXY0RExUNGNUbVEzMXdSdXNyUmkxdG5mVE9rMDVZLURTZnJLTFlOc0RrTWFrOTVVMTZuNmFtSE0xNVBuY2RTQWZMNmpmMXVvT1h4Vm02UmlCYTItZFVRaDBmeXdmeHYxT1FTbVJsN1lUSWlGUG03Vi1ZY1FxWC1wUGN4dlY?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 27 Oct 2026 22:25:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La familia de Alex Pretti afirma que las autoridades federales siguen obstaculizando sus gestiones para obtener justicia CNN en Español La familia de Alex Pretti dice que no tiene respuestas nueve meses después de que agentes federales acabaran con su vida News Channel 3-12 Los padres de Alex Pretti denuncian que el gobierno federal está protegiendo a los agentes implicados en la muerte de su hijo Univision Los padres de Alex Pretti acusan al Gobierno de Trump de ocultar evidencias sobre su muerte EL PAÍS Padres de Alex Pretti acusan al gobierno de Trump de proteger a los agentes que mataron a su hijo El Diario NY"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# El Vaticano confirma que durante el viaje del Papa a Latinoamérica se reunirá con víctimas de abusos - EL PAÍS
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: elpais.com
+- URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc3dJYm04WW56UjR6OUhvVXFxdjg0dllRc3Y0SVJhVVZubjA1V291NjRYdHBiUlFjUkdwNzJkaHBfMTNIMGs5eDg1R0Q3cXlwQndWU3pYYUdwRkpmMW9FUV93TWZXX2xRM2JGNU1ycS0yTEVmeWVLUjJ1UEtXSjdrbkN0QUU5VzBTVWNEaUk0c3VIaG5Lb1lNU1UxU0dhZUExZXh3QkQ4T0VBenJWOVBPdUI3VlV4VGhuWktYU01uRjl3ejBlYVI5VzE1NlBzc1lnNVYtZzltc2dZeUnSAe8BQVVfeXFMUGNDbVVGR1UtS0doNVk5UUgzSVlGb1ZScGtnZXpFNDhNTGlVRXpsVHpub3FocXYxbF93UkF6Y0pUUFhRU3VTaDBOdHdlcjFIRUlNTFIzNjZEYzJBNV9vU1c5Q0c5VElYdXdiMGZsTFg5QkM0UXl2alQtdk8tRVlmVjhNZ21TTnJYZWFoZEdzdVVPNnFrbmxUUklqUWhLQk1Pemp2TktHRmRuRG5RY3plc1M5TjZRQ05mN01PU014d0F3NktIYmpRTUhhSlVRdjhvemtKOXhWOGZOVEdHUWJldGctSWgyRENCT3BwVm41Ulk?oc=5
+- Título: El Vaticano confirma que durante el viaje del Papa a Latinoamérica se reunirá con víctimas de abusos - EL PAÍS
+- Fecha detectada: Tue, 27 Oct 2026 19:41:45 GMT
+
+El Vaticano confirma que durante el viaje del Papa a Latinoamérica se reunirá con víctimas de abusos EL PAÍS El papa se reunirá con sobrevivientes de abusos en viaje a América Latina San Antonio Express-News Más de 30 víctimas de grupo disuelto Sodalicio piden reunión a León XIV durante su visita a Perú Chicago Tribune El papa se reunirá con víctimas de abusos de la Iglesia en Sudamérica France 24 El papa León XIV se reunirá con víctimas de abusos de la Iglesia en Sudamérica Univision
