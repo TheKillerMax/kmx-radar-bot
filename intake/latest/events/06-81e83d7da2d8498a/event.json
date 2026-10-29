@@ -1,0 +1,40 @@
+{
+  "event_id": "06-81e83d7da2d8498a",
+  "category": "VERIFICACIÓN",
+  "risk": "medium",
+  "canonical_title": "Aprende a luchar contra las fake news - Onda Vasca",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "deia.eus",
+    "ondavasca.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Aprende a luchar contra las fake news - Onda Vasca",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmREVqNkhMLTdLVlNuWVg5V2w4OW1IVFdXRjQyMm04R2xWYmtOQjd3Y3o4dUpZVFF1UDRKLTFzcmoxblNJQ3FjMGVRNVhUMm8wNGRYd1Bfclh3M1FyVEtVS0RHallodDB4ZUtZNFpvSk13RXdwRlFr0gF3QVVfeXFMUGZERWo2SEwtN0tWU25ZWDlXbDg5bUhUV1dGNDIybThHbFZia05CN3djejh1SllUUXVQNEotMXNyajFuU0lDcWMwZVE1WFQybzA0ZFh3UF9yWHczUXJUS1VLREdqWWh0MHhlS1k0Wm9KTXdFd3BGUWs?oc=5",
+      "domain": "ondavasca.com",
+      "publisher": "Onda Vasca",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 08:22:13 GMT",
+      "primary_hint": false,
+      "excerpt": "Aprende a luchar contra las fake news Onda Vasca"
+    },
+    {
+      "title": "Aprende a luchar contra las fake news - Deia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXNzbnZzbFFTQWdNVWtjTU14enJjaDlmU3lSMnlyX0dpNmM4U0V2TmVYaUpPWWcyR3NNUVRSOFJQbmdfWXJ4clAxX2VyRG1ual9JWXQwNzFpWHVOS1hDdnN6eEdWRXMyZWR1Y2RrZThEN01BVlYtZWpDT1p3ZFo5a3d0TEvSAYoBQVVfeXFMT0RhOUktTVBYU1BENUVibTRaUFR0TmlSdW5xRzdpekNKS21EelBFd0dhQS1hWVU2SlBDd2pQRE8wQU9qd2xhVV81SmQ3Q3VueXJWejNrY3Y3LVNhZFdHNk1JTjJXanRYZ2c1ZzNqdzJtQ3NyY2tFeXZNeFNCcXpnRlhTWHV1cDlndl9R?oc=5",
+      "domain": "deia.eus",
+      "publisher": "Deia",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 08:00:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Aprende a luchar contra las fake news Deia"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "event_id": "07-0089009377c2d553",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Statement by President António Costa on the forthcoming departure of Christine Lagarde from the European Central Bank - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Statement by President António Costa on the forthcoming departure of Christine Lagarde from the European Central Bank - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZGl3RDNtd1F3eUFVRmhPVm9nd2RYX0c1a1Nudk5TYXJrMmhkQVFIdEdOc05UenY4bmZpR3lJSWlfU0tuV29tZXM2UFJOSnhpMkp0RnU5MFdaZEl2NHN6eTZfaDJRSllWckxndUpLQXUxZm1aV2FjUkozTThxUERtMnlNUVVURGFSdUVfcmJ5QUlBQXVsc0xYTTI3czd0aW92TDRuM2luYmVZcVFScEZ5d1pHdXVucnJwYjg0SjNzN3lmS0xpZUVaVjNyWkxTdWhQYVdKRzR4N3BmaGs5SlNCdG5SY3hldEdlRzFxa2pOZnRKSElKbmJJaU9KR2RNYUVPT1ZLRkFrUWpTNklubldTOGxFcw?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 10:07:41 GMT",
+      "primary_hint": false,
+      "excerpt": "Statement by President António Costa on the forthcoming departure of Christine Lagarde from the European Central Bank Council, European Union"
+    }
+  ]
+}
