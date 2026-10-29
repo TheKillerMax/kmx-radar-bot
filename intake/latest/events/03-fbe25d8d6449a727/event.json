@@ -1,0 +1,28 @@
+{
+  "event_id": "03-fbe25d8d6449a727",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Conoce al nuevo Responsable de Reducción de Ratas de Filadelfia - City of Philadelphia (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "phila.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Conoce al nuevo Responsable de Reducción de Ratas de Filadelfia - City of Philadelphia (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEFfWmlPVmJyQzduZTBuRm01QjJudlN6MWFBTzJqLWZtTHd5OFM1akZrdlNWMWozSGd1YVk5OWxKTllZZ2dkdFduOE9qcEFqU2RhMUpMSUlCQVBKYUZQYzI4UU55bDBKcVJabEp1NDBGR19lVWFqSFNBcXdVbWdQX3ZHWjd0bXhOS3BKQ3k0U1JybDN1STlUMWszWGpvUQ?oc=5",
+      "domain": "phila.gov",
+      "publisher": "City of Philadelphia (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 28 Oct 2026 18:05:15 GMT",
+      "primary_hint": false,
+      "excerpt": "Conoce al nuevo Responsable de Reducción de Ratas de Filadelfia City of Philadelphia (.gov)"
+    }
+  ]
+}

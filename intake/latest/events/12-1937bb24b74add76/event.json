@@ -1,0 +1,30 @@
+{
+  "event_id": "12-1937bb24b74add76",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resumen de elecciones intermedias de EE.UU., del 28 de octubre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resumen de elecciones intermedias de EE.UU., del 28 de octubre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDJ2WjNwZUFKOFZPS0pHcE9OOEQ1QXEwMUlsa29UVlBPQjV2MDJ1bnpTbzZnMWQtUnhhZ0ZKbjNrRU01Y2JyUTlQTVljVWlhRE92SEpmejUxUE1EMEhEM0pYc3ZDN2tyeXNiUUpBMWl2RUNGVk9vZ0JKcGZjRVhzenQtaDc3WjhoSGdOSVRXMTNUR1dBSDRFUWJB?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 07:23:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Resumen de elecciones intermedias de EE.UU., del 28 de octubre CNN en Español La cura de Trump para los males republicanos en las legislativas es más Trump. ¿Funcionará? AP News Nuevas encuestas traen más buenas noticias para las aspiraciones demócratas en el Senado News Channel 3-12 Así le hemos contado la campaña de las ‘midterms’ este 28 de octubre EL PAÍS Elecciones de medio término 2026 | Trump moviliza a los republicanos y Obama sale al rescate de los demócratas en la recta final Telemundo"
+    }
+  ]
+}
