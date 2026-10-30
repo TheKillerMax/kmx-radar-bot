@@ -1,0 +1,28 @@
+{
+  "event_id": "12-6619f3f79921230b",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 6.4 - southeast of Easter Island",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 6.4 - southeast of Easter Island",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-10-29T09:55:27.274Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - GREEN ShakeMap - I Time 2026-10-29 07:49:50 UTC 2026-10-29 07:49:50 UTC at epicenter Location 36.406°S 98.049°W Depth 10.00 km (6.21 mi)"
+    }
+  ]
+}

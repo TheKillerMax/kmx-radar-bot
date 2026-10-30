@@ -1,0 +1,42 @@
+{
+  "event_id": "04-ceaf8d451cdb299e",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Lagarde dimite para participar en las elecciones presidenciales de Francia - Diario Libre",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diariolibre.com",
+    "efe.com"
+  ],
+  "high_trust_domains": [
+    "efe.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Lagarde dimite del BCE para participar en las elecciones presidenciales de Francia - EFE - Agencia de noticias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXR5SDRuQ3o4OGtZSG8xRjFsWndINGptQnVCVVJxaGdBMVpCUHVITWRTRlM0bm5vYUh6UERVcmFGcXhpSmhxSjVYbnVBYW5hRWJSRE5JY2ZIajBtT1JfRHVDMkNGQXh4bGc4SnJDV1lLNk1zWFlfNk1DbzdFZWxldFR2Zl9RYjBBYW1IcWhOczJ0VFBwM2d4U2hkX2U1akVELWR4ajBnTXZIMFJUMzM4T1EyWUxCb1U?oc=5",
+      "domain": "efe.com",
+      "publisher": "EFE - Agencia de noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 17:40:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Lagarde dimite del BCE para participar en las elecciones presidenciales de Francia EFE - Agencia de noticias"
+    },
+    {
+      "title": "Lagarde dimite para participar en las elecciones presidenciales de Francia - Diario Libre",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbXFRa0g3ODZlOUkyQkdKTVd4bE42aWRpUnpyQ3pUdkZ5ZnBIZHJubWdWTGE1QWNqUXI3d0h1WlZSUzBYSkRWT1hQeXRjd1lzUzllamEzSXZiRnN2M3hTeEFud2M2LTdidG5HRVBrR0t2SEVSTXhfZ3JEU1NEX2dqSGhGRGhLYkFKZ2QxeWd6Um5pU1VaY3FEenlPenJUX3lnQndPN3hpZVVkRnpNZ2U3cDNCTE02TTBFeEhnbmU3bmZfVnduZ3hGRjFyc1XSAdIBQVVfeXFMT20zQ0U1WkRzS3ZHdU52dnBRTVNaMURseE5fcUg3cElHTGJGbVZmNDI1VDgzNGc2T2ZKZXo2OUJVQ0szbms5SUtnM1I3am9Ka2RlN1ExQWI2b25YZWszeThMZE9vQWV4bE9mZDJvek9pOXljanYwanI5OFgteHJSSXlDbXJESkZ3dVNocVpJXzlmaWFWTXF5bFctdll6RG1DbXdmTjF4M21jenh4ZkVLNE82NGFrWjRJaGpsWU1mVXpGdVduUzVSTWtOZkV1Qm1tZ19R?oc=5",
+      "domain": "diariolibre.com",
+      "publisher": "Diario Libre",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 16:59:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Lagarde dimite para participar en las elecciones presidenciales de Francia Diario Libre"
+    }
+  ]
+}

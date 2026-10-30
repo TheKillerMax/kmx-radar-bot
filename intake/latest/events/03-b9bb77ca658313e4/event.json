@@ -1,0 +1,42 @@
+{
+  "event_id": "03-b9bb77ca658313e4",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs - AP News",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "apnews.com",
+    "lanacion.com.ar"
+  ],
+  "high_trust_domains": [
+    "apnews.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRy1Tak1lODhxWnQzOGpjcXltb3ltcFFKME11ZnRfT2RJbnJBenpWNTRRQUlOZkZxWlJFSXpiMktlVmdkSkptVVZfM3Y5MHlFQjhvSWltd19oLVdyUTl5NTY4OExHaWphcVBTVDk0VFlzbWxHQ1A3aG54X0d1Y3FiZUZWXzU4UU5HMmk4V21oWmlQMlQ1ZmxKM0ZYbVUtN2stQUQxdW10eWtSaTFi?oc=5",
+      "domain": "apnews.com",
+      "publisher": "AP News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 16:52:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs AP News"
+    },
+    {
+      "title": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODFPZE5wbllmZ3JhZzVGVXFwVTFPQ2NSby1EazZuMExBTVNGYWFRakp6QWZJN0VTZGhpOWwwMnd5M29MTXUtUFBULVN6cm9Eb3llZGx0eVZGb1YyS29jN190bWwzSEZWNi1yM2Y1bUtDNHRpQzBYNEdoZ1Zpemx3aHV2RVkxOWJ2dm5EZWVXUkctdUhKSFRPSXFlV1pLcXRJaHBEbGlkbUlqZWI2T0ZnRG1tZTJVYnk0MDhJeWh1SQ?oc=5",
+      "domain": "lanacion.com.ar",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 13:52:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs La Nación"
+    }
+  ]
+}
