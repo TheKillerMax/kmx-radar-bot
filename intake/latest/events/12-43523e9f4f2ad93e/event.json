@@ -1,0 +1,28 @@
+{
+  "event_id": "12-43523e9f4f2ad93e",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Christine Lagarde Announces ECB Departure - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Christine Lagarde Announces ECB Departure - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWpKYjM3S0hzMGxzcjVSUUlnUlpqRS1KMVhkc0sydEdsSFM1YWxwZlFDZlprTVRZMmxpR0lrNF9VQUZ4aml2ODFQVmZaOHIxU1RCWERXVFdaZTZxTzFLSm1HeGlGUzV0bEtaUjJTMFRaRWo0V0VPT1pkZFhHRUJNMnRTWVRnOFhfT25vdlZBel94dw?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 08:52:57 GMT",
+      "primary_hint": false,
+      "excerpt": "Christine Lagarde Announces ECB Departure Council, European Union"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "09-8c03b0f7618fd51f",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "NASA invita a enviar tu nombre a Titán, luna de Saturno: ¿cómo participar? - UnoTV",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "semana.com",
+    "unotv.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "NASA invita a enviar tu nombre a Titán, luna de Saturno: ¿cómo participar? - UnoTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEJPU21kNmJ0UUN0aHFyNTJXcS0xYkFmZXJ6S3poSzFBOUJ3bTZ0dmRhMnNNd0xZRTdrTUI5dk81ckdZM3R3V2ZWTzFVY2dfdmViNFRvWFRmUjd2NFA5UXViSVRCdlZiekVtZ0pfSHNpWDB5R1ZpQnl3ZnF0Si1nbWdFX3dGaENpYWtRY0xHOG1yNkdvZW1fSEIxa090SUl5NVFLNDg1Ty1uUEU1Ym5oMHR2SEo?oc=5",
+      "domain": "unotv.com",
+      "publisher": "UnoTV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 18:32:49 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA invita a enviar tu nombre a Titán, luna de Saturno: ¿cómo participar? UnoTV"
+    },
+    {
+      "title": "La NASA llevará un helicóptero a Titán, la misteriosa luna de Saturno: así podrá enviar su nombre al espacio - Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEhmNmZ1LVAxMUhxZ3QtTWNUSGhlTjVfekRsWW52bjROTmxuQ3o4bHdsNGdScVdDcGpqUkY3UUdVUS0tbk4yTWsyVl9nQTJjNEI4bDJTTHN6NkZvbjh0ckpXN3BfbVUtQ0RZVjk2WDlWano0R1BpVjVwU3pEX0pxcXlfb21BdG94ODVPRC1lbTQ4SE5rV1ZQY19CLXBCTi1pRHM4TXQwTEtLN0xHdGlQSERhQ09nWkp5X3pPS2xQUHJNbDlhTWlYVXJLdXpfOHhkbTBiSVJScWl2U2xCYVlLOHZfMW9UM3MwTE83aFBR?oc=5",
+      "domain": "semana.com",
+      "publisher": "Revista Semana",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 17:57:10 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA llevará un helicóptero a Titán, la misteriosa luna de Saturno: así podrá enviar su nombre al espacio Revista Semana"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "04-b312849baa31aec1",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Bank of America prevé alza de tasas del Banco de Inglaterra el jueves - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Bank of America prevé alza de tasas del Banco de Inglaterra el jueves - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnpDWmh1OUZqSGlKNkpXc1lkd2YwY1Q0ajFxWHo3SWNLZTBvT2d5STVod1JhbWx3TGNiMnBpcGl2OE50aFZfalNxQl9va1l2VXdIekhWWmU2X2F3cVc0dDQwVEhja1VtNjJBTUJTUTVzeVFTTDVRTUpsMEtlQUpWeVF6OW9xQmJSSUdkV01oN0E0LW9DZndEUEtoRWpaS01xXzdmQ2FWY3psc3g2bk1FU3IyOGoxNE9UeTNETGJDVDNBNEE?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 10:22:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Bank of America prevé alza de tasas del Banco de Inglaterra el jueves Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "Bank of America espera una subida de tipos del Banco de Inglaterra el jueves - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZk1rNFhZcHNvVk5rcmxJVl9zTzRvMlhmMHJSVEdFQnVhUVNFQ3gybzBPdXh2SUJHTDFUd2d2ejQzYV93ZWkzbkNwMEdBVVl1NEd0SU1mVGhybDY1TTdFLXYwWWFRY0hIS1VCek13VE0xOE9rS2xPMXRSLUFUWFdPMlFTLUpNVlRyelVhQnhhX2VYRXozVVQxZXByQUFtbHM5LTl4T3JTX2oyQWFYSHQ4YUhGWlZxT1BkTlI5ZjFuM0RSX3p3bWt0NE85S2c?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 10:20:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Bank of America espera una subida de tipos del Banco de Inglaterra el jueves Investing.com España"
+    }
+  ]
+}

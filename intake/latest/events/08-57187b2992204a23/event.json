@@ -1,0 +1,40 @@
+{
+  "event_id": "08-57187b2992204a23",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkRFR1NPR1pjcHRaOGdvanV6N0xhUXVDM190OTY0OFlMQmlEYmdJa1J0QjlTZlU5bkZzWjN5bktPaGJmZ0VpNF92M2dpVjc4NUg5ZFIxQjVxNXoxYnh0dUlvdmdubmVoMWYxejR3TWdudkhma3FKTUNybG1aV2R3WmplR1oxWTNoNlBvSXltb2JSdGJmVWRQTTZ1d1Zrbmo1dFl6RXZfUGltRWJUVVBfaDRLa1RUZTZ0Y2NuMQ?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 14:53:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de Space Exploration Technologies? Investing.com España"
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGx0NXEwMlNGM3ZEdm1ERUFTZmRjVlNYUEhaTHcyZ0N2Ml9HVVIwV3JyOVZKWVlZaEd0eHJ3VWwtclUwNndVWnlEZEVycXpLbzVMWGdZRXZKZmRSNVEwWFVsaFJmSFFmSm5UVjNyNmJuQkZWTTVUc01SRkQ1Ukx2b29MYkNDcHFuRElpenRuQ1lZQzV6bGI5X0ZYTXk5WjNwekJFS0ZMVTgyQ25EbTlFc0FMblpUR3Bvak5KZA?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 15:00:58 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    }
+  ]
+}

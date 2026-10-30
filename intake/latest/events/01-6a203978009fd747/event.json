@@ -1,0 +1,52 @@
+{
+  "event_id": "01-6a203978009fd747",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA rinde homenaje a Patrick Stewart con peculiar imagen - Diario de Yucatán",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elnuevodia.com",
+    "sdpnoticias.com",
+    "yucatan.com.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "La NASA rinde homenaje a Patrick Stewart con peculiar imagen - Diario de Yucatán",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHVzZUlUVU1JbUwtcjJFTUFYVkFMakdLVExhem1vSm4xUGxXcmMxMDgwcFBhc3hqVmc2ZmwzQnFQQTBBTGJTa256akpWWURfYmFxOWdlYW55alRTamxHREZlbjhZUGJCUk90Z2dMeW9RV0JuOUtjN29wSDRYUUVNUlpQeDEyVDRDNW5CYkxGTHppZXdIQVlISnRtWlRFQzVvbkNVaE5JWkpybHYwZnF1NllqazZjRmc?oc=5",
+      "domain": "yucatan.com.mx",
+      "publisher": "Diario de Yucatán",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 16:50:14 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA rinde homenaje a Patrick Stewart con peculiar imagen Diario de Yucatán"
+    },
+    {
+      "title": "NASA rinde homenaje a Patrick Stewart con imagen inspirada en Star Trek - sdpnoticias",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3hIa1FPLTJFOEpTR1hzVDFOUGlyMm1Oc3VtblNybDR6WWl5RkRkWlliTktpTUNIWlRuanJyNTAtVm5zaEhFU0RhclRseXg1RU1rWDQ3SUt4X0RKZnl6VllwNVZfQkNnSm5DVElfd05QSnNoaUs5T21nMDQ0WUFBaE9oMzEwM1BKaEF5dTVOX3hOVHRGWVF0b2pqZjZBVjdPVzJVQ0RSRmYwYWRGcGg5bVRfUGc0dkIxR0FXcm93?oc=5",
+      "domain": "sdpnoticias.com",
+      "publisher": "sdpnoticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 19:42:06 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA rinde homenaje a Patrick Stewart con imagen inspirada en Star Trek sdpnoticias"
+    },
+    {
+      "title": "La NASA rinde homenaje a Patrick Stewart - El Nuevo Día",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclRRX0NwdUtNcEtGMkR6SEVlMXFzbW8wMnpEaU1vX1czY0dxSHpfeDJqaXVOV1NGbFBiYmc2al83dEt1WGJ6UGJNaWZPcjJQTEdCWTQzRDJ3LVpDYjNtbEtkSzJiMEhXMDJWTzBhSXdha2Fqc2d5RW5JZnR5NFlGdzVxS3JPb1E2WTQxLW1LUk1sVm9nbTg3a3R0QjNKTW11MnVfZnpyTU1tMkE?oc=5",
+      "domain": "elnuevodia.com",
+      "publisher": "El Nuevo Día",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA rinde homenaje a Patrick Stewart El Nuevo Día"
+    }
+  ]
+}
