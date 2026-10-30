@@ -1,29 +1,29 @@
 {
-  "event_id": "06-2fc42ae57756f3a9",
+  "event_id": "04-3fa0036799d95998",
   "category": "ECONOMÍA",
   "risk": "medium",
-  "canonical_title": "Bausili defendió la gestión del Banco Central por el manejo del oro - Diario Río Negro",
+  "canonical_title": "Actividad. Bausili defendió la gestión del Banco Central por el manejo del oro - La Voz del Interior",
   "intake_status": "SIN CONFIRMAR",
   "verification_signal": 0.38,
   "primary_source_present": false,
   "independent_domains": [
     "elpaisdiario.com.ar",
-    "rionegro.com.ar"
+    "lavoz.com.ar"
   ],
   "high_trust_domains": [],
   "article_count": 2,
   "rank_signal": 0.45,
   "sources": [
     {
-      "title": "Bausili defendió la gestión del Banco Central por el manejo del oro - Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmtndWNPR3dhT1MzNnFsNmxZSFdZeGk2cjZSSVdmekdBdENnUE5ZblZBMkNyMmhPTUtVZGgxWlNGSnRKOVFtQTVoYUhrSzBPdnRRMDRlVUZ3N2drN2hjSFhWUllmdGx6TkZ5N2I5eGYwVERTby1UUmctS1RXbUpvRFZFRzhWdHJxVk1pMXZPYzRJQlE5NE5PdnZPek0xZFZWSHNSNkFlWWttWDh0MUl0cXhIb9IBuwFBVV95cUxPUFI1cVNRaUMxTnh6TjFzX0NFYUVmSlE2aXp1R0p1V194cER0Rkt2MDQtYTJ6VUdwT3F6QllXVGhVMkd4ZGpDOEo3TUFmbTloQkdadV9WTmdlRVRlT1YtN01kcElmaTJ3OVZGcjl2YXV4Y0s5Q19rbTVoLWRtWmFMRC1PbUJRcm1hS2x3RlNjSDJ5RjBOSzdyQ0Q2dl82aXE4YzlCeTFSMjdNS05lYmZySmhxUUNwb3NmZkx3?oc=5",
-      "domain": "rionegro.com.ar",
-      "publisher": "Diario Río Negro",
+      "title": "Actividad. Bausili defendió la gestión del Banco Central por el manejo del oro - La Voz del Interior",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQck5jUWJ5WW8wXy13bFU5YzRwNnluUEl0d21ZU2lVcXJtT0p4OGVJMkN3MnFpaE9fVm1nVnRVYUFkcjBmRW9pNjJoc3Y4MmVDQUZrX09aUVFpenNnLXNVTW53ajVkelpYVkNHcllXV2JINFlFTFdtTUo4ZHVEWmlGaTQ3enZLYVVfTGdzdWRibjB4MElLS3g2NHdONzJHZmlYekFz?oc=5",
+      "domain": "lavoz.com.ar",
+      "publisher": "La Voz del Interior",
       "language": "es",
       "source_country": "",
-      "seen_at": "Thu, 29 Oct 2026 23:24:06 GMT",
+      "seen_at": "Thu, 29 Oct 2026 23:18:59 GMT",
       "primary_hint": false,
-      "excerpt": "Bausili defendió la gestión del Banco Central por el manejo del oro Diario Río Negro"
+      "excerpt": "Actividad. Bausili defendió la gestión del Banco Central por el manejo del oro La Voz del Interior"
     },
     {
       "title": "Bausili defendió la gestión del Banco Central por el manejo del oro - El País Diario",

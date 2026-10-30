@@ -1,0 +1,40 @@
+{
+  "event_id": "03-46733d09295d5928",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Gears of War: E-Day ya habría vendido más de 400.000 unidades - Instant Gaming News",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diariobitcoin.com",
+    "news.instant-gaming.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Gears of War: E-Day ya habría vendido más de 400.000 unidades - Instant Gaming News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOEpqOF9xXzBRalk4WTdXZHpPQ2VNdnQ4dFUwZTJ5NVpCU3NoWko1WnlGRTNacE1td3JzdGNhQ3lZUS1oM1ZtYjE4LUd4cFNpNDRsYVNmQi1fbTVUQmwyc3h3MWs0NFFhaHVpZUpHbkw3eTFuUWo4UF9FRnJmS2JKRlVzQ2lneWp0WWxIcDVfZHk2YTlGd0F6WGlLa284STRLQ2ZvTHp5T0N4bTlBYTg0ZFBjd2NyNzRBNXpWQmpKcktSbXl2VTc1bU1HekkyZ3pGQlVaWkRkdjRUeV9oSDRiUGlUcU1HNTRMQXdn?oc=5",
+      "domain": "news.instant-gaming.com",
+      "publisher": "Instant Gaming News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 08:59:20 GMT",
+      "primary_hint": false,
+      "excerpt": "Gears of War: E-Day ya habría vendido más de 400.000 unidades Instant Gaming News"
+    },
+    {
+      "title": "Gears of War: E-Day habría vendido más de 400.000 copias en Xbox y Steam - DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWpwdDZhbG1HWlBaWF9vaFBXdnFiSW91bVQyTTk2MEpfcHcxaVpNQWhMY05ERG5FTnZkZTBucGoyZkgxRHhBTEtnbWY2SWQydmh3RnBDRHlxeE13U3gwZklxeFJhRkJQVFYxMFdEVTZyUHg0NFpld1VaenNwTnRFZHdRSkZZWDYxcjVzbWF6MnBwWUdaQVlCanBRSnAybnhQTU1VV1FnTWVTS1dILXhLRA?oc=5",
+      "domain": "diariobitcoin.com",
+      "publisher": "DiarioBitcoin",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 03:41:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Gears of War: E-Day habría vendido más de 400.000 copias en Xbox y Steam DiarioBitcoin"
+    }
+  ]
+}
