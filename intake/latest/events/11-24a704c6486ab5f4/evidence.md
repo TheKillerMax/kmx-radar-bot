@@ -1,0 +1,94 @@
+# AP Decision Notes: What to expect in South Dakota on Election Day - La Nación
+
+- Categoría: MUNDO
+- Riesgo: high
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk0xaVpya3ZKXzdMMGt2YTAwNXhSRlJTaHRtaEFrLWhLbWU5ZzhzanJtSlZKVEFuLTV5cDlYenJzRDVkMkljcFFWN081VDNBSHhxYkwyVnczbzJydW9XNjRKcHZ2ZGk3YkdvampvbF9rcVpCcWI1eXZweTFQRlZ0N2NJTkdneDN2QnpiZG1CalZpYXdxeUp1ODNUOTdnQUhHV1k0QVZOOUU?oc=5
+- Título: AP Decision Notes: What to expect in Virginia on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 14:49:54 GMT
+
+AP Decision Notes: What to expect in Virginia on Election Day La Nación
+
+### Fuente 2: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFlHcThONF9JaHhtaXkzc042SmRkT3RlSm1feHFCS1BXOV8xQVMyRlMzQjFERENQRV9PYWh2ejRKOEpfWDBUTUdoYjNZUWRvTWNXdTV3YlJPRDNpYU5FeTkyMHhYUWt6Qi1YdXk5NzJya2ZNRFYzR0hmUDFuZjBZZk04M2hvWENuNmZaa0NiZkZlN1VSVXdrU0JGWWxHQTYxamNGLUlDVnEydw?oc=5
+- Título: AP Decision Notes: What to expect in Minnesota on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 13:51:18 GMT
+
+AP Decision Notes: What to expect in Minnesota on Election Day La Nación
+
+### Fuente 3: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDhXbEZycHFheUxwN1VNZmlpQ0toN2c2MVc1Mkk4ZWVKRDRaSjNMVVJQNjMxenF1UGctRGx4dEVNdHAxdHcxV19wLVVPM3dEbG1ZLW16ZjIyQWpVRW53SWtNb0hGUzFHRWpZOVpQTGsyZnpEazRnYzc4SzBHZDN3amFjODBjbUE4eXUzTVI3NUZ4NjFNU3F3bUVmN0RLSHl5SUtiSWJnYm8?oc=5
+- Título: AP Decision Notes: What to expect in Missouri on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 18:32:00 GMT
+
+AP Decision Notes: What to expect in Missouri on Election Day La Nación
+
+### Fuente 4: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0tNVkpHVjVhR0ZmeXJ4QnJuWnN3RHNpdE92Z2NMVElUOUtZRS05Vmd1ZmdQT0V6ZEJDZnBqaTJfLVl4YmhtT1I0Q3lEajFrNzFPbmdIbVJ4c3kxVVhTNF9CTXNCY2ltVndVOTlaOXdZeGttUkpEQWdmMXBKQVZXWTI2dG9NdThkampGdHNlSWlsWVJvdktXN182RTV5Zkx0dEdMRzYzVQ?oc=5
+- Título: AP Decision Notes: What to expect in Vermont on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 19:51:00 GMT
+
+AP Decision Notes: What to expect in Vermont on Election Day La Nación
+
+### Fuente 5: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0VGMGZPXzFrQUtORUJ0VlYzRjl1dWNRUXBOdTJsSWhpUWsxaWFmOWFGS2lYZ1ZGVncxZm1jRHYxbzF4OTYybGxWMjQwc1JBdy1JYlM1MkFMNm5DcnlDZU01SUktVlkxb21MWmRNTWhjLTdMNmY2SzZ5VExERko5SE5VRV84c2RpTWVlblk4R3dYTDhyaVVOVlZOS185UFdkNXF4UWNaWm82cHk0bXc?oc=5
+- Título: AP Decision Notes: What to expect in Pennsylvania on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 14:05:19 GMT
+
+AP Decision Notes: What to expect in Pennsylvania on Election Day La Nación
+
+### Fuente 6: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0hZQmQ2YTQxYVB5eHdjeEdTZWo3NkxweGc2enlfSGF4Ynk5M0t4R3VfWXZmZm4xeDl1czB0M0N2dTNpX0Z0WkVUNE00cmVFN2hSYlc4RVM0Y1RHc1F6NWhIdWxOUjNUMnFnLXoweTVpaTloVk5QM1hJV3oyR2ZLM0lFWktjRjlJUkZ4R2dRUUh3TllnM0l0N01BNU1PLUxUZE1fbXJTX2xRS19aOG9V?oc=5
+- Título: AP Decision Notes: What to expect in West Virginia on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 20:52:00 GMT
+
+AP Decision Notes: What to expect in West Virginia on Election Day La Nación
+
+### Fuente 7: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNMy0xazFyS1FLa3dqZ0dnaUl1OEtiWThCYUpPdTBWbjdFNC12OTZmN19aMEo0VENDY09WS291XzR2MDc0cXlVUUhXbmZfOWR0aF9IOGRULTBkVU5UMU5tVkZGSlFhQWQzM3FhT2pKcEFtNHNvYkp6ZjJVcmpEcFhsRHVRX1lqVi00djR4Uk9jUFJmZlVlOE14ZENzRUNYaUtaWDl6cTdwTQ?oc=5
+- Título: AP Decision Notes: What to expect in Florida on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 14:05:19 GMT
+
+AP Decision Notes: What to expect in Florida on Election Day La Nación
+
+### Fuente 8: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOa29pS0wyQnJleG9BMVpsQm5CUldWU0xvaU1ZTkczZmhvamNxSUsyM2VKRnNMdV9DSXhtZmFCX2gtZzAzbEl0d1U4UVdOdy14WmRnRm83eW1YOWdoTG9XM3NabWdJYldQdFlEQlNUbGJTUWdVdXRDOHl0UC05NTQ5ZXZXX1VBSGUwTTNtN0ZvSVR3cjRvaXZSSEtTcTBXVW5HcGRMZWN3?oc=5
+- Título: AP Decision Notes: What to expect in Oregon on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 19:02:00 GMT
+
+AP Decision Notes: What to expect in Oregon on Election Day La Nación
+
+### Fuente 9: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxQREZFaWlYQUc0S3Vwci1wSnlLTFg5LWZwSlY3ck1UMUM2aDQ4R0NyVmROY2NnaDA1N0k1aWY1QW5SanJOTG5Cam9Fakg5R3dtajJ3MmpjOFdrdC1wODFpWU1rYUZuYVkxV3BaZlNjLXc3eEszVmNWUUlOeE1SdlQtTUx1WU4zWlU4SHo4WFJtZENaaTZONnZ5MXd2RF9rN3MwWWg2bEZoMHdiM1kzQWV4cQ?oc=5
+- Título: AP Decision Notes: What to expect in South Carolina on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 19:02:00 GMT
+
+AP Decision Notes: What to expect in South Carolina on Election Day La Nación
+
+### Fuente 10: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGc2R01BeHlmN3BJSm9pbDJXYW84YnlQVFNaSG1TQnFpckhXTFU4NDdRbHdOVVVCcnYyLWZqUjJua0xJTjl4SXNtdWZOZFVFczBMQlo1OEcyQ0otclRoaWZOckxGRkR2dXVoS0R2aWFJNFYzTmlBWjRyVHNpWk9wYjdlc0pyel9nQVZ0bHA2NjlRdHlsak9HRm1BNG5oY3pOSXV4NjdOd2lHUFFMVFE?oc=5
+- Título: AP Decision Notes: What to expect in North Dakota on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 18:52:00 GMT
+
+AP Decision Notes: What to expect in North Dakota on Election Day La Nación
+
+### Fuente 11: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVZBWlpuMUZabzdxYVpZMmdacDBoXzZvejVlTk0zTmt3dXN6RERNMW0xWXVmYk1nRG5tV0hmNDlHWWNJSFVaS0x0cF92RExUQXhwMUZENHVsaEZ1eHA2VDY4TmV6b0dZQmFMNEVSajJqRXo1OXFhYXB1LXI5WVVCbnk3ZUZKcWx2c2NjSV85NGwzRlFidjV1S19aX0pRMDBMVUI3eXpwT251anJzb1E?oc=5
+- Título: AP Decision Notes: What to expect in Rhode Island on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 19:42:00 GMT
+
+AP Decision Notes: What to expect in Rhode Island on Election Day La Nación
+
+### Fuente 12: lanacion.com.ar
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkRZMmZRLVMxWGFTZzB1dDgxbzcyMFNiQnljM2pJX2w3cjl6emhtZ1BLSjhJWkxlbU02MU5QQ29wV3pLMlRrQk16UEpQQ19YejVhNHNoVWFYNHFlNngzYy1jMzBmVWdVMkE0d29GT2RQVkJXYmZTaVJaNkF1OGhFYTZtRFpTVWo5WlFVR2swSGJZanFoalcyUzNsaTRCSUVwcjR3UjVfV25ES2VkNG9F?oc=5
+- Título: AP Decision Notes: What to expect in Massachusetts on Election Day - La Nación
+- Fecha detectada: Fri, 30 Oct 2026 18:12:00 GMT
+
+AP Decision Notes: What to expect in Massachusetts on Election Day La Nación
