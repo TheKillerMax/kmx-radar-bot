@@ -1,0 +1,28 @@
+{
+  "event_id": "05-01d43537b9b4bc9f",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Resistencia a los antimicrobianos: Desafíos emergentes y nuevas fronteras para la respuesta - Pan American Health Organization (PAHO)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "paho.org"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Resistencia a los antimicrobianos: Desafíos emergentes y nuevas fronteras para la respuesta - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVRDTkE3ekE1dFhuQmlGWWxsSzBYU1hfX3RRX1dRdjMzWUx0S2tfRXNvTVViTk45SG9qRGNSU0k1U3hmeWEzbHdpbk1jSkExcWQtQ25mRExxRnV6amtfNVAxYjFjY0Vja2hhYXpPZXpXbEczdnk5ZHhhR1hhb0d3M3FZLWtIWTRpUjAxVklicnVneXpXVExxaXc5dFlRdWlwOXJodG14RUJtZWo4cXBHQQ?oc=5",
+      "domain": "paho.org",
+      "publisher": "Pan American Health Organization (PAHO)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 21:01:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Resistencia a los antimicrobianos: Desafíos emergentes y nuevas fronteras para la respuesta Pan American Health Organization (PAHO)"
+    }
+  ]
+}

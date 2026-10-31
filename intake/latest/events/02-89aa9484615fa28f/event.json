@@ -1,0 +1,40 @@
+{
+  "event_id": "02-89aa9484615fa28f",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "BTCUSD - Binance $6.3B record hack sparks pre-election political chatter - mx.advfn.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "mx.advfn.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "BTCUSD - Binance $6.3B record hack sparks pre-election political chatter - mx.advfn.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFFQWlFZ253TEtwVy1XWkpnR0dmeDdQcUFlaFJ5a1NhS1JIN19TRWhwSEllOFN0YVoyVzU5cHQ3Q0FTa0JPSjNNQWQxWnBQX3FyM2pVa0NaYnk2QVFyMjRaUEtrbFcxZ1lKTEsweUdDVkVnM3BYLWxKN1ZFLUNTWU9lSzZOOWczelp4VWtGZ0xKRllobXVKb043UUlKVno0b3FxRHJiTS1zVjdFbjQtbHlGNEd4ZmpUSWlmNw?oc=5",
+      "domain": "mx.advfn.com",
+      "publisher": "mx.advfn.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 09:58:50 GMT",
+      "primary_hint": false,
+      "excerpt": "BTCUSD - Binance $6.3B record hack sparks pre-election political chatter mx.advfn.com"
+    },
+    {
+      "title": "Binance $6.3B record hack sparks pre-election political chatter - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0xDSk5CQVBWdG9Ub1lzS19vNlZMWDVYTXBpOW9aQS11c0VtazhET2Ftd0VlS1kzX3hTRDhuOVNFRkp3TktRdWRWNjBudC1rU3RJTVR2ZUNVQlNkcDhCUUI2NmdUaDV3WTlRWTZ0Q1BfU1dFU1kyMG84NzZIMy1wS0pYQ1djQW93R2lZcV9VeWpvUnJDZUhOcWFsNF9UT0NZTFE2eG1RRERFLWxsYVhsODNMQ25aRWdHd2dnYlFNR0dHeDA?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 09:58:50 GMT",
+      "primary_hint": false,
+      "excerpt": "Binance $6.3B record hack sparks pre-election political chatter TradingView"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Seattle Post-Intelligencer
+
+- Categoría: CIENCIA
+- Riesgo: low
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 3
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: seattlepi.com
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEVMdTlpLVNQQkFraXRWQWlwVEo4NDdFUDBXTVdYSlczQjEtbmhTczBQTTNFY2NkdE9WclZoc3FPRXpjSlZOUHZyVE56Q3lacGtjYkFENGxsc0VFR1ZpUU9MRmxMc1Ewc2x0WVpVOUdhcEtPYXVkWnBBQ29CTnNmeG5oRmxYdkRCbTh6YWtFTWI?oc=5
+- Título: Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Seattle Post-Intelligencer
+- Fecha detectada: Sat, 31 Oct 2026 13:27:45 GMT
+
+Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate Seattle Post-Intelligencer
+
+### Fuente 2: listindiario.com
+- URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQREpsWTlFYlgtaXFSejRMYU1NVW5Ed3pkODZaQ2pialJvRGJuMDQ0b3FzdDNDOEdWS1JEc3RfVktnNHRVN1RnSkdOU2RzSXpjNm9fRWsxWC1Uakc5TlVETTZrU3J5b3RSUF9vYXBjZzk5T2NPekpHdU5aX0JLNTZyR1Z1WEM3czlGdmw3SGVrZ0VndXFBbDIzczh0amVTUms2blJwRGk3Nlg0eVc5ZDZrRGU0dDU5TEljSTFac1NR0gHDAUFVX3lxTE9qamRVMUQ3a21Bem1zNXJLeFZxRTRFdnUxaE9iamtIczJFS01mbWRpajg5SjhpY0pRTDRhcGxNSmJHc3VVd1VuenJCQ2ZyakthQk1kX013V05QbVVJajNPa1lxdDNIN0xQX2hVbWJaRS1zdVhTelJ6SHBhbWZNTUliaEFsYTBSSU5nelpYS1g0VmxoUWhJd3ZyVGZneDM0bk1TcFZsbXVYM05GZjh6dUQ4cENTNnNZQUI0MWNCVTNfYlU4bw?oc=5
+- Título: Un telescopio de la NASA está a punto de caer a la Tierra tras una fallida misión de rescate - Listín Diario
+- Fecha detectada: Sat, 31 Oct 2026 14:05:57 GMT
+
+Un telescopio de la NASA está a punto de caer a la Tierra tras una fallida misión de rescate Listín Diario
+
+### Fuente 3: elmundo.es
+- URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE10NnJYU2gxUWprMGJZSHRpc29rMl9neWJUN1hxZGFuRkh4QlUxY3NGYjNmUTZ6TThFUmN3UWdXMnUtbFBDdlYxZEFHNTA5a2JCWDFPR1A0WVd6Y193Mm85ZU53bkw0YjJ2N3ZCR2N2YUdUNFlCVkxOSTRoY9IBe0FVX3lxTE5DcmpzbWctb3RGVHF0WmNua0VDMHBhUS1zZ2dON3ZVdHh3Y3lqSXpCWUNfV1NoTjBESkw2WWs0M0ZIdFlSOTZfRWhLMDlKUVdZWTEwb3N6bE5PblVNZ0huLTdfU3ZwcGxnSjJqcHNYalZlOU9YYjJyRkpaaw?oc=5
+- Título: Un telescopio de la NASA caerá sin control a la Tierra tras fracasar su rescate - El Mundo
+- Fecha detectada: Sat, 31 Oct 2026 14:48:28 GMT
+
+Un telescopio de la NASA caerá sin control a la Tierra tras fracasar su rescate El Mundo

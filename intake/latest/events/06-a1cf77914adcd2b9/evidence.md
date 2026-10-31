@@ -1,0 +1,94 @@
+# Light mag. 3.5 earthquake - 38 km south of Sona, Provincia de Veraguas, Panama, on Saturday, Oct 31, 2026, at 12:54 pm (Panama time) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzgtZUhLVTU0aWRzcFBRcGdYcklRbzVBTWtweDFxTU5IYlBrcGp5U2hZdGM0MEh6VUgyNjltcW55OTE5dEFvNUdVQTltU09udXpudW1KT0E5d0pzcFZWblRUaDlFYk5wTzhGLXdsLXdRWWhTWnJOR0ZMZGI2c01LOGg1LVoyWWNQOGFYVVIzTEtVOTk5TkRtdGNnSDZZM2c?oc=5
+- Título: Light mag. 3.6 earthquake - 55 km southwest of Chitre, Provincia de Herrera, Panama, on Saturday, Oct 31, 2026, at 08:59 am (Panama time) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 14:15:50 GMT
+
+Light mag. 3.6 earthquake - 55 km southwest of Chitre, Provincia de Herrera, Panama, on Saturday, Oct 31, 2026, at 08:59 am (Panama time) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5
+- Título: Kilauea - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 00:25:56 GMT
+
+Kilauea Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xadm9RQ1BDWm5MdUJEd1k1U3pFX3RWRFpCNUdDUzl1SjdBQ1Q2NE1OTXphZ1htLWJNNVdOWWhDMDRxMFdGNktjYVU2ekpXYjNVanJkUXZFMlBteDFHMzBzUWxScWZhOGhoSzJYa1hTaDUzNks2NEI1MERlUkExbExQMDJSc2dsNFlEU0JlMUdFZEItTm5WbGNYOExUM28?oc=5
+- Título: Light mag. 3.5 earthquake - 38 km south of Sona, Provincia de Veraguas, Panama, on Saturday, Oct 31, 2026, at 12:54 pm (Panama time) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 18:01:11 GMT
+
+Light mag. 3.5 earthquake - 38 km south of Sona, Provincia de Veraguas, Panama, on Saturday, Oct 31, 2026, at 12:54 pm (Panama time) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0dCek5tRXJpdkpQLUZKd3EzVWVXYmtHU0ZaeGxHWnBtS3hSRWJta0F2OGRoNFB2SXBYeENFMzJ5b0FEN3VXRlk4RGhKc2V1X3VDNV9UeWhYU2J2LVROeUozT3ZfSFRpTTZ1WElNNXRSbEZrWHF5RWlwS3VBWDJsZFlQcnB1X0owczBmWnhocGdLOGFqS2JVb2MtMmpxMlI4RVNNUTB2Y3NYOTF2TFZvcnR2Vm5qVmZyM195b2s5Z0k2UXhfT1E?oc=5
+- Título: Light mag. 3.1 earthquake - Departamento de Capayan, 18 km southwest of Catamarca, Departamento de Capital, Catamarca Province, Argentina, on Friday, Oct 30, 2026, at 09:59 pm (GMT -3) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 07:05:48 GMT
+
+Light mag. 3.1 earthquake - Departamento de Capayan, 18 km southwest of Catamarca, Departamento de Capital, Catamarca Province, Argentina, on Friday, Oct 30, 2026, at 09:59 pm (GMT -3) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUxBRlByNjgwVWhFbURSd1J6RlE4Q0VvclRlRlFuUjhOeHhqemZPeU5lZXBROGxHOXQwSTJ2aG5uYU9aeTdqRk5xVmVpZURFeExSaTVOcXZQTjJNdHNRaWJGcDVLc1l1ZUpjV2tmZ2Nrek9ZYTJzUE05N002WWZKdXA0VVdtdy1LZFFOTExwblpZSGt6QS1JY05xVVgxektqNE1sT01BNXJmdXl4NWc4?oc=5
+- Título: Light mag. 3.4 earthquake - Departamento de Angaco, 40 km northeast of San Juan, Departamento de Capital, San Juan Province, Argentina, on Saturday, Oct 31, 2026, at 08:25 am (GMT -3) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 11:25:00 GMT
+
+Light mag. 3.4 earthquake - Departamento de Angaco, 40 km northeast of San Juan, Departamento de Capital, San Juan Province, Argentina, on Saturday, Oct 31, 2026, at 08:25 am (GMT -3) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXVTNUdLNGNBQ3dLTWUyV0k5MUN2a3VBdUdHeE5kaVN6bEh4VGgzVFkzZ0c1ZHNIMTdyOFZjbm9YLTdHZEFpeEZ4VjJaY1BwZUpVQWZVVEZnRjFLWUVacUltb280QVppRFEyMWpqWG5HV0hBRGpaMjBKYXg2azAwTzVSRGlIdDMtdFlnQ011N1A1dWRqb1BjSUJ0eHMxTEpOLTJ1S2dxZVBYYVYyZmhR?oc=5
+- Título: Light mag. 3.6 earthquake - Offshore Guatemala on Saturday, Oct 31, 2026, at 02:55 pm (Universal Time) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 15:08:00 GMT
+
+Light mag. 3.6 earthquake - Offshore Guatemala on Saturday, Oct 31, 2026, at 02:55 pm (Universal Time) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxPblc0UTZIQ1hWUXdubnYtdWVqbGhoVmJJbHcwakNIdE5HNVlCRU9FMDB2Z0EweVFrQ2VKNGF4ejFfUElkMV9ka2dPUFJqLUVGV0NFMHN6b0lrdkhDVUN4eGF5VjFjVml3OHdjekQ5UG9hOE05dlR3eDNyRU1FZ29IMGc0RTRZeHlLaU40YnlXdFMzVUdPWjAzYmhwY3paZkNxQkxVVFM2Vk1YNFpnS012UGEtUmhXazNFOG1sX3lEc3VfM1Vqd19GZmdiVQ?oc=5
+- Título: Strong mag. 5.2 earthquake - 22 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 31, 2026, at 10:50 am (Panama time) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 18:05:45 GMT
+
+Strong mag. 5.2 earthquake - 22 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 31, 2026, at 10:50 am (Panama time) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm4tNWpxMXdoS0U1QmZzLWhySDZpaElGb21XZnlFZ0hTdVgxemZwTmZjY1pBdlU0NHprcy15Mm1tZFo5cHI5UEdpVkduR2JxV3I2VGJXYTgxM2U3MXVrY3dlTmVrWXdlbUNyLWxSSlpEd0ppQWp1dFVsb1Y5b1kwV0w0V0xjOWl3YkVHOFVOQkNTVlFRV05LeE9kQmlZUnNFYUVKNHI4dmRkWmJyUjFJclFDeEpzUQ?oc=5
+- Título: Light mag. 3.8 earthquake - Offshore Chiapas, Mexico, on Saturday, Oct 31, 2026, at 03:09 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 14:11:23 GMT
+
+Light mag. 3.8 earthquake - Offshore Chiapas, Mexico, on Saturday, Oct 31, 2026, at 03:09 am (GMT -6) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnFRX1ZhUE9JdVdQeVdDYXhxNU1mbC11RUVqajBJOFlORGQxMUMyNldqZS1ieTEtcUdEcVdaNklyOFo5OTBWbGdOa3NSTkE1RzJpblZzbHU2X1BqODVYamZTWG1TYXhRdjdwaUlDcnI5TWo2NWxicFh6bV80TlZSYlFJWnNOUzd6OEhGRzVzdjNhbGlmZGRJQWpYRUYydk0?oc=5
+- Título: Light mag. 3.5 earthquake - 30 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 31, 2026, at 06:20 am (Panama time) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 11:26:20 GMT
+
+Light mag. 3.5 earthquake - 30 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Oct 31, 2026, at 06:20 am (Panama time) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlJmZlBPY1d2ZVRFOE5kZzdSaklyaE5QMmxheDBDWC00b2ZOSzFtTUFpbnViZjktWEFTVFA3alJGSXpWVnBvWlhVXzhWQUx6ZENaNjNTalU5a1I3OUtleDVKNE9mS1YyTWk0Skd6VEZNSjE5Tzgxdlg2SW4zekhxRVpWUmZqbS1WaldwUDlPclJzbWRacFpOdUlRRU52S1FDc3pMLWJBMGN5WUJDU05xM2p6TEM?oc=5
+- Título: Mag. 3.9 earthquake - Offshore Oaxaca, Mexico, on Saturday, Oct 31, 2026, at 02:44 am (Mexico City time) - just now - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 14:03:00 GMT
+
+Mag. 3.9 earthquake - Offshore Oaxaca, Mexico, on Saturday, Oct 31, 2026, at 02:44 am (Mexico City time) - just now Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2NEWmNxQnNadDZQcXhKeGpFekpQdWNlcUYtT3RYNEJCLVB3YVhYbkRiY1hMT2lrOTVVNTZ0ZWI2cjViSXhKVGlWTWNsRFVNdVFVZ1J0eGplTUZEdmYzbEZ6ZTZGcXZiVS1ndzQ4bkNuVkdhaVlNcGlGYk0tVTJNd3BtWTNrLTh2YTNNeDVndS1uNzlLT0tyUFJjeFk5ZC1oV3N6NkFHby0?oc=5
+- Título: Light mag. 3.3 earthquake - Oaxaca, Mexico, on Saturday, Oct 31, 2026, at 02:38 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 14:10:28 GMT
+
+Light mag. 3.3 earthquake - Oaxaca, Mexico, on Saturday, Oct 31, 2026, at 02:38 am (GMT -6) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0oydS1FQnoyNV9obHJxVzBJSnlEck94UzRDSFE5NDdGZ1lPeHJOaXVDbFl3SGZfR3d2SEFBVlRRZU5OYkNCTnRscGZQTzh4MHBNN3JnV21ZYTFJdFNRN3JuOEtmMWM0NFA5dEpBNWFnT3dGMHk4Ul96c1d4RDVmSU5LQWtwQThsVkJqSUNOX1RMenhyN0ZidWktZkNLb3RfSy10ckhR?oc=5
+- Título: Weak mag. 2.3 earthquake (unconfirmed) - El Salvador on Saturday, Oct 31, 2026, at 08:20 am (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 31 Oct 2026 14:37:56 GMT
+
+Weak mag. 2.3 earthquake (unconfirmed) - El Salvador on Saturday, Oct 31, 2026, at 08:20 am (GMT -6) Volcano Discovery

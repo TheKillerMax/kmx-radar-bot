@@ -1,0 +1,30 @@
+{
+  "event_id": "12-28b6915e33d48a50",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Estudiante de Cornell acusado de agresión sexual buscará apartar a Letitia James de la investigación - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Estudiante de Cornell acusado de agresión sexual buscará apartar a Letitia James de la investigación - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFdPMTBQUVBSQXVPZzJXdEZjeVdOcGkyVkJvSWlta1hrZUdSUUtISm1yTmVEODJDOEpnY01fbUNGRUROcGV2bURIQ1E2eHZhVWZsZm5tRUljT1Q3Z1R6UW1JRS05WlJ6c1Z6T0swYzA1dDctRXl2WUtBU3hUQVpka2FsREdnZ3JRRnlWTVp3dXV4a3c?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 29 Oct 2026 15:38:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Estudiante de Cornell acusado de agresión sexual buscará apartar a Letitia James de la investigación CNN en Español Un acusado impugna nombramiento de Letitia James como fiscal especial en el caso Cornell CTPost La droga para violar que está en el centro de las denuncias de agresiones sexuales en Cornell puede hacer que las víctimas no se den cuenta de lo que pasa a su alrededor Fox News Comienzan a votar la censura contra la dirección de una universidad en EEUU por una denuncia de violación RFI Universidad de Cornell enfrenta voto de censura por cómo manejó una denuncia de agresión sexual Univision"
+    }
+  ]
+}
