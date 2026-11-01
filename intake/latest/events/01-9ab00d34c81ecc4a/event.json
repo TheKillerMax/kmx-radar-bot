@@ -1,30 +1,30 @@
 {
-  "event_id": "01-8f8c2995a1b52abe",
+  "event_id": "01-9ab00d34c81ecc4a",
   "category": "CIENCIA",
   "risk": "low",
-  "canonical_title": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Seattle Post-Intelligencer",
+  "canonical_title": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Chron",
   "intake_status": "SIN CONFIRMAR",
   "verification_signal": 0.495,
   "primary_source_present": false,
   "independent_domains": [
+    "chron.com",
     "elmundo.es",
-    "listindiario.com",
-    "seattlepi.com"
+    "listindiario.com"
   ],
   "high_trust_domains": [],
   "article_count": 3,
   "rank_signal": 0.6,
   "sources": [
     {
-      "title": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Seattle Post-Intelligencer",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEVMdTlpLVNQQkFraXRWQWlwVEo4NDdFUDBXTVdYSlczQjEtbmhTczBQTTNFY2NkdE9WclZoc3FPRXpjSlZOUHZyVE56Q3lacGtjYkFENGxsc0VFR1ZpUU9MRmxMc1Ewc2x0WVpVOUdhcEtPYXVkWnBBQ29CTnNmeG5oRmxYdkRCbTh6YWtFTWI?oc=5",
-      "domain": "seattlepi.com",
-      "publisher": "Seattle Post-Intelligencer",
+      "title": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate - Chron",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2d5M3BYOXpNeVdXVGRIRkFQZFIxaE1QbkNSSkNZNEN4bXdRb1E1czZCR3JBWTFYVXhxNUtnZVpMSE5TM1hWT1JtWmV6TG8wWTZ2SGJPZXVUa0pBaFZRNTQ5VVNfRC13aXBRb3hkNUpPcFo3MkwtM2dWNzdiVjNvM3ZiOF9Ja0czckJ5RlZ6V0JaNl9Rc3RKZA?oc=5",
+      "domain": "chron.com",
+      "publisher": "Chron",
       "language": "es",
       "source_country": "",
-      "seen_at": "Sat, 31 Oct 2026 13:27:45 GMT",
+      "seen_at": "Sat, 31 Oct 2026 13:33:08 GMT",
       "primary_hint": false,
-      "excerpt": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate Seattle Post-Intelligencer"
+      "excerpt": "Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate Chron"
     },
     {
       "title": "Un telescopio de la NASA está a punto de caer a la Tierra tras una fallida misión de rescate - Listín Diario",

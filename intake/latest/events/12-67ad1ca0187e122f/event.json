@@ -1,0 +1,30 @@
+{
+  "event_id": "12-67ad1ca0187e122f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Cancelan la foto del G20 en medio de tensiones por la presencia del ministro de Asuntos Exteriores de Rusia - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Cancelan la foto del G20 en medio de tensiones por la presencia del ministro de Asuntos Exteriores de Rusia - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjg0WVg3S3U0b2VYNEpwT0lKMjA5M1FqTnVMRmcwR2YtQkxHTC1uSjdjekpIdDRSRi1MbzJXLXZrUkpycUE1a0s5ajZlbm5pM3RGaXBzOEh6cUhucjkxcHRxR2VJU2pRdTdDeklXQVNDZkJjVTJ6cnNwQzBxaXlYVE5NOHFMY2dQVmhDaVU3UmxMQnpnbGZObmdrSTZBR00y?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 00:53:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Cancelan la foto del G20 en medio de tensiones por la presencia del ministro de Asuntos Exteriores de Rusia CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

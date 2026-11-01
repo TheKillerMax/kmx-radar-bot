@@ -1,0 +1,40 @@
+{
+  "event_id": "02-3c2e7f502e664270",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Los integrantes de misión simulada de la NASA afirman que llegar a Marte es \"inevitable\" - Clarin.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "clarin.com",
+    "eldeber.com.bo"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Los integrantes de misión simulada de la NASA afirman que llegar a Marte es \"inevitable\" - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2MwVlpaT09nSzNHN2JzdW9sOUFfeENTWnNPcUhkT085bEhyc084OXMxc1RWVUUyTld4ZWxkSzBDa19BLTVjOXJpZlVYdmJ0NXpMX29QUUs3UG1Nb05aYklfYkRiUmlzSXlJbU8weEIzUUNKeHMyeGpoUTdadC1IRkh3WnZGN2lwZGQ0T21IMTloVmtCY0wtWngwejRya3ZmZ1hkQjNWT0IzenRPUzhTSkJUc2ZUZmFPdjlaSGRXY3B6OUl3M1g1ZU1nWEQ0d2lPVUFDeFRxbnVaQQ?oc=5",
+      "domain": "clarin.com",
+      "publisher": "Clarin.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 20:20:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Los integrantes de misión simulada de la NASA afirman que llegar a Marte es \"inevitable\" Clarin.com"
+    },
+    {
+      "title": "Los integrantes de misión simulada de la NASA afirman que llegar a Marte es \"inevitable\" - El Deber",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW0yMFl5dGdhNTlRb1pfaUYwdVJxNXEzQ0MwdTJNRk8zV09zT3dVRlhhV3ltNHJ2SHZPQ0FVb194TXNULUp4ajMweDBWdVFuWENKZUlLcm4tRzh3RVFkSUktb1o5UFFJZEJXamJoaGpvXzV1eFpOZ3FoY0s4TzlqNm9ERl9yMktDNEZnWnpQZjI2dFJXbnlFSENpamgwbFJjNF9Td1Z0QmdtdHdmOGc?oc=5",
+      "domain": "eldeber.com.bo",
+      "publisher": "El Deber",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 21:10:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Los integrantes de misión simulada de la NASA afirman que llegar a Marte es \"inevitable\" El Deber"
+    }
+  ]
+}

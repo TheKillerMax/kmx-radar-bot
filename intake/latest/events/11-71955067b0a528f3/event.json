@@ -1,0 +1,30 @@
+{
+  "event_id": "11-71955067b0a528f3",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Congresistas demócratas piden a Marco Rubio explicar la participación de EE.UU. en la salida de Flávio Bolsonaro de Brasil - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Congresistas demócratas piden a Marco Rubio explicar la participación de EE.UU. en la salida de Flávio Bolsonaro de Brasil - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmp3WmNXNnVFM3JYTjk1ejZSd3FmZ0M2cHdxemhwd3dESzBrUDJhUWpZUDZlaUs4eWpkQ3J5TkYyUFhfZjlmYl9IcGpNdHFEcHF3cHFKZkd2N2ZKcDY5RkxXcUNkT0VteThyN1hiTG0xUUtEXzlFbGxoVlozSXRUUWx6RFFxUHRtRS1GQWxhWVlONHNGNUFCWG9R?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 30 Oct 2026 21:34:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Congresistas demócratas piden a Marco Rubio explicar la participación de EE.UU. en la salida de Flávio Bolsonaro de Brasil CNN en Español Rubio dice que el gobierno de EEUU no facilitó la salid de Bolsonaro de Brasil AP News Brasil convoca a representante argentina tras huida de Bolsonaro a EEUU vía Argentina Laredo Morning Times Cómo cambian ahora a Brasil la remontada de Lula y el misterioso viaje de Flávio Bolsonaro CNN en Español Bolsonaro llegó a Miami. No es el primer exiliado latinoamericano ahí The New York Times"
+    }
+  ]
+}

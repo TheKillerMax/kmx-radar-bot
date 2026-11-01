@@ -10,7 +10,7 @@
 ## Evidencia recopilada
 
 ### Fuente 1: bbc.com
-- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xVC1YOTFuRlQ4bzRiUkF2dzFUZ3p1aUtNZzk1Tm1Fc3NlWDE3T2FjRE9jRlFaQXlBY1d0bF9lMVZsWU5mbDdudmF2V0JweF8zWGVZTm83V2hnU01t?oc=5
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xVC1YOTFuRlQ4bzRiUkF2dzFUZ3p1aUtNZzk1Tm1Fc3NlWDE3T2FjRE9jRlFaQXlBY1d0bF9lMVZsWU5mbDdudmF2V0JweF8zWGVZTm83V2hnU01t0gFiQVVfeXFMUHFaTlY1b3RraU5meGJoNl9DQVZGQzZ1VXRybWw4dEhTSW9jR3BSWjNieTUtcFNGZ1Q3U2xLcl83WV9SclFUekVERG9MUEJ1dTZkWURRRW9WdFdJSk5MU1NLSnc?oc=5
 - Título: Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida - BBC
 - Fecha detectada: Fri, 30 Oct 2026 15:09:06 GMT
 
