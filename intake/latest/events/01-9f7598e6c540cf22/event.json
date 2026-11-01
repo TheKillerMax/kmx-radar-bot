@@ -1,0 +1,52 @@
+{
+  "event_id": "01-9f7598e6c540cf22",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly - nasanet",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "foro3d.com",
+    "lanasa.net",
+    "teleurban.tv"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly - nasanet",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bzU5NEV1VkhkQTRidFZLOTlpRnBhUnFmQWZmWFQ3RXFXRlJjZ3lReWxDTl9VTVkwT080aThhMGRJLUFnYWswaUpVMzZEZmI3YlVrUE1TajdYdG1MdjlZdkxfdy1vazI5NVkwZ1l3?oc=5",
+      "domain": "lanasa.net",
+      "publisher": "nasanet",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 15:58:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly nasanet"
+    },
+    {
+      "title": "Tu nombre viajará a Titán con la misión Dragonfly de la NASA - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0ZTSUlhUXd4RDFSbEt0WjZrQll2aDNmZnZwNmdDWThaeVRXeUVTcWp1TkQ0U0RoTjZkc1V1cGpoUHk0TkRYSFQ2d1BQLThyb2sxczNFZl9OMEk3d21tZGlfVktmaGdRekszeXlXSk4xbzUyZllDLWU5MXFka3hvZ0U4MlNRRWRqSGMwZjFwbmlFZ3N0cHdKREhkUWMwNGFR?oc=5",
+      "domain": "foro3d.com",
+      "publisher": "Foro3D",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 04:13:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Tu nombre viajará a Titán con la misión Dragonfly de la NASA Foro3D"
+    },
+    {
+      "title": "Misión Dragonfly de la NASA: Guía paso a paso para enviar tu nombre a Titán - Tele Urban",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXdmbFd6czZTR1RMcXpVMjdPLVBkUDVCRl9sblRmX0NPS3ZHUER1UmpBMDhpazVnRFRjbmJqRUc2TndfM1gzSDc2aHBQSzlyNEVxMzdydGdqMWdrQ280S1l2Sk9KZjItVWg2YnhjSTJpb3lrMkVEeUF5bDZvc3dKTWlIOA?oc=5",
+      "domain": "teleurban.tv",
+      "publisher": "Tele Urban",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 16:44:57 GMT",
+      "primary_hint": false,
+      "excerpt": "Misión Dragonfly de la NASA: Guía paso a paso para enviar tu nombre a Titán Tele Urban"
+    }
+  ]
+}

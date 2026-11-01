@@ -1,0 +1,30 @@
+{
+  "event_id": "12-f9d640b143c59bc6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "\"Dale me gusta, comparte, repite\": cómo un solo hombre movilizó a 10 millones de personas para ayudar a Lula a batir récords - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "\"Dale me gusta, comparte, repite\": cómo un solo hombre movilizó a 10 millones de personas para ayudar a Lula a batir récords - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2FYNW56aklpRGgyMXBjdFcxcVBJdllFQ0FsV3d4alRUaUM2am5vOU5ENnRWNHZzWm00ZGNXZkZzOTljZ0tuOTR2V0xJdTFxUFhleUR3RVdoTEduMjJ2ekpWRExxZG1XdHhtOW5hRVJJdWxrbUFWTW9BdDBsZ3l3VkEwME52cEh3UjU5VF9zekVHQ2ZiOFJWZDBCdk9MM0JZX1E?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 12:06:00 GMT",
+      "primary_hint": false,
+      "excerpt": "\"Dale me gusta, comparte, repite\": cómo un solo hombre movilizó a 10 millones de personas para ayudar a Lula a batir récords CNN en Español Brasil reelige a Lula y otras fotos destacadas de América Latina y el Caribe Beaumont Enterprise Resultados “imposibles” o “fraude”, las narrativas que desinformaron tras el balotaje en Brasil AFP Factual Donald Trump aseguró que Flávio Bolsonaro podrá quedarse “el tiempo que quiera” en Estados Unidos Infobae ¿Es importable el janonismo? Diario Red"
+    }
+  ]
+}

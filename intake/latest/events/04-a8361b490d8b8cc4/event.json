@@ -1,0 +1,40 @@
+{
+  "event_id": "04-a8361b490d8b8cc4",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Se formó hace 4.100 millones de años: Estudio de la NASA sobre meteorito marciano revela los secretos del agua en Marte - Megatiempo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "lanasa.net",
+    "megatiempo.cl"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Un Meteorito Marciano de Más de 4.100 Millones de Años Revela los Secretos del Antiguo Marte - nasanet",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2dHZ6UlltV1FvanN6ZXpQRk9RU0VpWFpJTHo0MTVZM2s4Q0h5RUlMc3dqejljYWpVTENrUXVlZGVOelZERDJhVVlCcVpGM1h2LXMxdU1OclV1cm93ZFhLaWhxRDVXYThnSEE?oc=5",
+      "domain": "lanasa.net",
+      "publisher": "nasanet",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 15:25:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Un Meteorito Marciano de Más de 4.100 Millones de Años Revela los Secretos del Antiguo Marte nasanet"
+    },
+    {
+      "title": "Se formó hace 4.100 millones de años: Estudio de la NASA sobre meteorito marciano revela los secretos del agua en Marte - Megatiempo",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZUzdCMjhxODVaZkpZaW1VTzE4RkttdHB2aUlxMXVkQUNjRHVPVzNTNzJEN1JwUmxsNFU4a1FOdWNkeGoyTDVfUDhkVlUwQklKME05YzZyLTZnTnc3Y201eVNfem85ZW8wNVN4dWNuTkFIbkxSM0kyYTRiOGctZw?oc=5",
+      "domain": "megatiempo.cl",
+      "publisher": "Megatiempo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 14:49:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Se formó hace 4.100 millones de años: Estudio de la NASA sobre meteorito marciano revela los secretos del agua en Marte Megatiempo"
+    }
+  ]
+}
