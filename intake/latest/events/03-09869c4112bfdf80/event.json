@@ -1,0 +1,40 @@
+{
+  "event_id": "03-09869c4112bfdf80",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "“Nos sentimos con esa vergüenza deportiva”, Ezequiel Medrán reconoce no haber estado a la altura de Emelec (ENTREVISTA) - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "futbolecuador.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "“Nos sentimos con esa vergüenza deportiva”, Ezequiel Medrán reconoce no haber estado a la altura de Emelec (ENTREVISTA) - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXNWdnlTY01za3k3UWVjeWhRbDlYSnVIZFlnS0JKZGxnY0ZCRFlQNjlQcjhkeWJBUGREU3lsTlQzQWZyMUlaNnRtbEtNUkVCTUplcnhDZmI3Z05HMURuSkdvV0hMQVhOMmtVUVJEM3pXZ3RrbkVBWFk1LXgxOENwUXQzSFgxSFhtYldqR0pBUEJmRmI3VEd6QjJpM0pTYm85VlYwNVJKNkE3bVhwOTUtYg?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 01:08:00 GMT",
+      "primary_hint": false,
+      "excerpt": "“Nos sentimos con esa vergüenza deportiva”, Ezequiel Medrán reconoce no haber estado a la altura de Emelec (ENTREVISTA) Yahoo"
+    },
+    {
+      "title": "“Nos sentimos con esa vergüenza deportiva”, Ezequiel Medrán reconoce no haber estado a la altura de Emelec - futbolecuador.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVlRdnRjWnIyMUJ1ZHREYm1iaXRidTZqcHBEMlc5ZjhLbnc3QWdvYkJPRXcwUTl6aWo3Z2hub3EwMWhCRkw3bTBiQnhTU0ZoNmpOdW8ySjJuRVNvNWhHaGxoZFRXVTYzeHluNFBmYWc3N0M4b3c0OTlDcE9HbmhHVUdBMk9IWURvYUlxZm1PNHVHZTFBS01DaU9YLWdNOWhSWHYyYXl2ZnFlMU1fU2NMbW93YlUwdDU1R3F1VmpZMy1JenpXNXBrQUQ3SmNRa0ZmUEd2WlNVeTJzeWNMQUpWZjBYbjhpREhpeEE?oc=5",
+      "domain": "futbolecuador.com",
+      "publisher": "futbolecuador.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 02:39:01 GMT",
+      "primary_hint": false,
+      "excerpt": "“Nos sentimos con esa vergüenza deportiva”, Ezequiel Medrán reconoce no haber estado a la altura de Emelec futbolecuador.com"
+    }
+  ]
+}
