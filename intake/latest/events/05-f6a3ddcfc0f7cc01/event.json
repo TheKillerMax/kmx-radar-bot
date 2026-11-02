@@ -1,0 +1,83 @@
+{
+  "event_id": "05-f6a3ddcfc0f7cc01",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Weather forecast for Dénia on 2 November 2026 - todoalicante.es",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.21,
+  "primary_source_present": false,
+  "independent_domains": [
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 6,
+  "rank_signal": 0.295,
+  "sources": [
+    {
+      "title": "Weather forecast for Dénia on 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWNFZEtqM0tLWU9Kay0teEpCNHBKSUJ4SE1rZWp5Wk1ZRmZaUUhJS3VxY1FrYU96SEhqTWFia0NzUGM4TkR4c1hDSTVkS2lTVVBhY3VaLVA1TFlCX0JRckpRSnNSSVRvVExfV2VvVXZNV0tuS1c1TW9IVER2dDlKZlNEeUNjVWNTa2RMSHphclfSAZABQVVfeXFMUFljRWRLajNLS1lPSmstLXhKQjRwSklCeEhNa2VqeVpNWUZmWlFISUt1cWNRa2FPekhIak1hYmtDc1BjOE5EeHNYQ0k1ZEtpU1VQYWN1Wi1QNUxZQl9CUXJKUUpzUklUb1RMX1dlb1V2TVdLbktXNU1vSFREdnQ5SmZTRHlDY1VjU2tkTEh6YXJX?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:30:01 GMT",
+      "primary_hint": false,
+      "excerpt": "Weather forecast for Dénia on 2 November 2026 todoalicante.es"
+    },
+    {
+      "title": "Weather forecast for Villajoyosa: 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNai1DQVRSb3pNblhjcUlGQldPMEJtakxobXdBeUUwZEprT1ZKZXhfOFZXTXFyLURkcDNWTk5qYWN2OHRCcDRkanNCVWxUc0tPclZtSFZjQlY0cnkyWE1ZSkp1NktPNWNFNU5OcWlKM082SFB2dExaQWJ6NTQ3VzJTLVI3bnoxWHdydlNpUE5BSEhWZ18zbk1LQtIBmAFBVV95cUxNai1DQVRSb3pNblhjcUlGQldPMEJtakxobXdBeUUwZEprT1ZKZXhfOFZXTXFyLURkcDNWTk5qYWN2OHRCcDRkanNCVWxUc0tPclZtSFZjQlY0cnkyWE1ZSkp1NktPNWNFNU5OcWlKM082SFB2dExaQWJ6NTQ3VzJTLVI3bnoxWHdydlNpUE5BSEhWZ18zbk1LQg?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:30:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Weather forecast for Villajoyosa: 2 November 2026 todoalicante.es"
+    },
+    {
+      "title": "Weather forecast for Alcoy: 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNk1ZaHVvU3FYbEx0MnkzajJkd3NSUjlmVEk5bnItSnh3b2NLemxBZ3cxYmV6OEN2MVJtY25iTnY4VlV1aW92dUhMZm5XOFZTaEpCNVdMdkwwUXhQck1oNXA1Z0xia2pCTGNIMWlCeVB2X2hjdHloQ0NoZjVkekpCbmptdGFBOHdlMUhv0gGQAUFVX3lxTFAtWU5uVV9uSk1FWF80M011UDNnZkQtaVBoeTNKRTh6cFJmLWlaNTkyQm9VTkFHTnhYdC1CS0pfRlVjMHgwUHNVV2syTU9QWmFJWDhoZTFYZlF0OHBiNEpkNE5ZaU5wSk0xOFpGbVpBS2F0T2NTTXE0eVdJM0pmWndMT1BqeTB3Z0ZCX2F1Wlp5dQ?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:29:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Weather forecast for Alcoy: 2 November 2026 todoalicante.es"
+    },
+    {
+      "title": "Elche weather forecast: 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjc1WHVXRnAyOVVndDZZNkNBX3dZSTlEeE5kcWlac2JsYmNSUE9ZaWFuOVpxREdHRzktTlI1MkFRT29wQmw4OF9sVXZteXpXSlVscGF1RnhHRnVLd25tZldrZV93WDJfNXVfcU42MENVVWVHUUs5bzJCSFJheFBhNi01V2ZEaWl4NnVn0gGQAUFVX3lxTE9US1NXMS1nWF9GRTZYMmtZWkpUcWVzMEtHRXdWR1J0STdfN0VnbDNySWlucWh5Z2h4T3RCYzRVN1VJOVpnVnlHekdyTnRGSU10MUhDTWdkTllPNHVRbW5qV0NNMWNUUnZVWEJTNkJpRm8wUFBGVlJMUVdXV2dEbkt0SkttSE1XeHd6YVR3UVBEZA?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:29:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Elche weather forecast: 2 November 2026 todoalicante.es"
+    },
+    {
+      "title": "Torrevieja weather forecast for 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzYxZ3o5M1U4Z2E0bnJQLUk2eTRKUHgtNG5id3RSY3g1cGpIOHpQNFdraDdUOEJqSDRGRWdENG1oSHNkUlUxbm9ZaU5leHVBYjNOSmlqNWxSVFdKbEp2Q190dVNDOGY1WHE3bi1sYmYyb3JQSzdjNDlZVnJBQ3NzWUxtaFNIM3A3cFF4eFJYbWRVUdIBlwFBVV95cUxQTXVBQU9KbGMyWWxmZ2twZnE3eTRYdWZuX0pCR2t4RHlXY2MxVjVzZ0EybE1yeUt0amVGQ2JLeE5mMlJFRDZfcTUtemNnSlVOYmFpWkViWnNJWTJsSXpWNUh1MmlnOVZLT2dfbGlRRFB0em9FY2hfckpWcmF6SS05b2J0M3ZaY2FWVVpTMHZpdkVMRjl5di1j?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:30:03 GMT",
+      "primary_hint": false,
+      "excerpt": "Torrevieja weather forecast for 2 November 2026 todoalicante.es"
+    },
+    {
+      "title": "Alicante weather forecast: 2 November 2026 - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEJST1N0aUYtc3o2TjZsblA3ZHdYZm9QZks4Q0lsY3RZek1CTzc0R0YtSHE0Q2lucjAtOEdlRlZvOXA4UDVOYTdXS2NQT2RNd2JBM2RGOG5IMm5wYXk5S1prZE5IV1l6UTV4WUhxRy1hcWdZUHFCeC1YTDVndUFoOGFEaHdXOE8tWmY2dHNPVm4tY3VW0gGUAUFVX3lxTE9IQlJPU3RpRi1zejZONmxuUDdkd1hmb1BmSzhDSWxjdFl6TUJPNzRHRi1IcTRDaW5yMC04R2VGVm85cDhQNU5hN1dLY1BPZE13YkEzZEY4bkgybnBheTlLWmtkTkhXWXpRNXhZSHFHLWFxZ1lQcUJ4LVhMNWd1QWg4YURod1c4Ty1aZjZ0c09Wbi1jdVY?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 05:29:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Alicante weather forecast: 2 November 2026 todoalicante.es"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "09-8937ae02384634bf",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El presidente Donald Trump elude toda responsabilidad por altos precios de la gasolina en Estados Unidos - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El presidente Donald Trump elude toda responsabilidad por altos precios de la gasolina en Estados Unidos - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVm9FWDJ4TUFCUExVOFI0T0NnRkdJMDJVeFBVbG9jZ3g5WXBBX1JOemItN05TUERENF9qM0JFLWFoM2xKampIVjJrdkpkcXB2Z3FZTEdiV3dkbjE1N0t0cThHMm9DbVFPMlNjbXFnQW5xNUJQbmd0dFotcVozNTZNaUozU2FubGZwU1JRSDdCSGxtVlBrcUlHb083YU9OMFhEXy1BQjZUcWZTdWhDbDZTdjJFR0pIbjFjc2V1cWVxYkU3Y1o5WDVaWWVpaERPNXNnSVQ40gHTAUFVX3lxTE5zd3RtSElkeUVLeEg0dTRzeGgwd0luWVhCbWE5Y3lJSkozYlRvbU5zN0s0aW5lUzJoY3ZoZHlKSHlWYXFqWG5mQWZnWHQxTmYtSXNoekRTZHU3cUNhRDJuMzZmRzhkcGk3LVZfSzBjdkppdWZsMEN2ck90UW8xZFBGZ29aVWRaVllyRFljYUlVUnkwdHppT21tNWEwZFRFZDk0eFdrSUhad2cxdVd0UmxYdjhaMXpyeFZZUzJGSlJWQUZ1Y0ZWQWFjSHl0S1ZIamJCUHc?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 04:58:42 GMT",
+      "primary_hint": false,
+      "excerpt": "El presidente Donald Trump elude toda responsabilidad por altos precios de la gasolina en Estados Unidos DW.com Trump, en sus propias palabras, sobre gasolina y energía desde que inició la guerra con Irán Los Angeles Times Presidente Trump: Estados Unidos \"quizás haya ido demasiado lejos\" al eliminar a los líderes iraníes. Vietnam.vn Un nuevo informe revela que las inversiones de Trump en acciones de petróleo y gas han duplicado su valor en el último año Democracy Now! Trump decreta la 'edad de oro de EE. UU.' mientras el precio de la gasolina está a $4.20 el galón Yahoo"
+    }
+  ]
+}

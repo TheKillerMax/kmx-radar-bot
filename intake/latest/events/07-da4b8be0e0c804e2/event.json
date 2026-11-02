@@ -1,0 +1,30 @@
+{
+  "event_id": "07-da4b8be0e0c804e2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Jueza rechaza intento del Departamento de Justicia de retrasar certificación de elección al Senado en Alaska - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Jueza rechaza intento del Departamento de Justicia de retrasar certificación de elección al Senado en Alaska - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYm0yeFR5MXo5ZHZEMUpYZXZ1NTl4OXYxX3dac0R6N0tsUG85RVlISmFZdDZ0ekV1WklpOEFVSkRxYUMxX2x1bEh5Z05helpRa3A4QV82eFBmMmlZVVlpWlhvZzlSZHBfTUZpRkhKQkpJX1VYN1k5OU4tSVJzZ3R3dktFQ1VHOVU?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 18:34:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Jueza rechaza intento del Departamento de Justicia de retrasar certificación de elección al Senado en Alaska CNN en Español En un pueblo pesquero de Alaska, la llegada del FBI da un giro ominoso al episodio de Dan Sullivan AP News Abogados de gobierno de Alaska piden se desestime exigencia de Trump de anular boletas del Senado Chicago Tribune Juez desestima demanda para bloquear certificación de elección en Alaska si pierde republicano San Antonio Express-News FBI visita a donante de Dan J. Sullivan en Alaska mientras crece investigación Norwalk Hour"
+    }
+  ]
+}

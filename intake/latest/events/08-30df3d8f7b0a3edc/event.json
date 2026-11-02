@@ -1,0 +1,30 @@
+{
+  "event_id": "08-30df3d8f7b0a3edc",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWW4yZkswUDRZMlJMUjJ1RXRHSzI4Sm95UFY0YzRZcmdVUWtBZk9sN3hFTXIySGp1akxJVTBRclR4bUNuTXBianlHWi1oNTBsb0czNW05WmtHOGsy?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 31 Oct 2026 18:04:14 GMT",
+      "primary_hint": false,
+      "excerpt": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia BBC Un breve alto el fuego abre una peligrosa ventana de escape en la zona mortal de Jersón AP News Civiles en Jersón, Ucrania, se preparan para el regreso de la guerra al finalizar una tregua local San Antonio Express-News Evacuados se reúnen con sus familias en frontera entre Ucrania y Bielorrusia tras huir de Oleshky CTPost El alto el fuego en la región de Jersón llegó a su fin tras la negativa de Rusia a prorrogarlo France 24"
+    }
+  ]
+}
