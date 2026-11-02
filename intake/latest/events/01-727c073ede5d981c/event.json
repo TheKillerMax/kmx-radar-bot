@@ -1,0 +1,42 @@
+{
+  "event_id": "01-727c073ede5d981c",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Un gemelo digital del barranco del Poyo para predecir inundaciones como la de la dana de 2024 - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "amp.antena3.com",
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Un gemelo digital del barranco del Poyo para predecir inundaciones como la de la dana de 2024 - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWEt3cW1uNXpiS3VjZ2ZiRGM4OHBMQ093T2NmcjZrMksxVG44LVpOVHNweEZ5VHpwS1VDUUFYMDltUVRzWjFPNWxORTlIT2pfS3FEb3VvcmxmZVRKeFpoVXdZNVY0YzRTeVJ4N3l2akYzYmpxQTlqcUE0T1UyTGxVSVBTdmJvd0N0YzJ5OElkS1N4YnJQb0c4eFU0bGRmRXRBZnFTTXVrQ1dyaHhOYUJwWUFqeENzbUVYT1Jkd0VfdXVqOEtrS2RFb21fX2pnQjA0X3ZSRFQtZGh0RjJkU1NyUHBzeVVrZm5GWDRZWWlDamHSAYQCQVVfeXFMTjJyNGs1eUtTRFR6b0ZyU1RQUTZzNkZTdHgyVjdRTEZQSTEzTU5KZnFLRGg5Y2JyRGlFZnMxcFczODMxeUN3UjgzcDY3bG9lQXAtYXRnSjFReERXQ3JKZVUzUmxmWGo5bEhfaEkxNFZfYTM0dGdDT2d4QkQ2aXRXODhOd1p2ZUY2T3VFWUdvZXpHeEh2UjhURzVGVjJZeXM1Nkw4WUl1TU5BcjlXYUR0X2FyZkxCNzM4ckUyRDZXMXFncGRIQUlyN0lMV3hRZ0l0cHR6d2xMOGVaVFAtVVdmWThGQnl2LW51ZGhUSl9OLTNPcHJHSUtxUGdabk9USk5xZnYySlk?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 13:10:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Un gemelo digital del barranco del Poyo para predecir inundaciones como la de la dana de 2024 EL PAÍS"
+    },
+    {
+      "title": "Desarrollan un \"gemelo digital\" que anticipa desbordamientos como el del Barranco del Poyo en la DANA - Antena 3 Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaEhWVnd2cTVqUjBhdWV3SDU5ZVZUOE1vWU5CdHRiTWxiV1ZOMmxhS2xoNWpTUTc1enBjUlQ4SVpHUlM3cEJHc3J6LXc3VEg3SC1LQk03dkUwbmc2cllQN2dEc0dlWTROcGdVYnNWRVFKQjJaUWo5SURUNE8wNUliamVWTzZUNUR4UW1ZQkJWYTV5SHFoR1JYQWp5aUlRWFEyQTl0RUVoQUxOZ1NUVlZfV3lPSWpXQmN3S1FOb3I5TTBJanVhNzVmNnZYdlc2eUh0NnFwdjZTVXV2S3FHdVBpcTBic0R3UERKQnFaYm5PMNIB7wFBVV95cUxQaEhWVnd2cTVqUjBhdWV3SDU5ZVZUOE1vWU5CdHRiTWxiV1ZOMmxhS2xoNWpTUTc1enBjUlQ4SVpHUlM3cEJHc3J6LXc3VEg3SC1LQk03dkUwbmc2cllQN2dEc0dlWTROcGdVYnNWRVFKQjJaUWo5SURUNE8wNUliamVWTzZUNUR4UW1ZQkJWYTV5SHFoR1JYQWp5aUlRWFEyQTl0RUVoQUxOZ1NUVlZfV3lPSWpXQmN3S1FOb3I5TTBJanVhNzVmNnZYdlc2eUh0NnFwdjZTVXV2S3FHdVBpcTBic0R3UERKQnFaYm5PMA?oc=5",
+      "domain": "amp.antena3.com",
+      "publisher": "Antena 3 Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 14:49:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Desarrollan un \"gemelo digital\" que anticipa desbordamientos como el del Barranco del Poyo en la DANA Antena 3 Noticias"
+    }
+  ]
+}

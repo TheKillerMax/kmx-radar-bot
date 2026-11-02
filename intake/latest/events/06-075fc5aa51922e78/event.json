@@ -1,0 +1,28 @@
+{
+  "event_id": "06-075fc5aa51922e78",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La industria espacial llega a Salta: conocé cómo sumarte a Argentina Space - Municipalidad de Salta",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "prensa.municipalidadsalta.gob.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La industria espacial llega a Salta: conocé cómo sumarte a Argentina Space - Municipalidad de Salta",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON253TEZFUW9lX2F5N3VMYi1OVzVONGVKVmc3Zm1HeU1wOWFGNi1hbWc3MGdKRG8tS2VWSmRLZlZKNU92bzV5ZTlkbFFDZU1XZTRlY1V6ZmxmOExkYTI2RDJGRjZ6T3lQLVREZ1V3MHBLdHdhMDlfeWZUWXItVkJ5bGhCU0JFUmY4VlpLZlJRd0h0WjlxUFpzbEZwcHg2bmhndVZGeWZyODVZSnpqWHVELUNJZ3Fwdw?oc=5",
+      "domain": "prensa.municipalidadsalta.gob.ar",
+      "publisher": "Municipalidad de Salta",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 13:54:47 GMT",
+      "primary_hint": false,
+      "excerpt": "La industria espacial llega a Salta: conocé cómo sumarte a Argentina Space Municipalidad de Salta"
+    }
+  ]
+}

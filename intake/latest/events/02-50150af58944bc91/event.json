@@ -1,0 +1,62 @@
+{
+  "event_id": "02-50150af58944bc91",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.43,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 4,
+  "rank_signal": 0.52,
+  "sources": [
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1E1c3pIRmVlckRkdHZjT1BEaW5pU01hZlRDUmlSSDJIbS1OdV9oNGFkbkZjbmdMNk1ZZFJzZnB0czZtcklNUDc3dGt0Q1JvT01sbVYtLXZXUG0yY3lKUmhLV05rbGVLZTJ0NnNUbUoyTXBsd2cxUVQ1YnBHa1BxZ3V0QzVoSHd4ampyaTBMOWtFcUxING14RmRnWFprMUZUaVJOd3JYampNWmNUSjkzN1pFLTlPOFIySWtSMlJ3?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 15:23:33 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObmZNRWpKbXVJSlIzRUNqQ3hRdnE3eFZld0pTdFBSSF9sdFVVQmRwTmtIaGhHZTBRc0g5Tk54V1gzR29iOUhqQy01ejFaWjRNYUZIVnNrWmIxZi0wUG91OXNPQ3EtVS03ZGNGeXhWY18wejhDOGlIMWg0T3FtanZzQ1dWV0xFZWt2WTdHRjJMY0lXaTl2bkluVGpLUHd6OFFacXgxUzdVbGg5OVIxN3VqQWxNUVFXNk0yaGh5QmZR?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 14:58:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com España"
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckJfbWJNOTZDSkNWWllNUWY0c2JEMnRRdk9OdmZIR2RNTkUzMUVfeDNDQkJGcjN0VHNFakowYm1NekNPdXBDUXpKNE1mSDktVllDUEd4UERnbzZIMUlCWFc0Qk5xZ3lzVUhDZmx2a2JVMGFFc3hDcVpoQjRCNmhBWVk5aC1ZWk5tQzdNRjZ2aGhQaWtUdkd5MGtzeTJSbEFpdWtmTXFtN0tSU2NFVHAwbktnbXZKYy00b09XTzJ3?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 12:53:33 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué sube hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3JtOGVwSWw0SHRtSDQxRXIxS1FuVVh3UzZlTks4MFh4TmZCb2xCWDl4SmZlX0c1WmI5TmZCUnNYaVFpMmxFdDVja2p2TGNFenhJZ09UQ29HR2haVkZkUGY2RGhfdUhrSVRuQmlHM3J3b3RnMVhtelZKY19kV1B4U0xmeDZ3OEJMXzlaNFVKZFg5NWdnZDIzbFB1MUktaGVnaENld3R4LWw3emM1RXB0UnVhaTNyY2pWRllEbTVn?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 12:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué sube hoy la acción de Space Exploration Technologies? Investing.com España"
+    }
+  ]
+}

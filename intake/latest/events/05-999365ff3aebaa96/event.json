@@ -1,0 +1,28 @@
+{
+  "event_id": "05-999365ff3aebaa96",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Consejos para observar el cielo en noviembre de 2026 - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "ciencia.nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Consejos para observar el cielo en noviembre de 2026 - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSE1wbmVmekxVZExFR3NZVmwyazNWQ1lOR3FPWmJTUGRxeE5INGtUY2k3ZTR3NldCcFJkd2xqNFpQVzFfNW9VVk1VUE96UzRSZ25zWUlKRHRXYXVrV0dxSk0xdEctajZ4NDVkNXcwRzBCZzViX29qYUtiWnAyUkVucTc4dkk0UnZ4MkU0aHdENzN5ZG94ZGtmb3ZhWG9GNTA?oc=5",
+      "domain": "ciencia.nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 19:22:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Consejos para observar el cielo en noviembre de 2026 NASA (.gov)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "03-018a6285f865e676",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Denunciaron ante el organismo regulador de Estados Unidos las operaciones del BCRA con el oro argentino - InfoVeloz.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "agendasalta.com.ar",
+    "infoveloz.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Denunciaron ante el organismo regulador de Estados Unidos las operaciones del BCRA con el oro argentino - InfoVeloz.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXZnYW9rc0VTUXdNbktSdkNQZmNNSUZvRVQyTGNWSHNYVEMzZ0o0Y3ZWeXdTZkhZcTRWeFpEQkFkVkJPWkpjTllWcWZ6My14UUkycnV3MXF6WVk5OXlJZGxMTjBSbVI1TGZuOUQzUDRTTWFkQ1Y3a2hSOUdxXzRQRXhZbl9sTmsxSFJ6MW5TME9DeENiV0RwMlZ4VkFmbG5pQVhuX25xT1FGdU5rMldIYjdac0gyWHI0UGh0RWhaZFh1c3R6d19hdjQ0dkZGT0lTbUE1X0ZqQWE?oc=5",
+      "domain": "infoveloz.com",
+      "publisher": "InfoVeloz.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 19:17:14 GMT",
+      "primary_hint": false,
+      "excerpt": "Denunciaron ante el organismo regulador de Estados Unidos las operaciones del BCRA con el oro argentino InfoVeloz.com"
+    },
+    {
+      "title": "Dalbón pidió a Estados Unidos investigar las operaciones con oro del BCRA - Agenda Salta",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmc4aXR0SXlVbE9GVlYyRERoVWx4MTZEc3ZCbzI5bmRjY002ZFlwOUVaWFlfVlZfT0tHUEFYZkVrNElWa2JYbDIzTHlab3VJQmIwNW1Zd05qbWxsOWlZeGJvcFRZR0Z1cE9PeDZnYW5yblE5aV9BQ2hlMVJVaW8zakptTDMtZU9ldEpIQWlnZEdvN0M0RXE5QXZqSEVXQmdfLWI0dWxtUmJwSUs4OW1rU2JfWGhhOUhDbHUyMFFBNmY3NXkyRWtJTDV5ckk?oc=5",
+      "domain": "agendasalta.com.ar",
+      "publisher": "Agenda Salta",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 21:13:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Dalbón pidió a Estados Unidos investigar las operaciones con oro del BCRA Agenda Salta"
+    }
+  ]
+}

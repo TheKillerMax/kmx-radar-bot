@@ -1,0 +1,30 @@
+{
+  "event_id": "09-3638125c43d5f368",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Viaje al descontento de los votantes en el sur de Texas - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Viaje al descontento de los votantes en el sur de Texas - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTJISngyc0E0T3poeEl2LV9kRFBGSUdUUzlpTFNfYjdtM3pXVGp3RkpDeElZSWtyZWYyZi1IY3lEazVPQjNsSWhZMDJPNHZwM09BSjQ1cEJlQnVwbzZEU0w3V3hJcm4xbjJ6Z1lZVkxMRkRvaU1DSlNhal8yMGpOOVhMdDB0T3hOV1oxclZpeXlQR3drZThmNA?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 09:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Viaje al descontento de los votantes en el sur de Texas EL PAÍS Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
