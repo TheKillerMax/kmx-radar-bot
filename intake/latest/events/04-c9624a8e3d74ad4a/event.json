@@ -1,0 +1,40 @@
+{
+  "event_id": "04-c9624a8e3d74ad4a",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly - nasanet",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "fomoera.com",
+    "lanasa.net"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La NASA invita a enviar tu nombre a Titán a bordo de Dragonfly - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Rb0VlajJ3LU1Kb1JDWDlNc3dNTVdyZUp2d1U0LVhQbHVSbDhRTTVXbTR6MUYyRGY5V25JLXNIcnJwVXRUSXZ5V0NQQzdFZXN5WjZrUjB5c0J1ZkZRS0hpV0poT09Mdw?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 17:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA invita a enviar tu nombre a Titán a bordo de Dragonfly https://fomoera.com/"
+    },
+    {
+      "title": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly - nasanet",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bzU5NEV1VkhkQTRidFZLOTlpRnBhUnFmQWZmWFQ3RXFXRlJjZ3lReWxDTl9VTVkwT080aThhMGRJLUFnYWswaUpVMzZEZmI3YlVrUE1TajdYdG1MdjlZdkxfdy1vazI5NVkwZ1l3?oc=5",
+      "domain": "lanasa.net",
+      "publisher": "nasanet",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 15:58:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Envía Tu Nombre a Titán: La NASA Te Invita a Viajar a Bordo de la Misión Dragonfly nasanet"
+    }
+  ]
+}

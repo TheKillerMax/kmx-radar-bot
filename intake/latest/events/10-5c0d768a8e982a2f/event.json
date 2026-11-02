@@ -1,0 +1,30 @@
+{
+  "event_id": "10-5c0d768a8e982a2f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La intensa gira de mítines de Trump tuvo tintes de despedida, multitudes MAGA y un mensaje final inesperado - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La intensa gira de mítines de Trump tuvo tintes de despedida, multitudes MAGA y un mensaje final inesperado - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXRXN05vdHFhUC1fN01lSld6Q2EwSGhyT2E0RjNEd21IcGZ1YnlBbmxpcU5LaUI4V2d3SFlMMnJUZTE5bXpEaU0tSnhiYkgtSG8yWkNuSHpXQTJPNEpreDloSkR1Y0ZmTk05SU1QbkV5Z2tfakdUY04zaE83RTd5dy1tRDF4VWt5NTBESENWVmdWSG9ROHB4Mk1XMlg?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 01:15:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La intensa gira de mítines de Trump tuvo tintes de despedida, multitudes MAGA y un mensaje final inesperado CNN en Español Elecciones intermedias 2026 | Qué dicen los votantes a dos días Telemundo Estados Unidos somete a referéndum el final del trumpismo EL PAÍS Trump, ventaja y desventaja para los republicanos de cara a las elecciones del martes AP News Todo lo que hay que saber sobre quién controla la Cámara de Representantes y el Senado, las propuestas a votación y la hora de cierre de las urnas el día de las elecciones de 2026 Fox News"
+    }
+  ]
+}

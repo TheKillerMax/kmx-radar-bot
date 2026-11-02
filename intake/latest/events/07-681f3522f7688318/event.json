@@ -1,0 +1,28 @@
+{
+  "event_id": "07-681f3522f7688318",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Incendio mortal en un edificio de Power Line Road - Polk County Government (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "polkfl.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Incendio mortal en un edificio de Power Line Road - Polk County Government (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rLTQwWmxSOTNiUk16amYtTno1c3plb2g3NTVxRk1lcnRVSmtwVXE5Z3ZURXo3UWlNZWJ3TFZROEJmSV9qWGxYUTVzRmZzRXk2Q2piZGZRRUIxT2FvZVVfVXRZUEhTTTJGel9IS0xMZ3hhZTNLNWZfWDF1Yw?oc=5",
+      "domain": "polkfl.gov",
+      "publisher": "Polk County Government (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 01 Nov 2026 20:09:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Incendio mortal en un edificio de Power Line Road Polk County Government (.gov)"
+    }
+  ]
+}
