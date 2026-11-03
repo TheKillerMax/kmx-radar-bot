@@ -1,0 +1,52 @@
+{
+  "event_id": "04-dba2baca932e26a3",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Banco Central de Paraguay activa la resolución de Ueno Bank y sacude a millones de clientes - San Antonio Express-News",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "expressnews.com",
+    "latribuna.com.py",
+    "marketdata.com.py"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Banco Central de Paraguay activa la resolución de Ueno Bank y sacude a millones de clientes - San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1N4TXJpV25aOU1MSTZrNnNENGlaYm5OTEFIUXFiM2NFTHpiNVBEUUFhTkJLclNIMEpxZ3JnVmFlajQzQ2lhN2tPTEtzNWVrSmR0UnlodmptRkZrekxFZk10UkdYNm5YcWx3ZUM3TEk2OXU4bWJ1a1M4cEpTQTFPZDc5Y0VzVEVlRHp6TnVCUm5neHN5S2xMRE01MW9sVkRBX3dYbXA1R2FTZw?oc=5",
+      "domain": "expressnews.com",
+      "publisher": "San Antonio Express-News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 15:27:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central de Paraguay activa la resolución de Ueno Bank y sacude a millones de clientes San Antonio Express-News"
+    },
+    {
+      "title": "Banco Central inicia el procedimiento de resolución de ueno bank - https://www.latribuna.com.py/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGpZWmUtcngxUmo5X0o5MmJqNEZ3Sm9pakZkbnBRTHpVdExRY2JneWk4ZjFzcTRrUllYZDFSYUNkNWUxaTc5MWJwUm1CX2pDTEdIeGZHRWhEMDFmdXhKYXJsMlF2ZmZ2Tjh3U3ctV2lxWGNqVmVjdlpZd3ZoUS1NdWRhWmhkSjZVdkp5TC1DSHNhQllNeGMzTU4yWG1Db0EwdnBpUFhhVUkwWnpTY25aenB5Wnc?oc=5",
+      "domain": "latribuna.com.py",
+      "publisher": "https://www.latribuna.com.py/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 09:30:55 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central inicia el procedimiento de resolución de ueno bank https://www.latribuna.com.py/"
+    },
+    {
+      "title": "Banco Central inicia el procedimiento de resolución de ueno bank - MarketData",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnRhTVpwUjVHMW50YVRuaFZmd0k3V3Q3ZkpZSl8tbXJQLWM2X3dpdkNFT2NhaTk2NTh2aFNFdHFtbXpRUjlYWjJlS2k4TWVudEtHRlplT281R0puR0laNDk1VEZKRWloRk9VdjVhT2lLcm1FZU1HR1A1OFdxWkZvaTA3WTl0MGZSZnJFd09sWDlYaHZ3OVRRdUhOcGhaMzk1TTlYSkctR0ljdWVpRTQySFNObkplM0l1NWJB?oc=5",
+      "domain": "marketdata.com.py",
+      "publisher": "MarketData",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 12:31:31 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central inicia el procedimiento de resolución de ueno bank MarketData"
+    }
+  ]
+}
