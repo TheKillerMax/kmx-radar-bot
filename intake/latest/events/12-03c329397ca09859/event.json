@@ -1,0 +1,30 @@
+{
+  "event_id": "12-03c329397ca09859",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Las impresionantes imágenes de los finalistas del concurso Fotógrafo Meteorológico del Año 2026 - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Las impresionantes imágenes de los finalistas del concurso Fotógrafo Meteorológico del Año 2026 - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVBwYjlzRHFKRFNjVDVYMmpORVhSY1Npa3RFNmRvVV91U1JoX0JKejVuUjN3VWhWbDF4aFlwUTZYYXV2MmEwNmI4bVVkRlRzb25vTjlaRlQ5WTR5Vkk5NFkta29GTWQ5Ty1pX2hNSTAwTVY0Slc1Zi16dGFjRlBxa3VnYllzQVdQSGVHSF9fRkFodktaemQzNFlvTkY4dzVN?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 17:08:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Las impresionantes imágenes de los finalistas del concurso Fotógrafo Meteorológico del Año 2026 CNN en Español"
+    }
+  ]
+}

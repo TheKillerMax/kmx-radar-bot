@@ -1,0 +1,28 @@
+{
+  "event_id": "04-d8b7792635e4f59d",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Health Equity for People with Disabilities: Best Practices in the Region of the Americas - Pan American Health Organization (PAHO)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "paho.org"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Health Equity for People with Disabilities: Best Practices in the Region of the Americas - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2ZCM1JRWWxudVR5Tm1XRGttN0o4T1BnYVRJbFd0SUhfd0dmRzJRX1VTOS16U09MMER6M3NTZVg2QkZVYUR2MWo0ZG9TNGlOeDBlaU1HZ2Ewc2FyRlMtaG5zRkl1MzVHOTlTaWxoTEgyNkdQYVpIM3dIbHU1SU5YaWV0SVFzLW80UnlJSFFkdXc4aHpFanFuVDVYbw?oc=5",
+      "domain": "paho.org",
+      "publisher": "Pan American Health Organization (PAHO)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 20:12:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Health Equity for People with Disabilities: Best Practices in the Region of the Americas Pan American Health Organization (PAHO)"
+    }
+  ]
+}

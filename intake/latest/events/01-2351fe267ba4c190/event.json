@@ -1,0 +1,52 @@
+{
+  "event_id": "01-2351fe267ba4c190",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia - NPY",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "adndigital.com.py",
+    "lanacion.com.py",
+    "npy.com.py"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "El BCP dispone resolución de ueno bank - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHZEQ3ZSM2wyLW1NR21TM3hsZWJYbnRaaDhkamFsWnpOZ2MtaENXUlVtVGxMVEZZNWZZOUhCbE0xN3g3UE5JdlZZaHZNcGxDckFSR0ozMTRrQ09uQjhTNDFnR2tWSzBXRTVDY3FLVEtBdUlWVjU1ak52a3Z3eks0empkWDBBajRTeTFVemtjcDc?oc=5",
+      "domain": "lanacion.com.py",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 09:32:05 GMT",
+      "primary_hint": false,
+      "excerpt": "El BCP dispone resolución de ueno bank La Nación"
+    },
+    {
+      "title": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia - NPY",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLV9wNEpvR010OTI2eHEtRy1jUGZTalJHT3VaVndrWEhMTU5GOWpzc2YtbzJaSWo1MmRid001LXFTdjdVWWxEQ3RfS0F1XzZnSGJJNGtrdnNEeWFxLWtnM2lrSWRONEtkTkM3bjJ6SERNODhJdzdQbjdvdUViNDN0Ymx3eGowYUg1WGVFUjY1cks0dkQ3bFdNWDVaOFc3S0sxN2hHTUNNdjRBX1E3WUVkV19pQ2dzUHJTT2FkV1FoQUNHcENT?oc=5",
+      "domain": "npy.com.py",
+      "publisher": "NPY",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 10:36:16 GMT",
+      "primary_hint": false,
+      "excerpt": "BCP dispone la resolución del banco Ueno por incumplimiento del índice de solvencia NPY"
+    },
+    {
+      "title": "BCP inicia la resolución de ueno bank por problemas de solvencia - ADN Paraguayo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXhJZ2UyWWp2RVNPS0ZaRGdGQnlET2RxNGNrcWJSLTlkbF9fMno1TVgyMVRzdXZUQTRBbG1LMmFsbDlWdWp2U0tGMG5jeXVBNWplVUFYZDF2a0RkSllOUzZVd2pHZmptU0ZVQUt4S2YxVk92UzFENHVsMVdIRkRyREt2VkFSODgwQ2ZzOE5Yb3VWUndBWmNVb29scw?oc=5",
+      "domain": "adndigital.com.py",
+      "publisher": "ADN Paraguayo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 10:08:02 GMT",
+      "primary_hint": false,
+      "excerpt": "BCP inicia la resolución de ueno bank por problemas de solvencia ADN Paraguayo"
+    }
+  ]
+}

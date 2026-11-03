@@ -1,0 +1,30 @@
+{
+  "event_id": "07-a3a25097be2f980e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La Corte Suprema rechaza el intento de Trump de separar boletas en California - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La Corte Suprema rechaza el intento de Trump de separar boletas en California - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXlsSFNpWGo3MDl1cWpTbHZFUm00OF9Gc016RFhIN1o2WG43Q00tNmg2azVDeFZTQUctNzg3RHM3MGNGWFBkOS1QaWs3SzEtRWJUclFMeHFST1ppbXBTcDE5RmNmX2h2VVZQVDdhVDQxN1hNdnJETkY4cjhxMlFZSUZVUEJ5Rk9HSlBrM29fV05Tci1IdUtIM3NNVDUta1diTjhhUQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 02 Nov 2026 22:57:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La Corte Suprema rechaza el intento de Trump de separar boletas en California CNN en Español Corte Suprema rechaza intento federal de apartar miles de boletas electorales en California Laredo Morning Times Elecciones de medio término 2026 | La Corte Suprema rechaza la petición de Trump para descartar 20,000 boletas por correo en California Telemundo Gobierno de Trump apela a la Corte Suprema para excluir votos en California Chicago Tribune Departamento de Justicia de EEUU critica análisis a su lista de denuncias de voto no ciudadano AP News"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "09-2aa68ca3cb1342f0",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "EE.UU. llevó a cabo ataques “defensivos” limitados en la isla iraní de Qeshm, según un funcionario - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "EE.UU. llevó a cabo ataques “defensivos” limitados en la isla iraní de Qeshm, según un funcionario - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajY2VUN0N3B5S3FObk84ZHhodlUtYXdRV0Y2LVBfbmtjUXhrbE1WemtuOFhpelFhYjBjaXJIMVh2eEtOQmctWGpGbHpqSGVUc09MV21VT0h6c3E3VDlqdVBVeU5YVG9ZcEFPdkVjTkRhXzVkSTYxUjVnS24wUy1ONWt0VTJHR0d6ZkpF?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 09:11:00 GMT",
+      "primary_hint": false,
+      "excerpt": "EE.UU. llevó a cabo ataques “defensivos” limitados en la isla iraní de Qeshm, según un funcionario CNN en Español EE.UU. lanza \"ataques defensivos\" contra Irán antes de las elecciones de medio mandato BBC EEUU ataca objetivos iraníes en el estrecho de Ormuz, según funcionario, y aviva la incertidumbre AP News Estados Unidos lanza ataque contra isla iraní de Qeshm, según medios DW.com La situación en Irán tras un fin de semana de tensión diplomática; su delegación se va de Qatar Chron"
+    }
+  ]
+}
