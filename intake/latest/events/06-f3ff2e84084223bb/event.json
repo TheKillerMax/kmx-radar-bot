@@ -1,0 +1,42 @@
+{
+  "event_id": "06-f3ff2e84084223bb",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Este miércoles un telescopio caerá sin control a la Tierra y NASA advierte que podría ser sobre Chile - BioBioChile",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "biobiochile.cl",
+    "informador.mx"
+  ],
+  "high_trust_domains": [
+    "biobiochile.cl"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Telescopio Swift de la NASA caerá a la Tierra este miércoles - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkttMlN1MF9xOGphVGNRek91aEpINWtVblgzaHZ6aGRRZUdwRTJpbWlXU1JVR2p5TDBmcXZfNGRhS2NMRnA5MGNtQmk0T3VVRGRySHh5OTExZk91ampzQVU4Tmh3bHN2QUZabjB3d21YZUM5bGJScmRCc01aWEV4Y1BKZzB5OG5pMUtJMExsS1BPcmJLaWFjMXNsTVhfMlNEdWtRMDFHcmNVOF9KNGk1Nk1TTU4tMlXSAbwBQVVfeXFMUDNIN0JlZU5MZ1pRNGFTUTRGVFl4Y1B1QTYza3BwVkNiT1llRHVaWVhtUnpNV2w1Qklnd1RnNTh1Mmt5U29OV1FlZEZuM2d5bllhVVF2MGZaR29uYXpuMlhpWjlkQWEyQjQxYjQzMFh4MVJjQTVza3doNFZUU3dYb19DenRNcVRoN0hPMzU0dHNMZm5LYktPcWxmaDc3akxPc0lvQ3V1M2luNG5EeVdUeE1FTTNROTl6Rmp6VVQ?oc=5",
+      "domain": "informador.mx",
+      "publisher": "El Informador",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 22:06:49 GMT",
+      "primary_hint": false,
+      "excerpt": "Telescopio Swift de la NASA caerá a la Tierra este miércoles El Informador"
+    },
+    {
+      "title": "Este miércoles un telescopio caerá sin control a la Tierra y NASA advierte que podría ser sobre Chile - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaEk5cWJ5eWpyTldaVmVXSlNGZXkwbUUwek8ySG1ta0xBS3NkQUdPQm5URFNOSWY1Vm1rajlGNWx2d3JoM3NDSUdFcFM3SkVLeHZDY21VaXhBYmtTaVNMbzdWMDJjeWlwQUhnRnJDc3FxcEZaVktsbEc2TlRPMDluZWpBMjNsQXg3bUF1NnRTZHUxTHNaei1VQWV4MFNMTlN6SkZDU0Z6M0sydmJUQ3N0LTRMQWlIcDVKWTk5Q1M3aF93R3lONmNXdjFOMXBKbWVremg4MmZsV3NJODRLY1NITjUzQVkzdWl0eU1od2t6MW0yTmhWZU93clRNbGwyS1VCRFQ1VFRWRUtWTUZ1cjAzQg?oc=5",
+      "domain": "biobiochile.cl",
+      "publisher": "BioBioChile",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 03 Nov 2026 19:06:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Este miércoles un telescopio caerá sin control a la Tierra y NASA advierte que podría ser sobre Chile BioBioChile"
+    }
+  ]
+}
