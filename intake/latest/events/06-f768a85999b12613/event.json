@@ -1,0 +1,40 @@
+{
+  "event_id": "06-f768a85999b12613",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El astronauta de la NASA Anil Menon votó en las elecciones de medio mandato de Estados Unidos desde el espacio. A bordo de la Estación Espacial Internacional, Menon llenó su boleta electoral desde una computadora y la envió a las autoridades del con - Facebook",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "facebook.com",
+    "fomoera.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El astronauta de la NASA Anil Menon votó en las elecciones de medio mandato de Estados Unidos desde el espacio. A bordo de la Estación Espacial Internacional, Menon llenó su boleta electoral desde una computadora y la envió a las autoridades del con - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdkpYeHViS3ZtWmNNSVF6X2tKYjFEdGhHQmt3ak91YVVPZ0RGZ1g0TEVlaXVrNXhNcjVLSzh6YllmSS1TREVMMW9mMHVNejVSU2hjRXM0eVRndDBNdzB3YV93MGhyUTlJY1psMWVnMWlxV08xVW9ESG41WkQ3WWRyOXZSbEpyOEx4eElnb2tJZER4OGpqNjFPVWIxa1FWb0NObUNOVWFsU0RTWVhmVlpXWVk3QVVaX3BoTzRZaHpqUUJkNE5rQWdHWWotZU9XY0ltVlBGREo1S2V2TTBkQnJXLU4wQQ?oc=5",
+      "domain": "facebook.com",
+      "publisher": "Facebook",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 03:49:47 GMT",
+      "primary_hint": false,
+      "excerpt": "El astronauta de la NASA Anil Menon votó en las elecciones de medio mandato de Estados Unidos desde el espacio. A bordo de la Estación Espacial Internacional, Menon llenó su boleta electoral desde una computadora y la envió a las autoridades del con Facebook"
+    },
+    {
+      "title": "Tres astronautas votan desde la estación espacial en elecciones de EE. UU. - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQX3JpZU56Y3VCUzlHTERib0tvRWNQa0JWa0dNVzBzQXl3R0o2ZFpjSmIzSS0xakRiTGI1T1BpZXhsRENXbE91cGo0aWpnSHhuRExNb3ZKNS16aW5YYjczaU9rZEJVN0h0Y1A4RmN1SklZOTk4ZEhIM3hrcw?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 02:20:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Tres astronautas votan desde la estación espacial en elecciones de EE. UU. https://fomoera.com/"
+    }
+  ]
+}

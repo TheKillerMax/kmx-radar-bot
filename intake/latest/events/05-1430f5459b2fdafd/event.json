@@ -1,0 +1,40 @@
+{
+  "event_id": "05-1430f5459b2fdafd",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Telemundo Atlanta. . #Decision2026 | Acompáñenos en esta cobertura especial con análisis y resultados de las elecciones de medio término. - Facebook",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "facebook.com",
+    "telemundo20.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Telemundo Atlanta. . #Decision2026 | Acompáñenos en esta cobertura especial con análisis y resultados de las elecciones de medio término. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmpDNTN6dzBKRC1fZUNMZXZadlVUcnd2aDAzS0NTcDJzYTRsVVV6bTA3UHJMY2NFbDVtd0dzSV95UmpmVzh5TFhvcEhKdEVCR21kdVJYeWh4NFhjc3hXb1JGdjhtaTRUV2RLVWh0RTE0ekdpSllxY0YydjlMMWtlNi1xanNzamdqc2lERA?oc=5",
+      "domain": "facebook.com",
+      "publisher": "Facebook",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 00:03:11 GMT",
+      "primary_hint": false,
+      "excerpt": "Telemundo Atlanta. . #Decision2026 | Acompáñenos en esta cobertura especial con análisis y resultados de las elecciones de medio término. Facebook"
+    },
+    {
+      "title": "En vivo: Sigue los resultados de las Elecciones de Medio Término en California y San Diego - Telemundo San Diego",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3F0WldsbzZ0QkI4RjRQNW9uR3ZCR05XQXJPMmd4OTJtWnE3THA5eUxLX0dCTVBsUjBWVnBnSjlNZWR5aXpWRnhVWUNVbFhWMncwNjhsQ21qcTNsRm5IMmRGcFhTY1J1RzlDX01aaDdrTlphT0Vvakl4Wi1reUFZOV9QUHQ1VUlLUU1YQ3d3a1RGczZ1WjM0aTNJTTVYcGd3dnJ6LV81S2xocmxYWTF2WDNhZUVMbHfSAb8BQVVfeXFMTW5WejVvc1hObEpya2MtdHRJTGpFd2ZrSDZock1xOHloY01GMXdFdGFUY2Y5MFV5YURsN01zYmo2bXZ3WUg5TmhQOUVZY20xWjRMZm1KajZkNjF4WkpjVzZWdTdMMk9CVnQ3Y0NqWGFVajgxQzRyNHlwbGpSQVhWOVVaOG4wY3ZrNjFCM2sxUGx4LXVPajUtV0R4SGJ3TlFWNi1sYm5mZU9tYldzZll5VzJNd0hnVHQ4UlljZG9ad1E?oc=5",
+      "domain": "telemundo20.com",
+      "publisher": "Telemundo San Diego",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 01:33:36 GMT",
+      "primary_hint": false,
+      "excerpt": "En vivo: Sigue los resultados de las Elecciones de Medio Término en California y San Diego Telemundo San Diego"
+    }
+  ]
+}
