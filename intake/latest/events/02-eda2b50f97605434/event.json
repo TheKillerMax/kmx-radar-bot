@@ -1,0 +1,40 @@
+{
+  "event_id": "02-eda2b50f97605434",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Crisis en Ueno Bank: intervención del Banco Central de Paraguay deja ahorristas sin acceso a su dinero - TVPerú",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.6,
+  "primary_source_present": true,
+  "independent_domains": [
+    "criptonoticias.com",
+    "tvperu.gob.pe"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.77,
+  "sources": [
+    {
+      "title": "Crisis en Ueno Bank: intervención del Banco Central de Paraguay deja ahorristas sin acceso a su dinero - TVPerú",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWU1xdHppQzllVlFmQy1Vem1yR21WUXF6Y2NhUE1hSlpaSEZnZElGdFNiWjNHaEVFQ1NFRnhhZ29jSUZVU1JOOWZ0ZlFBSUlNNFlOSklqUnQ5d0Uza05SZHUwNmhoa3JyWjQxQWZwZzZlWXZiMTRET0RjQk5zQ2RzMVlkaHJoQ2NySnJoOHQ1c3RTMW9FQnlMMFVvcGRtZU00N0NhRUY2VlZVZU9LS2tXeGxBY3JmMjJIX3pVV1k5TmM3S0tLY2hMUkY1dDZXakp1bjZCQVpDNmIza2RvWXNIMXgxT01OeHM?oc=5",
+      "domain": "tvperu.gob.pe",
+      "publisher": "TVPerú",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 18:54:01 GMT",
+      "primary_hint": false,
+      "excerpt": "Crisis en Ueno Bank: intervención del Banco Central de Paraguay deja ahorristas sin acceso a su dinero TVPerú"
+    },
+    {
+      "title": "Caída de Ueno Bank en Paraguay: 8 detenidos, crisis en el Banco Central y dinero congelado - CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDk2OWlBR3VRUFdrQWpWcGpnbjBHWXdUWXZZTDJhY1RKS1VBbkxTZ0h1QjZEa3hRY0M2Z0UtUmxJd25WVzhqaFhSV3FkYjNYQWN4eWpaNU1jUjF6Q1RpTUJJUjlXOFVCSHdycGlzMjExdnhWWk5NVDFoQ3M5eXJEM3pxSEVyQ1JKdkRqN2lSaGRIektxN21pQjN0Q2ZzZw?oc=5",
+      "domain": "criptonoticias.com",
+      "publisher": "CriptoNoticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 12:08:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Caída de Ueno Bank en Paraguay: 8 detenidos, crisis en el Banco Central y dinero congelado CriptoNoticias"
+    }
+  ]
+}

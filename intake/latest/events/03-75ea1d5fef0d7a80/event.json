@@ -1,0 +1,54 @@
+{
+  "event_id": "03-75ea1d5fef0d7a80",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El telescopio Swift de la NASA cae en la isla de Sumatra (Indonesia) sin causar daños tras casi 22 años en el espacio - El Mundo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.555,
+  "primary_source_present": false,
+  "independent_domains": [
+    "biobiochile.cl",
+    "elmundo.es",
+    "holanews.com"
+  ],
+  "high_trust_domains": [
+    "biobiochile.cl"
+  ],
+  "article_count": 3,
+  "rank_signal": 0.71,
+  "sources": [
+    {
+      "title": "El telescopio Swift cae en Sumatra sin causar daños tras casi 22 años en el espacio - HolaNews",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnRSM3RBQlpBdmk2M1U2VGstVE9ES1BxTzFuZGRwRHAzZ0lJbXB3Y2VoT2p6dEtfdjBrb0JmeUViZ2pkWmV2eXBzRE5XaVBzNFRzNTRITmNTWjlmVWZ4ZUFXOGtvdXgtdzVBbEdZNm5lNzlMLWZNUzROVkFIRTQ5eWs0TTRJZE1EY05TN3lTNmxxZUt2VlNXeUJmN3Rwd0U1YmtRNDcxSVQ?oc=5",
+      "domain": "holanews.com",
+      "publisher": "HolaNews",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 20:41:59 GMT",
+      "primary_hint": false,
+      "excerpt": "El telescopio Swift cae en Sumatra sin causar daños tras casi 22 años en el espacio HolaNews"
+    },
+    {
+      "title": "El telescopio Swift de la NASA cae en la isla de Sumatra (Indonesia) sin causar daños tras casi 22 años en el espacio - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMlhNamo0TzRoNThxcklpdHZlUS12SzFlcm1RQ3NzWWNRVzlScmdfX3pPNFBuTXlueEhwS0wxMllPdUkxNkhGMVp1Yk4zajV3SjRUU1BNRWxubUphRTJJUWYxWDJMYUFmT3A2N2hBMEpmSTByQjdmUmZrONIBe0FVX3lxTE1GeTJfMkxYUjQzUGx2THNQYmZENmdyQnhmeGtCUjNQUmI5Z0RwR1N0R0lhZjBQaGR5NklOWS1OTVgtclRRRG1yajl6QW1ucmlBb0QwbDUtTzlVcjJtMmRSbWZTS3FXc1g5LXhTTVc3d1FLNG43VGNuZzdmMA?oc=5",
+      "domain": "elmundo.es",
+      "publisher": "El Mundo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 20:38:54 GMT",
+      "primary_hint": false,
+      "excerpt": "El telescopio Swift de la NASA cae en la isla de Sumatra (Indonesia) sin causar daños tras casi 22 años en el espacio El Mundo"
+    },
+    {
+      "title": "Finalmente, el Telescopio Swift de la NASA cayó descontrolado en Sumatra, pero sin causar daños - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYlZWd0lKUVlxekExUGhrTnBWc21VWUlPTFA0R1R4UjlYOXlVN0pCTDVxWUQwcTdqRHhyZXQ4cEU3YXhvaTVaM0JtTWxjYUNramp5cVNubExWZW1HdS15MG5TLU9aamE4TWtQOGRlNkZaSEdWY1JNMnRkNlhrUXBpQ1dJWUN2dm5kcXhlZkk3dDhBVks3bk96dUo2S1BwejIyUmd2RXdVdmtFYjF5Y25SUjRtT3c1bmlUb3d1RjJUMVpnQlBUNm9oMC1OUkhVYzBYSnNSNUxFMmxWX1RjOXVYR0djNUF2Z0lYMHFhcG11VGxsZGZJY2szVm1vYk1Mc1VpcjdweVV0Q0s?oc=5",
+      "domain": "biobiochile.cl",
+      "publisher": "BioBioChile",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 20:29:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Finalmente, el Telescopio Swift de la NASA cayó descontrolado en Sumatra, pero sin causar daños BioBioChile"
+    }
+  ]
+}
