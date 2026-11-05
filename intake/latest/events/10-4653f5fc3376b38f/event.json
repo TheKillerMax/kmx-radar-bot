@@ -1,0 +1,30 @@
+{
+  "event_id": "10-4653f5fc3376b38f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los latinos fueron decisivos para los demócratas en California, Texas y Florida, pero un dato los distingue entre ellos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los latinos fueron decisivos para los demócratas en California, Texas y Florida, pero un dato los distingue entre ellos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1FSdjVZMzRsMnJpNUpGM2F6bzNHNWEtM2VKR2lGeDAwZ18tem9fT1I5akllZ0Y1NVU4X0tWLWFTcHNCU0lHX1FTcHlULWo4MEhtd3pxSUV6RGY3VDVzejZ1M1M3QnlWVGg4SV9OQnVaUGprUUUzY19pTUlGUlhWYm9VMVpzUXZtaVlaSVBJRlg0ZzEzc3dqMnozMnBxa040X0cyVEdn?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 22:50:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los latinos fueron decisivos para los demócratas en California, Texas y Florida, pero un dato los distingue entre ellos CNN en Español Demócratas recuperan apoyo de 5 grupos clave que respaldaron a Trump en 2024: encuesta AP AP News Cómo votaron grupos demográficos clave en las elecciones legislativas de EEUU, según encuesta de AP Los Angeles Times Encuesta revela el papel decisivo del voto latino en los triunfos demócratas Telemundo 52 Los latinos se movilizan en las ‘midterms’ contra el ICE y la marcha de la economía EL PAÍS"
+    }
+  ]
+}

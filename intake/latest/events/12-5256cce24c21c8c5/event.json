@@ -1,0 +1,30 @@
+{
+  "event_id": "12-5256cce24c21c8c5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Las 5 cosas que debes saber este 4 de noviembre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Las 5 cosas que debes saber este 4 de noviembre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NajFYZWxIWXFkZXBkTmQwcUcteFExNFdjcVNQWkNaYjRzUGp1VENuZzVnaElyQUhHTDI5ZUVkTmhmeDVnNm5QdFVMSlctSVQxSENubmZ5TFRQbjRxSkZzcjYxQ2NSUW15RXNLOXNzamFRVDFwUjN6dFJOTQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 04 Nov 2026 11:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Las 5 cosas que debes saber este 4 de noviembre CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
