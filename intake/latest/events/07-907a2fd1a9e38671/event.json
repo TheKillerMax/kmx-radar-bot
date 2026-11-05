@@ -1,0 +1,40 @@
+{
+  "event_id": "07-907a2fd1a9e38671",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "\"Esa no es la disculpa que le ordenó publicar el tribunal\": Sasha Sokol reacciona al video de Luis de Llano - Facebook",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "facebook.com",
+    "hola.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "\"Esa no es la disculpa que le ordenó publicar el tribunal\": Sasha Sokol reacciona al video de Luis de Llano - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlBGUUtNTlZvWmVfY3dTN0NnaWhGcHNYRk9TVGUyU01SUHFORVd5blBXTGdJa3JWci1DRnViQlRCUWtqU3lHUnNWUUhkdDczVjZSU18yRUplbXBQNUNhUzVCaDB4bXRKT280SmtqR3FoMU51bzRDeE1pZ3g5U1I1enRRMzBtN0N4ci1wM0ZXUFdSSUhsWXJXWmFoUmNmMEQxWEJENEtrMV8yZE9welhVN201S3Nka3FzT0RoZEVQMS1RTVRJeFdwSFR6eHVQMkNYT0ZDV0tyYjFzR1NlWDBscTBn?oc=5",
+      "domain": "facebook.com",
+      "publisher": "Facebook",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 20:06:43 GMT",
+      "primary_hint": false,
+      "excerpt": "\"Esa no es la disculpa que le ordenó publicar el tribunal\": Sasha Sokol reacciona al video de Luis de Llano Facebook"
+    },
+    {
+      "title": "Sasha Sokol reacciona a video de Luis de Llano: 'Esa no es la disculpa que le ordenó publicar el tribunal' - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3J5TWxtalc4YTZXa0NES3JhZWR4YkNKQjZtelhIVVRCa0JnVFEtMDlWUHRwbTNCUjE3UDVSWnN2dzFNYnFOZVBwR2tVcEpXVzBRckJ2MkVidGRtbWZlMDVxOUJSTE1WajAwWVhCRVROWEJmU1JCRDlWTkFqSUt2bzNXYVdZSW0wRWRscFZuZFVyY1NqaTZXTk9DdjZFUllZRklJMEpXbw?oc=5",
+      "domain": "hola.com",
+      "publisher": "HOLA",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 16:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Sasha Sokol reacciona a video de Luis de Llano: 'Esa no es la disculpa que le ordenó publicar el tribunal' HOLA"
+    }
+  ]
+}

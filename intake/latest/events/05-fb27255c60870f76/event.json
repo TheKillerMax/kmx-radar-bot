@@ -1,0 +1,40 @@
+{
+  "event_id": "05-fb27255c60870f76",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Trained Therapeutix Discovery nombra a Andrew Glass para el cargo de director ejecutivo - Rutland Herald",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "joplinglobe.com",
+    "rutlandherald.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Trained Therapeutix Discovery nombra a Andrew Glass para el cargo de director ejecutivo - Rutland Herald",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVpaaUFPZjFPMjg1ajJaMm5iOGlzSThKSmpyTnJUSUg1MXN2RndDU05SMkxuN0RvZ1JMb0phVHA1aFdWd2hoMXhoLU1zamJzLVlDNHZQcC1XbndlYzFWTDRBcjlaOFNjb0dwRFZLX0t0MmhKdjltN2ptb2NXa00xbkQ2R1lySzhfQ1N4VXJweGpvWnFDRFU3ZlFsSGlxUXFJa1pabVI0SG4zUTU2ZlZPNHhQcVNjQmV2b19EamxIa3NzeC1Vc1pqOExCVTg0LVlMYVdSZW42T1ZtMmtGMTRlWTVjUXZKdjhPc0lDbkYwQmc3Q2FTS3FZN21nN0JYZDZxOFowcnh6bjJnS3JSd1E?oc=5",
+      "domain": "rutlandherald.com",
+      "publisher": "Rutland Herald",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 18:17:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Trained Therapeutix Discovery nombra a Andrew Glass para el cargo de director ejecutivo Rutland Herald"
+    },
+    {
+      "title": "Trained Therapeutix Discovery nombra a Andrew Glass para el cargo de director ejecutivo - The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNS1pQeTFTbGFIdW5LcEFmMHhQNHVCUm8tRFdST2s3akM5Snl6WHlGWVlJRU5uT1M2bDVjeHRfVFZHTHYxMnZQYk5fNzhtbnR6eXhmSFA3d0tqYVpKLUNaRWlYUHhSb0pjZTFfVkdNMnRLWUNsN3lBYlVqU096QUxUd3F2WUlVaHJldTJ4a0o4ekl1Wkl0ZWltX0NnYkVyLVhDUWZZOGVrZzB0VDNTWUw1WFNnUFd6eHVOanAzQzdHNU1JbFlLMm9seXhBam1fYUVpMWJoRlJYaGhYU09mUWtFMU5wQmtyZThuZ0ZKS3FQandhWkpvODAxbWRzWjE5Z3E1dTZKODEydUhXREhUUGx2QlF1c0p4R2ZBUWc?oc=5",
+      "domain": "joplinglobe.com",
+      "publisher": "The Joplin Globe",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 18:17:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Trained Therapeutix Discovery nombra a Andrew Glass para el cargo de director ejecutivo The Joplin Globe"
+    }
+  ]
+}
