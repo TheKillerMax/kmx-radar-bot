@@ -1,0 +1,92 @@
+{
+  "event_id": "01-e85366a32ed24848",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "THE XX, PIXIES, TEDDY SWIMS Y THE WAR ON DRUGS LIDERAN EL PRIMER ANUNCIO DE BILBAO BBK LIVE 2027 - Bilbao.eus",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.84,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bilbao.eus",
+    "efe.com",
+    "elpais.com",
+    "orain.eus",
+    "radiopopular.com",
+    "rtve.es"
+  ],
+  "high_trust_domains": [
+    "efe.com",
+    "elpais.com",
+    "rtve.es"
+  ],
+  "article_count": 6,
+  "rank_signal": 1.1,
+  "sources": [
+    {
+      "title": "The xx, Pixies, The War on Drugs y alt-J, primeros nombres del Bilbao BBK Live 2027 - ORAIN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2RpTkVLZWVpVUdKaWhFR19RTldRLXJ6WnpfSEM0MTdfeFNrTnZuNEpIOFpHMUExM2lWUlAtcmJLcTZUYXdfWWNscGpKdGszeVdtM3ZEUzcxTnI5di1vYS1tRGdaek9sUVVzRWQ5MFpuLUNqSGphS3E1MFd5bHBiRUk0cW43LVQ0M2ZCUGZkVkpkMUxRQTdXRFhCcWRRY09FVkZuTGpXTk5KOGtPZXdYSTZDaTktTFZlWERDeGdBMndibG8?oc=5",
+      "domain": "orain.eus",
+      "publisher": "ORAIN",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 09:23:37 GMT",
+      "primary_hint": false,
+      "excerpt": "The xx, Pixies, The War on Drugs y alt-J, primeros nombres del Bilbao BBK Live 2027 ORAIN"
+    },
+    {
+      "title": "The XX, Pixies, The War on Drugs y Amelie Lens lideran el primer adelanto del Bilbao BBK Live - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGxJYjNKczFLS1M5VHZySUYyOEszNU5tVmFHVDlYcW1RS2JabXd1eFVUME80Y2pKX1FTNVlobGxmLVV2VHJpMnRtVllzd3pOaVpFbVhZTGJ2RHJYWGh1YVpjWTNZVUxCRFptSWZQNjFPckRzQWdKMWVpWWE0RzlqZzV5YVVJZS15eG9jdUdNVkViTHlSZUxXTnpOOFR1V1BRQjlhaXhqZzJuVmlYUEdScTgxZ2VEMGZTaVJIcUdLX2E4NzNyVGJPT1J2SWFTV2PSAeMBQVVfeXFMUEpLREZlQXoyemlwU1VNbTViRnBXT3ZVUjdmSHU5NVlJTGNOUHBLejdINFM2akFqUXRscFpucm1MR0lqWHVJb3haYjZNVmxjbE9ROWc0am1jWGFOY1ppNV9FeWE1aWRycmd5TDF2RTgwLXozcG5tQUpERkNONGpmX1VwVUtsMG5sVXh1VUdjaUppTFVaLXFRNFlJTkljck9WQW5ZM1RFRXN4VEdmLVZDQU9RaG5IZE5jay1zT0Y4QXMzNTdTT3l4NkNwOEplZEptQWM0VHBuV3hXRUloSnhiSWluNVE?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 09:42:19 GMT",
+      "primary_hint": false,
+      "excerpt": "The XX, Pixies, The War on Drugs y Amelie Lens lideran el primer adelanto del Bilbao BBK Live EL PAÍS"
+    },
+    {
+      "title": "THE XX, PIXIES, TEDDY SWIMS Y THE WAR ON DRUGS LIDERAN EL PRIMER ANUNCIO DE BILBAO BBK LIVE 2027 - Bilbao.eus",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNakFUdDlqZkIxT25XZW1DbXNmbi05NXQxU2lkbHV1bVdGV3MzWVlnNHVnY095cW1rSlh0X25OTzNWYnJPSkhSZ09TdjRqaGI4QnliOV9TOVZKMkFob1RiLVVHZDVjWV8wR3BDQlY1a0piUmY3aFRDTWpBZFp5NFlQOTZGeTdRYXA4NENQc1p6STVqRV9OUHhXbE9VaHRST3lvdHBlWjhGZ1ZmXy1BZnhNTEVzVjZKenkyQXZ0VHZDOUV5SDZsaGJMOXRWOG5NMHVLbnFYUWZnckgyLUlTSHNKNnktX1g?oc=5",
+      "domain": "bilbao.eus",
+      "publisher": "Bilbao.eus",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 13:07:09 GMT",
+      "primary_hint": false,
+      "excerpt": "THE XX, PIXIES, TEDDY SWIMS Y THE WAR ON DRUGS LIDERAN EL PRIMER ANUNCIO DE BILBAO BBK LIVE 2027 Bilbao.eus"
+    },
+    {
+      "title": "The xx, Teddy Swims, Pixies y The War on Drugs, primeras nombres confirmado de Bilbao BBK Live 2027 - Radio Popular de Bilbao",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcHZNdXB5YmhxUGNfaWozd3d1YXoyU3VmSUtYY19oZjhOWEdIWnR3X3FBYVBFeFB5dWw1bWExUXA1RkJSTk9YZ2dGLTJfNHZsNG11YWFIT1hva0ItSWtTbndlM3FaRXg3TmFoZHl1NC1yZVBqX2MwOXlOUW5QQVJkZzFRbVF1M1h5OU1mR3MtWEI1cmZVaGpXQnpxQnVtdVZsSVRURlV4WG9FQ3FpWkVWWFNoSmtUeW0xNkZiQzNJR1NBd253Qm56aA?oc=5",
+      "domain": "radiopopular.com",
+      "publisher": "Radio Popular de Bilbao",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 13:13:31 GMT",
+      "primary_hint": false,
+      "excerpt": "The xx, Teddy Swims, Pixies y The War on Drugs, primeras nombres confirmado de Bilbao BBK Live 2027 Radio Popular de Bilbao"
+    },
+    {
+      "title": "The xx, Pixies, Teddy Swims y The War on Drugs en el Bilbao BBK Live 2027 - RTVE.es",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcC1mU3RxVHJJMHQ4N1hVdjZOejNvQTNzTWdFdTNtMzVONHhJZ3VybVFRTWVUUjdXY3g0b21hWkQyN0xJODd5QlhxVGV6UHVVV2dTWHZTUjZPeURyQXVSc3lyUVE1cGtyWVJ0N1k4OTNiUldZZk1IdWNHYlFVYWtGMVhlZWFQdmRnd2NWR0pRWW9ZaVZkUHRibUxOUzRxMXZIeUZpVHNaZDB6ZkxKRFVvajNLNUwtSS1RU2ExWjln?oc=5",
+      "domain": "rtve.es",
+      "publisher": "RTVE.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 09:24:39 GMT",
+      "primary_hint": false,
+      "excerpt": "The xx, Pixies, Teddy Swims y The War on Drugs en el Bilbao BBK Live 2027 RTVE.es"
+    },
+    {
+      "title": "The xx, Teddy Swims, Pixies y The War on Drugs encabezan el Bilbao BBK Live de 2027 - EFE - Agencia de noticias",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaE41SmlJRm5SclpoN3FEV1I1MnFicHBZWVQtRk8xSzhWakY0MlFFeHNjMk9tRjJjYzVuOTZDc0ttWU1zQTJzT2F3NjdQOE15VjBZRUFaNmhEbVpWa0NxU1ZENmhvbGpsNmlWYmJXMHhMeW00ZHRhRlN3YkdaamtRRExRVQ?oc=5",
+      "domain": "efe.com",
+      "publisher": "EFE - Agencia de noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 10:42:45 GMT",
+      "primary_hint": false,
+      "excerpt": "The xx, Teddy Swims, Pixies y The War on Drugs encabezan el Bilbao BBK Live de 2027 EFE - Agencia de noticias"
+    }
+  ]
+}

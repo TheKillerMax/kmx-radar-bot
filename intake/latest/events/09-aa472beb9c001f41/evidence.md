@@ -1,0 +1,24 @@
+# La NASA probó con éxito un sistema de navegación autónoma para aterrizajes en la Luna y Marte - Infobae
+
+- Categoría: CIENCIA
+- Riesgo: low
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 2
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: infobae.com
+- URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQlJleXZqWVQ5RDJmWlBTVlJ6TTFoemhyTDBlOHJXUlRVRmhVVHVTWWJJT3d5TXNYalRLbWdnbWhpQ2FQOVowbEhJcXNsU09jdTB1QTJJNEhoOTdDaXN4UFNZTDB5MEhrNjBHYzh5Q1B6UF9Tc2RpbTF3MU1fTk1oQlI4OW93TjJURndMWW1wenBwcnNLR0FHYnNEOU1CLXVOYVp2UUNONFBJVTRTT1dHcUNnYmZHR21yeEI5TjZiNHBpT1l3eGoyaGdPU1M1ZlBhLUJzN09EU1NoUEkwaFM1aTFob3h2cHdw0gGDAkFVX3lxTE5MbFJYVjMzdU9qU21Ld1BwaUxnX1JuTnlZTm5HNGJaUURUQWZDSmpRLURnZV9CUzdVY0lqOUlXZ045Y085dGZUOFRZVnpla1p5ODZ2Z2VrUWZIa3pOWjZMaWpES0VUT3dOY1dDZEV6eVdTRnVUc2ZOUVc0LUVuY01FUWRTZXNZa0lSSllQZ1gtSGtsaFFJd3RPMXRqaFBLakxOVkNrVEhaQVRheU9CdXZnZFpmZE1ic0ZSdlptNmRoelEyN2J0YVZQMERsOXU5RzhHMFNDR2pLTlQ5alZBRlNPcl9EZGpyV1dfcVJ3MkszSWRGNnNNa3JFVDRScjhRbWYwcmM?oc=5
+- Título: La NASA probó con éxito un sistema de navegación autónoma para aterrizajes en la Luna y Marte - Infobae
+- Fecha detectada: Fri, 06 Nov 2026 05:00:00 GMT
+
+La NASA probó con éxito un sistema de navegación autónoma para aterrizajes en la Luna y Marte Infobae
+
+### Fuente 2: baenegocios.com
+- URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxNenBjTDM2Y2RQUkpsVzRrakVpUHpNQ1NnemE3VHNCWHZtMFBLNEhsSWU1eGota2hJekJtTTFrcWwxMTZxSjBiTmRCSHdSdHppZFh6bWpCcWw3R2ZoX3VDRWRiQmtBQVBxSmNHQ0JPNEpTZHNLQnBadU9EdGRPQWplcDBDdk5XLTJ0WFEyTEhFby02RGphQUZmbjRIVzlQRTNBc0NyVFhZNXJlZTQ1SS10a9IBrgFBVV95cUxPM1FfekQ5RV96cWRmY3plRGlLVlBWeFF5eGM1aHhnMFg4SFF2cUl5VUVUcE44dVFySVh4MDlSbUdUVml6NjZMNy0tZmRvVG9nS3l6UVl6cmZmaWRiX2hGcVVpNlhrRHVPQ2ktLXF3WVVkNGVLMkV3dFI2UExYcXprZVZPRE9GMTQ2WXRpek1uSjJvTk5lUm4wSnQ0NWstbjlhREdkUjNSendjNEN2U3c?oc=5
+- Título: La NASA probó un sistema de navegación autónoma para los aterrizajes lunares - BAE Negocios
+- Fecha detectada: Fri, 06 Nov 2026 19:47:00 GMT
+
+La NASA probó un sistema de navegación autónoma para los aterrizajes lunares BAE Negocios
