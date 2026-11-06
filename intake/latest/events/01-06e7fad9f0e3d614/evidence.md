@@ -1,0 +1,87 @@
+# Banco Central de Paraguay inicia el pago de garantías a clientes de Ueno Bank - El Sol de México
+
+- Categoría: ECONOMÍA
+- Riesgo: medium
+- Estado de entrada: EN DESARROLLO
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 11
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: gentedesalta.com
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDhmNU53bFhlZW5MM2VabVJLNkJPOHRYLUJfZnJpUjNlal9uMjNybmFWWDQ4WGFhY3lSSno0dDhZRnQ0cUxVcy1XU2p0WU5ndUdhcXIteHk2QzlBSF9SRzZyNE9fZlh4S29MOWljaWVMTTB6UDcySTV2S2pnRkFia2pIWTVjay0wS1hYUXdJZ3p6NVY2QWtMMXlhYzIxbHlyNlRPbW1udVM4NVk1YVEtWks5MXY5dVXSAbcBQVVfeXFMTmg4ZjVOd2xYZWVuTDNlWm1SSzZCTzh0WC1CX2ZyaVIzZWpfbjIzcm5hVlg0OFhhYWN5Ukp6NHQ4WUZ0NHFMVXMtV1NqdFlOZ3VHYXFyLXh5NkM5QUhfUkc2cjRPX2ZYeEtvTDlpY2llTE0welA3Mkk1dktqZ0ZBYmtqSFk1Y2stMEtYWFF3SWd6ejVWNkFrTDF5YWMyMWx5cjZUT21tbnVTODVZNWFRLVpLOTF2OXVV?oc=5
+- Título: Ueno Bank: El Banco Central de Paraguay iniciará el pago de garantías a los ahorristas - Gente de Salta
+- Fecha detectada: Fri, 06 Nov 2026 04:15:50 GMT
+
+Ueno Bank: El Banco Central de Paraguay iniciará el pago de garantías a los ahorristas Gente de Salta
+
+### Fuente 2: oem.com.mx
+- URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXZrR2lNNTdvbUVpUFhlZkNXYzVmQzZJUng1TWpvN2VpMFQxeEVFaE5YQjlUaDRYMHNOVkUxZ3hFR0JCMWdnc2c3NlZJNVB6RkJVSU96MDZhaGUwTU9LdGRBWXVwUzQ3SWptSFBJdWowRUl3aG9KZUQ4OFR0SGNVdF9IMnpHTWdMMDdJWHRCajJyTWhWUXV3VC1ya1pSMTE2N0xsMEpTN1lmcjZiaGc0bU9ISTRhSmxSMTVNS3lsb2JLbW8?oc=5
+- Título: Banco Central de Paraguay inicia el pago de garantías a clientes de Ueno Bank - El Sol de México
+- Fecha detectada: Fri, 06 Nov 2026 05:22:26 GMT
+
+Banco Central de Paraguay inicia el pago de garantías a clientes de Ueno Bank El Sol de México
+
+### Fuente 3: zonafranca.mx
+- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEpuWGYwMTBlMWx6Z1NtOEFWN0Z3TXF6ak9UNzdpamprbmt2OEJHZ2JIV1hudkhSRFNKYjRVV0lYNkZoMmM5dG9XNjRjQmIxUjFxcFk1OWRiMzRFRzRkdjItdUxoR1VyMlNfSXkya3l4Q1Z2VzVxTE1ZUTZ1NW9Fc2ZvdXNQSURyV2dwVk8tSS1tNEdJcTQzN0JTVnhHM05PSGJBei02Zw?oc=5
+- Título: Banco Central de Paraguay anuncia pagos a clientes de Ueno Bank - Zona Franca
+- Fecha detectada: Fri, 06 Nov 2026 02:30:46 GMT
+
+Banco Central de Paraguay anuncia pagos a clientes de Ueno Bank Zona Franca
+
+### Fuente 4: rpp.pe
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTktTTdhc08wdEgwTFdqV0QxX1NBUHUwQjh4Y25VNWhyRk9XOXVKZFhpcVVESGE4V2dQS1NvVlRlcEplakVhS2FwcGtFZGVJREtzd3BjQXNuSkhSUlIzRzJ3ZVE0bG5rc3VINUpPLVRSX0hkNW9yM0tCM04zY0FzLWREZlNCc0pLRFlxQ0lTQWZoUFR3aEczNndOVmY1TXNhckoyNXZlT3FwUjgwYndlbGdnQ2NDYW9Hc1FHSy1vT2tWQm4wVFRCd0ZHY3lkbzRyM3RVWEZoQ28?oc=5
+- Título: El Banco Central de Paraguay comienza los pagos a los ahorristas del intervenido Ueno bank - RPP Noticias
+- Fecha detectada: Fri, 06 Nov 2026 05:48:49 GMT
+
+El Banco Central de Paraguay comienza los pagos a los ahorristas del intervenido Ueno bank RPP Noticias
+
+### Fuente 5: radiomitre.cienradios.com
+- URL: https://news.google.com/rss/articles/CBMikAJBVV95cUxQUXZvNU5wdzEyOGNtemhGNGxxdEpicW5sUUM4QWpWVk8zSzlHc3p5Y2JId0hUWjlGUlE0WHpSU1doSzBLakVhUkhKZGNYR3hCT2Vvc2Ytck1FbE1KLVdHUmNWak1tMkZVRm9oNDdWcE9jLVRNT2oyQjBCV3ZyYjgwRm5EeXpTakM0UjRsY0lHYnZtdkdDbVUyUEZRQl9kcHBpdGEwMVhqbUlId1U5UFFFbVZkZzRmZFA0Zk5BbEtTclFjWVNLNEQ3LVFrd204ZmhGeDJiYldQTU5DQUM2VlJESkVOWXRwZFU5eEZyS3FtT3ktb09nV1EwUVE4cGJJX3ZmMV9XTjFyLS0za0hVa0lxSg?oc=5
+- Título: El Banco Central de Paraguay comenzó a devolver los depósitos de los clientes de Ueno Bank como parte de su intervención por la insolvencia - Radio Mitre
+- Fecha detectada: Fri, 06 Nov 2026 09:43:06 GMT
+
+El Banco Central de Paraguay comenzó a devolver los depósitos de los clientes de Ueno Bank como parte de su intervención por la insolvencia Radio Mitre
+
+### Fuente 6: geniostv.pe
+- URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHZHYS0wWWxLRXM2WnBmRVNYT2NMR1hULVJEMnBhZ0xzSl9tWmE3TlJZeGdpR21Rb1VVZllIQW1oM2hwUjE2YTZiZldxMEJiY2c4bGl2WGl3cW5ka3dJOHplSURLcmVQNlVlS3ZLT0dnN3g3OUl0WU5pVDAyWkJBNWJxOENJTVhzN090LVZyZUNYckpjTk84WkVSYm1fcXZqU2E1ZFlPUmpORDBzelAwTzdzSk8xVkpqaTVVUWpfNnZ5OTlvaWthX0lR?oc=5
+- Título: El Banco Central de Paraguay comienza los pagos a los ahorristas del intervenido Ueno bank - https://geniostv.pe/
+- Fecha detectada: Fri, 06 Nov 2026 06:19:27 GMT
+
+El Banco Central de Paraguay comienza los pagos a los ahorristas del intervenido Ueno bank https://geniostv.pe/
+
+### Fuente 7: eluniversal.com.mx
+- URL: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ1AwRGNESGRWY280cDBsdTd0OWhJMU9ZYWVmbFpJdXVxLUFuNURVZkJ3M0d3WC15RGV0YzA2UzhVeUZSUHlyZmROZHFFSmFZRmF3Z2VTaVIzS0lYc2s1UWEtNENUSldyekNYbXc4azFBRVlYRjI3Y0hBV1BZV3NrUVM5Zy1zcnFTYjNXZ2pCQWEzbDRLT3lOZzRoeXg3aTV6eEhSTGpsQ0E0bjFVUVJCS0Z2OWozUlp5ZDR3N09yeXNHX0VFbDQtS0FNTjk0U1MtWE41OXFyZ3ZiOHdIOHUtM2hZTC1lTlRaR3lscVltUVJZbGRIVEE?oc=5
+- Título: Banco Central de Paraguay anuncia pagos de garantía a clientes de Ueno Bank - El Universal
+- Fecha detectada: Fri, 06 Nov 2026 00:54:16 GMT
+
+Banco Central de Paraguay anuncia pagos de garantía a clientes de Ueno Bank El Universal
+
+### Fuente 8: c5n.com
+- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkQ2X2JnODIyMnBJZTdneVZPNkpJVUxMQmRscjg5Ui1jM1JJYmZNT280OUlqbzlzNlVfN0ZyRGFOc2k1R0pLOEtIUXhpVURaZEhpd2lURlFtUm42T3RkaTBsWjAyZTVyM3pZeFI5ZnNRY0FEdko4MDVBaENOUVcyd2U1WFcyS0xQczdKQk9HRVFpV1hzMlFvd0NsWEsyZWhzUUVHc1hLMnk4RnpYMlc5d2FRVUvSAboBQVVfeXFMT1VUUG91MXhmMmhJRkdIeHVFNHVfdW9TdHRPa3pIZmd3ZnBwQjZwdlNuMmpNMW4tZ2ppc2V4UlpGS250OFRDZXlPcElYUlRHNFdPYndRcVNyYWZjQ0tZZzJYNnY0OGRqdE1nV0ZTdEdZQXEzUmhyQXB4R2NvOGlqNmxOTTNBcFVLTHpjUG9tMkdhd1hnT3BBSE9aZUFGWmlUQS1ITFQxMUxzc3pnZGdQQThoUG5kc2lvX2Fn?oc=5
+- Título: El Banco Central de Paraguay anunció que comenzó a pagarle a los damnificados por Ueno Bank - C5N
+- Fecha detectada: Fri, 06 Nov 2026 00:20:00 GMT
+
+El Banco Central de Paraguay anunció que comenzó a pagarle a los damnificados por Ueno Bank C5N
+
+### Fuente 9: chacoahora.com
+- URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY0VZTzBXUjVqTnY3bVhaQW1HSTBRNmVINFE0UF9WR0VFOTZRYnNYLURtNV93SjlVSDJXRENvQXFzYWZNb2hyV19OcnI3eUpTejByZmh2MFdJX2lZY1hPbml0aVZUeUdpVG9VWUtOWUlWX2pCeHFwWDlLVGxaUmhFVWZSWkFYUzhqem0wRFBYY1c1aExvT181c3VCZTQ1bDBZS1M3RFdnMmZBMzZwTzZOS2pnNF9yRXVITVZfOHMzUHlQOU9BQ3FjWjVrQWRIb1VFeDFhMm1GTFBTZzZyeVNiWQ?oc=5
+- Título: ESCÁNDALO POLITICO- ECONOMICO EN PARAGUAY | El Banco Central realizará pago a ahorristas de Ueno Bank - Chaco Ahora
+- Fecha detectada: Fri, 06 Nov 2026 00:02:13 GMT
+
+ESCÁNDALO POLITICO- ECONOMICO EN PARAGUAY | El Banco Central realizará pago a ahorristas de Ueno Bank Chaco Ahora
+
+### Fuente 10: elpais.com.uy
+- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxPLV9ZYlJPTHVxajVaa1RKRnAyYWhSQ2VyOXViZnctbVFwZ1ctaEpzbEtkcWtTS1dHRnVmVEhnd2Zhdm8ySjdteVhuZEVaODl5OVZ2NnMyVG9tcUdpTlUyMU5lVlZwYnJ6TGNWWUd4ckc4d2ltS0xqUm1uTklJbzZEX0ZxOTdvZXFsTG9TbXdpQml6UkxWeS1SanMtY2RMakUxOXo3a0c2SlBDRTVFSnVCdjBLd19XVEUzNWFkUHlJd0ZsQm9oUk1oRmY1Mlc?oc=5
+- Título: Crisis en Paraguay: Banco Central inicia pagos a ahorristas tras la intervención y caída de Ueno Bank - EL PAÍS Uruguay
+- Fecha detectada: Thu, 05 Nov 2026 23:55:54 GMT
+
+Crisis en Paraguay: Banco Central inicia pagos a ahorristas tras la intervención y caída de Ueno Bank EL PAÍS Uruguay
+
+### Fuente 11: 2001online.com
+- URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2ZKQlpDTEJZVmFMZVBTejFNOEh0dVNYenJiaXY3RVE1SUVNRDdTOFJOVEhUN0dRSGEtUFMzbVRxSm01UHdQN2ZBUXd3bGNGVzRYYnhqelkteHUxOFVOeHZtSE8yWVYwSDQ5d1I0cU91ZlN6cUhYdkljZVRRNERUdlREOUw4WE51bFhMc3NMNXdvRXdhRXp5YTJQWHQwSUpzdzJqZmtoeS04VTRmMkNYY3hRMTJ3dHZ3SFhpWXhaYVV1YldBbXQ1bGxR?oc=5
+- Título: Banco Central de Paraguay inicia pago de garantías tras el colapso de Ueno Bank - 2001 Online
+- Fecha detectada: Fri, 06 Nov 2026 02:14:19 GMT
+
+Banco Central de Paraguay inicia pago de garantías tras el colapso de Ueno Bank 2001 Online

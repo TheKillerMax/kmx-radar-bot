@@ -1,0 +1,40 @@
+{
+  "event_id": "06-361060ffc6c234d0",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "BCP inicia pago a ahorristas de Ueno Bank: quiénes cobran primero y quiénes tendrán que esperar - Economía - ABC Color",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "abc.com.py",
+    "metroecuador.com.ec"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "BCP inicia pago a ahorristas de Ueno Bank: quiénes cobran primero y quiénes tendrán que esperar - Economía - ABC Color",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUEwxZDBRbFY1bUVsYWdpSy1mUHlqLUI2Y0lCekQwSWxPTnZ1S2V0a1J5VVhvVmk3TnpTNnM5VGRDd3JLNGVxanB2LW80VnJkZnhGS0psb2tkSDB3QmVFY2JYSW5RQ3FSYk1LLXlYUWllYXlsZEJpN3ZzVWdaSUNoT2loZ1VTN29wYXR3TzdJc3J3OEhUZnRRdXR0VmZHNEVNUVNjZ1JHQkJRVGdTdk12Vk9HVkpoY1YzVWtTMlBB?oc=5",
+      "domain": "abc.com.py",
+      "publisher": "ABC Color",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 23:57:00 GMT",
+      "primary_hint": false,
+      "excerpt": "BCP inicia pago a ahorristas de Ueno Bank: quiénes cobran primero y quiénes tendrán que esperar - Economía ABC Color"
+    },
+    {
+      "title": "Ueno Bank inicia pagos a ahorristas en Paraguay: ¿quiénes cobrarán primero? - Metro Ecuador",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG42UWlEMmUtNkdyZFYxRHlHUG1yU2Ixdnc5V1hnOVdqNUF3TG1WS19jOS04dTdNdzZHeXBjVFpKQW9ZanVMcWRBQkU3VjJvUV9Qb29aMWhRTFFMX0JIYU81alN2TWhpQUFrQ3diemlFZVZuRERCWjJpb0ZaVk9jRnQ0U3JBZVJnbmZWaXotZVlxemtMVWdjUVFRdG5FWkN4MzdRSEhBMUc2QXhJMVRGRlYyVmRvRzQyMGhsQy1YaDVWbkU?oc=5",
+      "domain": "metroecuador.com.ec",
+      "publisher": "Metro Ecuador",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 23:17:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Ueno Bank inicia pagos a ahorristas en Paraguay: ¿quiénes cobrarán primero? Metro Ecuador"
+    }
+  ]
+}

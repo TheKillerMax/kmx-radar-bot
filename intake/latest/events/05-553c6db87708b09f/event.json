@@ -1,0 +1,40 @@
+{
+  "event_id": "05-553c6db87708b09f",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "‘Lords of War’ estrena tráiler, el esperado regreso de Nicolas Cage en la secuela de ‘El señor de la guerra’ - Diario AS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "as.com",
+    "elplural.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "‘Lords of War’ estrena tráiler, el esperado regreso de Nicolas Cage en la secuela de ‘El señor de la guerra’ - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkNoRno3YXplQU1GcUlic3hDY0xSNnZzTGxlN2R0YkV4VDJoRjNvMHFCY1pBRm5lX3pla1JyUzBlUkxkSGpWMENyeUxHbG1wMVdRODVaWjJqXzhxOVM4VG5qWXdvWk0yRFA3OGc2RnBDUElpWFNqOFQxM2dXXzlRQ3VIRWdtYXE4X2o1LTJjcVFPSU44SkJBSkZIQ2g4M1lLT2RlV3BWdTlTQTBfVmd2ZGZzR3VGakNQTWdPelNqNkpTU3VVaWhSRlBBdlJyeFE3Z1EwOU11WUZXQVdCWlQw0gHzAUFVX3lxTE4zV2oxME4xQ0hKd1hlNkFQMGlZOU9kQTlFWmFENUIzZVhuaVJrZTd1Szd5WnVMWGlxa1dZc0QxVUZ1alpkNF9kX3R4c2hLMVBRQmhuR3cxUWVDZGw5Ykk5QUNsT3cxbkxmVTBTQjJvY3VSMV9oNks5czFkbUl4RVNGWHhmOXQta1BscjRhZXBEZUNPdGlxdU54WVZMZWJ5UEZXbWs1WlNXUUNNSEo4Slk2WFVfYk40UlpFcDZycEFveWVYRXRBTHJSU0Z1VUlCOEduQk5SNDNCclF6ZmF0OUszREpib3pBUVlYWFlkS0hpTDhRRQ?oc=5",
+      "domain": "as.com",
+      "publisher": "Diario AS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 06:47:16 GMT",
+      "primary_hint": false,
+      "excerpt": "‘Lords of War’ estrena tráiler, el esperado regreso de Nicolas Cage en la secuela de ‘El señor de la guerra’ Diario AS"
+    },
+    {
+      "title": "Nicolas Cage regresa en Lords of War junto a Bill Skarsgård y presenta el primer tráiler de la esperada secuela - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMDh1Rlg1RWJzQ3A0bVlOeDc2a2dtM0xIOWkyblI3c2NjUDRpREFCNUYzZzV3b1o5NjdTMUVxdVVQakxYOEZ2SkxfSTNZcTFxWmtUZkhhNWhaWkIxLVdGRmsxQnBCV2Ria25jOFZWSjZFSnFaOURuQ2pwTFV3b3pKRzZOWldtQUJrTS1Cb3VUWWg0bVNOaUJtaHEwdmd2SXJtZmcydEo3djA1dURTUTBNN3BUMmhqNkRfc0tYZWg4d3JfLXdGNlFvV0h3YWRrV2hZNm1ncFJYLUpqS3hhaU8tNHZ4V2wxcXFPR24zZ3BGdFBCSzZGLXfSAfsBQVVfeXFMTW9jTTVoUUhVeWxOdjNCelo1dlUybGRBQzdKeGZnLTUzMU85YjJzZExxLUtPdWZEUGFnVC1TcGI2Z2loN0s0NWFWN2pCZzhLdDNXLUJ4dW1wenQxaHllNkprbkFFR005czFpQ2pabmpFR0dJVEhOalR1Mk1NcExPWTVncVF3UG5aODlCYnlob3hWZnlLTHBhMW0tc3NpM0NtLVU4dW5xXy1CclBjYjdYanpjampGVG1QOGszM2h0ak5OQ0Q0T3hXSzdxSkFuODVFNVJ0S3BtWlFEUS0yd0Y2bXA0S0FkOFVEbGRDeHM3czJvWFR6R2xiQWhvdkk?oc=5",
+      "domain": "elplural.com",
+      "publisher": "Elplural.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 06 Nov 2026 08:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Nicolas Cage regresa en Lords of War junto a Bill Skarsgård y presenta el primer tráiler de la esperada secuela Elplural.com"
+    }
+  ]
+}
