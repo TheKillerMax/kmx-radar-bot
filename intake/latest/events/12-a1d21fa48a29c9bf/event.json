@@ -1,0 +1,30 @@
+{
+  "event_id": "12-a1d21fa48a29c9bf",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "De los \"No Sabo\" a los \"Sí Votan\": los jóvenes latinos fueron decisivos para la ola demócrata - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "De los \"No Sabo\" a los \"Sí Votan\": los jóvenes latinos fueron decisivos para la ola demócrata - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEJzdUJTXzE4U05iSmdZYXBSQXI4REoycDFpcHVicF96NlBSdnJfM0UzUkZsV1BYUjQzVVJmcmNNd2tENEV2aUxUYXViMk82WlF6R3VhVnNRaV9LN2FoekxFVU9xOG9QUzhsbGhSRmgzdVJHNkk2UExYTHFrR3lDUGY4bDVmQQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 11:50:00 GMT",
+      "primary_hint": false,
+      "excerpt": "De los \"No Sabo\" a los \"Sí Votan\": los jóvenes latinos fueron decisivos para la ola demócrata CNN en Español Esta vez, los votantes hispanos abandonaron a Trump y se volcaron decididamente por los demócratas Los Angeles Times La política nacional nunca volverá a ser igual: Juan González analiza cómo el voto latino ha modificado el mapa político de EE.UU. Democracy Now! Voto latino joven: qué revela su apoyo a los demócratas en 2026 USA Today Los latinos castigan a Trump y lideran el giro hacia el Partido Demócrata en las ‘midterms’ EL PAÍS"
+    }
+  ]
+}
