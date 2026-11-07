@@ -1,0 +1,40 @@
+{
+  "event_id": "04-604120373b671a44",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA presenta X-70 Fractal, un nuevo avión experimental que probará maniobras \"nunca antes demostradas\" con piloto a bordo - Xataka",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elnacional.com",
+    "xataka.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La NASA presenta X-70 Fractal, un nuevo avión experimental que probará maniobras \"nunca antes demostradas\" con piloto a bordo - Xataka",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzNXWWw4M2p5MThGZnl3SUlfS3QzazhWVUl6V1lxa1JfTEZkbmE2bm9wWmRaUk9mQ01vTGE0eVhkVFNhb2trV0VIemVadFc5Z2VxVTQ3Q0hBNm1DdVd5UmtqQTlVak5kX05ickdLaXZuX01nWFNmc09SNzhxYVgyV2tfN2lTVDVWNHhVTFB5MzJqMFk4d0U4YnFvWTRveFdiVk1kTEZTNk1hdFdnMUd3QUhNT3FmUVZhS1lmeEp0a1piSDgybE1EODNsa3NjU3REeFV4LWxfYXNFRW_SAeABQVVfeXFMTnJpY21EQWpjc3RqaUowRlljQkEzZkI1dkRFTDlyWlk0djVSVnNpS0h4eFlnRml4Zmwwc19PSnpuRU02c1FJNjNjQ2tCZHlWaHVMalppWmlfWHJqQnU5WnBNa1dwRXBxTS1xaWV2WDJKei1QX0xhZXZuSWd0dk1kSnpHWDlBQ291SjhNckxGdFNkeXNWSTdta0p4N2NiMUxyVVhZZWg3MGhYNTJGbWlxdGtBczU3OUg2bUE5VTJuVEZTX0VVYk5ILVpaVU5xQUg5VzhVaHhlV0NRQ05hci12RGM?oc=5",
+      "domain": "xataka.com",
+      "publisher": "Xataka",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 10:31:05 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA presenta X-70 Fractal, un nuevo avión experimental que probará maniobras \"nunca antes demostradas\" con piloto a bordo Xataka"
+    },
+    {
+      "title": "Así es el X-70 Fractal, el nuevo avión experimental de la NASA - El Nacional",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUtXLXpEc0MtTTMtMHcwbG55S1FkSHZrc25rdERoMUEzOXpYR2Z6MG1nYW9ydU9EY2EzdzlVZHEwaGMyQnFSZ1BXRzJoZkNuZm15MGV6LWlxb2E1bWhEQUQyZGk2Ty1Ua2l6dXBEY1NjQ3FSeHB3RlRqOHdUa2twci1nWHZ1Zm4ydkxWeVI3clR5UUlPeTZoSUlLTm51dw?oc=5",
+      "domain": "elnacional.com",
+      "publisher": "El Nacional",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 04:16:19 GMT",
+      "primary_hint": false,
+      "excerpt": "Así es el X-70 Fractal, el nuevo avión experimental de la NASA El Nacional"
+    }
+  ]
+}

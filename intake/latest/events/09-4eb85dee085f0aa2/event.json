@@ -1,0 +1,30 @@
+{
+  "event_id": "09-4eb85dee085f0aa2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resultados de las elecciones intermedias de EE.UU.: cambios de gabinete, composición de la Cámara y el Senado y más - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resultados de las elecciones intermedias de EE.UU.: cambios de gabinete, composición de la Cámara y el Senado y más - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTNac1h5VnNHcnBZMXpDNHpvRnJuLS1TbFlkcUdoMi02RV9jTG5kSHFhQ1BUZVVOQzVvX2N1RmVheXhGWV9oMmZnb3dackZ3V0JKLU9HOXNSMjlDWGowNUpObERMZnVBN3pyMW0wdi1CcUp1NU5tYUI0YnE1THlPM1hMWXVlajRFVXFBYnlwbXRsUU9PZjNKODFPcm9xSmRQcHl4Sm9ja20xOFdBdzBaTQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 16:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Resultados de las elecciones intermedias de EE.UU.: cambios de gabinete, composición de la Cámara y el Senado y más CNN en Español El representante Robert Garcia detalla 4 nuevas investigaciones sobre la administración Trump 6abc Philadelphia Más allá de Washington: los demócratas cimentan su reconquista con los parlamentos estatales EL PAÍS Midterms 2026 en Estados Unidos: ¿cuándo toman posesión los ganadores de las elecciones? Univision Trump ha desafiado consecuencias políticas durante años. Las últimas elecciones han cambiado eso Los Angeles Times"
+    }
+  ]
+}
