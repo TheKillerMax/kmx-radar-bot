@@ -1,0 +1,30 @@
+{
+  "event_id": "07-0557d706a67ad708",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByOHVDenIwUnNhMEVabmRJa25mWXk2RHM1VWF4LWRyZXkxRzdVbjlDcTNLWk9teGNnN2V5MzY1Zk1qNDU5bFZpS2RTT2ZOdUJnODhpaWc4ZjY0Yks20gFiQVVfeXFMTUMwbjNsWGZ6TlYtaFVhM09NS1E1SXRKc3Q2cFd5NWdXX1ZRejRwQVhmZWdSdmFlXy1ZbXdpd3J4c1N4QjhoZzNfa0Q1U1BvR01jWnhQTFpMYWZlRFV2NGJEMkE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 05:21:56 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca BBC Trump refuerza su impronta con el nombramiento de su nuevo secretario general de la Casa Blanca CNN en Español Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca EL PAÍS El cambio de Trump de Wiles a Miller supone un importante giro táctico para gobernar sin el Congreso Fox News Declaración del Congresista Jesús “Chuy” García sobre el Nombramiento de Stephen Miller como Jefe De Gabinete De Trump House.gov"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "11-74a02fba9c514517",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de medio mandato en EE.UU. - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de medio mandato en EE.UU. - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94S3ZXaWlHS29VTEhoSE1SX05pMlRGR0FRUm5HSC1PQjVsWWNKdWZmbEZIZFBQdG1JSWlISk5oY1k2YjhoSUlweDJPaWN1T1JBUURsZnRMbEdsLUU40gFiQVVfeXFMTXA0cjV2M1FnM3h4V3A4MWpiOHhoZjhoLVl3VU1fVW9YS2xQWWJKcXRtaWk5a21mMDI1S2FWb1cybXhscVVGcVlLb0RhS055R3pjdVN5TDRRcHNmcS1kQmpXMUE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 05 Nov 2026 12:15:18 GMT",
+      "primary_hint": false,
+      "excerpt": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de medio mandato en EE.UU. BBC Esta vez, los votantes hispanos abandonaron a Trump y se volcaron decididamente por los demócratas Los Angeles Times De los \"No Sabo\" a los \"Sí Votan\": los jóvenes latinos fueron decisivos para la ola demócrata CNN en Español La política nacional nunca volverá a ser igual: Juan González analiza cómo el voto latino ha modificado el mapa político de EE.UU. Democracy Now! ¿El voto latino definió el respaldo a los demócratas en Texas? Esto dicen las cifras Univision"
+    }
+  ]
+}

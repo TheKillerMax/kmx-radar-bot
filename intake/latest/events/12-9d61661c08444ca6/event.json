@@ -1,0 +1,30 @@
+{
+  "event_id": "12-9d61661c08444ca6",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GMzJHZkhNaDVrWUo0eFJlMHprT3NtanFkSEtHQ1YyaXF2THp4T0tUbXVFcUV3bExvaXhEckZaaGNYdk5UZFYxcG54NEpGX0Z5dTJBZDhLYUx1TWVf0gFiQVVfeXFMTnNXWTNUaC1HdmJYNENqQkl6eTZmZXFzUldMYmw1UmE0bXdBekdnLW9JQm1YSW5nSEtUcVdQSHZvc2d4Z25haW9yS3RIQUVEbnhqNGdqTGVOQ2xiTDM3c1paM3c?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 01:18:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades BBC Servicio Secreto arresta cerca de la Casa Blanca a hombre que dijo que voces le pedían matar a Trump AP News El Servicio Secreto arresta a un hombre armado cerca de la Casa Blanca que presuntamente amenazaba con matar a Trump CNN en Español EEUU reveló nuevos detalles del venezolano detenido con armas cerca de la Casa Blanca LaPatilla.com El Servicio Secreto arresta a venezolano que presuntamente amenazó con matar a Trump Yahoo"
+    }
+  ]
+}
