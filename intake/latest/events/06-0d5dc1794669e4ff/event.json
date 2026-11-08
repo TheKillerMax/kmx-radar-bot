@@ -1,0 +1,30 @@
+{
+  "event_id": "06-0d5dc1794669e4ff",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El papa León XIV se despide de Uruguay con una nueva invitación a quienes se alejaron de la Iglesia - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El papa León XIV se despide de Uruguay con una nueva invitación a quienes se alejaron de la Iglesia - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpTVlFfeUNBX0Qyek53RGFieFYwTk5sOF9hWXZPaG1wX3pjQS1KYWw2dFBHdzhhSE1ld3cyV3NDVmlQNEFjdlV5dWZFemgtN3dBcFliUlZIOEY0MkdNZVVONVZnUVlyTXQwLVRNLTlzUzRnNGM3X1k4ZkZKd3FpWmlfM3ZnMzZ5bG9UNDg0Zw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 14:17:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El papa León XIV se despide de Uruguay con una nueva invitación a quienes se alejaron de la Iglesia CNN en Español Con una oda al mate, el papa insta a fieles en Uruguay a tender puentes de fraternidad y fe Chicago Tribune Cómo es Casavalle, la barriada humilde de Montevideo estremecida por la violencia que visitó el papa León XIV BBC León XIV a los uruguayos: “¡No se cansen de transmitir la fe!” Vatican News El papa concluye su visita a Uruguay y se dirige a la parada más tensa: la Argentina de Milei Telemundo"
+    }
+  ]
+}
