@@ -1,0 +1,94 @@
+# Light mag. 3.8 earthquake - North Pacific Ocean, 75 km south of Crucecita, Estado de Oaxaca, Mexico, on Saturday, Nov 7, 2026, at 04:03 pm (Mexico_City time) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5
+- Título: Kilauea - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 06:30:41 GMT
+
+Kilauea Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTZ6QzdSdnBSMlBzQ0NGcWhEYWc0SjNlWkZKN3I3em9fcFN1QVU3Q000VGZCdGNPOFM3dVpXSlI5MTRzeDY4aG9IelUzM0dVa21KZ3FqR25RMGtPWEFvd0RqQ1BMOHZGSGRlR0lhZDFpZEgzYkNWSmNILWhrbzlMLWdwbHB3c1VtUm9NN0dkT3BsbE5BQjR1ZU83R3U5THc5bWdFblp1TVEzZ295Z3BSLXp2TVlyNXM?oc=5
+- Título: Moderate mag. 4.5 earthquake - North Atlantic Ocean, 90 km northeast of Punta Cana, Dominican Republic, on Sunday, Nov 8, 2026, at 02:30 am (GMT -4) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 06:33:33 GMT
+
+Moderate mag. 4.5 earthquake - North Atlantic Ocean, 90 km northeast of Punta Cana, Dominican Republic, on Sunday, Nov 8, 2026, at 02:30 am (GMT -4) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGY0N1Y4WGRJN3ZNRC13WEs5WTFUSHRWVWhoSmc1TkM5TF9pbjlEb3Z6WE90Q1dSTUZWQ3lwZmVmLUpxT3dsRkROUjYyVGR6bExQNGFBQU5XMWNkdEpsdmJEMkRGdmFKd1dLaTF4RnI0OVVRR0JxdFhrZ0RnMkI5cV91S1FkeGJoQ3BLWlRNTk9yUWhvM0VjVHBNdFBYR3RNMFhVdg?oc=5
+- Título: Weak mag. 2.5 earthquake (unconfirmed) - El Salvador on Saturday, Nov 7, 2026, at 10:40 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 04:54:27 GMT
+
+Weak mag. 2.5 earthquake (unconfirmed) - El Salvador on Saturday, Nov 7, 2026, at 10:40 pm (GMT -6) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTBGeVZSd05VQUZhRUhOcWszVkxrTjRCbk9UVnd5NjdoN1JLRFVEYk4wOWdnTndfZnlCcVNYRzBTTF9GdDgzOE1XY1d0ZktqajZxSm5TY0JMSXBMRjE4M2xmc2cyZW8tTDhzZVJlNG80TFExS2dMaXgxMnc0b1FkUG91ajh6N3p5dGNFYVJ5dVVBWS1NTW1vQTZoYXdNZ2pFQXRKd2ltOXhpZnFHWm5r?oc=5
+- Título: Light mag. 3.8 earthquake - Departamento de Belen, 36 km west of Andalgala, Departamento de Andalgala, Catamarca Province, Argentina, on Sunday, Nov 8, 2026, at 05:25 am (Catamarca time) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 08:34:19 GMT
+
+Light mag. 3.8 earthquake - Departamento de Belen, 36 km west of Andalgala, Departamento de Andalgala, Catamarca Province, Argentina, on Sunday, Nov 8, 2026, at 05:25 am (Catamarca time) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTUxM19DMTRHbWF5SlZNb3F3N0RUcFh3dmVIUE5WLUZQUE9ZdjVtaUE3SkFMcHE3NWhUTm5DVy1vUk9yT292bEkwdlkzR0pUTUZpQ0ZFLUN2R1FMVEphcUsyTlFWM3pfaGFmcjVFWWU2ZDUwTmVJdWhXOU0tQ0E1eXVNVEEwNTN4ZDBaQUdIbjV1VHBnU3RsaU5iQzlwWG9OcFpFZzNGcXlmN3F3akE?oc=5
+- Título: Moderate mag. 4.5 earthquake - North Pacific Ocean, 77 km southwest of La Gomera, Guatemala, on Saturday, Nov 7, 2026, at 05:22 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Sat, 07 Nov 2026 23:35:07 GMT
+
+Moderate mag. 4.5 earthquake - North Pacific Ocean, 77 km southwest of La Gomera, Guatemala, on Saturday, Nov 7, 2026, at 05:22 pm (GMT -6) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQXzhDVDNNRGhTdV95eWEyQVZWbTBVeUZ6emVvNkd0SU8ydGhYbTJPbTBGQzVHMXp2LVBxVU1yRDNuSVFLZG5hYy1HVUl3MW8zOUJZUjVYZ3RwX3RwRlBEcXhJdE5yOWZKYjJUZWQ0a2VGbHJEcDBzVVlEcm1hby1MUHk2N2lXWTRLS2RmaDBDSjdXcmZid3JZd016Z2JwbWpJNkVsRG9MTUwtSEc5M0lYbGY0M1ItVFJjdE4tdzdMMU1ZUUNpbDFpZk1ERVJPS2Z0bHB3?oc=5
+- Título: Minor mag. 1.4 earthquake - 37 km south of Quibdo, Departamento del Choco, Colombia, on Saturday, Nov 7, 2026, at 09:49 pm (Bogota time) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 06:39:19 GMT
+
+Minor mag. 1.4 earthquake - 37 km south of Quibdo, Departamento del Choco, Colombia, on Saturday, Nov 7, 2026, at 09:49 pm (Bogota time) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG02NmxWaTljV2FQODM4Vi1mZkRMbWM3TFh5WWJhTW80ZHFrTGU2eWFOZEFhNDlERVY0S3BFRnlMc2xFaVdxNXo5N0NMdjNSVXV4ZzBidzNkNllYcXNqWFpVb0pUTDFDVC10cXE5QmhzYUIxU1hzVU5ROWE0d2dFSG5OOC1vYnNlMjl6aFc1SlJ6b3MzQk95OGJWSkRnc1M1WC1DZFk4NmxNZw?oc=5
+- Título: Mag. 3.4 earthquake - Salta, Argentina, on Sunday, Nov 8, 2026, at 04:02 am (Salta time) - just now - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 07:15:55 GMT
+
+Mag. 3.4 earthquake - Salta, Argentina, on Sunday, Nov 8, 2026, at 04:02 am (Salta time) - just now Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXgxeUZWTFVDZnJtM094a1B0WDktR191dkdrZTBBSmpfZ2hENzlxQzZqVmRDU1V3V0tPcFZLTDluaFpURWF0dHRwaE10STlmV3hIRkFHeHcxRzVaNFRlUl9vZnZpamNwUHhUVmk5Z1k5ZTJnSXg5WkFYN21SM0d2TUtaX2d6TExPU1hiRU9tTVFUbi1yRzlRdHdSNDROejFpQ0xaOHFHdkwxUXhnblVfMHVTaER2QQ?oc=5
+- Título: Weak mag. 2.7 earthquake - North Pacific Ocean, 95 km southwest of Pizarro, Colombia, on Saturday, Nov 7, 2026, at 11:08 am (Bogota time) - Volcano Discovery
+- Fecha detectada: Sat, 07 Nov 2026 16:52:22 GMT
+
+Weak mag. 2.7 earthquake - North Pacific Ocean, 95 km southwest of Pizarro, Colombia, on Saturday, Nov 7, 2026, at 11:08 am (Bogota time) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQeERIWHhlejBiejJtelo0am9YVlBaZFl0WVVDSTl1VEU2czZ2RTFKODlSazM2NzhNcldwVGNBRXpIM0MyOEc3WUREZjV4SmMwXzRyQUdqLVJzeG9GTl9CZ0d3RE05ZFR3aWhOSUhBaVBUc2xJcTB4SmZWbzRXRU5vZUF2U0l1ZG5jUFl6UVRqSkNRQzdwclQ4OTFfOVNER2pOYmNoUDM4SGUzeXQteWgxMzBvT010TVE3MWlpN3lQSDFMQ2gtUWc?oc=5
+- Título: Light mag. 3.8 earthquake - North Pacific Ocean, 75 km south of Crucecita, Estado de Oaxaca, Mexico, on Saturday, Nov 7, 2026, at 04:03 pm (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 02:34:16 GMT
+
+Light mag. 3.8 earthquake - North Pacific Ocean, 75 km south of Crucecita, Estado de Oaxaca, Mexico, on Saturday, Nov 7, 2026, at 04:03 pm (Mexico_City time) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQNEpWNjlfTmwxZGhBOW5kSTVmbzk5d1ZWX2VfWk5tXzVMeUhScjF6TzVoY1dqX3dFSDU2eE1VRHNVaEltQ0ZhS3BkQkl5bWVLTjd1X3hDcVl0ekxlaGI3cXJjb250aWJqMXFCd1RISDc0RTJ4dzZnaUQ0dDZPV2VIZmJTZDUzYmhLVzhfVlRJUzl2RkZWOTRXX2xyX2VfUQ?oc=5
+- Título: Light mag. 3.6 earthquake - North Pacific Ocean, 44 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 7, 2026, at 09:08 am (Panama time) - Volcano Discovery
+- Fecha detectada: Sat, 07 Nov 2026 16:19:39 GMT
+
+Light mag. 3.6 earthquake - North Pacific Ocean, 44 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 7, 2026, at 09:08 am (Panama time) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMingFBVV95cUxPNEpMQm9meVBxWmlqV3JBcHp3RTNmZF9kbTdMUHJnb2JNOGFXenpZMl9iU1cxYWF2TmtVQTNja3c4QVhLYnFZMmwzUnB5UC1ucUdVQ0lLeGpwNzYxWTdCVDJyOTdZTHhla3dzX3REX29jZVFDUGlZbjFQaTRJRTI3YmVROTVoOE1UYWx1cGpkODZxTVAySFdVOGlsSVdxUQ?oc=5
+- Título: Light mag. 3.7 earthquake - North Pacific Ocean, 40 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 7, 2026, at 06:56 pm (Panama time) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 03:09:09 GMT
+
+Light mag. 3.7 earthquake - North Pacific Ocean, 40 km south of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 7, 2026, at 06:56 pm (Panama time) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxOYktVNXNfVjhFdHhoYjZkUkctSUVjRHRMT2dwdjM4enBYQnk1R1dNejNRRnpVLTRQQnNGb3BBU0hxVEIyckprYVp6bVhUbnVXMzVoZ3oya1pZT1dHTG9hVlNCU3dRV1B6Y1hNY3JvaE1uXzBhZWN5NWZsdmJPcXYzU05Tc01DSHd4QUZkRlpyTERKdVc4Rko1T2RCNFJUdmltclFGbnY4dUdzZnZDTHk5X09jS2U5OURTd01NSW9fbWVKb1lSMGNN?oc=5
+- Título: Light mag. 3.3 earthquake - North Pacific Ocean, 46 km south of San Marcos, Estado de Guerrero, Mexico, on Saturday, Nov 7, 2026, at 09:46 am (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Sun, 08 Nov 2026 02:34:16 GMT
+
+Light mag. 3.3 earthquake - North Pacific Ocean, 46 km south of San Marcos, Estado de Guerrero, Mexico, on Saturday, Nov 7, 2026, at 09:46 am (Mexico_City time) Volcano Discovery

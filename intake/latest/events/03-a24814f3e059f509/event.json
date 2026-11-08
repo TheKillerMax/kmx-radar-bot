@@ -1,0 +1,40 @@
+{
+  "event_id": "03-a24814f3e059f509",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base - Clarin.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "clarin.com",
+    "nmas.com.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWxDbmdlOVkxNUNyblQzMnB3RTFZVDZUU1pNazRFMVBuTTFHcm40TEpHcFFjcjFUdV83Q2E1dEQ0WEYtSmtDRkNvd010dm5SWGktSi1CcTZ0WUFSZF9UU2tCUHdLc1Njakd5NG5BT2hwemVfR2I2TzVoMFY3T0xSUmNnN2xZVXpiU3NWNkRid1FNR1I2OEJRcE5wY0JBYzZldzcwb2x4NGZfTUt1YW1jc0VCZUxHeWFaanhPSEVMSkRTdWJwWnctTG9oWVNscGJ4TC0za0kzRG55SVFm?oc=5",
+      "domain": "clarin.com",
+      "publisher": "Clarin.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 00:30:08 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base Clarin.com"
+    },
+    {
+      "title": "Con Explorador Nuclear y Nuevos Astronautas, NASA Prepara la Luna como Paso a Marte - N+",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmxVYm9TRkZIZHU3OEc3TlBjS09LeGd6Skk5VWVIM2ZiWHFyQS05dlZpbkZzeEFGTVZXdTRwRkI4VVVlbGt3QkFDdzFQZ01FOE0wWmdXblI1anhaY2JLRGFiZ0xrWVFlajVFYkRVcEgyc1FWUEZSWUI0bkkwWHJHQkYtSnI0Q3BNRFhZbmI4VVZ1VlcxYUtHV1RianFWQWkyWGRnbWpkeldEQmtrd0Z5aEU5SHVjekp2OXRQeW1B?oc=5",
+      "domain": "nmas.com.mx",
+      "publisher": "N+",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 03:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Con Explorador Nuclear y Nuevos Astronautas, NASA Prepara la Luna como Paso a Marte N+"
+    }
+  ]
+}
