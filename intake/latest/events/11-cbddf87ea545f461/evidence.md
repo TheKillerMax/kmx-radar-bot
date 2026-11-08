@@ -14,4 +14,4 @@
 - Título: El papa León XIV inicia su gira por América Latina en Uruguay con un llamado a la unidad - CNN en Español
 - Fecha detectada: Sat, 07 Nov 2026 02:01:00 GMT
 
-El papa León XIV inicia su gira por América Latina en Uruguay con un llamado a la unidad CNN en Español Con una oda al mate, el papa insta a fieles en Uruguay a tender puentes de fe y fraternidad San Antonio Express-News León XIV invita a los obispos a promover jornadas de oración por las vocaciones Vatican News Uruguay sufre “la herida del aborto”, lamenta líder provida que pide ayuda al Papa León XIV EWTN News El Papa llega al país más laico de Sudamérica con un mensaje contra el aborto y la eutanasia EL PAÍS
+El papa León XIV inicia su gira por América Latina en Uruguay con un llamado a la unidad CNN en Español Con una oda al mate, el papa insta a fieles en Uruguay a tender puentes de fe y fraternidad San Antonio Express-News Lo último: multitudes saludan al papa en su primer recorrido por Montevideo Alton Telegraph León XIV invita a los obispos a promover jornadas de oración por las vocaciones Vatican News TEXTO COMPLETO: Homilía del Papa León XIV en la Misa de Paysandú, Uruguay EWTN News

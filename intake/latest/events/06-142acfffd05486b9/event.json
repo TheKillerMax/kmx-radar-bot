@@ -1,0 +1,28 @@
+{
+  "event_id": "06-142acfffd05486b9",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Alumno de la UTTN fue seleccionado para participar en el International Air and Space Program 2026 - Gobierno del Estado de Tamaulipas",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "tamaulipas.gob.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Alumno de la UTTN fue seleccionado para participar en el International Air and Space Program 2026 - Gobierno del Estado de Tamaulipas",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmM4UlZaS0tldlVDQUxJZFVoQldkZzQwQ1FpaS1sU3lVMkRfOU8wNVNndHVQRExqNGQ3U2NLdUdaQno1WkM0WGxJUkRTOTlueWRFcjFwbzNTbTBjNTZPRGo0bGhBb21WQ0xkRjdncUt4T29KR3k2c01KWmNkNFlSRXpOakxUNHlPcDhkYS0tVmUtLVJBYkRhdU13cUp3cWt4dFNnMERoTGpBZlN5T0NlbWg1SldEcWR4STdWenUwTW9sUzlwTUFMV1d1aV9zMl80TTRfcUJmRWFRUQ?oc=5",
+      "domain": "tamaulipas.gob.mx",
+      "publisher": "Gobierno del Estado de Tamaulipas",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 11:16:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Alumno de la UTTN fue seleccionado para participar en el International Air and Space Program 2026 Gobierno del Estado de Tamaulipas"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "event_id": "01-7a52276979ae7070",
   "category": "ECONOMÍA",
   "risk": "medium",
-  "canonical_title": "Expresidente del Banco Central de Paraguay se entrega a autoridades por caso Ueno bank - XEVA",
+  "canonical_title": "Caso Ueno Bank: el expresidente del Banco Central de Paraguay se entregó a la Policía - NoticiasNQN",
   "intake_status": "EN DESARROLLO",
   "verification_signal": 0.74,
   "primary_source_present": false,
@@ -11,17 +11,14 @@
     "ahoratabasco.com",
     "ambito.com",
     "contrapunto.com",
-    "eltiempo.com",
     "minutouno.com",
     "noticiasnqn.com.ar",
     "radiomitre.cienradios.com",
-    "universoturadio.com.ar",
-    "venezolanadeinformacion.com",
     "xeva.com.mx"
   ],
   "high_trust_domains": [],
-  "article_count": 11,
-  "rank_signal": 1.05,
+  "article_count": 8,
+  "rank_signal": 1.02,
   "sources": [
     {
       "title": "Expresidente del Banco Central de Paraguay se entrega por caso Ueno Bank - Ahora Tabasco Noticias",
@@ -30,7 +27,7 @@
       "publisher": "Ahora Tabasco Noticias",
       "language": "es",
       "source_country": "",
-      "seen_at": "Sat, 07 Nov 2026 17:37:30 GMT",
+      "seen_at": "Sat, 07 Nov 2026 17:47:25 GMT",
       "primary_hint": false,
       "excerpt": "Expresidente del Banco Central de Paraguay se entrega por caso Ueno Bank Ahora Tabasco Noticias"
     },
@@ -57,28 +54,6 @@
       "excerpt": "Escándalo de Ueno Bank en Paraguay: el expresidente del Banco Central se entregó a la Justicia Ambito"
     },
     {
-      "title": "Expresidente del Banco Central de Paraguay se entrega a autoridades en medio del escándalo de Ueno bank: estaba incluido en orden de detención a Peña - El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcW5OVmRVdUdUOUJ5cERpSXhRRF91M0piMXd5c0hRSnUyWW4temM5YkpiVVhQV25fSHl1ZnhFWUdXRGJxRTBwenNDMDdpUExNcE94RG10SXJ5UTBrT2dWOElJZDN2dWZHcmpESlZPMnhwdEhiYmpTTHpTY1hkZDhzb2IwQWxGbmFJUmtEUzRJZTBVMFBpYnlVMnFBbU5vRzFNWlFwOE5NcFhmWFdMMWtDX0Eyd1loU3VobVQxX2VzODJqY0RRR0pvVTEtN3JWbnQ1dXpxQl93U0lBUFUxYWtZcVg1QVNwbWwzZlJpdnkxZXh1YWVvRF90WjJYMWlzcWd2YXJrMUNUVXh4aUthT2ZSWGNqaEo1SVdVcE0wOWRUR2diMmxiamkwU9IBrgJBVV95cUxOTW41SENGREFLMVVsTUZnQWdXOGk5MnJFM0FLN0ZTSlVtWDhPY2Y1S0hXbU9TaTdrZnhLakpSQnpraE91Uzk3aGlaNGUzWXhkLUw2c1h3aWFudTVZRFEwMmo0czRYdTB2NUxkQ1B5aXQxYV81TTlkdkFWTUxRQ3RjcERnNXp5ekJXRVV4aFNaejg5T3JuNHlHQnRFQTB1M212ZnRlTGptWUNLTzJnVkFWUWREX3o2ejhLMUpkcHFwZEtxMGxNUFF1OEd2dkZiZnNIblljc25yeEt5SGpFWUo1OTdtRkdzR3lBNGE2OHNnMmsyNi1oUUNCMkZMQWc2N3puZml5VEJtTkRhekVJTXpFUzJfNngxcFdNOGQtcVZCb0EwWDRXT3NER3ZOZ1Zadw?oc=5",
-      "domain": "eltiempo.com",
-      "publisher": "El Tiempo",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Sat, 07 Nov 2026 09:20:00 GMT",
-      "primary_hint": false,
-      "excerpt": "Expresidente del Banco Central de Paraguay se entrega a autoridades en medio del escándalo de Ueno bank: estaba incluido en orden de detención a Peña El Tiempo"
-    },
-    {
-      "title": "Caso Ueno Bank: el expresidente del Banco Central de Paraguay se entregó a la Policía - NoticiasNQN",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkJUMnNNNnFEbS1IQm1TSkt6UDVhWTZPXzFwR0duWExvRHNHMXVCbXM4c0VuM2V4Rmt0WEdiYzZsTzVnZEtIbEE3ZEZ1dEg1bUNQczdXVE9yYzFNZ2Y2TjVsWVpZX2ppU1NjYkJCZmRzNVhXQ19VbmR6RDF2VFVpWXloLXYwei1CX0hLcldvQVc3WDE2bEdtNVpqZzJJY3FzZWxBM3R4SW5HZzR1NTFjbl9lRFlfLWh4RFBzZ0ZvTmhqRmJJcWF6VjFOZjFLOU9BUV8xWFBhaWNGMW45MTBv0gHfAUFVX3lxTFBuQlQyc002cURtLUhCbVNKS3pQNWFZNk9fMXBHR25YTG9Ec0cxdUJtczhzRW4zZXhGa3RYR2JjNmxPNWdkS0hsQTdkRnV0SDVtQ1BzN1dUT3JjMU1nZjZONWxZWllfamlTU2NiQkJmZHM1WFdDX1VuZHpEMXZUVWlZeWgtdjB6LUJfSEtyV29BVzdYMTZsR201WmpnMkljcXNlbEEzdHhJbkdnNHU1MWNuX2VEWV8taHhEUHNnRm9OaGpGYklxYXpWMU5mMUs5T0FRXzFYUGFpY0YxbjkxMG8?oc=5",
-      "domain": "noticiasnqn.com.ar",
-      "publisher": "NoticiasNQN",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Sat, 07 Nov 2026 14:12:27 GMT",
-      "primary_hint": false,
-      "excerpt": "Caso Ueno Bank: el expresidente del Banco Central de Paraguay se entregó a la Policía NoticiasNQN"
-    },
-    {
       "title": "Escándalo de Ueno Bank: se entregó Carlos Carvallo, ex presidente del Banco Central de Paraguay - Agencia NOVA",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQdXh0Ym1IV1MyWEpJUUY3U0FDbjNlN2FNc09JcHhjcmdTUlBLU25EVS1SbzA4Y2czV0NVdjZidkpBUU1UR3JTRG40TEZoa3B0NFc5dFU3ZzQ1N3hEbkp3VTk4Q3BJcmJKRjVsczRadmJld1Y4ejlpZUlsbGtPQQ?oc=5",
       "domain": "agencianova.com",
@@ -90,26 +65,15 @@
       "excerpt": "Escándalo de Ueno Bank: se entregó Carlos Carvallo, ex presidente del Banco Central de Paraguay Agencia NOVA"
     },
     {
-      "title": "Caso ueno bank: se entregó el presidente del Banco Central de Paraguay - MinutoUno",
+      "title": "Caso ueno bank: se entregó el presidente del Banco Central de Paraguay - Minutouno",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjlIdE1EUk0xOWk2V0M5NUQ0NWwwOGlOdHU0NkxDeFNOR3VLc3NQQlR2R3JQdk5aRXRCSVphN0ZHdFVOYzUwYnd3dGJnTWFqSDRLY3hLTVBpalA1eGZjX3RBdGtnc3NOR1c1UFhmTWpSR0NFN3Eyc0RwSng1T3RrTEhqVG8xYXZuOHhuc0V1Ql9XR0VWUzRVU1cxbFV2Y1FJS0FuaUxqNUFVbGPSAasBQVVfeXFMTkY5SHRNRFJNMTlpNldDOTVENDVsMDhpTnR1NDZMQ3hTTkd1S3NzUEJUdkdyUHZOWkV0QklaYTdGR3RVTmM1MGJ3d3RiZ01hakg0S2N4S01QaWpQNXhmY190QXRrZ3NzTkdXNVBYZk1qUkdDRTdxMnNEcEp4NU90a0xIalRvMWF2bjh4bnNFdUJfV0dFVlM0VVNXMWxVdmNRSUtBbmlMajVBVWxj?oc=5",
       "domain": "minutouno.com",
-      "publisher": "MinutoUno",
+      "publisher": "Minutouno",
       "language": "es",
       "source_country": "",
       "seen_at": "Sat, 07 Nov 2026 18:55:00 GMT",
       "primary_hint": false,
-      "excerpt": "Caso ueno bank: se entregó el presidente del Banco Central de Paraguay MinutoUno"
-    },
-    {
-      "title": "Escándalo de Ueno Bank en Paraguay: el expresidente del Banco Central se entregó a la Justicia - FM Universo 97.3",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSlA3S1RRNUhLNjNkcDhTWFo3cDFjNG1OOUx6c2dtb3FySEZSR1hVQkpwOFhwRDM2RWRPS1pQOHlZMW9hYmdpbGhvUmNUOTZiUFRwXzRVSzlTbkh5X2lPcnJpT05SNEg3U1VMRTUxWFowS182bXYxUUFycklWaG5OQ3lfRE1TWjV3OW1FSk5DRlZTaW04VEV0OGV0bTdxa09kY1Y5azU2NVlpLVY1c0tKRE9Ld2ZCb3R2SnNDZlhNcl9XYUZ5WV9hbGQxZ3Q0eXFvT2dGWjJ1bEY?oc=5",
-      "domain": "universoturadio.com.ar",
-      "publisher": "FM Universo 97.3",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Sat, 07 Nov 2026 17:41:08 GMT",
-      "primary_hint": false,
-      "excerpt": "Escándalo de Ueno Bank en Paraguay: el expresidente del Banco Central se entregó a la Justicia FM Universo 97.3"
+      "excerpt": "Caso ueno bank: se entregó el presidente del Banco Central de Paraguay Minutouno"
     },
     {
       "title": "Privados de libertad expresidentes de Paraguay y del Banco Central por caso Ueno bank - Contrapunto.com",
@@ -123,6 +87,17 @@
       "excerpt": "Privados de libertad expresidentes de Paraguay y del Banco Central por caso Ueno bank Contrapunto.com"
     },
     {
+      "title": "Caso Ueno Bank: el expresidente del Banco Central de Paraguay se entregó a la Policía - NoticiasNQN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkJUMnNNNnFEbS1IQm1TSkt6UDVhWTZPXzFwR0duWExvRHNHMXVCbXM4c0VuM2V4Rmt0WEdiYzZsTzVnZEtIbEE3ZEZ1dEg1bUNQczdXVE9yYzFNZ2Y2TjVsWVpZX2ppU1NjYkJCZmRzNVhXQ19VbmR6RDF2VFVpWXloLXYwei1CX0hLcldvQVc3WDE2bEdtNVpqZzJJY3FzZWxBM3R4SW5HZzR1NTFjbl9lRFlfLWh4RFBzZ0ZvTmhqRmJJcWF6VjFOZjFLOU9BUV8xWFBhaWNGMW45MTBv0gHfAUFVX3lxTFBuQlQyc002cURtLUhCbVNKS3pQNWFZNk9fMXBHR25YTG9Ec0cxdUJtczhzRW4zZXhGa3RYR2JjNmxPNWdkS0hsQTdkRnV0SDVtQ1BzN1dUT3JjMU1nZjZONWxZWllfamlTU2NiQkJmZHM1WFdDX1VuZHpEMXZUVWlZeWgtdjB6LUJfSEtyV29BVzdYMTZsR201WmpnMkljcXNlbEEzdHhJbkdnNHU1MWNuX2VEWV8taHhEUHNnRm9OaGpGYklxYXpWMU5mMUs5T0FRXzFYUGFpY0YxbjkxMG8?oc=5",
+      "domain": "noticiasnqn.com.ar",
+      "publisher": "NoticiasNQN",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 14:12:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: el expresidente del Banco Central de Paraguay se entregó a la Policía NoticiasNQN"
+    },
+    {
       "title": "El expresidente del Banco Central de Paraguay se presentó ante la Policía por el caso Ueno Bank - Radio Mitre",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTlXMGQ3TTRkNTFZYTE0NktxTkUzazh4R0NSWi1wQ1hDNTBRV0FGRWViU3RsNlY3MG5PWlBlMHNHMDBpOGY0aDlzU2RaUUdJYUszSHB6NXM5ZDh4ZWE2d3FBUEZadW5XTVgzbTBzWDV3MnA4UXBzemlfRXR4ZlN2ZjlWcDVXbnRQLU85NWNHa0hpQ1RNWS10UERxMFpER2NVX014TEdKVUQ1QWxCQ05XNHVRZWtBUTNYeG13SjhxZ1d3WURWYW9wQnkzd1AxWHhwOTNzeEkwLVRKdG1NQTE4?oc=5",
       "domain": "radiomitre.cienradios.com",
@@ -132,17 +107,6 @@
       "seen_at": "Sat, 07 Nov 2026 13:45:05 GMT",
       "primary_hint": false,
       "excerpt": "El expresidente del Banco Central de Paraguay se presentó ante la Policía por el caso Ueno Bank Radio Mitre"
-    },
-    {
-      "title": "(PARAGUAY) DETIENEN A EXPRESIDENTES SANTIAGO PEÑA Y DEL BANCO CENTRAL POR CASO UEN BANK - Venezolana de Información",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWV4U0c4US1fcTBJcm5xTkZTMDlhcTlQTEdDNDZHWXZnSUhZNzlCYm93SXI3eXNDdjItREd0UEN1X2pqS1YxbzhHTngtR3hlbGMzSVY3YUEtbWZoZ2lTU3EydmxiUWVqam5fSEp4ZnN1RU93aElGUFA5U3BsbzRuQmlDaThOeGkzWU1sTnFVd1JmYUFzY1dUUFJ4ejRURjE4UER4R1VQMzhsaEpMeTlWdDR5WlJBb1FYOGgwTG1jMG1RTllKQm1SUTdB?oc=5",
-      "domain": "venezolanadeinformacion.com",
-      "publisher": "Venezolana de Información",
-      "language": "es",
-      "source_country": "",
-      "seen_at": "Sat, 07 Nov 2026 14:24:29 GMT",
-      "primary_hint": false,
-      "excerpt": "(PARAGUAY) DETIENEN A EXPRESIDENTES SANTIAGO PEÑA Y DEL BANCO CENTRAL POR CASO UEN BANK Venezolana de Información"
     }
   ]
 }
