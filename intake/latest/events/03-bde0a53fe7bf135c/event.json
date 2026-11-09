@@ -1,0 +1,52 @@
+{
+  "event_id": "03-bde0a53fe7bf135c",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA busca nuevos astronautas para futuras misiones a la Luna y viajes tripulados a Marte - Telemundo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "parabolica.mx",
+    "telemundo.com",
+    "zocalo.com.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "La NASA busca nuevos astronautas para futuras misiones a la Luna y viajes tripulados a Marte - Telemundo",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWGRhajRGS0FkTmhBMWxBOEx0dkplUzZ2c0luTE82RGNGYVYxUlFaTEYzZEU4OTV0eTlURGlPSmRVbmFYdWFlbXhhdGNtcXhWSzd2N2pXRFNVODBzT3pCSXNHenNVbmkyTmlGN0p6WFdLVlk3NUhvd1hOOUoyRi1WRjF0UldoSG5jTzhlX3V4ZDl6amdUSE5ZenY5cl90OXF5NDFseVZMSEw3TzNjaW1qSGlHUnY0TmlQWDlUWlg1dXl4aVpaTHB1QzNuaFpnR2NIODdSYkhwa2FFM3h3Rjh2cjJQOG11ckVzUy1mZUgyMnd1OVFub1VpMTJYcHNPeGM0cENlbExXc2NyZS1pSFhZaHhmVnlNRTA?oc=5",
+      "domain": "telemundo.com",
+      "publisher": "Telemundo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 09 Nov 2026 06:48:51 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA busca nuevos astronautas para futuras misiones a la Luna y viajes tripulados a Marte Telemundo"
+    },
+    {
+      "title": "La NASA busca candidatos para sus futuras misiones a la Luna y Marte - Periódico Zócalo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3FfTWVtRno0ZzRwUXpGbmdNSEQ2NFFqRnZ5YldKZzFZYmhtNGZLNDN4RmFOSUJ6QzVhZW95T3NpWFFiZy14OHJFdTJRM1hYX1JuZ1NMU04ta3Q2NzFjZE9VM1MxZm5CRDlLNlliOElXWWdCQjAwSHlzUFJKQll2WUtaT2ljN3UtS0Z1dFYyZklwV1NHZWRwdTN2dw?oc=5",
+      "domain": "zocalo.com.mx",
+      "publisher": "Periódico Zócalo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 09 Nov 2026 20:02:16 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA busca candidatos para sus futuras misiones a la Luna y Marte Periódico Zócalo"
+    },
+    {
+      "title": "¿Se apuntan? NASA busca candidatos para ir a la Luna y Marte - Parabolica.mx",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWgzVEw1TGphUjQ4ZTg3S2Rlejd6SUFpQ1EtYjBkaEw3YnZvRjgyUmpUOWg5WTNXa0ZyR0llYlV2OUM5ZjJROWtHaHRQaVhST085UEhadWkyRkZWZDNxZEthTGpjZ0Ntc2NvNk1JM3FNMzdqVkNWUkpWaHdQNFJ6Y3dlbkFzSEI4SVZaMFJaTS1MN3NQT0JnaVE5alpQd0J2TWU0cUd2c00?oc=5",
+      "domain": "parabolica.mx",
+      "publisher": "Parabolica.mx",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 09 Nov 2026 19:49:26 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Se apuntan? NASA busca candidatos para ir a la Luna y Marte Parabolica.mx"
+    }
+  ]
+}

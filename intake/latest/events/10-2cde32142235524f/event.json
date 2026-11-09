@@ -1,0 +1,30 @@
+{
+  "event_id": "10-2cde32142235524f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resumen de noticias de las elecciones intermedias de EE.UU. del 8 de noviembre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resumen de noticias de las elecciones intermedias de EE.UU. del 8 de noviembre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGNMS053MklDWmFteHNwcDkxbkpNd0pBU2RuSDhiQnpfczhkMDZrZkZ5NmNkWmJ1a2VoUUQtN2haTUZ1Si15Sk1PN2hPeVdsMFJfTmxhMUEyMHVCYkpkLXYwbkRHNEx4LWdueFJjVUt1YnYxaGZtU1hyQThFN2Y3VTNrZXZyeHlTbTVxbnp0WmZDZzJYOHBWeVVkM3M5UWtOc0wxZ2tlZmRJdw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 09 Nov 2026 08:13:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Resumen de noticias de las elecciones intermedias de EE.UU. del 8 de noviembre CNN en Español Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU. BBC Trump y demócratas enfrentan desafíos para lograr el alivio económico que exigieron los votantes AP News Los demócratas se debaten entre priorizar temas como el costo de la vida e investigar a Trump y los funcionarios de su Gobierno Telemundo Los demócratas amplían los importantes logros obtenidos en las elecciones de mitad de mandato y consiguen 254 escaños en la Cámara de Representantes de EE.UU. Democracy Now!"
+    }
+  ]
+}

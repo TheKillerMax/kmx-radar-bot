@@ -1,0 +1,30 @@
+{
+  "event_id": "12-371ff46b68dc7976",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Estos son los 5 grandes favoritos a ganar la MLS Cup 2026 - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Estos son los 5 grandes favoritos a ganar la MLS Cup 2026 - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbktWVVlEY2VWSjExMER2R3JoNWVFdV8xOVVtaUFJMFN0MTNycDRJdWxYTjdXY2dJTS1mMGk0djdEVnM2YTFhZUNXUV9ndUhrdUxhN1RKX1VqZENMa2xFRHY5S3FmcHFLb0E1ZHJzSDRLdHZvdXlaVFhZLTZLRE1lSHRjcV9BWG5PQmc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 09 Nov 2026 01:14:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Estos son los 5 grandes favoritos a ganar la MLS Cup 2026 CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
