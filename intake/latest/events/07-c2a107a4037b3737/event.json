@@ -1,0 +1,30 @@
+{
+  "event_id": "07-c2a107a4037b3737",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Investigación de CNN revela fallas de construcción en viviendas públicas que colapsaron en los terremotos en Venezuela - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Investigación de CNN revela fallas de construcción en viviendas públicas que colapsaron en los terremotos en Venezuela - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjZqRTEzeFI5Qi1WbHUwa2Jnbk1YZkIxeV9fSFNnQ0Y4bjNld2NJd2R0aGtWV2lKX2lmR3hBVXZXcUFjemxSdU5MTlRabkFwcFVoVl9QdUZHaUFuUTRPVlFsbXhnSWVtUVRqOXFBalktTFhUQjNuRmNmaDJ5TXRCUkcxaXVYQzh5cXJyQkRTRE54ZUpMQmJMM0lMSGg5aTE3?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 12:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Investigación de CNN revela fallas de construcción en viviendas públicas que colapsaron en los terremotos en Venezuela CNN en Español CNN revela fallas en la construcción que colapsaron por los sismos en Venezuela Diario La Calle Investigación de CNN revela fallas de construcción en torres de viviendas públicas que colapsaron durante los terremotos en Venezuela AlbertoNews"
+    }
+  ]
+}

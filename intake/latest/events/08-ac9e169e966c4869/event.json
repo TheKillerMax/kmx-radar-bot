@@ -1,0 +1,30 @@
+{
+  "event_id": "08-ac9e169e966c4869",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Wonderland no es un crucero cualquiera. | CNN - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Wonderland no es un crucero cualquiera. | CNN - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcG50aGhqYm9MMm5HYl8zQ2xuei05bkxVaFpORnZZYXJ2VnFfdlQ5dW84NFdQYnBGblBZS1hxSVhielRKU25WVWZQVHVhVHI3dmtxMzhKc1JKaU40QUVDUTFxVDJpbFl4NzExR1lzZllPODNpYnJDNEFVSjFsQmRCOENrSjlUSGpLb3lLY19Cdw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 11:56:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Wonderland no es un crucero cualquiera. | CNN CNN en Español"
+    }
+  ]
+}

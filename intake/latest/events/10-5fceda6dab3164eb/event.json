@@ -1,0 +1,30 @@
+{
+  "event_id": "10-5fceda6dab3164eb",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Este actor protagoniza la película más importante de su carrera. También está luchando contra la deportación - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Este actor protagoniza la película más importante de su carrera. También está luchando contra la deportación - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWpENTNDUGV1RkhuN1BlbG1ubHBiQmV0ekZrbWwzdFM2LVZjcFRqN2Uyc25pWWdGU0ljcEdDVEYwNy1MQi1zTzV5eE5INWpqdHNPcnpaWTZxQzVZTmRaclBzZzl2Umo2d1JlMWc4SFlicENjc1FHX0dDQWc2ai1wMVdETjRnUkRh?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 06:33:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Este actor protagoniza la película más importante de su carrera. También está luchando contra la deportación CNN en Español"
+    }
+  ]
+}

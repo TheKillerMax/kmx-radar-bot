@@ -1,0 +1,30 @@
+{
+  "event_id": "04-12d1ce4042c2b746",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resultados de las elecciones intermedias de EE.UU., en vivo: disputa demócrata por el liderazgo del Senado - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resultados de las elecciones intermedias de EE.UU., en vivo: disputa demócrata por el liderazgo del Senado - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGNMS053MklDWmFteHNwcDkxbkpNd0pBU2RuSDhiQnpfczhkMDZrZkZ5NmNkWmJ1a2VoUUQtN2haTUZ1Si15Sk1PN2hPeVdsMFJfTmxhMUEyMHVCYkpkLXYwbkRHNEx4LWdueFJjVUt1YnYxaGZtU1hyQThFN2Y3VTNrZXZyeHlTbTVxbnp0WmZDZzJYOHBWeVVkM3M5UWtOc0wxZ2tlZmRJdw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 22:42:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Resultados de las elecciones intermedias de EE.UU., en vivo: disputa demócrata por el liderazgo del Senado CNN en Español La coalición de Trump quedó hundida: ¿qué harán ahora los republicanos? BBC Los demócratas se debaten entre priorizar temas como el costo de la vida e investigar a Trump y los funcionarios de su Gobierno Telemundo Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral EL PAÍS Trump y demócratas enfrentan desafíos para lograr el alivio económico que exigieron los votantes CTPost"
+    }
+  ]
+}
