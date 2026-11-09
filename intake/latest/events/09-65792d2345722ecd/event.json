@@ -1,0 +1,30 @@
+{
+  "event_id": "09-65792d2345722ecd",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Mientras se avecinan nuevas conversaciones de paz, Putin intensifica sus esfuerzos para destrozar la economía de Ucrania - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Mientras se avecinan nuevas conversaciones de paz, Putin intensifica sus esfuerzos para destrozar la economía de Ucrania - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2F2b0NSNlB1ZGp1VFV6MjZoRTRQdHNqRU5reExrdXRHa01zUnFwVkZ5QzZRaHRZSGcyQUxzZjAxWjBXVk9lb1BndUg1LV92cVpKa1JlQXh6N1hKbTM2ZnMxQXVNeDFvRjRFZkIxTGtPNXBMRlBKQjh2aUFaWGN5ekFCRU9VTDhBekNFbEg0ODFuTVQySGpjZw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 08 Nov 2026 15:40:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Mientras se avecinan nuevas conversaciones de paz, Putin intensifica sus esfuerzos para destrozar la economía de Ucrania CNN en Español Ataques con drones y misiles dejan 9 heridos en Ucrania, que se alista para reunión con Rusia y EEUU Connecticut Post Ataques rusos dejan sin electricidad a cientos de miles de personas en Ucrania RFI Misiles dejan 5 heridos en Kiev mientras Ucrania se alista para reunión con Rusia y EEUU San Antonio Express-News Conflicto en Ucrania el 8 de noviembre: Dos grupos de combate rusos atacan simultáneamente Járkov. Vietnam.vn"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "event_id": "05-203fb2d591cd306d",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-11-09T06:53:42.451Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-11-09 03:34:59 UTC 2026-11-09 03:34:59 UTC at epicenter Location 10.867°S 165.562°E Depth 17.00 km (10.56 mi)"
+    }
+  ]
+}
