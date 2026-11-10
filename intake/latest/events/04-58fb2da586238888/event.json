@@ -1,0 +1,40 @@
+{
+  "event_id": "04-58fb2da586238888",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Fiscalía allanó sede central de Ueno Bank en Asunción - www.adndigital.com.py",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "adndigital.com.py",
+    "ultimahora.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Fiscalía allanó sede central de Ueno Bank en Asunción - www.adndigital.com.py",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNVR0dVU0x4eGdSM29DU2ZrcFA1Y0tsWjJScUFmN2dRZW9reUxYZlZCR3p1a05wZ1JsRUc2U2FKVUlyV2d3LXNXUjBDdXBTellYdk5rYmQwTU9GZnhqZWt1aC1CMHZMX3c1SS1jUzQ2clVvQTBLZDV1bEdrSUFLN19yTU1MVUlKNko3cA?oc=5",
+      "domain": "adndigital.com.py",
+      "publisher": "www.adndigital.com.py",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 10:14:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscalía allanó sede central de Ueno Bank en Asunción www.adndigital.com.py"
+    },
+    {
+      "title": "Fiscalía allana sede central de ueno bank en Asunción - Última Hora",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblNtMkxXU3FtMWVZZ2dpR1RPTV9YMEpSQlIzaWdMSklaTE01X0hpSnJfWThWMlhJLWJ5N0NqRF9CeV9YQVV0TzViNG9DRl9tUlhlOWVCdDBBQmYxMGZ6UVJwQlRVTHc0bGYybG1hbjNVREkwS0U0aGF3X3hPWmJVcEZWWG04bjjSAZQBQVVfeXFMUGVOVk9JazZFYTZhN1FHaXhTYlFYTnZIeDdDM1ItYnZCb0hmM2FBNi1mQ015bVpaYko1M3pyNVMtUzBBSWNCREZuYTMxOW9NaFJlOFd1SFJQdnJFZzNoRWZXdms0WGRlUlA4UDJNbnZXVWJGYlk1dkRwVmRVS1RrZzZHQy1wb1UwcjVPaGtDS3c2dU9ILQ?oc=5",
+      "domain": "ultimahora.com",
+      "publisher": "Última Hora",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 02:26:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscalía allana sede central de ueno bank en Asunción Última Hora"
+    }
+  ]
+}

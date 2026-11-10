@@ -1,0 +1,66 @@
+{
+  "event_id": "02-c038be213781ce6d",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Paraguay designa a nuevo presidente del Banco Central en medio de la crisis por Ueno Bank - CNN Chile",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.67,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnchile.com",
+    "deultimominuto.com",
+    "elhorizonte.mx",
+    "mvsnoticias.com"
+  ],
+  "high_trust_domains": [
+    "cnnchile.com"
+  ],
+  "article_count": 4,
+  "rank_signal": 0.86,
+  "sources": [
+    {
+      "title": "Designa Paraguay nuevo presidente del Banco Central por crisis de Ueno - MVS Noticias",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzM3YjRkUVBKS2FKS19BcnlIS3ExZHFRa2EtcmJ5S0F2WWxkQVJqNW4waGJ2Z0x1ZXBhdHdaMlZiZ25qaXhEYkRYRUVpLTMta2dUTUNUQk1IYVJtWjVMNy02SFA5MjRxbDdsWVg0Q2dTMVBxSkExUW5sNDlTZ2dSbGZ5SVRua1pKdEdnVUtvUHJBNnNwZXRraWpEMzRubjEwZm1yeHFoc3VpSy10enVDVGpLZ0k0MlI0VFFXV01pMA?oc=5",
+      "domain": "mvsnoticias.com",
+      "publisher": "MVS Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 04:28:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Designa Paraguay nuevo presidente del Banco Central por crisis de Ueno MVS Noticias"
+    },
+    {
+      "title": "Paraguay designa a nuevo presidente del Banco Central en medio de la crisis por Ueno Bank - CNN Chile",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDJBbTZWX1hXUzdSOEhKbUx6XzRIMFZoam43NXlNRnhMS09BN0g3cGRGR3pZRGxBRzBoZzFGMmFIdy1uX1JZbWhtZmxFQ2lCRS1sZ3REV21mSl9kdXlLYkJZNm5hcjNGUUxyaHNSNlZLZWhCd2VsTnpEXy1GRGdfRlBVYjNtX0NBUG85VlBGc18wTUlORGRmM1Z3MUxwekpnbE1tUkFiNXJ2MTNsaEdJNXZzUE03NFl3OHVWc3FR?oc=5",
+      "domain": "cnnchile.com",
+      "publisher": "CNN Chile",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 02:52:19 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay designa a nuevo presidente del Banco Central en medio de la crisis por Ueno Bank CNN Chile"
+    },
+    {
+      "title": "Designa Paraguay a nuevo titular del Banco Central - El Horizonte",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUliWE1vV3ZQcEdZaGJsVDZsaGVlN1E3Zk5jV3hCUUNndnh6SG8xYTc1UVhuWU9uU2FVamtJZGJkdlhtMHJHZThLWmxHZlc4WTNEYVRvbVFqY1FlcUJwVlEzNTBjZm8xdndnQ3dPUFVGNlJEUlJoRDBLWWxJN3dtOXVNbDVVVHVsQUJ4SEh0MVRDNkFiRTlQbzZrYXBpMnJGeUU1VA?oc=5",
+      "domain": "elhorizonte.mx",
+      "publisher": "El Horizonte",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 05:46:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Designa Paraguay a nuevo titular del Banco Central El Horizonte"
+    },
+    {
+      "title": "Paraguay designa nuevo presidente del Banco Central en medio de la crisis de Ueno Bank - De Último Minuto",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTWHpmRWpTM0gwOXhyQjFreDhmbFgxd2NiRmhKTDE5d2x1Q21jNHpQRW1USzlzMldGQk1HMUo2VGtKWW9KUlRjS3ZqNVRQTnFPVGhpaG9Ram5pVk15cms4WWpEenJkcmZrZk9Fb0pvcGtnUGtJMDk1ajVhQ1E5QQ?oc=5",
+      "domain": "deultimominuto.com",
+      "publisher": "De Último Minuto",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 01:48:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay designa nuevo presidente del Banco Central en medio de la crisis de Ueno Bank De Último Minuto"
+    }
+  ]
+}

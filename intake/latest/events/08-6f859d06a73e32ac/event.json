@@ -1,0 +1,28 @@
+{
+  "event_id": "08-6f859d06a73e32ac",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEhuVHVVaFh6UERnVVF0NkpLOWltQVRFc2N0U3JvcVRHMlFCVHBadXd4OG9RYk9rWHF0djFYVHFFMzM4SlhmMTUyTXk5YzV6LWg1bGJBOG42X1RYdTFuZEdSdTNjVEUzVmp2VzlicnNRM0IzSGVhRENBdjBMeG9IdjVTZ3NuM0xuZW5sanU2ckpsS09GZXYxREowaWZPdERobmhxUw?oc=5",
+      "domain": "nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 01:24:43 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA destina un millón de dólares al reto estudiantil Base Lunar NASA (.gov)"
+    }
+  ]
+}
