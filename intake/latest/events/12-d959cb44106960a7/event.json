@@ -1,0 +1,30 @@
+{
+  "event_id": "12-d959cb44106960a7",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Amnistía Internacional pide a Haití y El Salvador respetar DDHH en lucha antibandas - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Amnistía Internacional pide a Haití y El Salvador respetar DDHH en lucha antibandas - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDFydmxDbDNpeEdIWURmQ09iLXV1ZkZYbWR4ZkI2NnBtNW5JV29iY0s0dG5LVlVzNWsxbTRZZkRIV1g1UEJ2QlFkS3I5RTYxSzFQYWc5aEN4eHVfcUFwR3VoNUVvLXhOaUdycldGSTA4bjhNMVIycHFGX0EwUUNPcnl6emUxbG41Y1BZZnQ4eTZlOFMzTzZDdW1yempNa3lqQlRNRTZkY2kyYUQ2M2pBUVp2TjhtMnIxcGtQZ1IwT1BZbVBrc0gyNWJn0gHKAUFVX3lxTE1VNjlEMGJiRm56NGlHQmt4aHY2bV90RFQ5TEE3Zmc1TUFHUFB1em1xdU1YRlpsTjFnYU5mSUhVSWFPNnVUMVMzak9NS1BfeGJ3dzVCeVZQOE9PMDFTX3BvajFaUDlIR2sxVjVnTldqZHp0aXRKRDh3ak45bVFmcmRKT3BsTUtGclVTVkhWLVFuVzRldXhXckw5VEFYNFkxb1M1YTJyMUwtSGtCN2dDX1NzRDRqMm82Uy1QQ0VlTjA2T1JIa1I5ZGdVS1E?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 12:50:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Amnistía Internacional pide a Haití y El Salvador respetar DDHH en lucha antibandas DW.com \"Bukele corre el riesgo de que el despliegue militar en Haití se vuelva algo tremendamente sangriento y costoso\" BBC Bukele anuncia que tropas salvadoreñas destruyeron el \"cuartel general\" de una pandilla en Haití France 24 Líder haitiano visitará El Salvador para hablar del futuro de la ofensiva salvadoreña en Haití San Antonio Express-News Rubio apoya fuerza de la ONU autorizada contra pandillas en Haití. “No hay plan B” El Nuevo Herald"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "event_id": "05-11637afdc7000d85",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA busca a la próxima generación de astronautas - NASA (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nasa.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "La NASA busca a la próxima generación de astronautas - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUi1QcE44SGJhUE91Z2xBRkhkQXM3TjNfb1FtN25fUEFlUmV4WXljYVk0TzZEVklYV0dZOWVvbk5VbXpZUllmSXN4SllNUzNiZmI4bzJ0dTJWaDVzbFlrSjNJZmE4blNkNm1GNDNTWU9pRUVSTF9FaDVtek8xcWdVWWhUOTRKaUhsZFlNRGVTM08?oc=5",
+      "domain": "nasa.gov",
+      "publisher": "NASA (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 00:10:27 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA busca a la próxima generación de astronautas NASA (.gov)"
+    }
+  ]
+}
