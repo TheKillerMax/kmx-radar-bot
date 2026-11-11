@@ -1,0 +1,28 @@
+{
+  "event_id": "06-b5e0520ea5a88907",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Toxinas de Alternaria en alimentos y piensos: la EFSA actualiza su evaluación de riesgos - EFSA",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "efsa.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Toxinas de Alternaria en alimentos y piensos: la EFSA actualiza su evaluación de riesgos - EFSA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWd5MExMblJ3MmM0TXpNTXNLb3ktXy0zdXVmMG5rOV91Rnl5VUR1cktRM0VVY3dtM1UzalQzd0hmT2xvd3hXX2dUZ2FXd2FVeWlySnl4d3ByOWZpNmhWdHhNRHBhTnN1ajBRMldkeUtOT25JTm11bGV3WDN5NjNyZ090eU03alNnOUFUaXNIbzhLaVVPYS1oelpsZ3A3S0tr?oc=5",
+      "domain": "efsa.europa.eu",
+      "publisher": "EFSA",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 12:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Toxinas de Alternaria en alimentos y piensos: la EFSA actualiza su evaluación de riesgos EFSA"
+    }
+  ]
+}

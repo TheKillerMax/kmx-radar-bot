@@ -1,0 +1,28 @@
+{
+  "event_id": "05-9142e6f73cdb6afb",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Opening: 11-12 November plenary session in Brussels | Noticias | Parlamento Europeo - European Parliament",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "europarl.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Opening: 11-12 November plenary session in Brussels | Noticias | Parlamento Europeo - European Parliament",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUtGczZzYklCam1lV0JubXhJeVRCdWJDOC13TzRUNUVCdEY0YVBfQmhJME9sRjA2LWExREhybk1ITzJxb3RVdFE0RHllUVNWRlFRcDhra1M5eE5GS08xWGVMZVN5ajUzZUc5STk3elVfX0JQOW1HYnNRc293aWRXNXFpZmM4aGhMWTdVdW5RQlNma3BlWG8tUDJ3MU9KMmJHX2tDVVgwa2lObFRfVEg2M0ZKTjYyTnRt?oc=5",
+      "domain": "europarl.europa.eu",
+      "publisher": "European Parliament",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 15:18:28 GMT",
+      "primary_hint": false,
+      "excerpt": "Opening: 11-12 November plenary session in Brussels | Noticias | Parlamento Europeo European Parliament"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "08-e9fa4af1fcee413e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "EE.UU. tras las elecciones intermedias, en vivo: republicanos frenan el juicio político a Hegseth, reacciones y más noticias - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "EE.UU. tras las elecciones intermedias, en vivo: republicanos frenan el juicio político a Hegseth, reacciones y más noticias - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDlqVmQzd09WWGxYTWxPRklWeDFkZWMzT1JOb3NSY1BzU1pCM2VYRC0wa2pfdEVLQkNUMkpCYzdacXNFZFlRMjFYc1EyczNBRGRBTXlYQmlGc19qamJmamx4X0RSNHlaS2lfb19rNGdPZ0VlRmRuUWxNU0YzTnJGaGJBaHctR0ZxdWdZVVA5R1hGcGhGSkFzRUJCaw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 21:14:00 GMT",
+      "primary_hint": false,
+      "excerpt": "EE.UU. tras las elecciones intermedias, en vivo: republicanos frenan el juicio político a Hegseth, reacciones y más noticias CNN en Español Un atasco y un polémico plantón de 11 demócratas: cómo Hegseth se salvó del ‘impeachment’ EL PAÍS Fracasa moción de censura contra jefe del Pentágono en EE.UU. DW.com El congresista republicano Thomas Massie presenta artículos de juicio político contra el secretario de Defensa de EE.UU., Pete Hegseth Democracy Now! Republicanos de cámara baja de EEUU rechazan someter a juicio político a secretario de Defensa Los Angeles Times"
+    }
+  ]
+}

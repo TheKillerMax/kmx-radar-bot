@@ -1,0 +1,40 @@
+{
+  "event_id": "04-62af5db3442b8503",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Custom Health Holdings Inc. (CHLT) planea captar hasta C$22.0 millones mediante ofertas de unidades - TradingView",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Custom Health Holdings Inc. (CHLT) planea captar hasta C$22.0 millones mediante ofertas de unidades - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1hBZXJZWGpzTTRHQy1GUkpaTFU4QkZzdkVHRjlqWUtxVkNqSU9WMmRUUkJsdGtyVlVsN0QzOGRqYk5iQ3BLTVIzY3BrOGU4V05MUEY1MFJaVm8tdUl0UkU3MXI0NTNWcDdPTWNPcHVjNVBKZ2kxMzRMS19OLTFNNkRLc180WFk?oc=5",
+      "domain": "tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 00:22:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Custom Health Holdings Inc. (CHLT) planea captar hasta C$22.0 millones mediante ofertas de unidades TradingView"
+    },
+    {
+      "title": "Custom Health Holdings Inc. (CHLT) Plans Up to C$22.0M in Unit Offerings - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYkg1b1hvSWdsc2RIYVVXVHl3VHpFa3hZZVVZdXg3bUtoOGxDcnRULXJMZ3NENm9DN2FxN1o1ZTZ6U2Nsa003ekVCellqNDdFSXVrVXA3Sjc0NFA2RTNEMlViUFdsOThyVC1DR1RTSVhFcldjclZtcEtGOWJxYk9FOFhxU1d0LUlGSXZUZ2xuQm5scVp4M093UnoxdmJwdGp6YjBjVkRnbE14R01vaEo0c1JaMlhkZjZsOV9KMFhMSm9SWVFjZmtfcDJB?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 00:22:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Custom Health Holdings Inc. (CHLT) Plans Up to C$22.0M in Unit Offerings TradingView"
+    }
+  ]
+}
