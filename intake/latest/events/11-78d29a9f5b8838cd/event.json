@@ -1,0 +1,30 @@
+{
+  "event_id": "11-78d29a9f5b8838cd",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Tribunal británico anuló la prohibición del sexo gay en Trinidad y Tobago. El fallo arroja luz sobre la identidad poscolonial - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Tribunal británico anuló la prohibición del sexo gay en Trinidad y Tobago. El fallo arroja luz sobre la identidad poscolonial - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkVobUhkOE8zTUFZVGxIRTMtdVNzQ0FsckZwTlBSQ2xpZDB4Wmd6dmF3R19JUzAwbFpBQjhOcnY4Vl9LUU1JVXVBaGRvWS1OWWpwRjhZczBKeGJjcm5YNmF6cTRkN3RjTWhnQk1yUDZTTTNfZF83ZkZBZHpQbVUwSzM0VjhKSldKT0RNeWw5eHJldEZZNWg0LTRn?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 18:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Tribunal británico anuló la prohibición del sexo gay en Trinidad y Tobago. El fallo arroja luz sobre la identidad poscolonial CNN en Español Un tribunal pone fin a la criminalización de la homosexualidad en Trinidad y Tobago, vigente desde 1986 MOR.BO Derogan vetusta ley que prohíbe homosexualidad en Trinidad y Tobago Yahoo"
+    }
+  ]
+}

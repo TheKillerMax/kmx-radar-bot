@@ -1,0 +1,30 @@
+{
+  "event_id": "12-55d1b44862dd1839",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La inflación en Estados Unidos se modera en octubre menos de lo esperado y decepciona a los inversores - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La inflación en Estados Unidos se modera en octubre menos de lo esperado y decepciona a los inversores - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVlQczVQUXgtTkxsTVUwVVJ3bEZ3aGRfMWRkdk1fQzJMSmlIdUp1QmNQSHotWUNqc2ZoRGZnZUV1QzI5eF9yYTRHMjkzM3RVeER0elVnVVlGeW4zdkg2US11WThsbEdoaXN2OHVrV1p4LXVMRW44cFhDMDJkT2lkRmR4ZF9PREZ4ekRDOGhIbTUwNzExM2pINlZEOWFUcHU4bG1iLW8wQnc5SzlBR2JBSFVSWXVzTDRabC1IZzJWRUVteDdqTlZNNXl3?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 13:31:33 GMT",
+      "primary_hint": false,
+      "excerpt": "La inflación en Estados Unidos se modera en octubre menos de lo esperado y decepciona a los inversores EL PAÍS Aumenta inflación en EEUU, indicio de que alza de precios sigue siendo un desafío Los Angeles Times La inflación registra su menor aumento en tres meses gracias a la caída de los precios de la gasolina Telemundo Miami (51) La inflación en EE.UU. subió más de lo esperado el mes pasado CNN en Español La inflación se modera ligeramente en octubre en EEUU gracias a los precios del combustible France 24"
+    }
+  ]
+}

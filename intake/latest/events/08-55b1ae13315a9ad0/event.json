@@ -1,0 +1,30 @@
+{
+  "event_id": "08-55b1ae13315a9ad0",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Fiscales en el estado de Washington no dan abasto con los casos de inmigrantes que demandan para obtener su liberación - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Fiscales en el estado de Washington no dan abasto con los casos de inmigrantes que demandan para obtener su liberación - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVp3cnU4a3JMN1czQXNQVkt4dWRXLXlWNlM1WWg3OUdnWTZKTjA0ZXRFdUE5TFl2MXhKZ3ZVekp1dmVqQUFzRFl2R3I0enhsWktIU2s2UFBfS2U2UjRfTWE2SERBQzJNNVNoZUs3RGVsY3BNemVSTURnaDBfMU5kT3NYV1hYSE9VRzJQTjl5R1lvZTBqaE5uVWdyMA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 10 Nov 2026 23:08:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscales en el estado de Washington no dan abasto con los casos de inmigrantes que demandan para obtener su liberación CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

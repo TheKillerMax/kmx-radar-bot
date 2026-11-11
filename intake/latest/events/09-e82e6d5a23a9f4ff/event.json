@@ -1,0 +1,30 @@
+{
+  "event_id": "09-e82e6d5a23a9f4ff",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La primera nevada y el aire más frío en meses se dirigen hacia el este de EE.UU. tras el paso de una tormenta - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La primera nevada y el aire más frío en meses se dirigen hacia el este de EE.UU. tras el paso de una tormenta - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3ZrZ2VrbTBlN193TlVHbzlwdEZSWV9BV3g4QWZtcjRsNFIwOUJyWlZDekV3S2dHNTdSWEFic0NSNFdmckNja2taYmdkcDlBcUprcGlCZDc5OXJFaFdhNlZaMV9FaWRYZ1JPTGdWemxXVmo1UTNRNmV6QnlHeDNqaHVzQ3Z3M1hHSTRoczlfTTI?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 02:38:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La primera nevada y el aire más frío en meses se dirigen hacia el este de EE.UU. tras el paso de una tormenta CNN en Español Primeros indicios de nieve cerca de Nueva York: pronostican lluvias y descenso de temperaturas Univision ¿Veremos los primeros copos de nieve de la temporada? Aquí lo que sabemos Telemundo New York Una tormenta podría provocar la primera nevada del año en el noreste de Estados Unidos esta semana EL PAÍS Alerta en el noreste de EE.UU. por nueva tormenta: estas zonas tendrán lluvias y nevadas desde el 12 de noviembre El Comercio Perú"
+    }
+  ]
+}
