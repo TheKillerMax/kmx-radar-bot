@@ -1,0 +1,51 @@
+{
+  "event_id": "03-a769bed24086146d",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Gears of War 1, 2, 3 y Judgment ya tienen Multijugador Online en PC gracias a COGBox 0.6.0 - Guía de Instalación y Video - PC Master Race Latinoamérica",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.405,
+  "primary_source_present": false,
+  "independent_domains": [
+    "hardzone.es",
+    "pcmrace.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.485,
+  "sources": [
+    {
+      "title": "Pokémon Legends: Z-A ya tiene un Port Nativo de PC con Multijugador Online, Intercambios y más - Guía y Video - PC Master Race Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zYzAwMk1QRWNsb1FqYmtGeTd1VFZDNjJmdXh0ekRTRG9WMWpBZmxjT3FvQ01xUFVIRHZBNGVvaGlwRVFSNFZmbGRhNnBtM25pdVFFLTEtN0NRMVdqX0R1RHBUVGd1YW90c1hDNHE5T3pNbkFJWGtjRGhR?oc=5",
+      "domain": "pcmrace.com",
+      "publisher": "PC Master Race Latinoamérica",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 07 Nov 2026 03:58:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Pokémon Legends: Z-A ya tiene un Port Nativo de PC con Multijugador Online, Intercambios y más - Guía y Video PC Master Race Latinoamérica"
+    },
+    {
+      "title": "Gears of War 1, 2, 3 y Judgment ya tienen Multijugador Online en PC gracias a COGBox 0.6.0 - Guía de Instalación y Video - PC Master Race Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tdlhEVVViMW5VaHZjbXBBVy1neWRvbER4WHNVZmNySEloUENUMmhPeDg5TXh0TkozSjhTeW1FQ3oweWhhQzNUX2dueFBQX3FxM0xXaVRFODJqWFg5bzJkSTV2aHdtSmFSQWJiUnlSN3hoVFdEbHZ3N2J1TQ?oc=5",
+      "domain": "pcmrace.com",
+      "publisher": "PC Master Race Latinoamérica",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 18:30:50 GMT",
+      "primary_hint": false,
+      "excerpt": "Gears of War 1, 2, 3 y Judgment ya tienen Multijugador Online en PC gracias a COGBox 0.6.0 - Guía de Instalación y Video PC Master Race Latinoamérica"
+    },
+    {
+      "title": "Gears of War 2 y 3 ya tienen multijugador en PC gracias a un proyecto fan - HardZone",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oc28tdHFHMk0tVnRuWW9MeTRTN1hQYjdsQWRMV1RDVDJ4TjJwemZGMWYxak1pQm92S2o5dXVzazdEVWlkRGRfOUZLSXN4Q3Q5cGZRNHJESmx3Y2hFOHZYa2FNT2k1REhoOEpOaWl3ODZYY2lCZURYeg?oc=5",
+      "domain": "hardzone.es",
+      "publisher": "HardZone",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 20:00:20 GMT",
+      "primary_hint": false,
+      "excerpt": "Gears of War 2 y 3 ya tienen multijugador en PC gracias a un proyecto fan HardZone"
+    }
+  ]
+}

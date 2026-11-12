@@ -1,0 +1,40 @@
+{
+  "event_id": "08-69d6a456a8ff6b0c",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "El Global Education Forum de la UCJC plantea el desafío sobre qué decisiones de la educación no hay que delegar a la IA - Diario Siglo XXI",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diariosigloxxi.com",
+    "noroestemadrid.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El Global Education Forum de la UCJC plantea el desafío sobre qué decisiones de la educación no hay que delegar a la IA - Diario Siglo XXI",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1BGLXpPQkp3WmhWdDVPRHhzS3JhWXhlQ01Ia1FaS0J1NFhtdC1rOWFhYmp2dWxXcUZPQlB2Mmh3WlFQaDlwRk4tU0s1dnN1YURlU2JFc3E5elg4YU81QjFEY2Zsb1Nnc1N5R2d4S2EtOC1SMXBlNDdCR2MzUWdnMlJ2MmhsYXVXYURfMy16OGhSM01WWFFlTWw1UWFuTjVLLTIxXzJlaFdpX0hzNm9ZaXM3MUd3eGpndV9PSlNncDZyUUdGTzFJR1BVVVdHdUZfQm9JMktlS1c4akFfakN0UTAyWDF3Zw?oc=5",
+      "domain": "diariosigloxxi.com",
+      "publisher": "Diario Siglo XXI",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 17:43:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Global Education Forum de la UCJC plantea el desafío sobre qué decisiones de la educación no hay que delegar a la IA Diario Siglo XXI"
+    },
+    {
+      "title": "El Global Education Forum plantea el desafío sobre qué decisiones de la educación no debemos delegar a la inteligencia artificial - Noroeste Madrid",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRHFCMzFhaU9OUXY4RWFETWlQX1p5UGN1NWEtV2VQU0VtVkxQX2c1U2FSajlqUkoyT2NqdzExa1ZXOU42RmNZMDlHQjZfTjg2MGhUeEJrT29NWklGZXpIMFJWSXVEbUx4UTdoei1WdnljYVZGbHl4WFQ2YUtCYm5LcEVqaTR3RWJYY21zZnFWZlZPbGoybDVva1hQQnVPM2J2QW91NkpxLXpXVnlaZ0hXNWRVaXJtV2tzOG9Uem9LX0pNcHlvMlhIbjBLMWF3aTVsSVhJeXNtUlFjRVZsOEJsRzdxVUhLTlR6WWs4c1FHWDQ4NFd6MXptNmdDR29FQQ?oc=5",
+      "domain": "noroestemadrid.com",
+      "publisher": "Noroeste Madrid",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 18:30:53 GMT",
+      "primary_hint": false,
+      "excerpt": "El Global Education Forum plantea el desafío sobre qué decisiones de la educación no debemos delegar a la inteligencia artificial Noroeste Madrid"
+    }
+  ]
+}

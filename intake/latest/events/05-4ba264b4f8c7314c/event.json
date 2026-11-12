@@ -1,0 +1,51 @@
+{
+  "event_id": "05-4ba264b4f8c7314c",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué cae hoy la acción de MDA Space? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.405,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.485,
+  "sources": [
+    {
+      "title": "¿Por qué cae hoy la acción de MDA Space? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdG04a2M5OUQ0Q0pIZjdkNFZxYXh6cGZRekxzT3A3Rkp4Sjd4bU5XZUVYQ2gtVFgzRnJad0ZmQ3praUNXX2g3Nl8tQUE1cDlPV3htZTVaUzRGNU43WVZWYXY4ekl6NGxPUDVaRzBRTG1qWTVxa3JPdThoQktXT0pRTGJacWJpTnlhV2NNdXpoU192VDNSN0I3ckVORjJvN0p3?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 20:18:08 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de MDA Space? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de MDA Space? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzM4WlAxLUhEcC1mOHJKZFdzT3BLSGJqZkxPZXB0SmlfM2UxcXpQLUhjQ005c05XTUFhQ19FUmFLVXpBOWdCWHdsYlJPckw0QTIzY3pJLXdNOUJuQ2dDcElqOHA4NVBlRE5KR3FCQlMwblpsRUQ4Mi1TdlZnVUFlbHVhQUlEOUwtNXJEOXNoT09kREJEdEY3ZUpRRWlHWXdG?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 20:07:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de MDA Space? Investing.com España"
+    },
+    {
+      "title": "Truist eleva el precio objetivo de Extra Space Storage por la mejora de sus fundamentos - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSlQxeURmLWM2YUV1b1NoVkFPc2hFU0dxdmNFWlRSZ3kyU2s4QUZMaEF0SzdOMWxNOTN1b3FpVnNWZW1UMFRBd1lFekNlSHVVbFVDVmFsRk9iN0hrOVdWUURxQnlSTHFHc25HLUlFVUE4SXJwcUNIc2l4QXk4ejF5TldQcGxYb3FSLUpscDZfUVhEUEJNdThTTjVJWTVTeVdZNTJKdzZEQktaMjV5U01RVGN6V3NsNFpLaEZMOFJwb1F2d2gxMjJfOVNDby1MVlVwSmI4R2dWc2syTHZQdFJz?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 14:06:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Truist eleva el precio objetivo de Extra Space Storage por la mejora de sus fundamentos Investing.com España"
+    }
+  ]
+}
