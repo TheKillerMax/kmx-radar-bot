@@ -1,0 +1,78 @@
+{
+  "event_id": "01-a945b48cfddc0d20",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Crisis Ueno Bank: Banco Central de Paraguay devuelve parte de ahorros a 100% de clientes afectados - Noticias Caracol",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.695,
+  "primary_source_present": false,
+  "independent_domains": [
+    "canal1.com.co",
+    "dw.com",
+    "eltiempo.com",
+    "noticiascaracol.com",
+    "teleamazonas.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 5,
+  "rank_signal": 0.92,
+  "sources": [
+    {
+      "title": "Paraguay devuelve parte de sus ahorros a los clientes de Ueno bank - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVZ3ZDJnZ2RaLTlZX0J3WWtmQmFISms4NmFkaEFHMURCbnY5V2VPbTFDTEM1Y1lLSGtkZjk1dHhfckJjMkNWVmtXeTZJaUhKZzBRalJ6OWdYazl0Y1V4ZnVLdURRTGtoTXZvSnFsSlItSFJ6b1prX2dnaWZuZElWUHZGbUhzRkRyZU9HdnRvNXBJREE3OGt6cFQyWkJVaU5V0gGgAUFVX3lxTE43TTJtU3RTcmpTLWpTSVhnWkx0UnFUdC05cEZkQUR4bURoaVJ2eWc5alBDQ0RFM0k1QkVkMFJMWFE5OTBWSVQ3cHI3N25SR2JwQldoUlFlaWJ4SkdlMmdla0pjOFh2dmVfM1BYTmxNTEtYU3ZYbDlwTnhveUNuVFE4cTdOU0VlVU5jbGlLSWF3QkNqd0Y2NUQ2TFg1ZlBTWVQ?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 01:00:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay devuelve parte de sus ahorros a los clientes de Ueno bank DW.com"
+    },
+    {
+      "title": "Crisis Ueno Bank: Banco Central de Paraguay devuelve parte de ahorros a 100% de clientes afectados - Noticias Caracol",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVF9GX1RaQm5yQnFna3ZyV3ZLeURWRklDbFJXU2JqNXU1UjdOSER2OGpXOGJDb0J5WG1GMnN2LUtvRFQ5TWtNay1uZjJtcTNQMHE3bHZZSzNaZko2Zk9PUWc2WGNJVUkxeU9kVVY0WXk3dUpJdU1ocC1iZm1JQWJrRThEVDhyckVwOHhTMF9sMGYzNG5tLW5Qb3NkZmxyZEU0MjBhMVMzVm5MYlhJZW9lc0lTRFhYRnBpLXRWNUFkRS15bURjY0NFQ3BOdWJidTA4QjY3aVJ30gHjAUFVX3lxTE9OdnFBZEpfQUdzbE1HRDd4bldvTjE0VDFIcGlGRDJmcHBHRU1Ka3VxaEp2RVhRM3pPSmFVSGhaa2diZVNMWUVJanZCajFCWmhacUJiclNkaWxLa3V6MzZZbmV1REprLTNKLVZZcHQzc0F1eWhnWm04UXBOMTBxdmFONm9FQkdHS3RfX0RwXzRMeWdCOTFwbXZlTDVyang1ZnRjb28tT0l0UGdBc0hGUm5Cc1N2Qnk4M05SYW1ZOVFtSmdkLUdZaUFEZzNVQ2o1WXRlaXJkSHY3b0JkLVFRcjkzc25r?oc=5",
+      "domain": "noticiascaracol.com",
+      "publisher": "Noticias Caracol",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 01:05:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Crisis Ueno Bank: Banco Central de Paraguay devuelve parte de ahorros a 100% de clientes afectados Noticias Caracol"
+    },
+    {
+      "title": "Banco Central de Paraguay devuelve parte de sus ahorros a los clientes de Ueno Bank - Teleamazonas",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3A4ZE9rZDNQRWlic1JyY2wxR2hlS3V1OUtwQWdacHB2dXBDbTNQXzBXNFhGZGwwcnVnamJPemRZdzN4X29TMjJkVTZIS2JlbnJMODE5YWIxSFN4aHBweXk4RWlNR25HY2pCOFFSeE5Gb0I4WWVzVHZsQlJDTHYwTnhiVU9xbVFvVFcyN3ZFZU5zWGQ2N3NSa1ptNlI3MjBld0kwSE03aXpvT0lLNnJVT0tuYklwelc2a1NXWA?oc=5",
+      "domain": "teleamazonas.com",
+      "publisher": "Teleamazonas",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 11 Nov 2026 23:50:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central de Paraguay devuelve parte de sus ahorros a los clientes de Ueno Bank Teleamazonas"
+    },
+    {
+      "title": "Paraguay devuelve una parte del dinero a los clientes de Ueno Bank tras el colapso - Canal 1 En vivo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVG50cUVDUkpKQUtLUTVzUWZzSnl4Y0czaTQweGN4a1R0MlRQQTV2N3NHRzd4cDZXLWE5ZGdDQjlsa3Q1MU1XcURmdW5PRklzZWdFYkJRWVlRMlFraU1EaVBBQllFc2dRdHdDYWZGRFFFaHEzTmFWT1BKT2g1S3laQ3Q0SXFYbEpOSzI5dnJWdGtLLWVqWkUyMHd6bDFHRkJETlNOOWoyMEUybFlZWVlucFQxdzBFNnBqTHZYTS0zd1FrcDd6d2E40gHMAUFVX3lxTE1qRmxWQ1Y1Q0xyNVVtZlBKYUJSWllIU0I4a0U0d1duT2pUS2lNMWtPZnVHSHA1NXdmMFVKdnd6N3Y0N1Z4bXZON1BEU0RLeThUSkRSVXBvOWYxVllvcEdncnZXMS1OY2k5aUkyRlN6a3hjQzFTYjNZMXZfZjc3ZjE3TTk5LS1tQlB1OTRaNkk4eE5uWWt0TnU0TGMtNWRiNjI2UzVkLW1SemQtWm9jc1lnQXhSQ2FiT2owWElJdmdIYzcyR2hGcjB2Y19wag?oc=5",
+      "domain": "canal1.com.co",
+      "publisher": "Canal 1 En vivo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 00:41:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay devuelve una parte del dinero a los clientes de Ueno Bank tras el colapso Canal 1 En vivo"
+    },
+    {
+      "title": "Paraguay entrega primer pago a todos los clientes de Ueno Bank con derecho a garantía que perdieron sus ahorros - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZTc3S0FXV1FyMThlb2otMTI2cDJpbWk1OVJOMEI2V2JsNTVqTmotRnRucXR6QkZ0bmU5YkxZbVNUcGhOOXRNMjZoVVhraVBlTTZxWkhIYlVubW92Y1k1NlFyZTYwXzN6R18tTldwWW51ZzlERlRMVkU0RlR5NUJkWmNDSWxvOEJ4OUZUWU1QbUhtdjFLRUo2SEE0WllLU21MX3ZTRHliNlFCUTdnNVg1UHhUOUNGQTdoOERpME1PVjFqclRncDhlMHBtVnRweTkxSERQeW5vZFJXNUQ5WGxvS3FxaTYwOFNlTk4xUVdhR2JYQW1QelU1bkhCSWrSAfwBQVVfeXFMT2U3N0tBV1dRcjE4ZW9qLTEyNnAyaW1pNTlSTjBCNldibDU1ak5qLUZ0bnF0ekJGdG5lOWJMWW1TVHBoTjl0TTI2aFVYa2lQZU02cVpISGJVbm1vdmNZNTZRcmU2MF8zekdfLU5XcFludWc5REZUTFZFNEZUeTVCZFpjQ0lsbzhCeDlGVFlNUG1IbXYxS0VKNkhBNFpZS1NtTF92U0R5YjZRQlE3ZzVYNVB4VDlDRkE3aDhEaTBNT1YxanJUZ3A4ZTBwbVZ0cHk5MUhEUHlub2RSVzVEOVhsb0txcWk2MDhTZU5OMVFXYUdiWEFtUHpVNW5IQklq?oc=5",
+      "domain": "eltiempo.com",
+      "publisher": "El Tiempo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 00:20:31 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay entrega primer pago a todos los clientes de Ueno Bank con derecho a garantía que perdieron sus ahorros El Tiempo"
+    }
+  ]
+}
