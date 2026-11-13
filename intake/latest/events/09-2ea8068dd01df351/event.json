@@ -1,0 +1,28 @@
+{
+  "event_id": "09-2ea8068dd01df351",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Space safety hazards - ESA",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "esa.int"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Space safety hazards - ESA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91UFhmUjM3Rm1tMHFVVWRwMFdiYWhqOEJzeGNVNHZTWHNSSl9WUEdQUWpjUURoX2t1REJuWDd4NWVvZjZuWnV2TlVtX0VUQ1dzNGJkaTRiQU9jQ1VWMURya2d4aUs4LWZjQXpNQw?oc=5",
+      "domain": "esa.int",
+      "publisher": "ESA",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 13:12:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Space safety hazards ESA"
+    }
+  ]
+}

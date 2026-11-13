@@ -1,0 +1,28 @@
+{
+  "event_id": "08-c5fd35f9da29451c",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026 - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026 - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbXpaRmcyRkM5NEJoWTBvUERzUk96NGJYbV8wcHB5bEZISVlZa1U0b2pxV2Z0Wnk4RUZ6bWN5S2pIMkxLQkpGQjZyOEZqcmxZVkZSeE9UZGF2NjhIQ2d2Y0luMTBVNDVGU1dxVWVBSXVZeE83TmZwdUwxSnRSZ0o5ckdrN3RWU016VWFvZVhQd3BOWVJZZURtc0o0UHR3eHcyT1diTlVkUUN5VjJRTFRDaG03bUJGOGtMWUJ1Um9HYTJXRXBGZ0JpQ1VFaW9uTEdCdVhVdlhmSkw5WGRGUnE2enptYmE2LXdpQkFhUnR4U0w5MjYzQ2xFOU9hekswTWRFQlpMNVBTQmJjQWRkOTVCRFQzZWhFQjhZSjJKa0h6eTlDMV9uTEFHM0NqbC15RWY2ZmYw?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 18:10:04 GMT",
+      "primary_hint": false,
+      "excerpt": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026 Council, European Union"
+    }
+  ]
+}

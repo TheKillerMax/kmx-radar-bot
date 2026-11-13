@@ -1,0 +1,73 @@
+{
+  "event_id": "02-6f5de38fff9475c6",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué se desploma hoy la acción de York Space Systems? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.455,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 5,
+  "rank_signal": 0.555,
+  "sources": [
+    {
+      "title": "¿Por qué se desploma hoy la acción de York Space Systems? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1VHR25NX1E3dndoTUhjNVBXMjFuT2lEYk1jbkJhOUZCdFRDUHhjYXdBck9Pc01fTmtiTXZoNTctN3VCQVhtVVpPVDZvWXBSOVhoXzFJY2QtUHhqVDB2MjBLSndsY25TTHlmVWdsQzlqdEJzVW0xZl9QRVh0c18zZW44OFYxZDBIbU5EdWxyQll5S1IwREZKTXZzbnR6VzU2TGFCTE9RdkVVUzltQ1RQYTVWWU1oa1k?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 15:36:08 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué se desploma hoy la acción de York Space Systems? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué se desploma hoy la acción de York Space Systems? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXZjTzJPWGVWRmRQU0tKMlI5alZCczMxZGc2RlZ5MGVpdmMyRFBVTjZUYUF4bE55Rlk2RzhMQmg1cFc0RkFCclU5bGRFUXNmY3ZOQUhXSTRMQUZ2M3JWTkVJRkd5MjJzdTVqYUFjX2FBYUdfaVBtd2hWWFF4TFpTZ2VQLUNaeWJRSlRSYTRMSlRjaU5rNWRxcnJSSmRRcDVmTWZYcTNTMHJfbllWVjB2LXMxMWVzdnM?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 15:33:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué se desploma hoy la acción de York Space Systems? Investing.com España"
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de York Space Systems? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGlWRnA5dkVfTGgxaU1OYXpfN0NfVV9FLXQzZHM2bmVYNTNheF9sZV9ZQXd6emVNbVJrZmpMTUJFQmZlWk1hN0dHVW8xV3FhN3MxbG85X1Bpa1J1amRCZy16Zk54ZWJvdXI1Rnd4NnFyZktUX25tdjQyOTdHYXVmY1ZJZlBCSjd3MnZvbkVvRTRXVXl4TUhYT1FrVXY0ME91SzQ2aVV3a1dTMjQz?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 14:09:37 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de York Space Systems? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "Jefferies rebaja York Space Systems por preocupaciones de rentabilidad - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV2g3SlppazlHXzgyc1FqTXlEcG1TTW45Sm1zV2p5WnE4NVZSa1B3SldRVy1NRFp2TW9nbXVkMmpfZnBuZ1IxejdTUUxhbmlWM3FVanB5bkVNTkE0S0o2cmtVdzdPWVVZS0lzTGtwWllqTWhtSFR5QklVeml5eUVTRnJFMXdFLVQ5V3ZCbGQ5TGZrNF80Rzg2QVBRMFJHeGhZZjYxOTRfbmFoSEdWXzhKUUFpcjViX3ZLWkpYR3JseTFPejViMVpScA?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 14:37:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Jefferies rebaja York Space Systems por preocupaciones de rentabilidad Investing.com España"
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de York Space Systems? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGRKam16YWZVQjd2SGJqUEhDalIyaWJjN2wzNERIQnFqTzI5VlM1aTZrSGRzbTl3UFc1cUMzV1p3MkdxRl9saXZ6WDN0OGoyYkVGOTcyRTJ4NkFzVURaaWRraVhKSDJCQVZ6T1FVWUl1QXFlWnRqam5HVjFDWVBYdmpQT01lQXN5dzV1blFzcXlRX1Z5T3l2b0dKRmJLeXVRMVREZTB6MDhPOG1U?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 14:08:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de York Space Systems? Investing.com España"
+    }
+  ]
+}

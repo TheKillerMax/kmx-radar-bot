@@ -1,0 +1,39 @@
+{
+  "event_id": "03-bc65497f40e6be2e",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "President Delcy Rodríguez met in Türkiye with Prime Minister of Antigua and Barbuda - Radio Nacional de Venezuela - RNV",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.33,
+  "primary_source_present": true,
+  "independent_domains": [
+    "rnv.gob.ve"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.475,
+  "sources": [
+    {
+      "title": "President Delcy Rodríguez met in Türkiye with Prime Minister of Antigua and Barbuda - Radio Nacional de Venezuela - RNV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVFM1BWUDRwZGtJeF9KVUlZOURGaThUamgtNVFneDZVWWk5UUlnVW9KSThWTjBoQ0VMVzVUaFpxNVNVQzJNSzZGVUE2b3FZTEkxZG00UHN4LWU4dnp6V2lxcW9WOFFiWmZKMXptWVBwb1A4dmh3QmFIS2tiRmlCTTdSSGUwSmhXbDRiTVY2b0tVZFJsaVpINmt5UzE0WEMyRElyckJ3?oc=5",
+      "domain": "rnv.gob.ve",
+      "publisher": "Radio Nacional de Venezuela - RNV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 18:21:05 GMT",
+      "primary_hint": false,
+      "excerpt": "President Delcy Rodríguez met in Türkiye with Prime Minister of Antigua and Barbuda Radio Nacional de Venezuela - RNV"
+    },
+    {
+      "title": "President Delcy Rodríguez met with Prime Minister of Qatar, Mohammed bin Abdulrahman Al Thani - Radio Nacional de Venezuela - RNV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlgxblFGR0RSTjNBdzluT1BRTVo0SndPYm11QUQydE5qQ2RWTng4bWptbUJRVjVCTE9wcTFLaXlBcUl6QlBhWmRrZEVQckllODEyQlpsclM1TzZ2TXcxSnJaWFFaSHJVblNtZ0I0eEllRS00WXV0OV8wWWlHUkxkaEdCSUlmWUZjaG4yeVVRdlR2Q2I5SExHOWNPRFk4WnM1REh3bjRndnVQdFBoXzk5N3Zn?oc=5",
+      "domain": "rnv.gob.ve",
+      "publisher": "Radio Nacional de Venezuela - RNV",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 18:23:13 GMT",
+      "primary_hint": false,
+      "excerpt": "President Delcy Rodríguez met with Prime Minister of Qatar, Mohammed bin Abdulrahman Al Thani Radio Nacional de Venezuela - RNV"
+    }
+  ]
+}
