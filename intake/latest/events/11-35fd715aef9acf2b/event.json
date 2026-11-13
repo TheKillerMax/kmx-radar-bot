@@ -1,0 +1,30 @@
+{
+  "event_id": "11-35fd715aef9acf2b",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjR4N3NycjZmVmlBdHpZYXEzdUdrRGVmd2FJTFI2b1lvTWV5VlJyY3FMY1FmU1Y5V2lzNEF1MmZOMzcwWU42bUtkVXFBSDVPNzhLNkZqN3IyMGRMcWZhTFBTZXpFTnZBWWJLeDhqSkxFZ0NMYU5TaFJZWVppYUtJaFd0VXU3Sm10YXY5WGswb0hmYklha0xOdUZuaXhpblQ5VHY3R1UwQ2haOHVhdmFJM0J1V0hiZmFjZ3ctSTFrNnZ0dnE1N3fSAcYBQVVfeXFMT2xLbmZZdmVQdjQwNnlxbFlJOGhtRS1UYVJNRWlSU3B1NlhQdUZQTnFPSTgtNVVGbmdtWlBoa2ZnYjhSSzNHM0laNE51bVRzNER1UjIxQXBmUGd4T2ZveHdURlpmNVlIUHNtdWZnRUdSMXNzR2JSaEluNVA3SVJBejB4dnJ0SkkyNGVuelN0bWR3aGI4MFNtRTNKcl9vNmpiVm16U052UmFCcjVraHF0LThLQkRpMGNJdUNubmVBeXJrcE41TEJB?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 08:22:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos DW.com Scott Colom es el primer hombre de raza negra en ser elegido al Senado por Mississippi en 145 años Los Angeles Times Familiares de activistas asesinados en 1964, durante el “Verano de la Libertad”, celebran la histórica victoria del demócrata de Misisipi Scott Colom para un escaño en el Senado de EE.UU. Democracy Now! El demócrata Scott Colom gana en Misisipi y será el primer senador negro por ese Estado desde el siglo XIX EL PAÍS A una semana de los comicios en EEUU, más de una docena de contiendas clave siguen sin definirse LancasterOnline"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "03-6fbd2e7cedb7068e",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "“Estoy muy orgulloso de esa conexión con el grupo” Sebastián Beccacece se queda con lo bueno de Ecuador - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "futbolecuador.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "“Estoy muy orgulloso de esa conexión con el grupo” Sebastián Beccacece se queda con lo bueno de Ecuador - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUM5bXgzM3U2ZTdnWkFOX3pXVi0tSUhXSFgtRTE1VXdmU2VmRVppSFFmc3FkemZTVERjU0VUTEdLSVFrNlpwOE9pcVlsTTdRVlJvUl8xUmhvWUpIUTNXZmxST2NCVHZQRm15NEQ1dEczMHVFTXpXZC1sRjBCUjhSUk51dHdHcm9GWDFxemNKcHQxQjU4T1pjbU9TaXJ4d3Q3ZVIydEg0UG01cjNvb1RsTw?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 12 Nov 2026 16:39:00 GMT",
+      "primary_hint": false,
+      "excerpt": "“Estoy muy orgulloso de esa conexión con el grupo” Sebastián Beccacece se queda con lo bueno de Ecuador Yahoo"
+    },
+    {
+      "title": "“Estoy muy orgulloso de esa conexión con el grupo” Sebastián Beccacece se queda con lo bueno de Ecuador - futbolecuador.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZnIwWW1NV25YbkdBalJJbGt1dXI3MTA5d3hPWVM5VUgzYVFJa182c0owakF5MkxiMW9ScDhyRzJQWEg4MTJtVm5XenYwUnQxRG1zTE9rVlBrMWI3Wi1WazM3aVA2bHBRUEdxRWxIV0FDSE4tMGlHN0NGX05jbUtUVk1QQkxLZmdINHRFSno5LWtIeW5pSGlHT3ZyMHZvY0tDN0ltcXVPMHUtZnFqMWNrRGJQRzdoNG5jMzBPMGFweTJ1RDNkVm5TMVo0T0hBZzRmOWpTblJCUEI3RjgtTVJWLU1ZOGc4dw?oc=5",
+      "domain": "futbolecuador.com",
+      "publisher": "futbolecuador.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 02:50:04 GMT",
+      "primary_hint": false,
+      "excerpt": "“Estoy muy orgulloso de esa conexión con el grupo” Sebastián Beccacece se queda con lo bueno de Ecuador futbolecuador.com"
+    }
+  ]
+}

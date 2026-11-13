@@ -1,0 +1,52 @@
+{
+  "event_id": "02-d8d97ae0f1433b8c",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Banco Central del Paraguay confirmó que los activos de Ueno Bank garantizan los fondos previsionales - Tendencia de Noticias",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diarioelnorte.com.ar",
+    "noticiasargentinas.com",
+    "tendenciadenoticias.com.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "Banco Central del Paraguay confirmó que los activos de Ueno Bank garantizan los fondos previsionales - Tendencia de Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYWxBZGVRZlI3SnF2M1BReWlfajRub3Jjb3NHUWl4cWUtZnZCaGxoS1pYUmZiTGZDSEFGYWZ1bHpXNjQxaUJUblVaLUhVTWZOc040UTFJYjNsd3JJN0x2OWk2S19QallIa1VMRlZiUUg2WXliejY4bmM1cDVnZjd0UTVUcFpkcEJlSU80MEVXRDc1a1ZIdktGZkRFYWZVNDdtNU9WNGozYndwS2FMQnJjSWIzMEFpRFNwNlVMWmp1SU1ZU1Rrdk8tNG16aVNyc0lmSzZONlZSMUhraGJ4d2RJ?oc=5",
+      "domain": "tendenciadenoticias.com.ar",
+      "publisher": "Tendencia de Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 02:42:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central del Paraguay confirmó que los activos de Ueno Bank garantizan los fondos previsionales Tendencia de Noticias"
+    },
+    {
+      "title": "Banco Central de Paraguay halló activos del Ueno Bank y priorizará fondos previsionales - Agencia Noticias Argentinas",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcXBWSC1mZ1FmRmxUVFZFT3JENC1GeXN2bXlMOWk2VHpNZVJuTlB3eTR3T05BWVgwRHlSWnN1YnozWFhrUnU0TXl6SFFSaE1FV1o3dUptSkg1OXNMVGtjUkxQVUdxRTUxUjBMaVdPa19CRzFRS28yeGthXzc3Q01pMUpvbXRXWENLRERCTmZ6ZWRkZVEwNHNjcTVRMmJuekQ5Y1FQeGtXUkZUck5nc3lOeEwxUmxYaExpZzNlUEpPc0FnekR6SFFZQWw3ZVFHZlBjaFNCWHJvZE9ReVlsTTRGVDFsQjAtM19hNDBPTHNwcFRGQdIBgAJBVV95cUxNdnV0SHBIVlE2MXlwRWRPUTNaSkFkclFtU1VHbm1NeGtUeXhkOGFJMEg2UXdaM19yWXhtWmFNQXhYQ0ZtUm5nMW54YXdjUWFITVZDUXRmSzkxR1ZiUWhNN01kMGl6TnJQanlPWHR1MDVMOWNFOENNd3VEbklfU3l4MVUwQzUwdnd1SmNiSmFEbGk0UVgtcnhWTm5pZ3hkT0VMc0hrVHU4YWRwaXFzQXVTbGZwMVdaRlU1M2ZuN3BCS295R0Q4OFdpVm50SHJHRm90cWUxLXV5MVhwck5uQXNQc1hYS25qTWhhbkxjb0R5U0FObnl2SF9KckR0WHk1emxj?oc=5",
+      "domain": "noticiasargentinas.com",
+      "publisher": "Agencia Noticias Argentinas",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 01:40:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Banco Central de Paraguay halló activos del Ueno Bank y priorizará fondos previsionales Agencia Noticias Argentinas"
+    },
+    {
+      "title": "Paraguay garantiza fondos previsionales tras crisis de Ueno Bank - Diario El Norte - San Nicolás",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXF2T3pEUmRSSVVrbUZpc2hvNWppZXlmMk1rd2oxLWxMN0w4cTVaaUVjdjY1X21vTWg2U3NFLThLSlVIbTlFSVVORTRTblVfRmhkUW1lMGc1Wk82WmhucHhqelJSSjZGeGpfYUprc2VqNEVSam1ZSEhmR2VVZEpJUTUyR3lDX2pWdzFSak1tR1dfVXdianBSZEVn?oc=5",
+      "domain": "diarioelnorte.com.ar",
+      "publisher": "Diario El Norte - San Nicolás",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 06:14:18 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay garantiza fondos previsionales tras crisis de Ueno Bank Diario El Norte - San Nicolás"
+    }
+  ]
+}
