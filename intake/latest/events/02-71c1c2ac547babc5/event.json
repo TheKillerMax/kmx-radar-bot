@@ -1,0 +1,52 @@
+{
+  "event_id": "02-71c1c2ac547babc5",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "God of War Sons of Sparta llega a PS4 con dos modos gratis que exigen empezar partida nueva - Martin Cid Magazine",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.martincid.com",
+    "que.es",
+    "todojuegos.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "God of War: Sons of Sparta llega a PS4 el 16 de noviembre con dos modos nuevos - TodoJuegos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3gxRFZFQjhoVk14cnFOQjAteWZCM1NxY3BFX2dQV3ZVNWEzSGEzRVltbDBISnJjLXhUMVRKZUlCMG9ZeW9TZlZhbXR6Mzd0cXFqemg0YTE1XzhSdkRjN3gzS3doLTlvd0ZJYVBvRm94YlNXOGh5TkJob1ZDNTd2MThhRHdFRGhGVWtVWVg5Y1RlSGR1OUt2ekI5UFFkR0poUkd4eENMcHJmRDFEZ3JpUVY1X3Q?oc=5",
+      "domain": "todojuegos.com",
+      "publisher": "TodoJuegos",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 10:36:39 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War: Sons of Sparta llega a PS4 el 16 de noviembre con dos modos nuevos TodoJuegos"
+    },
+    {
+      "title": "God of War Sons of Sparta llega a PS4 con dos modos gratis que exigen empezar partida nueva - Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckpVVVY3SlVwc29nLUh1ZlVIN2JaUVlMZHVycnBwWlFwaUNxM2Z4YmloLXNRZFR2UUYwX0R3WGE1OWRFby1sZ3dEaVFxcUw3UXJBSHYwYS1hSGM5Z25ISjg2Vk5IVFpsX3NBSVpmVW9qVmdZMlF6WFhiZW5INlcwZkZsVGp2X1hDaGFkZnQ0RjdNcnV0REdwQTd0cFJjalFUN0pYeURLRGgxQ2xhLTZQc0RUcVdMdXBDWW85TWU5RHpXcVk2MnhB?oc=5",
+      "domain": "es.martincid.com",
+      "publisher": "Martin Cid Magazine",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 13:42:11 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War Sons of Sparta llega a PS4 con dos modos gratis que exigen empezar partida nueva Martin Cid Magazine"
+    },
+    {
+      "title": "God of War: Sons of Sparta aterriza en PS4 el 16 de noviembre con dos modos inéditos - Qué.es",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQTMzMFhvX0FKVUJTQkJqbVdPNEhSSWsxc21lS3dRNDRDUzNDeWl5QmU1RjRCdlFNVWZEUmlEajh5ejluYk5lNVNYU19JeFNyYTh4R0pKV1JLTll1VU12aHdsTFVoNUE0emlZYw?oc=5",
+      "domain": "que.es",
+      "publisher": "Qué.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 13:52:35 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War: Sons of Sparta aterriza en PS4 el 16 de noviembre con dos modos inéditos Qué.es"
+    }
+  ]
+}

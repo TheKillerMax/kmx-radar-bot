@@ -1,0 +1,40 @@
+{
+  "event_id": "06-d6e01f14bf1de5e8",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La sonda Voyager 1 de la NASA está a punto de alcanzar un hito en cuanto a distancia recorrida - TradingView",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "es.tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La sonda Voyager 1 de la NASA está a punto de alcanzar un hito en cuanto a distancia recorrida - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1MkFYQmdkb1BHdjYzMXNiLVFURFFqNlFONGlaYklheGlKQ0RuQm5BMVBLa2Z6M3ZjeU1JaGIybi1YZUNEdmRXVGNwQ0RRODJsVUVoS0lIdENfeEdBd05pRkM4U1NuQ3h0TzNFUURKUmtUcURmNDZz?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:06:33 GMT",
+      "primary_hint": false,
+      "excerpt": "La sonda Voyager 1 de la NASA está a punto de alcanzar un hito en cuanto a distancia recorrida TradingView"
+    },
+    {
+      "title": "La sonda Voyager 1 de la NASA está a punto de alcanzar un hito en cuanto a distancia recorrida - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MYlBTQk5FWkZFZnljNTBab3dMWEtSb0Q0STl2djFEdzJlVGJaZHA0MGVPMzJZZ3JmVjBaSjloVnRqM0cwbGwtT2tzWVctU3pqblUwWThPTGdvUHduNkdvWUlPcENXSEFxLTJwLUl5S3dWejZFYmtDZ0RYVV81MDA?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:07:59 GMT",
+      "primary_hint": false,
+      "excerpt": "La sonda Voyager 1 de la NASA está a punto de alcanzar un hito en cuanto a distancia recorrida Yahoo"
+    }
+  ]
+}

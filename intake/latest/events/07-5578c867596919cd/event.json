@@ -1,0 +1,28 @@
+{
+  "event_id": "07-5578c867596919cd",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "¡Programa tu retorno! Este lunes festivo 16 de noviembre hay pico y placa regional para entrar a Bogotá - Bogota.gov.co",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "bogota.gov.co"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "¡Programa tu retorno! Este lunes festivo 16 de noviembre hay pico y placa regional para entrar a Bogotá - Bogota.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanp4LVh6LWpPOFJtcDBsbHdJbzNncXRzM195bmtfM01aai13LTNMcGdXbjY2OFpndDRxQ0JiZF9OUmVLT015bTYtcTdyc0x1bDY4c0U5cTVkTmVldHgzLTcxdXpQeHlCUEEwdVNQdktKT2hDeXR6a0x5bElNMnB4T0xSVmhlc2RqaklFMHBTZVZDMDlKUHBnREFsNEZHMTlHWHVISmxTbGdRcVhkRW5lRkQ2OEYyMFJ1REE?oc=5",
+      "domain": "bogota.gov.co",
+      "publisher": "Bogota.gov.co",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 13:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¡Programa tu retorno! Este lunes festivo 16 de noviembre hay pico y placa regional para entrar a Bogotá Bogota.gov.co"
+    }
+  ]
+}

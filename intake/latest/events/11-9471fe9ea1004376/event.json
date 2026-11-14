@@ -1,0 +1,149 @@
+{
+  "event_id": "11-9471fe9ea1004376",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Light mag. 3.3 earthquake - 28 km northeast of Ometepec, Estado de Guerrero, Mexico, on Saturday, Nov 14, 2026, at 02:53 am (Mexico_City time) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 34,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Light mag. 3.5 earthquake - Departamento del Choco, 67 km northeast of Buenaventura, Colombia, on Saturday, Nov 14, 2026, at 01:15 am (Bogota time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlRCSVZTck03alZGeHM1MVJhUENzN1pBSFFpc3Y0OWFtbHlCdGhFWTdLcHNtQWtwX2tSQ05XcUVGUG4tRmRFQmQ5VUpiY015LS1ENnpGdzlUcWhUMDBWY0k3el9hTHVDdFhRaTZqVFlsZVZvcE1meFpSRW1Dc3JJTDVod0tRUWdBeFpxLS1PMFBEUnVGZ2UwOVhkSjB3cFZTaEYybm41X3U3bHJiTmlSOHVDRXYyZFJiMzNrckpOV0taZkkxMjhiYkJpNktyVkg4b0x0Mw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 18:22:30 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake - Departamento del Choco, 67 km northeast of Buenaventura, Colombia, on Saturday, Nov 14, 2026, at 01:15 am (Bogota time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake - 51 km southwest of Chitre, Provincia de Herrera, Panama, on Saturday, Nov 14, 2026, at 08:02 am (Panama time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWM5Rm9BaGhWUDBCajJGU2txTUFpNDRJNi1lSTY0UUZZNEZQSEtldFZKOENaUXEzbTdyY1ZjWkRDaVpuVTU3ZkM4aS1FbVd2c0ZKLXVQVHU3WG1UNDgwTVFKSnM0MUp6S2RIWkhLazZnMWlGRkRiVDJkU3FUMl9kUXlMZFpGblNDVTVoOWxFbGNQbEJ0TGdwNnNkNDk5cU0?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:14:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake - 51 km southwest of Chitre, Provincia de Herrera, Panama, on Saturday, Nov 14, 2026, at 08:02 am (Panama time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.7 earthquake - 39 km southeast of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 14, 2026, at 06:45 am (Panama time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUlpcTlyckJyaTB0NWU4Y1lzTjFRNVRESk9RNW9hbFBJdDJOajI2bS1Fakx5RGFWUWhrUGdKel9JY0oyZ0I2VDNQWjVycl80N3FENHY4N0Z5QVg0Z3RuVklFSE52cHdyRkp4eTNGLWxlMWk1clE3cVJ0VkNyV09MNFVkcmxnUFhMbGpZNFZLTDEzUTN6LVQwYk5DMTlfT3M?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 11:50:51 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.7 earthquake - 39 km southeast of Las Tablas, Provincia de Los Santos, Panama, on Saturday, Nov 14, 2026, at 06:45 am (Panama time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.9 earthquake - Colombia: Caribbean Sea on Saturday, Nov 14, 2026, at 11:34 am (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2pYZ185Q2NFZFozS0t4QUdJSkhGZW9XNGxOa2VmVkg0RWthQVdGUDNyZC1DNkptWDlfQU90anlXUG83YXVwdG50MS0xYl8zbmFXMkk4NDdXSmphaVJDOXJteU5Xd3dJelljdndsQ0Z2cDQ5aXZpd0hFZU1HNGZ0a3RBaWkwR1diYWNRR1kwdU5uZVlRVmxxUWJJbDdiTjdLWWg0UnlKWTQ4NHBsRHhKNG9saGY?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 16:34:10 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.9 earthquake - Colombia: Caribbean Sea on Saturday, Nov 14, 2026, at 11:34 am (GMT -5) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.0 earthquake - 44 km east of Acapulco de Juárez, Estado de Guerrero, Mexico, on Saturday, Nov 14, 2026, at 01:30 am (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFpkdkVDVVN4akNTdXdCMEpmQmJsNkhoN3l4THB2OG1TeWJNNjFmaXcxdVZROUt2eEdCT01GVlBvOHR1aHhaTTh5czVpaTR3SHh2U0kyUU8zaVViZENLZzJ3UmFYUFFRdTR3bkM5NUlJWEV4NGJJMlA2dC1fZ2ZIMzE3Zjl0V1NNbXVON1dDMGtCdmJoYy10bXh5cUZXVWtKV285anYwSnNIcjhBU1RrSS1vcjJZM25jeXlhOTg3dzdIeTg5TExhRnFjdw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.0 earthquake - 44 km east of Acapulco de Juárez, Estado de Guerrero, Mexico, on Saturday, Nov 14, 2026, at 01:30 am (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.3 earthquake - 65 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Nov 14, 2026, at 06:21 am (Panama time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB2bEd6bHM5dmJMV2RZRXk2a1V1OGRsZnZLdy1fWnAxUFN4TmRqaEp4TlFNR0cxYWx5a25tU2JwNkV2X3VFUUc4NlFDbk1sRHlrUmMwSWlBVUMtNW00Wi12Tzc5SlYwRHlWRmpxQmdRNF9yOVo0XzYwZVRkdzRmX0tjdjhORF9jV01nb0dPYlE1TjZqQXFkLVNsZE94YkU?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 11:25:36 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.3 earthquake - 65 km south of Santiago, Provincia de Veraguas, Panama, on Saturday, Nov 14, 2026, at 06:21 am (Panama time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.3 earthquake - 36 km south of Bucaramanga, Departamento de Santander, Colombia, on Saturday, Nov 14, 2026, at 04:44 am (Caracas time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDFqZzBqN3E1RHRaR0duSzJpZ3pZaUxCMGxxbmllRWdjRnNqM2NIMFR5ME4xNVRybEx4Y0JmbUhKRkd6YnRPR2pYZ00yeEVzb1lVN05iUGdsQV90bEZSSXRlYS01QktWV05UaC1YeVNxRVFjalRaQ05ReDlOZXd4OHpMY3h1RHZGQ0F0Q19lRTEtdS1zcHFQbVNfaTYxRzFHVUUtMTZLLWlfS2p0WkE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:15:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.3 earthquake - 36 km south of Bucaramanga, Departamento de Santander, Colombia, on Saturday, Nov 14, 2026, at 04:44 am (Caracas time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.2 earthquake - Provincia de El Loa, Region de Antofagasta, Chile, on Saturday, Nov 14, 2026, at 08:46 am (GMT -3) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHBKam5ieDRLV01RWXBTdTZRNmZwcEtnbC1Md1M2bjlESHZkU29OTmJWR3dySm1QVDJ2c1pkX09RMU54T1pXTzVsMnJGY0JNdUJfRTU0WUJpODAtMnpGa0pJOEdYZmtMYjZmcUJvMVRLMG1DZDNGRmFtT3N4TzBLcGZPSHZ6WFNIOENvUW9LUlpMeHVEMmtPa3BURkRuZHFCSVpaeUdwWmZWTVFLalE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 12:35:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.2 earthquake - Provincia de El Loa, Region de Antofagasta, Chile, on Saturday, Nov 14, 2026, at 08:46 am (GMT -3) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - North Pacific Ocean, 48 km south of Paredon, Estado de Chiapas, Mexico, on Saturday, Nov 14, 2026, at 04:49 am (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTdjVzZIa0VhQVF5cFh2QjA2U05fQmx4TzlBOUFzd05mbXZveFFhUVMzVUx2dVlxS2tIUXFVc0IwNzdyTW9jUno0ZVg5T0N4QlVCS1dTLWxVd3BjY1FqRmIzaWV3a1dySVRUZ1V6cUJhZlY5bUxLSVNBRkJJLV9uMjFKTHRXZ2tzdFZUNXhaYlBBZk9QVHJaeEtiT1d6eGZGODNsSmtTVmEydUt1SEpyclRGOXlBYzN0N1J5RVFRLUt2cFZ0?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 11:10:41 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - North Pacific Ocean, 48 km south of Paredon, Estado de Chiapas, Mexico, on Saturday, Nov 14, 2026, at 04:49 am (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Kilauea - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 01:08:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilauea Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.7 earthquake - 157 km north of Calama, Provincia de El Loa, Region de Antofagasta, Chile, on Saturday, Nov 14, 2026, at 09:11 am (GMT -3) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWNCZXJmamZrdDIwWE9uY3VxMkZhNnp1VE5ZaDFUaF9MVHV5amJWVHh3RkI0eGRzb3NCYnVZUENETG9VLTZQNkVEalE1aEdSVlMyeGVwSGl1ZkFJWTdOOTNvNXo4WmhPVW1HWk9ZdjIxWHVzUXQwbF9FNnVSaU1ObEI4Vl9Ob0haTkFwYXFFN2ZhMGgxWmlyeEw1a0h1RFY4WVJwYVEwbTZvUXVsRFE?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 12:35:54 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.7 earthquake - 157 km north of Calama, Provincia de El Loa, Region de Antofagasta, Chile, on Saturday, Nov 14, 2026, at 09:11 am (GMT -3) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.3 earthquake - 28 km northeast of Ometepec, Estado de Guerrero, Mexico, on Saturday, Nov 14, 2026, at 02:53 am (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObjlNWi0yaE1vY3Q3TlZ6S2FocThYRXk5NXpSWV9iZUwxUFdWdFdFbHgtQVowaFNSbDg2Q2FBZzJaLUFWNzZSaEFpamlHVExXbEk3N2xEYlZVZzVIYjVyNFhsNlVMMXNseEZTaFpMMFpQZENoX1NvbGhWWkhVN3NIZEhrT1diX0pXSW4xM095dDk3clE2NVZDMG01aEFmZUN4T0lCNXFJN3FNV2RfZ3ZaSk5TQUhuUjcxWXNobmtYOTNzSmlTYUtsNlgwRQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:21:45 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.3 earthquake - 28 km northeast of Ometepec, Estado de Guerrero, Mexico, on Saturday, Nov 14, 2026, at 02:53 am (Mexico_City time) Volcano Discovery"
+    }
+  ]
+}

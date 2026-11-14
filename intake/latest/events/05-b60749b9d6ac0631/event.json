@@ -1,0 +1,40 @@
+{
+  "event_id": "05-b60749b9d6ac0631",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Microsoft says services fully restored after hourslong global outage - La Nación",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "lanacion.com.ar"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Microsoft services fully restored after outage - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFE0OHZvYmp2NFZ1WW44SlNQYnZrTmpiemprSVc5UERTTmJUUnBDNzkwVFBoaHZLRzhJRUF4R2hsYnRxbkdLUzBRc0szVDFOMk1KRGdTMUtfa01wamlzMFl2VDZBbTRScWs4RVROMU1WOG82bGFGUXY1NXQ3amp1dklnYkNaZHZzSV9nRzR0anc4LVpRRUtPcFBOZC0wLVNlQUVLTUtpNmZ6Smpl?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:47:32 GMT",
+      "primary_hint": false,
+      "excerpt": "Microsoft services fully restored after outage TradingView"
+    },
+    {
+      "title": "Microsoft says services fully restored after hourslong global outage - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObS1hSkVaM3RaU0J3UDNtazZzTFlvMmJzeHM4QS1YV0NncUQzYUdkMGtDYTlmajVoNGVGUDc3RUpOVmozR2xIUExKTGFfNGdWLTctNk9OOTRzTE1JNEVjelZmR1VFWURyWVNpdXR1TS1ZaXQtelg3ZHc4dGtoTWhLTFltTDA3bjVvcnBHcmdBWURGVVU1YVlBVURSSWwyTTB5TGE0ZzdabTF4ZGNSSi1fVmVrYw?oc=5",
+      "domain": "lanacion.com.ar",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:20:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Microsoft says services fully restored after hourslong global outage La Nación"
+    }
+  ]
+}

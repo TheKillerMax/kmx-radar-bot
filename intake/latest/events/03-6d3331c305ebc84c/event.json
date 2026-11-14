@@ -1,0 +1,52 @@
+{
+  "event_id": "03-6d3331c305ebc84c",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 - Info del Estero",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "617.news",
+    "empresaexterior.com",
+    "infodelestero.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "NASA Space Apps Challenge archivos - 617 News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aM3Yxbll4N1hqcUIycGVJRmMwNXFiQVF2ZDRuVDRicUJOZGtUMUhGdnd2MFlNTFhUSjZxYk5DVEhWVmg3Vm1tdzZqemlPUk9aNHBwcTRTX3N4MFE?oc=5",
+      "domain": "617.news",
+      "publisher": "617 News",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 16:47:16 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA Space Apps Challenge archivos 617 News"
+    },
+    {
+      "title": "NASA Space Apps Challenge archivos - empresa Exterior",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMUY3emtfOF9MSTE2bVRNQXRnU2N2WW5UYVVvZDc4MkU1dTJDSDFsRDRGQTU3MWZvd3pQa3RyVnVfa1JWOU9ucEFuWjUwajdBUUZBWkNteVV6bXBxNk1kTjNtZ0ZQVmlxa0E?oc=5",
+      "domain": "empresaexterior.com",
+      "publisher": "empresa Exterior",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 08:15:47 GMT",
+      "primary_hint": false,
+      "excerpt": "NASA Space Apps Challenge archivos empresa Exterior"
+    },
+    {
+      "title": "El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 - Info del Estero",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDZUWEFCWmFfUjYyNUFud3J6S2JtZV9kRGZIZmt2T3dXaWlsaGNuNE1pUHJIbHNwRUZWb3dHejRfXzQ4VzlpVTduY0JwQ2dKNmZLMDctZVRUQzJmX0NkbHdBMkFON0NOdVZTMGxSWFNFVE9weDdScUNJaEQzT0dJcnZzVHRadENDMENWX0pvVTNNVGJYb2lpMkptNFk3dFZJam5mWFQycWU5WEdkdTB0M3RITEtpN0tFWFFzdHZ6dU4?oc=5",
+      "domain": "infodelestero.com",
+      "publisher": "Info del Estero",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:33:29 GMT",
+      "primary_hint": false,
+      "excerpt": "El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 Info del Estero"
+    }
+  ]
+}

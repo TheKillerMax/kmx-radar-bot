@@ -1,0 +1,40 @@
+{
+  "event_id": "04-5c98ae39cb8bf2d8",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Fiscalía de Paraguay imputa a expresidente Santiago Peña por caso Ueno Bank - La Unión de Morelos",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diarioneuquino.com.ar",
+    "launion.com.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Fiscalía de Paraguay imputa a expresidente Santiago Peña por caso Ueno Bank - La Unión de Morelos",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZzhZQTlfejlack5HbWc5V2p4U20yb2xORFBVZ2ZVUmd3R2Z6aG1IeDFzUmdpLV9XSjNGT2NzbExxUXpiWVNHaFFUX2t1U2VtT1F5R2F5WXNNeVBvYnItblBFRzA0eVc5SU1HaHF0R3hDb2xTaGh1eHlESnRucTdPRUdtMXUxZFJVejhyaXJyWDhOWXFILW9PNXE3U200QUR5dm9jTVJoMlZkUGhQek1TQWRDb3c5QkVXT1UtdjhDQ0RNSUdBa18ybzdzbWlURzBIVEx4ZkpKNHhpRXN0dkE?oc=5",
+      "domain": "launion.com.mx",
+      "publisher": "La Unión de Morelos",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 16:14:50 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscalía de Paraguay imputa a expresidente Santiago Peña por caso Ueno Bank La Unión de Morelos"
+    },
+    {
+      "title": "La Fiscalía de Paraguay amplió los cargos contra Santiago Peña por una presunta trama para beneficiar a Ueno Bank - Diario Neuquino",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV01hOURlalhRUm9KOWpXY2t4SVRHTnN3TUExWVk1cEZUWW5Yc3BuZzB1UWlmMFRiMDRvSG13OEpQdENMMlJkNTRPQzhYa01HVHFpVWtaQTdScXhLZUIyX0R1R2tSdVVHYlpKWFlHUzNpcEVPbGRLMmRmazk4ZlZqSktCNlZnZXZDckJSQklZeGNvZDZMNVVfWmdGRWNXTHp4SkFmc3FRNlJNVGpBekdWVDQyMnBHVGtocWxTNWhXVU1kTTJKel93UjMyQ3Q2bVU1LThOTS1UQ0NEeWxR?oc=5",
+      "domain": "diarioneuquino.com.ar",
+      "publisher": "Diario Neuquino",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 07:56:48 GMT",
+      "primary_hint": false,
+      "excerpt": "La Fiscalía de Paraguay amplió los cargos contra Santiago Peña por una presunta trama para beneficiar a Ueno Bank Diario Neuquino"
+    }
+  ]
+}

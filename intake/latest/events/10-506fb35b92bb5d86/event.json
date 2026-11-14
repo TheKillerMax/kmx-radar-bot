@@ -1,0 +1,28 @@
+{
+  "event_id": "10-506fb35b92bb5d86",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "WHO donates Equipment and Drugs to the Ministry of Health and Social Welfare - WHO | Regional Office for Africa",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "afro.who.int"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "WHO donates Equipment and Drugs to the Ministry of Health and Social Welfare - WHO | Regional Office for Africa",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PQjNYY1ZTUFhFQnpRanM4eGNVUWxfdjh3Ulh5TkF3cUdXekRxUE14TWF1WTJMdUdqX3piNGZLX0czbEZhN1lPZlR4b0lKY1BBd2JVYmpyb0tLbzl0Q3R5TUVhTW0?oc=5",
+      "domain": "afro.who.int",
+      "publisher": "WHO | Regional Office for Africa",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 02:29:28 GMT",
+      "primary_hint": false,
+      "excerpt": "WHO donates Equipment and Drugs to the Ministry of Health and Social Welfare WHO | Regional Office for Africa"
+    }
+  ]
+}
