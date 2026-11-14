@@ -1,0 +1,40 @@
+{
+  "event_id": "04-05bb7d4e1cde7ed8",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Crisis en Paraguay: Detienen a Exdirectores de Banco Central tras Caída de Ueno Bank - N+",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "almomento.net",
+    "nmas.com.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Crisis en Paraguay: Detienen a Exdirectores de Banco Central tras Caída de Ueno Bank - N+",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmNGT1hlNjNfamxUR3U2LWY3bkh5bjlmU2oxWXU3bHVua1JKRm9VaGJmYmpHUGMyVm9LTG1hOTNVMERVUFJuSk03dDE4bDdCdXp5SmhjRnNiaUFJOFBXREtldUtZTEMwRDJFaTcyZDFrOFFQUVlGcFN6RS0xTjB1cXZ0TE1fazF3WnlIY2NKd3Y5akpVQzNXY0VqZFhicW5wSFRNdkozY3FhdElydGQ4cktoY0dLTmV0MEVwTks0dw?oc=5",
+      "domain": "nmas.com.mx",
+      "publisher": "N+",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 22:19:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Crisis en Paraguay: Detienen a Exdirectores de Banco Central tras Caída de Ueno Bank N+"
+    },
+    {
+      "title": "PARAGUAY: Detienen a tres exdirectores del Banco Central - AlMomento.net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTdTTk1wbkExckoyRVBIaHByMzZ2bWhvM0FFWWhscnhhaTI2TDNIRXd2Z1RlR3dtX2tobW1tQ3poVTlscXM4T2hPdUFjUDF1ajFWcmhMWjhYOWVDMDBNSnpadFl0U1VabmRxYVptaHVUVmpRaFpEdmJ4cFJOSVVIaTVUSXA?oc=5",
+      "domain": "almomento.net",
+      "publisher": "AlMomento.net",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 01:45:08 GMT",
+      "primary_hint": false,
+      "excerpt": "PARAGUAY: Detienen a tres exdirectores del Banco Central AlMomento.net"
+    }
+  ]
+}

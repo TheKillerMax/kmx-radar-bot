@@ -1,0 +1,30 @@
+{
+  "event_id": "10-6e193b7da69f4886",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los restos del escritor Miguel Ángel Asturias regresan a Guatemala más de medio siglo después de su muerte - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los restos del escritor Miguel Ángel Asturias regresan a Guatemala más de medio siglo después de su muerte - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80eTY3NEVHUXBVaXlWNlNtcGQwYnFkcGZXblNid3NPNXhXU1hYZW5PWTh1OEFXTTJKWG5mNVExQ21BVjdBQXAzeUxqYWJSOFd5MkM1TWRrVVU3RW1r0gFiQVVfeXFMUGVMLVVLQl9NWXRHaFFfOE1mTVRzSjNFakFNWjhPQnhHRjJXcVRxS1Q4bXg1TzNxaFRuckp5RmpLaFRoQ0VUcVZwR3pQa3VxRGNCWUZJeElsU3VIbC1meTIwcFE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 12:57:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Los restos del escritor Miguel Ángel Asturias regresan a Guatemala más de medio siglo después de su muerte BBC Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

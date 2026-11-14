@@ -1,0 +1,52 @@
+{
+  "event_id": "03-71e69ead77d64d9f",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "God of War Sons of Sparta llegará pronto a PlayStation 4 con nuevos modos de juego - Reporte Indigo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "fomoera.com",
+    "freakelitex.com",
+    "reporteindigo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "God of War Sons of Sparta llegará a PS4 y sumará dos modos gratis - https://fomoera.com/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BN0t1djl0bmhNb0dxU2tiVDdwcWRwRkpERHRhTm50cldiQWpwekY0Yi1Vdk92NnBrTjlkVGFTZXZjeEZVRExhZGJXblRFcFdHc1Y5V0VOemRSV3BKNXNHeHlhUXo0MU90RzdaeU9YZEhqQlpkRncyWmR3?oc=5",
+      "domain": "fomoera.com",
+      "publisher": "https://fomoera.com/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 02:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War Sons of Sparta llegará a PS4 y sumará dos modos gratis https://fomoera.com/"
+    },
+    {
+      "title": "God of War Sons of Sparta llegará pronto a PlayStation 4 con nuevos modos de juego - Reporte Indigo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjNjXy0zMGc2WnpQMXJoSVhjclVvWFZLYlJFM0Z3Zno4ZEdmM25zdzdOcU85MzU5TmtnRkRxd2djdnpoR0c2b1FhTG54VUgySlZKTzd0dGs5cG9MNTQ3TVdRRjdpdDN1Wmg3dnhOcU1xSzZNUXBQbTBTWnpiZVdZbVZSeldXVjBLaGF2WW5vMGsxc1NEM2hZY2UyVkxhYU1adUN5QTdOVjk5OHZsTnRzQXVqLWV2aWI0Y2U2MnVDRQ?oc=5",
+      "domain": "reporteindigo.com",
+      "publisher": "Reporte Indigo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 22:17:55 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War Sons of Sparta llegará pronto a PlayStation 4 con nuevos modos de juego Reporte Indigo"
+    },
+    {
+      "title": "God of War: Sons of Sparta en PS4: modos nuevos - FreakEliteX",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOGYxaEdhcDdyUndiZ2dzbEUtMmxnUzQ3VWFLWkRaQ00xeU40eEsydWpENG5iUGdsaU02UlVGeTA4dEJEMkhONXRFaUpWWFhTeFlGNWxhZ1V0d3d3THp4RVVtelhVYl9jZll2MVdtMFVBODV2VFVPLTM1ZzFDcEU?oc=5",
+      "domain": "freakelitex.com",
+      "publisher": "FreakEliteX",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:30:50 GMT",
+      "primary_hint": false,
+      "excerpt": "God of War: Sons of Sparta en PS4: modos nuevos FreakEliteX"
+    }
+  ]
+}

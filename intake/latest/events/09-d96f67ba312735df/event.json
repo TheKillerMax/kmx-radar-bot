@@ -1,0 +1,30 @@
+{
+  "event_id": "09-d96f67ba312735df",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWdubG1DZmM0aWVmM1Z0ZktMRmRtamxQRFQ0OWRSNGhJaG5WSkIzMW9VcFVkaUJ2ZkE4Y1l3RWNmTHhUWTV0eWdidll5YTR2ZXdQQzkwcml2bHpZWlpHaVlNWjlVQXQ2TEl1TWw4UkVMOC1GN0NkT2hxaGdKVXZQQ1VEekN4a0NxVzQ2NmhZNHJaUEhpSW9pSFJIcUQwZ1B2?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 02:41:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans? CNN en Español Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans EL PAÍS \"Milagro en el Misisipi\": rescatan a todos los pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna BBC Más de 30 heridos tras choque entre buque petrolero y un crucero fluvial en Nueva Orleans, dicen autoridades ABC7 Los Angeles Buque cisterna choca contra un crucero atracado en Nueva Orleans KKTV"
+    }
+  ]
+}

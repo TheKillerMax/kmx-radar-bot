@@ -1,0 +1,149 @@
+{
+  "event_id": "08-7c2b87b9117500d1",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Light mag. 3.5 earthquake - 33 km southwest of Ometepec, Estado de Guerrero, Mexico, on Friday, Nov 13, 2026, at 05:06 am (Mexico_City time) - Volcano Discovery",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.24,
+  "primary_source_present": false,
+  "independent_domains": [
+    "volcanodiscovery.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 39,
+  "rank_signal": 0.385,
+  "sources": [
+    {
+      "title": "Kilauea - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOFE1VHkwODdYdGNQS3Baa2l2SEhDTEY0cVVBeDhyRkNqZ2h0dUhvWHh4SUQ3a3VMTzc4YUk1TnRWYzQtOHdPWEdfSF9NZFFKM1dKNHMtMjNKVC05?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 01:08:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilauea Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - 2.2 km west of Zacapa, Departamento de Zacapa, Guatemala, on Saturday, Nov 14, 2026, at 12:35 am (Guatemala time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlVVRXRrd2Z1X3NzLWh4TnliVVhxNXF4MS1mZm1yQVVPejFnQ0gzaktmdXNQTm1xVFAtM2R2ckZFT1VBX2x3aFNpLUlFTWwxckd1Z3hqZWVYOHh6TGxVMTZDNUFnVEZwSW9EVTZ6dXBEM0NzaWo4X0NJRnFZOWJCalRmNG9pQlo3Y2w2aVN4NTdxSGRRWlVLY2pNTWFJdXhDbFRz?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 06:45:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - 2.2 km west of Zacapa, Departamento de Zacapa, Guatemala, on Saturday, Nov 14, 2026, at 12:35 am (Guatemala time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.1 earthquake - North Pacific Ocean, 95 km southwest of Puerto Escondido, Mexico, on Friday, Nov 13, 2026, at 09:10 pm (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmN2S25BY09pSEpyV0VteGxLS3pfRVZuMVJiNzNSVHRDeUVDS0ppMW1oOVpaekVWdEg0enRPVUh2WXJmTTZ5NXczamlSaWJHakRvZ0ZsbUd6b1lvd2U2RVZuV0lfU1AxbVJtS2Rpd1NmVkNlLTlwQkxBOGRNd2UzN05pTHRRc0Q5TDc0SVVrMTdnWUI5bkFSa01hWEF5aHpyNk1SeFE5bGk4ZjRYUGhwU2Nuc1R2ekxNZEVN?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 04:11:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.1 earthquake - North Pacific Ocean, 95 km southwest of Puerto Escondido, Mexico, on Friday, Nov 13, 2026, at 09:10 pm (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Weak mag. 2.8 earthquake (unconfirmed) - Honduras on Saturday, Nov 14, 2026, at 03:19 am (GMT -6) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWxaYmxVMUdMbUpsVERPbjctSkZJbUxNN3FnXzNiSHlKdl9ObjlkOEFZT3ltdklqVW9MNmhIMFlwTlJqeWJQcHNRak9GcEJBNWF0ejJnV2tVMUx1TkFfRjhzOWtBOHVZMFlxelFRUnh5ZERWZjZxR3ltUW5DTmphUUt1S0ZTM1duT3h2dTFBZHJLN0d5RHFINTJOY3hfZlRTOGc?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 09:29:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Weak mag. 2.8 earthquake (unconfirmed) - Honduras on Saturday, Nov 14, 2026, at 03:19 am (GMT -6) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.4 earthquake - 30 km northwest of Chaparral, Departamento de Tolima, Colombia, on Friday, Nov 13, 2026, at 03:01 pm (Bogota time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR3FacnZZank4OW90b2FBemx1VmlKMkc0LVJmaXlLVFhpUGdCd3V2eml3bnBEUHNCNm1lX2huNmVSR1JhdWhMRE5vc2M4QzBQX2o1XzNsdHJTZFFfcnE0WkI5bkx5c1dmaDFWNDROWW1fN3pHQjRSU0VYcGJZS0dyZ3ZWb0hQbDBodlhOZ2RGZHRpQXVVVnlKMFFtU194UzJyWDR1cENmY1ZtaGNuV0ltakJBN3lKSWdBRWF0bXZCWWw3bHI5U1BGLXlRbmcwdw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 20:10:59 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.4 earthquake - 30 km northwest of Chaparral, Departamento de Tolima, Colombia, on Friday, Nov 13, 2026, at 03:01 pm (Bogota time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.1 earthquake - 16 km northwest of Chaparral, Departamento de Tolima, Colombia, on Friday, Nov 13, 2026, at 03:04 pm (Bogota time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmItbjhfX29XM0JsMW9xS1o5Mnl0Wkk1OVdFY1JVNXJfSjVDZ1ZEbEhSWFZpaloxSVpLUmxFUzBCQ3NmOFZ3ZzhkM204Zm5tWnRWUGxaeXV0ZUpsNWViSWc1c1FKaVJ5Uy0tLU9SM2lqclA3N09MTWFLZ2VrejBVU1hQUFFGUHdoQUplTHNWaFZCYU9XaXFUTm5La2M4ZlZobC01RlFuZkFmUWRWVFJvQzY5UExESk9h?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 01:16:13 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.1 earthquake - 16 km northwest of Chaparral, Departamento de Tolima, Colombia, on Friday, Nov 13, 2026, at 03:04 pm (Bogota time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 28 km south of Atoyac de Alvarez, Mexico, on Friday, Nov 13, 2026, at 06:02 pm (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWQ0TWpFZktZTFpNOW5qRmdBd211ckZXWkU1NENMMEJocUhLU2xaREFRRGp5Sl80b1Faekd3eGxQSGdaY2Q3OVhUZFYxbHJRNzZWVWQ1cW43eTFQT1NRNzY2Q3E2U1hhYlZ6QVd2bnlSZElSa2dCWm8wZ0xJeDRHTFRvSUljNlFENVBlc0Z2N2VqSEpvUlEybHpoSWRUS0dVcmFneFhMdDJaQ05tb1BJS2Vfa3E0OFVvQkhKell3?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 00:36:45 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.0 earthquake - North Pacific Ocean, 28 km south of Atoyac de Alvarez, Mexico, on Friday, Nov 13, 2026, at 06:02 pm (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Mag. 3.6 earthquake - Offshore EL Salvador on Friday, Nov 13, 2026, at 10:25 pm (GMT -6) - just now - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0k3VXo3Yzg3S2tMVHpJbWJfNnJVLUZaTXgtU25DM1lSa2Z6M29JVWFpU1laanUzbmJTQmQ5NllHaXpnM0dpMW5tQ2Q0eHVrY0xfRERITENRb1hXY1M4TVV4V0g3SEg3UDdLSDFRTk01Z2tHQ3FtdEZ6YjVUWUF0NTFOeU8xNDJFOGRha2IxSTQ5cTNoN2NQX0k1d2xpUl9YeDNsMUNVQ09qb3h2eFNrNXZCekFBTTZwZm81NGdpVQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 04:35:23 GMT",
+      "primary_hint": false,
+      "excerpt": "Mag. 3.6 earthquake - Offshore EL Salvador on Friday, Nov 13, 2026, at 10:25 pm (GMT -6) - just now Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake - 33 km southwest of San Felipe, Estado de Baja California, Mexico, on Friday, Nov 13, 2026, at 10:25 am (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE1wc21nQVJMcU14d0UzV2ZGYUpFeUR2XzB1WW9tVmw0NkQtQVJLZlJUZ2l4R1lpQWtOdG1JY0tfbmpYWWhtRGZkNDZkTUFLVlI5elE4NTNkc2JFTTUybUdJd0lkM1JZd2ZuSUpNa3F3VXpjUm5lSUFJYzdvc2dqU3R1aEVEdldQV0hHbnRfMklmQmkxZXZfYmRkZHJ5TDFMaHlsOFI2clJPY3pHR0NtaEhiUjNNOThXd2E2c2VUOGo5eXB4b0UzM2oyVHNjUQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 02:15:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.5 earthquake - 33 km southwest of San Felipe, Estado de Baja California, Mexico, on Friday, Nov 13, 2026, at 10:25 am (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.6 earthquake - 21 km northeast of Ayutla de los Libres, Estado de Guerrero, Mexico, on Friday, Nov 13, 2026, at 08:02 am (Mexico_City time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUtQVEIyMFpNNU83VHNmcHpUaVBLdHRrSnlCZE9yU2JSMFd1WWE0eEwtZ0tIOUx5MG8takxpdXFEWk8zUld2SHlWWTJka2VJY2MzanZzRl80bUhjS08wY1VzMmZVYU9yTkktSk9xZGp4c2JDdE53ejNwWEV0TkV5U0lrbG1iSGFCcG41dHk2MjRkSF9wb1NPZkFIYzNISkp1T0dlbUVaRjNJdnM3VmhHbkxiMjBydWt4c1c4blRHaEZJa0ZmS0Q3V2VITE8xUQ?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 13 Nov 2026 22:17:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.6 earthquake - 21 km northeast of Ayutla de los Libres, Estado de Guerrero, Mexico, on Friday, Nov 13, 2026, at 08:02 am (Mexico_City time) Volcano Discovery"
+    },
+    {
+      "title": "Light mag. 3.4 earthquake - Departamento del Choco, 64 km north of Buenaventura, Colombia, on Saturday, Nov 14, 2026, at 01:15 am (Bogota time) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlRCSVZTck03alZGeHM1MVJhUENzN1pBSFFpc3Y0OWFtbHlCdGhFWTdLcHNtQWtwX2tSQ05XcUVGUG4tRmRFQmQ5VUpiY015LS1ENnpGdzlUcWhUMDBWY0k3el9hTHVDdFhRaTZqVFlsZVZvcE1meFpSRW1Dc3JJTDVod0tRUWdBeFpxLS1PMFBEUnVGZ2UwOVhkSjB3cFZTaEYybm41X3U3bHJiTmlSOHVDRXYyZFJiMzNrckpOV0taZkkxMjhiYkJpNktyVkg4b0x0Mw?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 06:29:10 GMT",
+      "primary_hint": false,
+      "excerpt": "Light mag. 3.4 earthquake - Departamento del Choco, 64 km north of Buenaventura, Colombia, on Saturday, Nov 14, 2026, at 01:15 am (Bogota time) Volcano Discovery"
+    },
+    {
+      "title": "Moderate mag. 4.6 earthquake - South Pacific Ocean, 118 km west of Canete, Arauco, Region del Biobio, Chile, on Friday, Nov 13, 2026, at 06:55 pm (GMT -5) - Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDFNNnJ1NGlybEtjdURjSUdubWIybU9LVkpLMG81U2JOdjJrUTBFLVktQ1dnZ2NWVmVKQUR5QWRXS0JUVTFSTjczd1A3Q3AyX3JYclpFVDVqdDI2MHJqckhOMk5LNWdoMk1nRlEzbUp0cFVBRm8xdkcyTFpvWWQwMnVjWEx2X2dvS296a29kQ2lGWkZOQzlnUWFUOTlmMFN5Q21uTm91cUlpVEkxczNvU2dyRWNFSnRR?oc=5",
+      "domain": "volcanodiscovery.com",
+      "publisher": "Volcano Discovery",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 00:05:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Moderate mag. 4.6 earthquake - South Pacific Ocean, 118 km west of Canete, Arauco, Region del Biobio, Chile, on Friday, Nov 13, 2026, at 06:55 pm (GMT -5) Volcano Discovery"
+    }
+  ]
+}
