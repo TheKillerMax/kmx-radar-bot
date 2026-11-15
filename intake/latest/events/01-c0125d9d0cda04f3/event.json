@@ -2,19 +2,21 @@
   "event_id": "01-c0125d9d0cda04f3",
   "category": "ECONOMÍA",
   "risk": "medium",
-  "canonical_title": "Paraguay — Fiscalía acusa a Santiago Peña por asociación criminal en caso Ueno Bank - Prensa Mercosur",
+  "canonical_title": "Paraguay — Fiscalía acusa al expresidente de Paraguay Santiago Peña de liderar una asociación criminal por el caso Ueno Bank - Prensa Mercosur",
   "intake_status": "EN DESARROLLO",
-  "verification_signal": 0.635,
+  "verification_signal": 0.74,
   "primary_source_present": false,
   "independent_domains": [
     "bardeo.news",
-    "elobservador.com.uy",
+    "elconquistadorfm.net",
+    "elobservador.com",
+    "examedia.com.ar",
     "nvinoticias.com",
     "prensamercosur.org"
   ],
   "high_trust_domains": [],
-  "article_count": 5,
-  "rank_signal": 0.785,
+  "article_count": 8,
+  "rank_signal": 0.97,
   "sources": [
     {
       "title": "Caso Ueno Bank: la Fiscalía acusó a Santiago Peña de asociación criminal - Bardeo.news",
@@ -28,6 +30,17 @@
       "excerpt": "Caso Ueno Bank: la Fiscalía acusó a Santiago Peña de asociación criminal Bardeo.news"
     },
     {
+      "title": "Santiago Peña fue imputado por asociación criminal por caso Ueno Bank; fiscales lo señalan como “jefe de la estructura” - El Observador",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRjRqZjBkU2xfYXhkcklaMnhIc2ZnazFwTFdMN2V5OGhVSTBkMEJLQWw5cHV0U3pnRTljbHY5VFNyWnBPZllmbGFiaDM3ajdCXzBuLTBreW8tQl8wRFM1V2l5YU4wd29OdVFtZTVsVTNOeWtkbDN0a0drQS1MNnF4UkFvVm9wTkdBX2hiXzJ0bUMtV3ZGZll3Mm1zSWRRaW1vNERUWDFST2tNRU9fTkhIaWE0SnZ0MVZRQTkwWHY3M05DYlF5djRGZDdMd2tNaThvZ1FwSXhKN0VNUXJlb1FDTEVzTU9HZkQxZGl3WTdSMW_SAewBQVVfeXFMT0tpbFNqY0l2VC1sd2JnYld5S2ZuUW91OTd1MnY4c2hJNVFIcGlPYzBwV3lRWW1GVHRmVEprc1ZUQ3oyQXh4dVJPTmxOZGF5eTUwZklqTEJESGpFd3N3eDhNMHU3c2RPOXV1azFEZk9qSHRNTDdLc3VZamZ2VDBTSXlhZ2Q0V3c5dVA0OWRGZWxGYzdKN3hudTM5WlR0c09uZnRoMTBybU1iNWFlWUNjaWhkam5uRkphR2JJTk1vb2J3MjJmYVJFTkpNYU9acmYxODVRNzZsRUZhTWd4eU1PY1p4OEYxbUdRbW5VLU8?oc=5",
+      "domain": "elobservador.com",
+      "publisher": "El Observador",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 18:05:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Santiago Peña fue imputado por asociación criminal por caso Ueno Bank; fiscales lo señalan como “jefe de la estructura” El Observador"
+    },
+    {
       "title": "Caso Ueno Bank: suman asociación criminal a la imputación contra Santiago Peña - NVI Noticias",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnI1UVNScTczN1lCakZ0QWRqMk1mNGZLT21VRWxMeFdCek96OUszYl9SdjNWTGpfMy10Q29DNnY3eHRDYmh6dkg3bGtlVjM1X2UyVENGbmxlQl9PbEt5c1o5WG1xNVZCc2JVa0k3cVhRUUFCRDB6bzdodE1VVTR0dlRtUXROUEZOTjBlRGRVanFzQ19uZkNjdS1pU0oxdTVYWXV3RnJhNGZJQ0NCcUhPVlFSY1c2VkE?oc=5",
       "domain": "nvinoticias.com",
@@ -39,15 +52,37 @@
       "excerpt": "Caso Ueno Bank: suman asociación criminal a la imputación contra Santiago Peña NVI Noticias"
     },
     {
-      "title": "Santiago Peña fue imputado por asociación criminal por caso Ueno Bank; fiscales lo señalan como “jefe de la estructura” - El Observador",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN095VEFubW9VdjRMZHh1MnZLcmRUbDdEV3BiRDVJRXZKRmNzN1pvNlNNdENxTTc1V0dlNVdiNV8xZEFmUks1c3V5NGJqc3hnbGZJaVNsUGphOHNDQjJIQlZMZVByaEJUUnFlT3BjekhXamppN3FSWndTMHRjVWJuSjVTaWgyei1hOXhyVmtKNVlrRGNqRWtPaXZ4d21iMlhySVhJOXVyUHhyWUlINXdTRFFfNUo2aVpzWmpyTXhWR19FVzBHWTNVanJMVm5BX3BCQUtfMktNaHh4S3RTWXRMNkUtWHVoSjjSAewBQVVfeXFMT0tpbFNqY0l2VC1sd2JnYld5S2ZuUW91OTd1MnY4c2hJNVFIcGlPYzBwV3lRWW1GVHRmVEprc1ZUQ3oyQXh4dVJPTmxOZGF5eTUwZklqTEJESGpFd3N3eDhNMHU3c2RPOXV1azFEZk9qSHRNTDdLc3VZamZ2VDBTSXlhZ2Q0V3c5dVA0OWRGZWxGYzdKN3hudTM5WlR0c09uZnRoMTBybU1iNWFlWUNjaWhkam5uRkphR2JJTk1vb2J3MjJmYVJFTkpNYU9acmYxODVRNzZsRUZhTWd4eU1PY1p4OEYxbUdRbW5VLU8?oc=5",
-      "domain": "elobservador.com.uy",
-      "publisher": "El Observador",
+      "title": "Fiscalía de Paraguay acusa a expresidente Peña de liderar presunta asociación criminal vinculada a Ueno Bank - El Conquistador FM",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzdIdW9wNThtM3pob0lSSHpvWmdvZDZjeXd2NWd3LUw3S24xWmhKS3ppNXREMWdlZndZS0d1dUtOckFLY1M0U0tXQzdNY1Vya3VUdkxUYVFCNEVyQ3k4SGEyY1lPTThibVI2TU1TUUZsam5SZVJqVU0wQjRJdS1PcE5fWXA5V2NVbVlrUU5HT2FPaEp0Tmp0Y3R5SWFQOWRla1pYVzY5ZEZaNkEtS3ZqOVA3My0?oc=5",
+      "domain": "elconquistadorfm.net",
+      "publisher": "El Conquistador FM",
       "language": "es",
       "source_country": "",
-      "seen_at": "Sat, 14 Nov 2026 14:30:00 GMT",
+      "seen_at": "Sat, 14 Nov 2026 14:19:01 GMT",
       "primary_hint": false,
-      "excerpt": "Santiago Peña fue imputado por asociación criminal por caso Ueno Bank; fiscales lo señalan como “jefe de la estructura” El Observador"
+      "excerpt": "Fiscalía de Paraguay acusa a expresidente Peña de liderar presunta asociación criminal vinculada a Ueno Bank El Conquistador FM"
+    },
+    {
+      "title": "Paraguay acusa a Peña de asociación criminal y prepara intervenir empresas de Ueno - https://www.examedia.com.ar/",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWcySjloc0JzNkVJQ1hEMzk1VmlxWUdvWjQwR0V5UzdtTmNEdXR6ZExJT1FmZnotbDczSUVJdlpkQlhSaVo5dDlHdkJuQjdhQ2xEUmhkbG5pM0JVR2VwWTBVdVF2T1lxOFhXb21MQ0p5eGpLVk1RLXhVZTRlakhSbmcxVVliSlo0UFdtMVhud1pYZUJUYWhqbmFlWVZYOHZ2UHNTODJJeUxwVjBrZWNHQmtBdFZsZXRXMXRubjVPRkZGMXhKazcxdW9rUQ?oc=5",
+      "domain": "examedia.com.ar",
+      "publisher": "https://www.examedia.com.ar/",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 13:04:34 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay acusa a Peña de asociación criminal y prepara intervenir empresas de Ueno https://www.examedia.com.ar/"
+    },
+    {
+      "title": "Paraguay — Fiscalía acusa al expresidente de Paraguay Santiago Peña de liderar una asociación criminal por el caso Ueno Bank - Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRGJ0WVBNQndqSTlYZGczR3hneEpCaUhTMF9DVUszOHlybkVwOVdMd3RGaG9sYmhHOFZTOEpQQVhBNkJxbmEyVy1vZHNhZXJFN0xYSkVMc0tOS29mWVJCN1FPamhSOURQdmJ0aTh6ZEEtVkhiZkxKTmN6TmtMTzEzaW9EVmxVSlpMWm1yemNLaEFyRURlRGh3ajNVOTc4VTZVRmtMRkpyZ0FFV2l4T0wxV3h3MDFGRHk1WGRhMzJhVk1lSC1PT2M4RXZ2b2g3WEVXUERfX1hLbDF3UDJqT0ktVFc3amhaU01qa2NWU2FyVXhMUVE?oc=5",
+      "domain": "prensamercosur.org",
+      "publisher": "Prensa Mercosur",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 20:35:04 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay — Fiscalía acusa al expresidente de Paraguay Santiago Peña de liderar una asociación criminal por el caso Ueno Bank Prensa Mercosur"
     },
     {
       "title": "Paraguay — Fiscalía acusa a Santiago Peña por asociación criminal en caso Ueno Bank - Prensa Mercosur",

@@ -1,4 +1,4 @@
-# El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 - Info del Estero
+# Rosario vuelve a ser sede del NASA Space Apps Challenge con foco en la innovación agropecuaria - Telefe Rosario
 
 - Categoría: CIENCIA
 - Riesgo: low
@@ -16,16 +16,16 @@
 
 NASA Space Apps Challenge archivos 617 News
 
-### Fuente 2: empresaexterior.com
+### Fuente 2: rosario.mitelefe.com
+- URL: https://news.google.com/rss/articles/CBMi6gFBVV95cUxONENidGVSaDBVc2IzeU15UzNrODFILU5Kd0VEeWRfaHNObWJjRS1iVnQ5TXl4Mkt6dUV1T0xwVVdXc1NCQmMyVDNsektTODctMThiY1RPY2JWcHNqSjkzRVFlXzJ1ZHJSNW1kbTRzdFNoRXBRcEJsQVlxRlNlaUlXQTZIdDJjb3hFdE1pTTk2VERwenFSVWhSTFJqT3BoeHJ0UG5iNFVkS3JNNk1xbTZaWnNaOVFXNkhFZ3UwVGZOMWxpZjA1eUNaNzZkd0pvakJSS2RIdGd0TklfalZpcWh5SXNZY0RWMjlQeEE?oc=5
+- Título: Rosario vuelve a ser sede del NASA Space Apps Challenge con foco en la innovación agropecuaria - Telefe Rosario
+- Fecha detectada: Sat, 14 Nov 2026 21:09:39 GMT
+
+Rosario vuelve a ser sede del NASA Space Apps Challenge con foco en la innovación agropecuaria Telefe Rosario
+
+### Fuente 3: empresaexterior.com
 - URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBCMUY3emtfOF9MSTE2bVRNQXRnU2N2WW5UYVVvZDc4MkU1dTJDSDFsRDRGQTU3MWZvd3pQa3RyVnVfa1JWOU9ucEFuWjUwajdBUUZBWkNteVV6bXBxNk1kTjNtZ0ZQVmlxa0E?oc=5
 - Título: NASA Space Apps Challenge archivos - empresa Exterior
 - Fecha detectada: Sat, 14 Nov 2026 08:15:47 GMT
 
 NASA Space Apps Challenge archivos empresa Exterior
-
-### Fuente 3: infodelestero.com
-- URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDZUWEFCWmFfUjYyNUFud3J6S2JtZV9kRGZIZmt2T3dXaWlsaGNuNE1pUHJIbHNwRUZWb3dHejRfXzQ4VzlpVTduY0JwQ2dKNmZLMDctZVRUQzJmX0NkbHdBMkFON0NOdVZTMGxSWFNFVE9weDdScUNJaEQzT0dJcnZzVHRadENDMENWX0pvVTNNVGJYb2lpMkptNFk3dFZJam5mWFQycWU5WEdkdTB0M3RITEtpN0tFWFFzdHZ6dU4?oc=5
-- Título: El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 - Info del Estero
-- Fecha detectada: Sat, 14 Nov 2026 14:33:29 GMT
-
-El gobernador Elías Suárez participó de la apertura del NASA Space Apps Challenge 2026 Info del Estero

@@ -1,0 +1,40 @@
+{
+  "event_id": "04-0a47eb24df0349d7",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Michael Jordan, Bugs Bunny y el legado perdurable de ‘Space Jam’ a los 30 años - Potosinoticias.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "espndeportes.espn.com",
+    "potosinoticias.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Jordan, Bugs Bunny y el legado de 'Space Jam' a los 30 años - ESPN Deportes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemNPS0VJRWJQQlhLdmdrMjFmcWVDS3dOdVNYZGhsYWdEeldIaUtKa0lURl9zYnVmWTNYYVMzallLOGpITWJaMlRFeXNac19DR2FvdnoxdEl3aXhaVlFka19JZlF6MnVJZzlrbVhvSnl5c00zd1FwakYzbmMyOGxpTkt6MkJ0WmZDcnNlakN3aVNwOGVkYlBIZEtia1M4VFZ0Z0pXUUFrM1NNQQ?oc=5",
+      "domain": "espndeportes.espn.com",
+      "publisher": "ESPN Deportes",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 17:05:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Jordan, Bugs Bunny y el legado de 'Space Jam' a los 30 años ESPN Deportes"
+    },
+    {
+      "title": "Michael Jordan, Bugs Bunny y el legado perdurable de ‘Space Jam’ a los 30 años - Potosinoticias.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmt1Z3FqVmdtbDc4WENObXJRSFdkSUdVM21KcktCZWpXeGJmXzBnZmZtMGtNOG9mY1pFMDVwY2phMGpyREI3RURHU2tJcXgxYW9hSUlPX1JfOU45cjBoUERWNHdLYm54TF9xeXpsZTJPcWg0YUZ0aDExWEZtOEp4emU5SkRjQjNkeTZmMV9WVS1qUHNYSkp6QmhPVHhINjBZenpYWmZOTkhad2txd1ZYS0xXQjM?oc=5",
+      "domain": "potosinoticias.com",
+      "publisher": "Potosinoticias.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 21:22:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Michael Jordan, Bugs Bunny y el legado perdurable de ‘Space Jam’ a los 30 años Potosinoticias.com"
+    }
+  ]
+}
