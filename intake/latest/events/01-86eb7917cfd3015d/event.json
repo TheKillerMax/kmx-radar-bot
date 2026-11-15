@@ -1,0 +1,88 @@
+{
+  "event_id": "01-86eb7917cfd3015d",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Caso Ueno Bank: Fiscalía ordena detención del director jurídico del BCP - Economía - ABC Color",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.66,
+  "primary_source_present": false,
+  "independent_domains": [
+    "5dias.com.py",
+    "abc.com.py",
+    "judiciales.net",
+    "lanacion.com.py",
+    "prensamercosur.org",
+    "ultimahora.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 6,
+  "rank_signal": 0.87,
+  "sources": [
+    {
+      "title": "Caso Ueno Bank: Fiscalía ordena detención del director jurídico del BCP - Economía - ABC Color",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0VZbFBlXzZTaW1CWFZxVFdQaWhhYkhGR2Z3UmxIaUhKdE9KTTVOUkcwRjZXSzBJbVRXak43bDBCMlZzXy1LWGhVdmE0ZWtCeUQwa3NXZmRfWnR1S1VKOUQ4WjR6ODdUWElNbnZHU29JTWpMMENXMTJrdld0b0hRVHpBT202ZkNMZXRHTUR4UU9jYnJfckh4YlA2dlY4YlBFZVpVSDF3Z1NIY3Z6MVJOc2NGOEM?oc=5",
+      "domain": "abc.com.py",
+      "publisher": "ABC Color",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 18:17:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: Fiscalía ordena detención del director jurídico del BCP - Economía ABC Color"
+    },
+    {
+      "title": "Caso ueno bank: Fiscalía ordena detención del director jurídico del BCP por presunta alteración de informes - Última Hora",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGQ2OUV5RjZkRWlQZVRCbG5sUTBHZXFWeEJnc1FnOUNSZzNSdHZoZk80ekZIUUh2dmhaRVRZVWlHaGw4Q1ZrWEdaTEw4WXg3QnlBSm05ZXJsdFJDY3pxY0I4d1cyeG1ndGkzMUkyeUpQM0dQcVdvM3N3UWphNGc5bnpHQndtY0dvOVplNmFuU2lQcFhlVGlBQi1GdFRXLTVkQUF2QVprcEFTMmFkMVlWVHFGcG1zQThPdTZ4V2gwS3ltVnZaT0RmVEFQVFFjQdIB2wFBVV95cUxOQ0FrMmtQcl9fM2lkcEhkQ1pyTnZzcmU2ZUtySVNkWVM5dkRmbGY0bi1adzlHdU56MEctV0FMaExuNDBOZGJtaTRsM3MzLVd0UDBOUHUtNzBESXdzTlV3aEthbFQyZVFDR0dBWkQtZGNjckN0dDJndTJyb25PV2s0MDd2eGRPX0l5amQtZGVydXBKM2E5cGxPVnR3bkZrZjFJUkZ2SkZkSWFMUEQ0eHFBQlVQWi03alVUdWJ1dmk1bmJhcWk2Z09tZ0NpR3NOOHJPRTBmMUphdkFCVzQ?oc=5",
+      "domain": "ultimahora.com",
+      "publisher": "Última Hora",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 17:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso ueno bank: Fiscalía ordena detención del director jurídico del BCP por presunta alteración de informes Última Hora"
+    },
+    {
+      "title": "Caso Ueno Bank: ordenan la detención del director jurídico del BCP - Judiciales.net",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTJaSDVnQlotVjV5cmZuUXdCdUJ5a09wcXpmRHNUNjk3NU9EenVpdlZISUJUSGZKZ2Y3N3JHcTA4QWs0NjI3SmdmQUlYODVjckJQY1pGSG5EMERmWWFreWxTQllva29NcTBFQUJmYXZqZzNGSUlnTGRyeXZqcWZxejctVDVCb2pVb3BGanN5c2pwQnVyMEc0eg?oc=5",
+      "domain": "judiciales.net",
+      "publisher": "Judiciales.net",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 17:41:11 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: ordenan la detención del director jurídico del BCP Judiciales.net"
+    },
+    {
+      "title": "Caso Ueno Bank: Fiscalía ordenó la detención del director jurídico del BCP - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbW43RlhBRi1ROE12VUo3M280dGFuTUNaY09ueVZjVDYxYlVwZkp4aWExMmpIWEF5RGI4eFBYcGpfRHI5OXA4am5MZ3UtTmRaZy1kWE1vX2hYUVlBTlkwaWZaaGF1R1lweE83a3R5eEx4NnpINy05X0UyMDRKS3Y4WWQwRE1jcURVcnBweDh1RG9td3lWWHJQUnhMNkxqSjQ2MFJtYlB2Vld5ODBZSjhyZmt3YVlndEZYMWc5cjllNA?oc=5",
+      "domain": "lanacion.com.py",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 17:49:57 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: Fiscalía ordenó la detención del director jurídico del BCP La Nación"
+    },
+    {
+      "title": "Fiscalía ordena detener a director jurídico del BCP por caso Ueno - 5Días Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWJTNTlDYVViem9iQnNvSFBzZ2R6cHpLVk1oX2lMNkhFS18wQkpTV2pZU2txYjQ4ZlY5RXJDRHBTcXBsNGdLRWxnQWVTTkVObENxTlZnU25pNDR2b2RtZlcwTHR3bHVRbUNNZ19JQWdSRllBUnlJUDFhdVBWbnExU1AyZ3ZRTW9OaGxMYWYzdkJPVjJYTHRN?oc=5",
+      "domain": "5dias.com.py",
+      "publisher": "5Días Paraguay",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 17:51:24 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscalía ordena detener a director jurídico del BCP por caso Ueno 5Días Paraguay"
+    },
+    {
+      "title": "Paraguay — Ordenan detención del director jurídico del BCP, quien habría alterado datos sobre Ueno Bank - Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdng5RkVRWDFMSV9MS2tqTk04ZGQ2Y3dsSDFNekJyVXRMNElDYm1CRWc4OHpBbDJJbzFZVzVZamFfbUMyZjVtZjFSOEVaZEJEZHhqNC0zRDFjeEpFd2paZlR1c2h1NHNBai1yVk8xSkM4TGRyMS1ucEFwZWxMcDIxWi1Zb2g3eTJNMVdtbE8yYlpwQzhyOG9HejVqcVBMc0h2UWlOSFgxR04xYjdraE1RbldNa05rWG1COGxZTWkwZWFQZDl0M2xDN3BZT2FZZXhBWDRzT2J3?oc=5",
+      "domain": "prensamercosur.org",
+      "publisher": "Prensa Mercosur",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 18:44:47 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay — Ordenan detención del director jurídico del BCP, quien habría alterado datos sobre Ueno Bank Prensa Mercosur"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "05-649df8ea7cdb7b9d",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Apple Intelligence llegará al iPad y Mac en China: ya tiene luz verde - La Verdad Noticias",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "lachispa.mx",
+    "laverdadnoticias.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Apple Intelligence llegará al iPad y Mac en China: ya tiene luz verde - La Verdad Noticias",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDkxT2c0RUs4VnEyYUFta0V0UFotcVFuR1JSSmU1b3pQdHNHMTRoOGtHdm1jNmRMUFRmanA4QjhocFJHVGlpOU1nQ0QyTUpDa1pSRFJKSzZNY09YQ2VPbFN0VkVFRUtZb05IcjhHM055SGxDNVU2cE5nTkhENHFOYVV6UUZ2RG1TTFpwdXN4MWliZWlWM191Vmh0cFFQWjZDSE9GcNIBrAFBVV95cUxObnQzNU1tSFlhZnByYjZzcHN5VTV2ZDdpX3JUaXU1MW5NNHU0MjR4TUZ1SHpUWGh3TTNmVmUxeDZlNzBiZ0NLSWtMRDZSUkhtZE5PUEcwYlZaRnZYMU1NWVFWM3Q3MmktVUY3dkJSTlJOanB5eGVYVnpFMXpXc1V3NWJ2TEdFaXN2ZXNMSEh3QUtRcTYzTGszVVhpdW43aEpEVEFHVjJ6WG5KME9n?oc=5",
+      "domain": "laverdadnoticias.com",
+      "publisher": "La Verdad Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 12:41:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Apple Intelligence llegará al iPad y Mac en China: ya tiene luz verde La Verdad Noticias"
+    },
+    {
+      "title": "Apple Intelligence avanza en China - lachispa.mx",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnZ2RjMjB1THNCQUZTUlhLMldfQWJJekotaktKT2M2NDFaWWROcGlzX0FhQmZ1cDdGWHhUSVJqOGdLV2Nyd1hNM3hEbXNnRlozOGthb2pCWVF0R0l2aHBfNUhqVnVkdw?oc=5",
+      "domain": "lachispa.mx",
+      "publisher": "lachispa.mx",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 16:23:01 GMT",
+      "primary_hint": false,
+      "excerpt": "Apple Intelligence avanza en China lachispa.mx"
+    }
+  ]
+}

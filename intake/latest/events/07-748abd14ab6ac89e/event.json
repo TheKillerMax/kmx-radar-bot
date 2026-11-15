@@ -1,0 +1,30 @@
+{
+  "event_id": "07-748abd14ab6ac89e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVtWEZlSFJNQzBQbnVTMmV2QXoyUGJZU0lPb3NERHNRejZBQ2NnQnFrN3hZRUp2TUxlLVo4U0lEYkJDVkdkZWZldGZsLUlLdHpMc3hYOHpsVG5HX2QzdTJzMXh3VnpxdDJjNFY3dnNvMDRBLW81VHNwLW5vMUJZYjlVckhWdXVSbG5iRHdjdU81Zw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 07:51:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre CNN en Español Mientras el Gobierno de Trump pide más fondos para la FAA, los demócratas dicen que la agencia ya dispone de ellos CNN en Español Aeropuerto de Charlotte Douglas: así transcurren los retrasos y cancelaciones tras la falla aérea nacional Univision Las claves de la falla que paralizó los despegues en EE.UU.: qué pasó, qué la causó y cuándo se normalizarán los vuelos Telemundo EE.UU. busca “causa raíz” de la falla que dejó paralizados todos los vuelos El Nuevo Día"
+    }
+  ]
+}

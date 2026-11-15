@@ -1,0 +1,40 @@
+{
+  "event_id": "04-49600af6ee34b566",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "El BBK Live 2027 desvela sus primeros nombres: The xx, Teddy Swims, Pixies y The War On Drugs - Qué.es",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "que.es",
+    "ruta66.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "BBK Live – The xx, Teddy Swims, Pixies y The War On Drugs - Ruta 66",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzY2Qk1ZODdDV05KSDNhY3I3dFRDX05SUFVVZU5JR0tuWkdmWGdHbFBGd3pvRjZIQ2hqUzNiWjh6a1JmRkhTaEUyNjlMa29WeWFvOENhZDRGcFpHYTJkOGZkRXZtQUNLeWJCOUtRd0wwMEJNcWxlWEpDcWlPMU1RZFhFN0NSVkVNeFdtTkl1V2FUQkdi?oc=5",
+      "domain": "ruta66.es",
+      "publisher": "Ruta 66",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 11:12:23 GMT",
+      "primary_hint": false,
+      "excerpt": "BBK Live – The xx, Teddy Swims, Pixies y The War On Drugs Ruta 66"
+    },
+    {
+      "title": "El BBK Live 2027 desvela sus primeros nombres: The xx, Teddy Swims, Pixies y The War On Drugs - Qué.es",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTEFUMWRpcDhPQWN4SlVnV0ZnVTkxcHlJV2gtLXV5WVdPZlBGTXFhcEQ4dlBTQ0hsbTlNcjBPOFB6eHFSSWdPckdZN2lKZU8wT2lpMDVrUTBSbDFCVEUxVA?oc=5",
+      "domain": "que.es",
+      "publisher": "Qué.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 20:02:31 GMT",
+      "primary_hint": false,
+      "excerpt": "El BBK Live 2027 desvela sus primeros nombres: The xx, Teddy Swims, Pixies y The War On Drugs Qué.es"
+    }
+  ]
+}
