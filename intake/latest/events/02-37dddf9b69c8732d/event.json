@@ -1,0 +1,52 @@
+{
+  "event_id": "02-37dddf9b69c8732d",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "ANA invierte en Space Quarters, una startup de construcción espacial - Mezha.net",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "ecosistemastartup.com",
+    "mezha.net",
+    "notebookcheck.org"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "ANA invierte en Space Quarters, una startup de construcción espacial - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNckxsWTdpdEczM3JnVlhlb09EVzlOQVFHTUdvVThpRDVKRW42WU5obVk0eWNxcXBkNUlockx0RzdFUGJfTlBSdUZLUjRJTTRjcjFncTBYUVZwOFR6QnZNNGN6ZjNDUmtzdGk5Xy1RdDhub3h3V1htamstX0o1cHczdGZsVGNDOXhvb0J0RWpUWWNwYlZDSG44?oc=5",
+      "domain": "mezha.net",
+      "publisher": "Mezha.net",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 01:08:18 GMT",
+      "primary_hint": false,
+      "excerpt": "ANA invierte en Space Quarters, una startup de construcción espacial Mezha.net"
+    },
+    {
+      "title": "ANA invierte en Space Quarters, ensamblaje en órbita - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmNHd18wMm1QR0pqY3YtTHhxU2VSZzNZZkNBcDhJQmFzZFU3RE9qc2M2Z25NSk5SRU9QWkhXVEplMlV6dzdBRGpGWVF2MWttZ3ozTm9Fa0lEMHV3V0dYRnpsa3h2c0tGZlFfOGFHaEtpOGRHQkRxdEttT1pZOVpUNW1mdlRidlA4ZUE?oc=5",
+      "domain": "ecosistemastartup.com",
+      "publisher": "El Ecosistema Startup",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 03:03:35 GMT",
+      "primary_hint": false,
+      "excerpt": "ANA invierte en Space Quarters, ensamblaje en órbita El Ecosistema Startup"
+    },
+    {
+      "title": "La japonesa ANA invierte en la empresa emergente de construcción espacial Space Quarters - Notebookcheck.org",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGpJVzlFSHZWLS1tUW9lRTdiX3FGQVBCckN4Ymxfd0hqUHgzSEpxYXVuNWFjbzVYSzhDU1VFQW9MbXZDSmpaZ2gtbzNzVW9ZMzJHd2xFYmVBU1M4VVAtLWFSc2ZocWJoMjFZN0taZ25ocVpOX1dyNkRhSWdXSURNN1IyaTZPUU9YTU5CRG5YcFRWVlcyZ09pQzR0WE5KT29iRkNNNzEtMl9hUnh4TnNIaXZhREQ4NzFiQXRrbWdtRVg0eVU5bWl2ZWtpa3Jzdw?oc=5",
+      "domain": "notebookcheck.org",
+      "publisher": "Notebookcheck.org",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 23:14:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La japonesa ANA invierte en la empresa emergente de construcción espacial Space Quarters Notebookcheck.org"
+    }
+  ]
+}

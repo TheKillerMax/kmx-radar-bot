@@ -1,0 +1,30 @@
+{
+  "event_id": "11-30e351c942aeba53",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFRFR0pHNzdVdlBXWEhSam9acjRva0NGREN5VVRFRTRWcVZwTEdvRktkUmZxaUo1aU1vczF1dE11MnRpZ1RRTXc0eFh3UDJibldpRG1lcklGZEVIZi1WT0xTWWtURXJldkptLUNnQVllYTVybDZZZTVwVkJiTlE4UnllVENhUWtZR2hMMFlR?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 08:46:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos CNN en Español Reportan colisión entre aviones de UPS y Copa Airlines en el Aeropuerto Internacional de Miami Univision Flash: Avión de carga de UPS choca con un vuelo comercial en aeropuerto de Miami, según medios Xinhua Español Un avión de la empresa UPS y otro de Copa chocaron en el aeropuerto de Miami La Nación Dos aviones chocan en un cruce de pista en el aeropuerto de Miami: se produce un día después de la suspensión de vuelos en todo EE.UU. Clarin.com"
+    }
+  ]
+}

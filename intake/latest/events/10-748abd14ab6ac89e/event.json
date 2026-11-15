@@ -1,0 +1,30 @@
+{
+  "event_id": "10-748abd14ab6ac89e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVtWEZlSFJNQzBQbnVTMmV2QXoyUGJZU0lPb3NERHNRejZBQ2NnQnFrN3hZRUp2TUxlLVo4U0lEYkJDVkdkZWZldGZsLUlLdHpMc3hYOHpsVG5HX2QzdTJzMXh3VnpxdDJjNFY3dnNvMDRBLW81VHNwLW5vMUJZYjlVckhWdXVSbG5iRHdjdU81Zw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 07:51:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Resumen de noticias la reanudación de algunos vuelos en EE.UU. este sábado 14 de noviembre CNN en Español Qué sabemos sobre la causa de la suspensión nacional de vuelos ordenada por la FAA en EE.UU. CNN en Español Caos aéreo en Estados Unidos persistirá hasta el final del domingo DW.com Por qué un problema en tierra puede afectar vuelos a miles de kilómetros de distancia AP News Deportes de EEUU vuelven a la normalidad tras la suspensión de vuelos del viernes San Antonio Express-News"
+    }
+  ]
+}

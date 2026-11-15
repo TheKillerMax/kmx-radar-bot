@@ -1,0 +1,28 @@
+{
+  "event_id": "08-b7e917826210c116",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "One New Shiga Toxin-Producing E. coli Case Confirmed Following Person-to-Person Exposure - County of San Luis Obispo (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "slocounty.ca.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "One New Shiga Toxin-Producing E. coli Case Confirmed Following Person-to-Person Exposure - County of San Luis Obispo (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYXdYZXVBY1RfanNFVVgtWWZPYm9QVGRqcmJPQmNyZHB2c1V2RmM0VGpNSWRlX3Z6TE1maFBuWHJpTUxHeXdmUmJ5TUlHSzVPT3NmRHFObmhFaDI2M3NlYW52T1hhOEtjWW45RXIwUzNhQU5vbzlWZ1BaeW5tYzBQZXRNN2RQQ2pEREhyWnhuMjBwQXMtQWdpc3doRWJLVDdlLXI0aDNIY2VYRUJhai00UkJETzZGWjFKSUFpaW9FUWtTaHBEUzBXdEp6RjBVYlZlZ0dQeDR6TlJuUG9LaGNncjZVT3g2MXNyTWdfYk1yYVRnT2JtV1BOOWlzUkxrdw?oc=5",
+      "domain": "slocounty.ca.gov",
+      "publisher": "County of San Luis Obispo (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 17:58:57 GMT",
+      "primary_hint": false,
+      "excerpt": "One New Shiga Toxin-Producing E. coli Case Confirmed Following Person-to-Person Exposure County of San Luis Obispo (.gov)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "event_id": "05-b10b108c07bd379f",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La Voyager romperá récord al alcanzar un día luz de distancia de la Tierra, 26.000 millones de km - Seattle Post-Intelligencer",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "crhoy.com",
+    "seattlepi.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La Voyager romperá récord al alcanzar un día luz de distancia de la Tierra, 26.000 millones de km - Seattle Post-Intelligencer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFQ3VENxb0lsc3RuSzVvM2V5Vy1qMVZTRkxRYWx6dWZVZGs5X0M4V1ptWjhWRzZXb1lIc2xvejNyNE1ydVh3enZwX19xZ0otczdOZUNVMzJsNHVQbkJxbXN0SjJCVGtxNTF6TzdnVzJUdHpuTTN6RnZkOFhwVDFveTJkRUIwaWctNm95Yw?oc=5",
+      "domain": "seattlepi.com",
+      "publisher": "Seattle Post-Intelligencer",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 14 Nov 2026 14:37:41 GMT",
+      "primary_hint": false,
+      "excerpt": "La Voyager romperá récord al alcanzar un día luz de distancia de la Tierra, 26.000 millones de km Seattle Post-Intelligencer"
+    },
+    {
+      "title": "Sonda Voyager 1 está a punto de alcanzar un día luz de distancia de la Tierra - CR Hoy",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlNMZ0dmc0VqQlhGNC12dXZxMFRxUGxXUTNpVzNjaWZuLUVURVZOQVpnMnYxUkgxRnRKTHoxbEtvQmR6WF91Qmk5dzhCcmpTTzNMMWVpTFFjbEZqdGl2by1WYlk5WnFIc0NEMXU5bEg5SE5uS0daSUJ3SE1LMkZZb2hBMHZPQk0zN2E5NEQ0YUhMZEZWdEVNY0ZRaTJyS2Y4TlBJVDJUc1VTMlRf?oc=5",
+      "domain": "crhoy.com",
+      "publisher": "CR Hoy",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 10:01:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Sonda Voyager 1 está a punto de alcanzar un día luz de distancia de la Tierra CR Hoy"
+    }
+  ]
+}
