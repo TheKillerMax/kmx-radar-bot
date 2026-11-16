@@ -1,0 +1,94 @@
+# Light mag. 3.4 earthquake - 34 km southwest of San Rafael, Estado de Nuevo Leon, Mexico, on Sunday, Nov 15, 2026, at 12:47 pm (Mexico_City time) - Volcano Discovery
+
+- Categoría: MUNDO
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 1
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXJacV9JTUhvVlhfSmpuTXNjendWVjNja0FRVzgzNWJlQzc4bGZ1Tnk3WWxmRktqb3ZfbGNBbW84RzFQTDJZSl9UdWY1Y3RiYzA4MU9YTDFDSXZpdElxRmszc2ZuVWFmZW5PMjQ3Wnp1ejI3S1phNWsyb0N3THlrNzFoS0E5TEFmZlF0eHc2Mmc3aTFVR2pPb19qbXo1dkpkZnlNLUhKWFpVbkhXSjI5T29DVGZNNWhSRVJkdE1VQXdHTFRBZWNFa0tYSm5ERkE?oc=5
+- Título: Moderate mag. 4.1 earthquake - North Pacific Ocean, 42 km south of Salina Cruz, Estado de Oaxaca, Mexico, on Monday, Nov 16, 2026, at 02:15 am (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 08:20:21 GMT
+
+Moderate mag. 4.1 earthquake - North Pacific Ocean, 42 km south of Salina Cruz, Estado de Oaxaca, Mexico, on Monday, Nov 16, 2026, at 02:15 am (Mexico_City time) Volcano Discovery
+
+### Fuente 2: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3RXM21VSzlERWdNWVdOX1hZLU1vdzR3Yk1PRHhWelZFLWJCbkdrbG1qN2dITThHcm50YVlncHFsNGpaNVBiMVNNc044RmttOUozbHlxeFMxM2R6Y2k5cmRsMDZLRUJvNzJua2lMc1FtOW95Z0lhUjZVZ19Yakx3OUFIWWRqbEhJSHJxZlNETXJWSm5KS3hsYzNxZTMtRTA?oc=5
+- Título: Light Mag. 3.6 Earthquake - Panama on Monday, Nov 16, 2026, at 01:07 am (Panama Time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 06:14:42 GMT
+
+Light Mag. 3.6 Earthquake - Panama on Monday, Nov 16, 2026, at 01:07 am (Panama Time) Volcano Discovery
+
+### Fuente 3: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjFKREowV2hqaTBudFd6eVc4TEJPUURIZHpleHhqaVFMSTRvSFBPSXZPRmtzY1JPNW5OMi1BV3JzTW5BNEstV2FXeEt6TUk4bEdzNWs2VkpKV21zQkRzRnI1Tm9mTzRnTDZoMG9uaXFEWDYtZVp5NV9ocmhJeUN1S1hDWkVRNk9NWHhNY0JnOU55b2lqWXMyYUdOWHYwbW9TUnl3QWl6VzBVMEM1RWZB?oc=5
+- Título: Light mag. 3.7 earthquake - Argentina: San Juan on Monday, Nov 16, 2026, at 06:22 am (Buenos_Aires time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 09:30:27 GMT
+
+Light mag. 3.7 earthquake - Argentina: San Juan on Monday, Nov 16, 2026, at 06:22 am (Buenos_Aires time) Volcano Discovery
+
+### Fuente 4: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjR1OXBPTkJIeGhIeW5weGhXdkQ0V2RJcmhzeVNnLTE5MVBaZkd4VnZRYms3Z0xYa0JOdmUtV2s4QlNOYXc3Y2xvUXhibWpQSmttT3Zoem9EbVFzRUJzUTdqOVBoUFB6TkFXSjk0RXpJNHIxVkQ2MEpGcHJBODAxaFpnaWFXMTlTRkdtY3ZOaldUZ0IxcWpiUWlKNTBSbFBhQkNhM1I2cElqMDVfdEE3TV8tX08tcHllekdraGYzMEtxZlIyaVk1MWZNWTc5UUttQTlWYmF0ZUNCZw?oc=5
+- Título: Weak mag. 2.2 earthquake - 7.5 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:35 pm (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 02:09:42 GMT
+
+Weak mag. 2.2 earthquake - 7.5 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:35 pm (Mexico_City time) Volcano Discovery
+
+### Fuente 5: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXlNRWpscVU0eFRVMEkwS3prenFpQzcwdW1VMFQxckpjXzNIeGV3YWVQemFTMDEtWFFsZ3VyeGN3NkVIb3RrZ01zU0RER1I3UmNrdWNQWmZmaEZ1OXV6a1VpMWd3MVVETWhQNTJRblBhdVg1NW5jdVVBbS1iZnBqRHN5dGRhVzl5Ui1MZmZxX0d2a294eFRKMjk4ZDNQNEE?oc=5
+- Título: Light mag. 3.6 earthquake - 32 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Sunday, Nov 15, 2026, at 11:58 pm (Panama time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 05:04:42 GMT
+
+Light mag. 3.6 earthquake - 32 km southwest of Las Tablas, Provincia de Los Santos, Panama, on Sunday, Nov 15, 2026, at 11:58 pm (Panama time) Volcano Discovery
+
+### Fuente 6: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS2U5M3NLaXpDYktNcmkzN09McTFKckh6OEdmUVEydE1ydTFCR2ZtYl9XcU5FYzdGR21rZ3o4OFFhN2ZqMENjZWlYYXJUNm1HV3JGNk03M3BWRFQ3TTRrbXBFR3loTFN3dk5WaTlfXzd6VmVydkVnMU1xVXNRbFFzeXBrRnBNb3NESi1oREwyQTl5aXhmWlRDVnZJcm51VV9xcVA2NUlWRnNNdTJVUjc0VExGMGJaOTJ1ekhscFJ0VUJWNHZtUENKUUg2anlBOXVzdGUxNG9DUEE?oc=5
+- Título: Light mag. 3.3 earthquake - North Pacific Ocean, 48 km west of Acapulco de Juárez, Mexico, on Sunday, Nov 15, 2026, at 11:24 am (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 02:09:42 GMT
+
+Light mag. 3.3 earthquake - North Pacific Ocean, 48 km west of Acapulco de Juárez, Mexico, on Sunday, Nov 15, 2026, at 11:24 am (Mexico_City time) Volcano Discovery
+
+### Fuente 7: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHBmY1JaVlIydWxkVDlQd1M5RURLYlFsbU9qUEVzeTFqVEllcTViNVBGaEtNSHkzRjFaTFJUbDZvdG1sVERIZGExWGI0ZWlvMS0tZXhyTjZlU1l3WGNUdXhpY3JPVmZNT1VMeVFPeUk2eng2QzQwOEhUdzg1Tll1SE02X180RkJuaEZTU1VLNzh0emxLSXVpcHU3Qy1SWmM?oc=5
+- Título: Light mag. 3.7 earthquake - 2.3 km northwest of Tonosi, Provincia de Los Santos, Panama, on Monday, Nov 16, 2026, at 12:21 am (Panama time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 05:30:28 GMT
+
+Light mag. 3.7 earthquake - 2.3 km northwest of Tonosi, Provincia de Los Santos, Panama, on Monday, Nov 16, 2026, at 12:21 am (Panama time) Volcano Discovery
+
+### Fuente 8: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb0c1eExaTkN0SWRJRkc4a2lvX2Y1TFZMb1BBdVFBa0FrTU5UQ3lfbVlLdTJJMG93YkFrdEY3ZU02VF90SzFFZ1M4cmRzdWNEQVFDQU41T1lsWHhJRURZOTJxVVdkdjVzXzl5bk02MlR1UjIwd2FhUEdpR1FtLTFMbUFQVVpuRXRfYkpOMDM3d2VGR2t3d1NkRGZjQ1QwOEhYOWdnaldvcmZ1Rm1MT01TLXQzakRvcU1NcTc3RU50eFJSblRtZHNwSkNyTTJKd2F4WmJrVHZ4QQ?oc=5
+- Título: Weak mag. 2.5 earthquake - 7.6 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:42 pm (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 02:09:42 GMT
+
+Weak mag. 2.5 earthquake - 7.6 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:42 pm (Mexico_City time) Volcano Discovery
+
+### Fuente 9: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWjlLcGdUMFlYM285NjYwVEdTYXc4ZmhIY0tObnpCeHNNSzV5eWt6TzJvSkVxUVpsbFdYU0Y5aWIyNFVrT0FwaHhSclhvVGVRaGhrU0FBMXNSUldoQmo3cmtBd2xRLW1PakNXdG9fQ2NqT0NOc1VpLWV5MnhUSEJObE83dE9LbmdxNkxCRk9ZdENoMDhpeks3RDF2bTYzSHlvYTItUXVMbVZYU1ZBeGFEeFdLNm9PU1F0OXRZRG1rNFNrN0JKMGdFRm52bkR0SjdHbWRBQ0djZw?oc=5
+- Título: Weak mag. 2.1 earthquake - Mexico: 8 km Al SUROESTE De SAN JOSE DEL CABO, BCS, on Sunday, Nov 15, 2026, at 01:28 pm (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 02:09:42 GMT
+
+Weak mag. 2.1 earthquake - Mexico: 8 km Al SUROESTE De SAN JOSE DEL CABO, BCS, on Sunday, Nov 15, 2026, at 01:28 pm (Mexico_City time) Volcano Discovery
+
+### Fuente 10: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeE5vWnBwMmhBVWoyVnpkMHU3eWN0M0QyN0JRRHoxaE1xaGUzTTV0cFM0MjgyNFNMcTZYNmR3ZFdBM3F0MF9aX0xMZ3RwZUNGcGIydC1kZUtQd2hrVWF5Q3lYbk5nR1NvRGZjSmtCVXFEM3ZoM0ExaHRWcHVSaXRMcUFXcHo2RTJZQ2JmLWc4NG9DczZpSmNhckEzU2ZDUmY4Nm15b1dqWERCaU5zRjl5VWFRTF9KbDFhcC1Dc3dZTmhkZFdLb0FIR0VDVjJTU0pKOVFvZDY1VQ?oc=5
+- Título: Weak mag. 2.1 earthquake - 6.5 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:41 pm (Mexico_City time) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 02:09:42 GMT
+
+Weak mag. 2.1 earthquake - 6.5 km southwest of San Jose del Cabo, Estado de Baja California Sur, Mexico, on Sunday, Nov 15, 2026, at 04:41 pm (Mexico_City time) Volcano Discovery
+
+### Fuente 11: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjdOeXdZS1A3U3FCakExNVdYLWlZQjRkeUxzNHJPWXpGZDk5TzBXcDdyX19RM3pqTUZQQWxlSWpaa0NYU2pWa2hXV0U2a3VvQlk0M3hvM3VEMjEwMDBOSlVxYTVKSkRjV01PSU50V3hSYWNFQzZzZF8tZ2NMU2dKOExSOFh4MGpuOUx4OHRkcHBLTHkzY3RDQmk0SWtNaG9QcXNRMHhJQ3NOMGdtYllpYXBJbWJ6b2VLR2c?oc=5
+- Título: Light mag. 3.0 earthquake - Provincia de Cardenal Caro, 40 km west of Santa Cruz, Provincia de Colchagua, Region del Libertador General Bernardo O'Higgins, Chile, on Monday, Nov 16, 2026, at 01:35 am (GMT -3) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 04:45:57 GMT
+
+Light mag. 3.0 earthquake - Provincia de Cardenal Caro, 40 km west of Santa Cruz, Provincia de Colchagua, Region del Libertador General Bernardo O'Higgins, Chile, on Monday, Nov 16, 2026, at 01:35 am (GMT -3) Volcano Discovery
+
+### Fuente 12: volcanodiscovery.com
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGJlWk13OTFXRndXdEhlWmZDZ1VkSl9rOFlZWHIwMVBqZ2RkN3JBQmc4czFFOHJaWXprQW1yNlJNX1JLeExKcEFHN19VRF9xekJSMkVGRm9la0daUVMxS2VOeFJDSEcwTnBRNktKUHo3QUtLbzl2ZUt3R2VvcDVORnZtT3FCWHFVcG9yUlphN3QtdDJTaUtRWVlDZnB4N3NxRF9mX1dB?oc=5
+- Título: Weak mag. 2.2 earthquake - 16 km east of San Salvador, Departamento de San Salvador, El Salvador, on Sunday, Nov 15, 2026, at 10:24 pm (GMT -6) - Volcano Discovery
+- Fecha detectada: Mon, 16 Nov 2026 04:35:35 GMT
+
+Weak mag. 2.2 earthquake - 16 km east of San Salvador, Departamento de San Salvador, El Salvador, on Sunday, Nov 15, 2026, at 10:24 pm (GMT -6) Volcano Discovery

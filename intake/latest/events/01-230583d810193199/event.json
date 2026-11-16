@@ -1,0 +1,40 @@
+{
+  "event_id": "01-230583d810193199",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Spain's government to raise minimum wage 5.3% as election looms - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.tradingview.com",
+    "malaysia.news.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Spain's government to raise minimum wage 5.3% as election looms - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXk4SGNBaW9fdkhRNjFiMlVQa1hGZzFUUDRwUkJlVlpYbkhYVTRHRGtRTWJHMVdPSUpXaUlfNzNFOFk3QXJ4VXhVNlZhWkp6Rmkycy0waXZlTkp6cF9vRV96VHJmX1dYRHdsUjFzNzhaV1lBWWVjaVU1dHFpSTZSMnNtb29QckVpV1E0?oc=5",
+      "domain": "malaysia.news.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 15:31:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Spain's government to raise minimum wage 5.3% as election looms Yahoo"
+    },
+    {
+      "title": "Spain's government to raise minimum wage 5.3% as election looms - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RXUWlkOWRoOGxWVGlubUlCdDhNREYyZ0U0eVBDTzBkdmtCb25IVXVaaTdkdmlCSGVVMjBXald1Sy1RZW5ONVhTa3VWUTNGYXBLUXExcmN1dmlkQ3BtUUo4RGdiOWhjMUhsdGZfeDlwYWdFS3lIS3dCMWNieklkS3NXNXd4RkhYVkQ0SFVUZWdqeEtGWndJV2ZxaHZpSnJWemtUUFNndmMwME1mYmFmNG5GQUpQQnpReUdmX2loYUpKVkltTFl2dE9hbw?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 15:26:49 GMT",
+      "primary_hint": false,
+      "excerpt": "Spain's government to raise minimum wage 5.3% as election looms TradingView"
+    }
+  ]
+}

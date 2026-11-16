@@ -1,0 +1,28 @@
+{
+  "event_id": "06-312b0d4009486a47",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "NEW of PRFAA - Puerto Rico Federal Affairs Administration (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "prfaa.pr.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "NEW of PRFAA - Puerto Rico Federal Affairs Administration (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXpfdnVhME5hSzEzNHIyWDVSZC1fcmZ1dEtpZFQxdkJ0VnVlUTFkSzMwa3NEY1lUZ0xnS2JiNjBISEhFOUhvdUN3VFZ3aXNTb1lkcjhhSUlhSUpTd3NPMWhpTWJZXzVHY3dSeGkxQnZIWTNSZ0d5YXpUN3FBUkhQNWZFT25pYVRhZFp3Qnc5U0ZxV2Z1NUdUeXJHZ05zd0xoZmJlc2RselllR2NlS2hvOEVfNnh1QldBRjZ5YQ?oc=5",
+      "domain": "prfaa.pr.gov",
+      "publisher": "Puerto Rico Federal Affairs Administration (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 19:20:21 GMT",
+      "primary_hint": false,
+      "excerpt": "NEW of PRFAA Puerto Rico Federal Affairs Administration (.gov)"
+    }
+  ]
+}

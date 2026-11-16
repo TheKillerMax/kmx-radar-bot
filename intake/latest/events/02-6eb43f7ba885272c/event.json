@@ -1,0 +1,40 @@
+{
+  "event_id": "02-6eb43f7ba885272c",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Paraguay: Ahorristas de Ueno Bank exigen devolución total de sus fondos - teleSUR",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "rdn.com.py",
+    "telesurtv.net"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Paraguay: Ahorristas de Ueno Bank exigen devolución total de sus fondos - teleSUR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0NUx0amViXzV6aHNVaC1wY3N3UlYySG9rZktBeGxTbjIyOGNGZlJCVjVQY1lXbjd3b180a00yZ3hZdHp2di1xMVlvWHY3OXZwdWRGYkR1YzZGQ2M2VFNjQk1kTVRCcnZEbHk3d1JrSUdzRUxMR3pDOHNTdTVuNXM?oc=5",
+      "domain": "telesurtv.net",
+      "publisher": "teleSUR",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 16:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay: Ahorristas de Ueno Bank exigen devolución total de sus fondos teleSUR"
+    },
+    {
+      "title": "Ahorristas de Ueno Bank exigen frente al BCP la devolución total de su dinero - Resumen de Noticias",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTZwSTV5QnNBcGpvZlRHVEdPamZUZTh6dkhnNXBwVy1aZkU5dU44WHpndzg0Tml3NGNFYjV1WWdNN2YzdThzMTNjV2FfblZHZm5SWjg4ZS1kSXV2NGxRUEpIVXJ2ZHlVNVZVdHR2ZDZkazluTmIzWFc3Ty1nVFQ1dHJTYTJ2M3lOQ3U5LThUV19RaXoyVFBicXl4NS12WUZQY0ZPTFA0UkI2MVVpdWM1Ykpn?oc=5",
+      "domain": "rdn.com.py",
+      "publisher": "Resumen de Noticias",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 13:37:13 GMT",
+      "primary_hint": false,
+      "excerpt": "Ahorristas de Ueno Bank exigen frente al BCP la devolución total de su dinero Resumen de Noticias"
+    }
+  ]
+}
