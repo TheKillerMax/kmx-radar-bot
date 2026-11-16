@@ -1,0 +1,30 @@
+{
+  "event_id": "10-0b4b7b0cbb993154",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Israel mató a un alto comandante de Hamas en Gaza dos meses después de la muerte de su predecesor - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Israel mató a un alto comandante de Hamas en Gaza dos meses después de la muerte de su predecesor - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkNxeDVCb0tOR0NEQ08wMlZnMjdQQ1pfdjZBRjBrdkdjMW9kaWJYRGRCbmRST21OSTBBb1RWallHdFNKMkhzSjhOcm1WYmpNWHA3emxlWTBoQ0phOXAycWM5X2FBLUZpSE9ReC1QR0s4M0lJZ2VwSjdpWWRKOW40RWktNA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 21:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Israel mató a un alto comandante de Hamas en Gaza dos meses después de la muerte de su predecesor CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

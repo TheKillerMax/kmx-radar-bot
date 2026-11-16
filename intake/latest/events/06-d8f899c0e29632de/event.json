@@ -1,0 +1,30 @@
+{
+  "event_id": "06-d8f899c0e29632de",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Mientras el Gobierno de Trump pide más fondos para la FAA, los demócratas dicen que la agencia ya dispone de ellos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Mientras el Gobierno de Trump pide más fondos para la FAA, los demócratas dicen que la agencia ya dispone de ellos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVEdCR1hwN3dLOGNsa1BHNmFkWTRneHVLZHlXcE9TSWJxdGozZ3cySzhTbXYyWFktSm5hdk02WjJfcW9GY0F2eHRhcUZsYXQ3NnljY214RUsyeTA1QkhZSDF2R0RhZEVWOUVEb0tjMV9aa0ZmTEF4RDlzcVEzQQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 19:50:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Mientras el Gobierno de Trump pide más fondos para la FAA, los demócratas dicen que la agencia ya dispone de ellos CNN en Español EEUU busca “causa raíz” de la falla que dejó paralizados todos los vuelos AP News Aeropuerto de Charlotte Douglas: así transcurren los retrasos y cancelaciones tras la falla aérea nacional Univision Trump rompe 37 horas de inusual silencio para culpar del parón aeronáutico al Gobierno de Biden EL PAÍS Trump rompe el silencio sobre suspensión de vuelos y pide más dinero al Congreso San Antonio Express-News"
+    }
+  ]
+}

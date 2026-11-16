@@ -1,0 +1,30 @@
+{
+  "event_id": "08-98938cc8c484492f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Se enteró por televisión de que su esposa mató a sus dos hijos pequeños. Ahora quiere que nunca salga libre - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Se enteró por televisión de que su esposa mató a sus dos hijos pequeños. Ahora quiere que nunca salga libre - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUFMY2ZnMGhKU191NW5BcnhzSWFEQjVQaExaUTFrUFZ4ekNxQXg4RlRoQzV1WEUxUEZHbHlDZjF6Z0QybEVDY0cwY2JkVWsyNTc5cjhmNjAydkFiUFBWaHZZVDVwdTJzNG9VYmlYVG1SVkJyS3BJVnVqRV9GRXpHTG1IbkdCNEZzTGlr?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 15:12:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Se enteró por televisión de que su esposa mató a sus dos hijos pequeños. Ahora quiere que nunca salga libre CNN en Español"
+    }
+  ]
+}
