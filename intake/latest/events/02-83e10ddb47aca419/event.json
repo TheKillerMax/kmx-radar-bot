@@ -1,0 +1,40 @@
+{
+  "event_id": "02-83e10ddb47aca419",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "GTA 6 pone fin a una larga espera mientras God of War Sons of Sparta se estrena en PS4 - El Sotano Perdido",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "eldia.es",
+    "elsotanoperdido.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "GTA 6 pone fin a una larga espera mientras God of War Sons of Sparta se estrena en PS4 - El Sotano Perdido",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY3ZqeEdSaTN5Z2xQOU50eEg1S1Bya0kwYXJHZFdEZkZMUU50YUlBcUtDejVUSmRIdURPOFlEd0lkUUUtWHM2Y0FQeVFDTnptX0RrekxESkxEQWVFUHBKVl83SWRyZEZqS1ZLQjEzUUhEZGRMRjBUeEtKS1pUbEt4SHVhaGY3bkpPdDdlNDJJLWw0eFlUSDVXQWZNUEJ2SndsSmRqUndzYjdyaFk1WWtqc1ZSdDNCaU5Cd3lMN0Rlc1dFRXVsQWhIZmZEdlBIMENJaldLN1N1eDM?oc=5",
+      "domain": "elsotanoperdido.com",
+      "publisher": "El Sotano Perdido",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 09:56:15 GMT",
+      "primary_hint": false,
+      "excerpt": "GTA 6 pone fin a una larga espera mientras God of War Sons of Sparta se estrena en PS4 El Sotano Perdido"
+    },
+    {
+      "title": "GTA 6 pone fin a una larga espera mientras God of War Sons of Sparta se estrena en PS4 - Eldía",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazRHdkg0T3lfQlZiTkp1WnZPb1EtcGxiQnFtRUE1dldycUR1NmJxa2cxVllUTlFiNnJuZUxCcDVvbHZvNE5RSlhiYk9NNFc2VHQ2bmVZTnNVWW5sMG5vaGRZeFpCckt3TV85QjEyOXlOcngxU3dZMzRkdlJzdXpPQnVtdkh5MVAxQTVxcUN5czZrc2RrLVppQlhOUXlNbDBLNkl0S1dsYV8td0nSAbABQVVfeXFMTUhnNTRmX1JGbFZvclFocGc5bnVKN0RNMDlveU1JV2hGc053NTVnRVdSalM2ejhPaU1JeWVWM3J3QmFjaGNEaks0dEdyRGJnSlhxTllON21iR19RMElxaDk0UkhHbk5ORDF3MXE1bHYySWJZVXl3Mm1VMkM1S1pYT2owem5xNUlNT1pTQzJQWXJ5MzF5VUxtSFFTZDYzQ19mVVo5Zm13bHNvWm9LdkM0OWI?oc=5",
+      "domain": "eldia.es",
+      "publisher": "Eldía",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 08:36:13 GMT",
+      "primary_hint": false,
+      "excerpt": "GTA 6 pone fin a una larga espera mientras God of War Sons of Sparta se estrena en PS4 Eldía"
+    }
+  ]
+}

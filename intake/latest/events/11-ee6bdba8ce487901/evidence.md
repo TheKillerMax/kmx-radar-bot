@@ -14,4 +14,4 @@
 - Título: Este es el ingeniero detrás del mayor éxito de Anthropic - CNN en Español
 - Fecha detectada: Sun, 15 Nov 2026 19:02:00 GMT
 
-Este es el ingeniero detrás del mayor éxito de Anthropic CNN en Español
+Este es el ingeniero detrás del mayor éxito de Anthropic CNN en Español El creador de Claude Code prevé que los empleos de ingeniero de software empiecen a desaparecer este año Reconquista Radios El creador de Claude Code anticipa que los empleos de ingenieros de software podrían empezar a desaparecer en 2026 PINAMAR 24

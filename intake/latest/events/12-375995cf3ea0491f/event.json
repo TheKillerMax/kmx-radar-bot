@@ -1,0 +1,30 @@
+{
+  "event_id": "12-375995cf3ea0491f",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump, McDonald’s y Burger King, entre los objetivos de antiguas publicaciones en X que contienen enlaces web redirigidos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump, McDonald’s y Burger King, entre los objetivos de antiguas publicaciones en X que contienen enlaces web redirigidos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGNHdzNmX1QxQWl1LW1SZlhKUkdOelp2TWV6TGhxemNZY3JtY1BiMVNqNGpoWXl6R0JSNThWak5UbW5NRmljX1JZM3lXNVExRGhDa251NU53dDNEZEVmS2t6ZkJVekM0bE5YZUNOYjdKRDlmcnZsbG5vMVoyaWJtVkVYNTgtMEJVa0dyTWtYUzJxTzZSYXZ1dl82cUwycGNn?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 15 Nov 2026 23:10:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump, McDonald’s y Burger King, entre los objetivos de antiguas publicaciones en X que contienen enlaces web redirigidos CNN en Español"
+    }
+  ]
+}
