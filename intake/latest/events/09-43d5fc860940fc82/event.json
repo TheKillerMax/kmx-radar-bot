@@ -1,0 +1,30 @@
+{
+  "event_id": "09-43d5fc860940fc82",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\" - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\" - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92M015WUpITXBkWWlUTzlIOXRnenc3QzZwSVl4bjFfZm1yQk5qYWdWNGtlNmRIeUpONmVKTzctQk9BSGx6S2V3cFpMYXdFa1Y4MWxHTGFQODR2cU5N0gFiQVVfeXFMTWdhNVptbVRORUV5LWZEQUhlRG12UzRhb1BsRG9KNXJHM0hDcEI5Ylg0Uk5vblh0N0MyWU1pVnVrYmcwZ1lRVnh4R2hlR0VhYm4xeXNBY0llWnRiZGhVQmVJcUE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 14:30:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\" BBC Defensas rusas derriban más de 1.400 drones ucranianos mientras Kiev ataca un puente clave en Crimea San Antonio Express-News Un ataque ucraniano daña el puente que une a Rusia con la península de Crimea Democracy Now! Rusia dice que sus defensas interceptaron más de 1.300 drones ucranianos en un ataque masivo Chicago Tribune Un arco del puente de Crimea se habría desplomado tras segundo ataque con misiles en dos días DW.com"
+    }
+  ]
+}

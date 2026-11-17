@@ -1,0 +1,30 @@
+{
+  "event_id": "10-1a693f8c33873fbb",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "En gráficos | Así resurgieron los brotes de sarampión en Estados Unidos - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "En gráficos | Así resurgieron los brotes de sarampión en Estados Unidos - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhaMThLaXpKaFpNaEVtbGR1YUFvb0ptRXFkWE9PQVNlcXFCeklWNDBIXzI4enZ5eHI0RU9yc3R4Mk1taVZqSjFMQklCbW1PemZZV2phbWFYZE1RYU5HYU9lX1h4Z0tJaVlWcWRzQmsxNjJDVk13bjJ6ZlFLeFg0SDV6Z0VOVjMzRl91VGs0ZUo0XzYxV2pQZUZJTzVYX25XNXJSdnNwWUw4VFU?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 17:56:04 GMT",
+      "primary_hint": false,
+      "excerpt": "En gráficos | Así resurgieron los brotes de sarampión en Estados Unidos EL PAÍS El sarampión ya no se considera eliminado en EEUU, México y Bolivia Los Angeles Times EE.UU. y México pierden su estatus libre de sarampión KKTV El número de muertes por el brote de sarampión en EE.UU. asciende a diez Democracy Now! EEUU cerca de perder su estatus de país libre de sarampión France 24"
+    }
+  ]
+}

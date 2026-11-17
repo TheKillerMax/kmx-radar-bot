@@ -1,0 +1,52 @@
+{
+  "event_id": "02-32b0861dbe3b7715",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "El Consejo Valenciano solicita el apoyo de Sanidad para que el Gobierno cree una especialidad veterinaria en Salud Pública - Consejo General de Colegios de Veterinarios de España",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.495,
+  "primary_source_present": false,
+  "independent_domains": [
+    "animalshealth.es",
+    "colvet.es",
+    "diarioveterinario.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 3,
+  "rank_signal": 0.6,
+  "sources": [
+    {
+      "title": "El Consejo Valenciano solicita el apoyo de Sanidad para que el Gobierno cree una especialidad veterinaria en Salud Pública - Consejo General de Colegios de Veterinarios de España",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaE9ZZm9LeEh0NTZXa1NrZmtyUnNtU24zWFcyT3QyYmZBdlhqMmNaUnRTQVRxUUFSSW1xNE5KRUdDMURMaVlGSG9rdGpadklnemE1SktrSzZGWjNmMEJaZVpPZUhjaFAwTlV0VkxvOUNwanh4VTFwdDctTEhaTjdEQ1kwVUxPaV8xYndDcksyTHlaYnZYdjFfRmZzLUlKUGxxcEF2Y25sWHVrZXRRY0VrVUNVYkNmODZzMTI3eHpOZXdNR2J0cE55dENQTzc5b0lFZXFqTE93eUJkYVJqWWlCakQwX3A1dG5rTDV6dkRoQjRYdS1pZjk4MERGcmRXUEpaZHdibGVnb1p3TkE?oc=5",
+      "domain": "colvet.es",
+      "publisher": "Consejo General de Colegios de Veterinarios de España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 20:06:58 GMT",
+      "primary_hint": false,
+      "excerpt": "El Consejo Valenciano solicita el apoyo de Sanidad para que el Gobierno cree una especialidad veterinaria en Salud Pública Consejo General de Colegios de Veterinarios de España"
+    },
+    {
+      "title": "Los veterinarios valencianos solicitan apoyo a la Generalitat para que el Gobierno cree una especialidad veterinaria en Salud Pública - Animalshealth.es",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWUgxbGtjRzRXOElVYUNMQ3FCSklVWllQRmZTbVBqSENHaFNiX29qbDh6M09jUmhrRUpHSU81Ui1TX2p4YThWSVRvX3VJc2tWcVZ0RUdfSWtFal82Vl9LZjA4NWlnY2NsNktGVmNNS2NjNE9pVVF5SkFTOXpveTZQR2JRSXJpUWtnamppYV9NTGJUNTNXRUVUTjJzWXlXWVpXZUM2aUhndEdzd1Q0X2RLRTg0OFFYWWd1ZlRCY3o4R2ZlUGR4MUV5MXRmRXhBMzRRbm03ajNLQ3FZaG5ncEJQbGxTZ1FKNUJZ0gHuAUFVX3lxTFBqelVDZXNGVEU1MF9EY29fY3l5ZnRieHktVEdJRU5aeHdRdTBNX1llQWpFOTVFR2ZncjBBaHdoN3NQdk5YbmlobV9IS0JLX3pfY2dORzhSU1pOZndtelN0U1pvOFhYcVZBSjJxUGVSbjZ0dGxaVjdnNVVseUhLaFBJNDBkazFUSFV4Vk00VXB0V3NJRHMxWHg2S2VPNzZWSWtwcVNhbDNhbEpmbnYwWG93dExUX21CekhReHpUcW5GOGtQMHh2U2tZdEY3SFh1NnVURy1RaVZLRGtpSTV0RFpnV2hSVkFhOFRubWpjS2c?oc=5",
+      "domain": "animalshealth.es",
+      "publisher": "Animalshealth.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 10:28:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los veterinarios valencianos solicitan apoyo a la Generalitat para que el Gobierno cree una especialidad veterinaria en Salud Pública Animalshealth.es"
+    },
+    {
+      "title": "Los veterinarios buscan el apoyo de la Generalitat Valenciana para crear la especialidad de Salud Pública - Diario Veterinario",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSldjaTJadW92elRYUTlpMm9wZGdpaWpGZ2tmcWNBUTY1ZG9iV1hTTzNPNWlYNW9KWjNObEVBYkRkd2pDZWdnMnB6bHhyNy0weGVWY2NMSzBkMnkxeGhuWmxMeXVvWWcwRXdfdWFPQzMza2YzSXRjdURpbzlDWkhZR19MY1UzWi0xdWVaSjU3dGVWUV9McmVmcWx1X191c2NMSzFjdHBsNXd3MW1uWlVyVUFB?oc=5",
+      "domain": "diarioveterinario.com",
+      "publisher": "Diario Veterinario",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 10:00:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los veterinarios buscan el apoyo de la Generalitat Valenciana para crear la especialidad de Salud Pública Diario Veterinario"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "07-d571ee8022995e7c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Pete Buttigieg le responde a Trump y lo culpa de la interrupción de las operaciones aéreas - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Pete Buttigieg le responde a Trump y lo culpa de la interrupción de las operaciones aéreas - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONV9qTnlvYWdrb1VxVXNlSFdfbVVudGVMSHRTdlFrQkg5US1hV1ZLRk45V0RXNzh2VGhkcmVuVEUyemo4MXBIb2ZFQ1NSeFJBRTlXSEFtNHhwQkttRGJLbmQ2eWJHdTJlZjdvUGxBbjBDME16N1BqSVhuUmJsMmM3UlBORHRPaGs?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 12:58:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Pete Buttigieg le responde a Trump y lo culpa de la interrupción de las operaciones aéreas CNN en Español EEUU detiene temporalmente instalaciones de enrutadores vinculadas a suspensión de vuelos AP News Demócratas exigen respuestas a Trump tras suspensión de vuelos por fallas de routers Telemundo Miami Por qué un problema en tierra puede afectar vuelos a miles de kilómetros de distancia Los Angeles Times Trump no asume “ninguna responsabilidad” por la mayor suspensión de despegues de vuelos de la FAA en EE.UU. desde los atentados del 11 de septiembre de 2001 Democracy Now!"
+    }
+  ]
+}
