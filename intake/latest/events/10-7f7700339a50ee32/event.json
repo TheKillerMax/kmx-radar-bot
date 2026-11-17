@@ -1,0 +1,30 @@
+{
+  "event_id": "10-7f7700339a50ee32",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "United Airlines sufre una “interrupción generalizada” que afecta a los vuelos de salida - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "United Airlines sufre una “interrupción generalizada” que afecta a los vuelos de salida - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDZ6QzlGZHBURmxwcmR6d0Q3ZXkxYjhEaFJPZmNkNUVhcnF0ZUVkLUd4REI2VXN5ZXhLdXZUZVhNX1lzczNYQ19xZDRmSE5BYmNtLWVzZmlWR1haUGQzVFQ1RHRyWjM1X01oZmI1a3pMOElkMEo1Yi1JN1VQNHlGd2NxSzJKNXdOdlFHN2pkZ1V0eHktS3dTdTEtbEppcUgtckVXTWJLbVJrWUhKM2VxYUQ3aW9wNFFndHVGTXc4bjFVSV9Lbmhj?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 16 Nov 2026 22:45:50 GMT",
+      "primary_hint": false,
+      "excerpt": "United Airlines sufre una “interrupción generalizada” que afecta a los vuelos de salida EL PAÍS United Airlines reporta una interrupción generalizada de su sistema en EEUU France 24 United Airlines informa que resolvió la falla del sistema que retrasó vuelos CNN en Español United Airlines informa una falla generalizada en sus sistemas, días después de suspensión nacional Greenwich Time United reanuda sus vuelos después de una ‘interrupción generalizada del sistema’ The New York Times"
+    }
+  ]
+}
