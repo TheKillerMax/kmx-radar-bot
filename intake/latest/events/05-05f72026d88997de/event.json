@@ -1,0 +1,28 @@
+{
+  "event_id": "05-05f72026d88997de",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Media advisory - EU-United Kingdom summit of 20 November 2026 - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Media advisory - EU-United Kingdom summit of 20 November 2026 - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzZYaUJ5YWhYRWxkczZGaXBqSEhqWFlIckhqMnRTejJ2WDFVRnlQSUF3cjlEQ2FIajloOVdRYWRyT1FIcDJHaVFwUlJ5RXJBTTlXMHlsVlNhZ0FNMUwxQ3FNcjZTZWhzTkNsOVQ3R2hsNXVEYzlhZjRjRTlrQTFBeFMxTl83N1NIV1JUTDJxRDh3eXZhUlhuTjhIcG4xVkRvb2Q4RUluSzFva2s?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 15:42:20 GMT",
+      "primary_hint": false,
+      "excerpt": "Media advisory - EU-United Kingdom summit of 20 November 2026 Council, European Union"
+    }
+  ]
+}

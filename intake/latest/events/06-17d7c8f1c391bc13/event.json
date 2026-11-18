@@ -1,0 +1,28 @@
+{
+  "event_id": "06-17d7c8f1c391bc13",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Declaración del Departamento de Salud sobre la revocatoria de estatus de eliminación del sarampión en Estados Unidos - NJ.gov",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "nj.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Declaración del Departamento de Salud sobre la revocatoria de estatus de eliminación del sarampión en Estados Unidos - NJ.gov",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teHQ3UlpqUVhSdmJKOU5MeExfNjFhQzdyVUk0SGZJTFhuV3Z1OHBzNmwwUUkzbWo2RWNIb2VnaWV5eUFubWhyZlU0bjdQR3NoQi10NWpzX3RSaVJpdUJCZkhPQ05LbC1lOVJzSQ?oc=5",
+      "domain": "nj.gov",
+      "publisher": "NJ.gov",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 04:35:25 GMT",
+      "primary_hint": false,
+      "excerpt": "Declaración del Departamento de Salud sobre la revocatoria de estatus de eliminación del sarampión en Estados Unidos NJ.gov"
+    }
+  ]
+}

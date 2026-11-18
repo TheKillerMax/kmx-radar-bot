@@ -1,0 +1,30 @@
+{
+  "event_id": "09-6a87102899910a31",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFdiRHpYT3l3ZEVHVXpLLUEzTWFydWcwSTc3TlhPdU9YM1dkb2NMVU94ZWF2TXg4Sk9BRmNjbjMtTm01aUpnUEJJMG51cHZRbURnS0xoVDBKdkNtRmpRMncxdXc3cXJic29tZTVGUXo2eDJMSEhmbzdYd3ZKN1llR3plamNsUGFrblN2cWtCWUYxMWdmdmhDVmYxQnNZeVBzWjlNRWJxOVhjV0JmRlRUMTQzeWhsVmcta0d5cEVTQVFXczZZTVhVVTAtYVhfa04yS19CbjRXSFY?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 13:06:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump se reúne brevemente con Sheinbaum tras aterrizar en Shenzhen para la cumbre de la APEC EL PAÍS Sheinbaum se reúne con Trump en China, primera cita tras las elecciones intermedias de EEUU KPBS Sheinbaum se reúne con Trump en APEC 2026; asegura que siguen avanzando en la agenda común Yahoo La presidenta mexicana se vuelve viral en China tras volar a la APEC en clase económica France 24 Trump y Sheinbaum se reúnen en China en medio de tensiones por comercio y migración Bloomberg.com"
+    }
+  ]
+}

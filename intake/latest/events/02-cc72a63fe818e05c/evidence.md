@@ -1,10 +1,10 @@
-# PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento - Avion Revue
+# PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric - Yahoo
 
 - Categoría: CIENCIA
 - Riesgo: low
-- Estado de entrada: EN DESARROLLO
+- Estado de entrada: SIN CONFIRMAR
 - Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
-- Dominios independientes detectados: 4
+- Dominios independientes detectados: 3
 - Fuente primaria detectada: no
 
 ## Evidencia recopilada
@@ -16,23 +16,16 @@
 
 PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric Yahoo
 
-### Fuente 2: avionrevue.com
-- URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3BwY0Zfd3M4WkllbXBUcVB5RGdCSUl2MnVnbVVNUW9pMmdVT1A0VlpMblduQ2QzaDZuX1VRLTlBTm5VTkk4bzBCZUZfai15OVQ3WFFweVpDaUJHR0ZFODd3bUtidWRoOUhOTWEzT1BILWdraEZvVy1BalJzcGRXRkZWeDJodnhkTXcwa0dDWnRINUdrVG1VZHE1U2NpTTZsZGJGd0NLZlF1emU1UWpaSVZVNA?oc=5
-- Título: PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento - Avion Revue
-- Fecha detectada: Wed, 18 Nov 2026 09:33:23 GMT
+### Fuente 2: ecosistemastartup.com
+- URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnNnWnNKbG5RZ1dWeE1sZDNhcEllZ0R0NEl2NUd0REM5S1htb3lIV2pKQ20wcXVSbDZ0dHd2b0ZrUlFaejd0Tlo5bHhQNmF0c2ZLMUZ6LXI4T2NXNFBQendUTWlDVFhEQUp1UGZuNFZYSGN1b0xkcDhXQk9ZMU85d3g2TTVJOEs0NDBvUVBkZFJhcFB1?oc=5
+- Título: PLD Space firma su primer contrato comercial con Mitsubishi - El Ecosistema Startup
+- Fecha detectada: Wed, 18 Nov 2026 15:52:00 GMT
 
-PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento Avion Revue
+PLD Space firma su primer contrato comercial con Mitsubishi El Ecosistema Startup
 
-### Fuente 3: ecosistemastartup.com
-- URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVU1emkwM3lOcUdhZXhGWnNET2h6b2JFSDd0eTlIT0R1WG9aUWhVSTNyRF9QWlF5b2tzeGdXN2dZcl9DdjZFbGI5VUpVdUE1V1RiQkhPQzlZX0RjM3ZSSGJWamdfRjdRcWl5U0NMNl82a2pGbmF0ZDl0dWk1a3g2bkxWODdhSWxWTDZjWg?oc=5
-- Título: PLD Space: primer lanzamiento comercial con Mitsubishi - El Ecosistema Startup
-- Fecha detectada: Wed, 18 Nov 2026 09:12:59 GMT
+### Fuente 3: elconciso.es
+- URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxOUG9TUDZDeFhYYmtvMnJNQ3ZLUkJBTVd5WUhhSm45S0U3UVdKemN4bk5yVTFJb0xuVl9Qd3hhOFh4SC0wX2ttSW9RU0pxZEQxb1Ytc21TYnVBa2k3cWlEbnBFanFaekZVVjlZdVNKWFJIdzRlMVdCZWt0djNKMk9uMGxaa1J4Qldza3VCWE9BN0xVTGlIbnoyVnpfR3M3YXNB0gGmAUFVX3lxTFBEalBpdnNlRHAycGhkUkpTWkhCcmxvbHdjMUpXdmhwUmYyWXdLa0R5TUhsZmdmSEdYcGk3Njh0Z185QkhVUEcxWlc2Ql9KNUVwYlRGQ2RudTJabWFxQlVSRzJKRXU0aVFJRnlyQ1hybkpPbEMzZmtaR1VOdHR6ZnI4V3pYTXNJTlpGZ2tWdWpPcWVJc0dVUEZKNjloQmx3Smd5LTl1bGc?oc=5
+- Título: PLD Space firma con Mitsubishi Electric el primer contrato comercial de lanzamiento de Miura 5 - El Conciso
+- Fecha detectada: Wed, 18 Nov 2026 18:32:31 GMT
 
-PLD Space: primer lanzamiento comercial con Mitsubishi El Ecosistema Startup
-
-### Fuente 4: actualidadaeroespacial.com
-- URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzhTUV9zaDhEaVpxNTc5X2ZaVHRHR0Vna1hvWlgxSGNNbjUyd1lHZFdCT1d3T0gxcUNIQVk0YW9rak5vMGgxUXRXVHNqSXA5S2FMNDdCY01HODlxWktURTVnRXdHc0tpSGN2YkpIZ0JhRjFVUkk5STdkaVVTMW1RRldmMnZEb0xybmU2TWhITEh2RXVMYmFGZXRQVXJ3ZzZyVDNzaGZNa08tdUI0b1NMY29RZ1gxX1RzQUtGcTBSTm1UckQyeUdOTmJacG4?oc=5
-- Título: PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento para MIURA 5 - - Actualidad Aeroespacial
-- Fecha detectada: Wed, 18 Nov 2026 06:44:59 GMT
-
-PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento para MIURA 5 - Actualidad Aeroespacial
+PLD Space firma con Mitsubishi Electric el primer contrato comercial de lanzamiento de Miura 5 El Conciso
