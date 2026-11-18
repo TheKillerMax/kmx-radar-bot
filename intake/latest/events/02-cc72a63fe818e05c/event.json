@@ -1,0 +1,64 @@
+{
+  "event_id": "02-cc72a63fe818e05c",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento - Avion Revue",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.61,
+  "primary_source_present": false,
+  "independent_domains": [
+    "actualidadaeroespacial.com",
+    "avionrevue.com",
+    "ecosistemastartup.com",
+    "es.finance.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 4,
+  "rank_signal": 0.75,
+  "sources": [
+    {
+      "title": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmk3UjJZQmtDc3lqejFTVHp6ODBxa0ZscWNFbU4tTWhCaTVsUjRqbmsxUEZ4eEJnc1R6ZXlUU1ZHZy1jWTRBV1ZXWHJGT3B6WTFJVXhsUzBjbUI0blJnN01DdDVJUU8zcVoyMkd2SjB4c3htZGlmZjZ4b0lhT0g2enhuT3I0U2Z4NUtMRGJnd1k0QQ?oc=5",
+      "domain": "es.finance.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 07:44:00 GMT",
+      "primary_hint": false,
+      "excerpt": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric Yahoo"
+    },
+    {
+      "title": "PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento - Avion Revue",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3BwY0Zfd3M4WkllbXBUcVB5RGdCSUl2MnVnbVVNUW9pMmdVT1A0VlpMblduQ2QzaDZuX1VRLTlBTm5VTkk4bzBCZUZfai15OVQ3WFFweVpDaUJHR0ZFODd3bUtidWRoOUhOTWEzT1BILWdraEZvVy1BalJzcGRXRkZWeDJodnhkTXcwa0dDWnRINUdrVG1VZHE1U2NpTTZsZGJGd0NLZlF1emU1UWpaSVZVNA?oc=5",
+      "domain": "avionrevue.com",
+      "publisher": "Avion Revue",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 09:33:23 GMT",
+      "primary_hint": false,
+      "excerpt": "PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento Avion Revue"
+    },
+    {
+      "title": "PLD Space: primer lanzamiento comercial con Mitsubishi - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVU1emkwM3lOcUdhZXhGWnNET2h6b2JFSDd0eTlIT0R1WG9aUWhVSTNyRF9QWlF5b2tzeGdXN2dZcl9DdjZFbGI5VUpVdUE1V1RiQkhPQzlZX0RjM3ZSSGJWamdfRjdRcWl5U0NMNl82a2pGbmF0ZDl0dWk1a3g2bkxWODdhSWxWTDZjWg?oc=5",
+      "domain": "ecosistemastartup.com",
+      "publisher": "El Ecosistema Startup",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 09:12:59 GMT",
+      "primary_hint": false,
+      "excerpt": "PLD Space: primer lanzamiento comercial con Mitsubishi El Ecosistema Startup"
+    },
+    {
+      "title": "PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento para MIURA 5 - - Actualidad Aeroespacial",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzhTUV9zaDhEaVpxNTc5X2ZaVHRHR0Vna1hvWlgxSGNNbjUyd1lHZFdCT1d3T0gxcUNIQVk0YW9rak5vMGgxUXRXVHNqSXA5S2FMNDdCY01HODlxWktURTVnRXdHc0tpSGN2YkpIZ0JhRjFVUkk5STdkaVVTMW1RRldmMnZEb0xybmU2TWhITEh2RXVMYmFGZXRQVXJ3ZzZyVDNzaGZNa08tdUI0b1NMY29RZ1gxX1RzQUtGcTBSTm1UckQyeUdOTmJacG4?oc=5",
+      "domain": "actualidadaeroespacial.com",
+      "publisher": "- Actualidad Aeroespacial",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 06:44:59 GMT",
+      "primary_hint": false,
+      "excerpt": "PLD Space firma con Mitsubishi Electric su primer contrato comercial de lanzamiento para MIURA 5 - Actualidad Aeroespacial"
+    }
+  ]
+}

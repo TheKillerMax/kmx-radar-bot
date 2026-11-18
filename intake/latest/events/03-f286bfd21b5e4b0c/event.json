@@ -1,0 +1,40 @@
+{
+  "event_id": "03-f286bfd21b5e4b0c",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Caso Ueno Bank: incautan G. 18.000 millones y USD 189.000 en empresa de seguridad ligada al Grupo Vázquez - La Nación",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "independiente.com.py",
+    "lanacion.com.py"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Caso Ueno Bank: incautan G. 18.000 millones y USD 189.000 en empresa de seguridad ligada al Grupo Vázquez - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVXd1R2pLWk5EVWpyOGdCNm91SVIxaTlWWUhRRXNxOFcwYV9YOThYYnVQRm02eW5LcVE0dXc2MUxHZHFqMDN5bUl3YWlUOW5kTHlLd2piazlBbVduRFFtaG1oTmN4VlRqeWNCZFFEc24tZDB6ZzdwU3M4blFGR2dkazR6a244ZlRGQ2s4V3JuYWRhTFVGaWljSXZtLTh4MEhWdWx5SERVM290b1JhM2pPcEpPMTE4QVFTeFZNa3hyR3VRUk5BdGh6blIxOEJpVkRnUU03Y2JlWEdJNHJXckR1bnFrcFMybG8?oc=5",
+      "domain": "lanacion.com.py",
+      "publisher": "La Nación",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 03:07:08 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: incautan G. 18.000 millones y USD 189.000 en empresa de seguridad ligada al Grupo Vázquez La Nación"
+    },
+    {
+      "title": "Caso Ueno Bank: incautan más de G. 9.000 millones y detectan millonario faltante en empresa de seguridad - El Independiente -Py",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXF3eWZkZHJNVERUSUVJZWJFdjM2WDE3RzdZN1Jka2Z6SXdOV1ZMd1YtT01XS2VNQ29odHZvX1N1Rk9ZSHhKOXI0R0JvbnJuTkZlMXdkNUNxTVNtUzdnSE1hcGE1cnJHMUxITEZOVWoyVk5ZWktFOGxYZDNtdnBuNEJSRTBmWkJQWDg0TWFrOVR3WENTSG1FeXRpam1qdjl0RUFrc2sxLUozWGdXb0hxSHY1emtWS3VJd1djQjloeWlsT2l4X2swem5YZkg?oc=5",
+      "domain": "independiente.com.py",
+      "publisher": "El Independiente -Py",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 09:42:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Caso Ueno Bank: incautan más de G. 9.000 millones y detectan millonario faltante en empresa de seguridad El Independiente -Py"
+    }
+  ]
+}

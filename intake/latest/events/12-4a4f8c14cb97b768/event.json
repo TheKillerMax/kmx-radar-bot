@@ -1,0 +1,30 @@
+{
+  "event_id": "12-4a4f8c14cb97b768",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "El Gobierno de Trump descarta los temores de una crisis tras una serie de interrupciones tecnológicas que causaron trastornos - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El Gobierno de Trump descarta los temores de una crisis tras una serie de interrupciones tecnológicas que causaron trastornos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlGSEtYR1J5cHlJblZDQ1c5ems4QUlFbWFRVGwwR0JZWnZfQjFlU3ZqWlZvS2VZb0ZGeU5HaGlwZWVLYlZzeE1qdGc5RjFzTWFUeWZBZG41YmhkNkg0eTZQQlVvLUR1bWhkcW1BVTNsSnFkdWFCeU0yQWduQ3VacmhxT3MtaTdKVk0zS3daaktvR0tDWDY3LXlKcWhwZjc3c2Y4b29RWUtVdw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 17 Nov 2026 07:47:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Gobierno de Trump descarta los temores de una crisis tras una serie de interrupciones tecnológicas que causaron trastornos CNN en Español Rubio dice que hay \"cero\" información que vincule los cortes de servicio en EUUU a un actor maligno AP News JD Vance descarta compras compulsivas de suministros y pide a los estadounidenses “estar preparados” Diario Libre Rubio afirma que \"no hay ninguna evidencia\" de vínculos entre recientes fallas tecnológicas en EEUU Yahoo Finanzas La América de Trump no funciona: fallos tecnológicos en aviones, bancos y hasta la NSA elDiario.es"
+    }
+  ]
+}
