@@ -1,0 +1,30 @@
+{
+  "event_id": "10-9ba315e594c085db",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Declaran culpable a pastor de Florida de cargos relacionados con el asesinato del presidente de Haití Jovenel Moïse en 2021 - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Declaran culpable a pastor de Florida de cargos relacionados con el asesinato del presidente de Haití Jovenel Moïse en 2021 - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVlXVHZLYWZ1Yko3dVFKTFZkbVNXM1pqYjVRUHFZUkQtbGo1VXpVRUtkYlV2RTVHMUh6NXZqaUZ0RG9jUF9HZXdkUFFJaFBROE1lMXhIUTBGcTdOem5YT0prakMtYU0weU1lYmIwMy1HVGNkQ0U1X2txXzE0aEpxTTBSSmRRZGNTckE0bnd0UHRqeUxsNzVrTkJZQ24wemNtYTdOUnZELTNBZTE0?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 22:21:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Declaran culpable a pastor de Florida de cargos relacionados con el asesinato del presidente de Haití Jovenel Moïse en 2021 CNN en Español Declaran culpable en EE.UU. a un pastor por conspirar para el crimen de Jovenel Moïse DW.com Pastor de Florida es declarado culpable en EEUU de cargos relacionados al asesinato de Jovenel Moïse AP News ¿Quién es el hombre acusado de asesinar al presidente de Haití? The New York Times Un tribunal de Florida condena a un pastor acusado de planear el asesinato del presidente de Haití Jovenel Moïse EL PAÍS"
+    }
+  ]
+}

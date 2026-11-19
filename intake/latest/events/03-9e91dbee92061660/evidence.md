@@ -1,0 +1,31 @@
+# Solo 4 de cada 100 ofertas de empleo tecnológico en España buscan perfiles júnior, según Manfred - Infobae
+
+- Categoría: TECH
+- Riesgo: low
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 3
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: infobae.com
+- URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMHdPaVVMWTlfZ1NGaHdIelVLODJ6U01TdVBUY0hURk1UZjZrTVRjcmNDNWtMeUZRZEJuamZYOFNxN09vWmdoRmQyVmllUkdrMWN3VFJKdkRYSWFTSnFJdjBuNFo1NHhIT0NWdVVuZ09iS0hCSzBHUFpDWktkUFdFV3MzVkJCcGdjZ01zQVlXbHRiZTlqN0ZyOEEzWlE2QlZPWFo1eGlBV1JxcW5oMVY1WWFaUUdtNGxWTHlRcFBNSVhJdDJXNTc3SFR3cllid25SY2JvSmJ2R1ZSVnItVjRiQmd30gH8AUFVX3lxTE9XLUpteDFVdXB5VDdlN3FVcG94MUtVMHBFQm5DV3VzOV9PSDVYcjhLTWc1akdWZ04xZ2ZMMGdibWRkMDM1dXJoR1VUSVhOMFJhQnBSMktaYTdlVlo4dEM1XzlEcU9iQU1lVWFlQzA2QVJpZlowNTR3WEdRR1JyU05DUVJNSmxNSGt0dThTXzdOd0hVVHJFbHZUZ0hYblpIbGZROW1vQjhUeEcxOHdyMXVVU1ZCYkJIcG5Fb3d4MGdybkwwNDZZVHhZTUd6NjU5cjFjeVdYV0JNcERISVBOTF9hc0RZeU82RjJoR0RibGNEdG1IY3g3YTFLMW4zdQ?oc=5
+- Título: Solo 4 de cada 100 ofertas de empleo tecnológico en España buscan perfiles júnior, según Manfred - Infobae
+- Fecha detectada: Thu, 19 Nov 2026 06:31:08 GMT
+
+Solo 4 de cada 100 ofertas de empleo tecnológico en España buscan perfiles júnior, según Manfred Infobae
+
+### Fuente 2: diarioenpositivo.com
+- URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbW5nS2IzWmo2SFctTWZ1N1pFNjZHdXVQX2t2b01XUmg0RHlsV1d6UmNzQnFmeFBtVnQ5bGdTWXQzNm5sWm5WRFVSSnRoOEVsMktNZWhva25oOFlna0lUNFg5a0pZd2NGOGU5WnZscUd2Zlk0cUNQMVNoVmJNWlc5Vm92REdoa3dFcDM4cDhSaVppZFg0TXZwcDlUMXBURXZwYmp3UDVvM3JORFY3QmJURkxUQVYzTlByRkM4a3IzZjJrekNoVlBiNnljbTJSbGJuNS12VmE4RnJvZ01JemN4R1ppRENRSGJf0gHuAUFVX3lxTE5ScGFqVllLbC1rVDdfYmdsZ2NydFJOcTI2RkVnSE9tWFdpRFpROUpka2txeGFsRElFU2JZQVk5STIwNWwzXzdIMzA3UEU3TEdza1psT2puVWZZVnRjQWtfWTd6N0U2R2h5VzhoTUNMU2ZHUGk5QkV5VG5pdG1QVlgzZkg0dU5RX3hXNG45M3hQVC1nN2JUMU13OFFXT3ktdDVMRmZtMTd0R29CX0tGYkVPb3BMalNwMEw3Rml4TGFfLUFPLXlzc2g3QW1xT1U0VWpiZ3NlRHR1RVJldFpuNlEydDhGdkR3cy1ZcE9zYnc?oc=5
+- Título: Solo el 4% de empleos tecnológicos en España buscan perfiles júnior, según Manfred - Diario en Positivo
+- Fecha detectada: Thu, 19 Nov 2026 06:08:34 GMT
+
+Solo el 4% de empleos tecnológicos en España buscan perfiles júnior, según Manfred Diario en Positivo
+
+### Fuente 3: democrata.es
+- URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVRFaXhseThPRzdQY2hDLTJ3NmVQMDhIdDU5YWloX1Jfbjk0NUt2SFBYRy1icFh5Mzg0bHZRUElrNFRWZ2xUWjF3Yy13cVl2eEVOekdWdE9iT3RBdUZVSUJkcF9OLU8zRUFqcjB5ekVRVTY5MmV5MXV0TkNlWDh3RjBCTF9NVXNENDdfU3dKdE0yeWZXSTE1VzZhQ2EzbFFxc255Vi11b0dBSXNIMmZOdFFmeXZxVm5qOEZ5NHNFVEhUUG42M016VW5qd9IBywFBVV95cUxOTVRFaXhseThPRzdQY2hDLTJ3NmVQMDhIdDU5YWloX1Jfbjk0NUt2SFBYRy1icFh5Mzg0bHZRUElrNFRWZ2xUWjF3Yy13cVl2eEVOekdWdE9iT3RBdUZVSUJkcF9OLU8zRUFqcjB5ekVRVTY5MmV5MXV0TkNlWDh3RjBCTF9NVXNENDdfU3dKdE0yeWZXSTE1VzZhQ2EzbFFxc255Vi11b0dBSXNIMmZOdFFmeXZxVm5qOEZ5NHNFVEhUUG42M016VW5qdw?oc=5
+- Título: Solo 4 de cada 100 vacantes tecnológicas en España apuestan por talento júnior, según Manfred - Demócrata
+- Fecha detectada: Thu, 19 Nov 2026 06:02:59 GMT
+
+Solo 4 de cada 100 vacantes tecnológicas en España apuestan por talento júnior, según Manfred Demócrata
