@@ -1,0 +1,40 @@
+{
+  "event_id": "02-6bf5c2525cf6c2fe",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Fiscalía allana la Caja Central del IPS por caso Ueno Bank - Diario HOY – En Paraguay y el Mundo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "hoy.com.py",
+    "vive.click"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Fiscalía allana la Caja Central del IPS por caso Ueno Bank - Diario HOY – En Paraguay y el Mundo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzIwWFVsQmlScXlCWFZlQnAyenFXQnBRQjFYaGlKd3BMS05TeFNxVHV4di1wYWo3ZEd0bk9lTUJaUmpoSk1qT253S0J2c1I3Zno2WFgtTkxmVHZXOTNKS1J3eUV4NjVzMHFOTjU5WGhGYVZIUFM3OFFDclc3VEtjd2dhaGhJemlPVDlob0h0bHFRU3BraDJDNldhNUhvRUlFb1pBckdR?oc=5",
+      "domain": "hoy.com.py",
+      "publisher": "Diario HOY – En Paraguay y el Mundo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 16:49:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiscalía allana la Caja Central del IPS por caso Ueno Bank Diario HOY – En Paraguay y el Mundo"
+    },
+    {
+      "title": "Diario HOY | Fiscalía allana la Caja Central del IPS por caso Ueno Bank - Vive Click",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3lZeG8xQmtoakUteVY2WUJPamRPSWtPM0kwNXRwSlFBbWI4ZTgxR2taYzFpN2JJdXkwQUtyYllsb2t6UDcyQ3RkWU1STVozWHhvdmxsQ1Q5RG41MFE0d0hFcUJZV2lxZ3gwZ3lJYTJCRHpkTEczU2xKSXNjWWlNT1QzV3dUNVFyYmlXNUYxd1BHZHM?oc=5",
+      "domain": "vive.click",
+      "publisher": "Vive Click",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 18:03:58 GMT",
+      "primary_hint": false,
+      "excerpt": "Diario HOY | Fiscalía allana la Caja Central del IPS por caso Ueno Bank Vive Click"
+    }
+  ]
+}

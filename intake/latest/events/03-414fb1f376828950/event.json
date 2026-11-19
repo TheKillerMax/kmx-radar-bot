@@ -1,0 +1,40 @@
+{
+  "event_id": "03-414fb1f376828950",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "La NASA confirma que la Voyager 1 alcanzó el hito de un día luz y “aún no ha terminado” - Yahoo",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es-us.noticias.yahoo.com",
+    "es.tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La NASA confirma que la Voyager 1 alcanzó el hito de un día luz y “aún no ha terminado” - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDlYLUlKdWgya3lzY2l3MDZxOE9kR2VlSHRVbHB4R1RoT0hIVWtRUDJlZVVuWGEtLXdqWEQ1c1ZfYVdQZHpTQjhHWmJBLUpEREstdzhZQUd5UG1iMDRwZm53RWwwZW1DcW52b2lQdmZLQkkzVEo2Mmozek0xbHNLOWJXaXBTTGhPSnNKZQ?oc=5",
+      "domain": "es-us.noticias.yahoo.com",
+      "publisher": "Yahoo",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 21:12:50 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA confirma que la Voyager 1 alcanzó el hito de un día luz y “aún no ha terminado” Yahoo"
+    },
+    {
+      "title": "La NASA confirma que la Voyager 1 alcanzó el hito de un día luz y \"aún no ha terminado\" - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VUHVwdlBWS1FEdGphRXdGbmd1Q2JYNXhsa2ZiVHJ6endrT1hBS3AzZW9Xb19iTEtSUVhsVjJmOUZQdTBlNUE0N0ROd2J1cHFDME8wSVN3dXFMWjJOU2pLNlZfay1vWDVhTVlaLVpwd20wVTBnakpz?oc=5",
+      "domain": "es.tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 20:33:43 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA confirma que la Voyager 1 alcanzó el hito de un día luz y \"aún no ha terminado\" TradingView"
+    }
+  ]
+}

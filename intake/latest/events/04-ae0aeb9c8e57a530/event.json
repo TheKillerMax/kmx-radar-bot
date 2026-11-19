@@ -1,0 +1,28 @@
+{
+  "event_id": "04-ae0aeb9c8e57a530",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Presidente del Senado llama a fortalecer vínculos entre México y la Unión Europea - Senado de la Republica",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "comunicacionsocial.senado.gob.mx"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Presidente del Senado llama a fortalecer vínculos entre México y la Unión Europea - Senado de la Republica",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSmhTRlZVcWR0emp3SzZYOEZsd0MxQXFXVE11WmYycHFKNUlGRDNzZnpDbk9RWFdFQjlhUFJ3TjV6S3ctYmZ0YTN5Ukh2NktWb2szMTJ3YUhtS1JFQ3VNX2xPNXp0YW15cUtkY2pYdElsWmRmNFFQcXZRWTd3cjBrU3VuVHEtbzR1enhjdkFYTGZkOEZWYnV3V2M5cVV4UjI2enZGZzd2bUxrSjhSM3RDSmc0NWVoeGZHbnZQcDVodFJKVjVpMWVqZFBZYXlwTWhTbnVOeGhSRUEtNzhGOURwX1hwbkNOUDA?oc=5",
+      "domain": "comunicacionsocial.senado.gob.mx",
+      "publisher": "Senado de la Republica",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 22:22:28 GMT",
+      "primary_hint": false,
+      "excerpt": "Presidente del Senado llama a fortalecer vínculos entre México y la Unión Europea Senado de la Republica"
+    }
+  ]
+}
