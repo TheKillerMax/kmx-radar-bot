@@ -1,0 +1,28 @@
+{
+  "event_id": "09-7fd05c64ce50be98",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "M 3.9 - 1 km NW of Commerce, CA",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "earthquake.usgs.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "M 3.9 - 1 km NW of Commerce, CA",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
+      "domain": "earthquake.usgs.gov",
+      "publisher": "USGS Significant Earthquakes",
+      "language": "en",
+      "source_country": "",
+      "seen_at": "2026-11-20T22:02:34.035Z",
+      "primary_hint": true,
+      "excerpt": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-20 11:25:35 UTC 2026-11-20 11:25:35 UTC at epicenter Location 34.006°N 118.167°W Depth 15.45 km (9.60 mi)"
+    }
+  ]
+}

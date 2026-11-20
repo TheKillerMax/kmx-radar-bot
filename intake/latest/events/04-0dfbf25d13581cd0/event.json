@@ -1,0 +1,40 @@
+{
+  "event_id": "04-0dfbf25d13581cd0",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "mx.investing.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE9qUlFRcXVQNG8xT281TzE2OV82bDRVVXhkWmw3d3pFNThSMkRuSUd1T19xTTFiOElxenp4aVItZUtRb2JVZ1NreW4zc2ZUNENLMEo1S1cxMVMwR29aVVJVcTJOR05WVzhsb2U5c25uODV4bzR1aHhqT0JhMW5vRUpjX2QwTWxLNVZFQkNPRXBhVTZyRXNoWmZmOUw1clhRalpVY0F0Q2R0dWJoQTdCbXNHRUZ4Yjl6by1UVQ?oc=5",
+      "domain": "mx.investing.com",
+      "publisher": "Investing.com México - Finanzas, Bolsa y Forex",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 20 Nov 2026 15:52:36 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de Space Exploration Technologies? Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+      "title": "¿Por qué cae hoy la acción de Space Exploration Technologies? - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUVLRVVWa01PMFpwYnhaTGl2N05zcmpEczM0RmxYUUxfLXFmUUUxUzNwMG5CUWticDZLbVdRYkd6eE5KRWg0SVQwbDk3U2Q5cXljMnNuS1owQUMtQ3MyRlI3QUd1Rlg0UE1qS1dQTnVJbEg0Y0V2MUNydEVRaUxHX04zZzJTaEFEZHZFOFFrdnA1Z2NnbS0xUk9CWFpwQ2pOY3NtRkFmTmZRSzNKQVRQZ0VqT0ZHUm1BRkt5SA?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 20 Nov 2026 15:40:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Por qué cae hoy la acción de Space Exploration Technologies? Investing.com España"
+    }
+  ]
+}
