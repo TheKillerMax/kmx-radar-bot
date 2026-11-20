@@ -1,0 +1,30 @@
+{
+  "event_id": "11-9993db5efa8a6516",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Muere Fiona, la querida hipopótama del Zoológico de Cincinnati, tras comer un gorro de un visitante - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Muere Fiona, la querida hipopótama del Zoológico de Cincinnati, tras comer un gorro de un visitante - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODM0XzBNV2VOMXNnUDF2Vko2TVFzdTYtYVhoQ1k3eXZoVVViYVEzV1FKMkRsWUk3N2lGRk9QZ01kNkxrZnFQMVY0SFI5NjBsdEVaVFVSb1hSU1M3VVMwRVBQVnBWVHlKNmZkbFI5LTAwWVllM1RDSUlqTE5LMm9nVUVXMnhUVXNTX0pKaUhpV0JMSFlYNWc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 23:21:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Muere Fiona, la querida hipopótama del Zoológico de Cincinnati, tras comer un gorro de un visitante CNN en Español La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati BBC Zoológico de Cincinnati anuncia la muerte de la hipopótamo Fiona días después de tragarse un gorro Los Angeles Times Zoológico de Cincinnati informa que la hipopótamo Fiona ha muerto días después de tragar un gorro que cayó en su recinto AP News Zoológico de Cincinnati prueba método de vibración para que hipopótamo expulse el gorro que se tragó Chicago Tribune"
+    }
+  ]
+}

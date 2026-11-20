@@ -1,0 +1,28 @@
+{
+  "event_id": "04-7f67d6e9dec48f47",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "SLO County Public Health Awarded $495,000 in State Grants for Child Passenger, Bicycle and Pedestria - County of San Luis Obispo (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "slocounty.ca.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "SLO County Public Health Awarded $495,000 in State Grants for Child Passenger, Bicycle and Pedestria - County of San Luis Obispo (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObGk4cmU0Z2tKLXVxMDFKN25nU2dlQXZ4dGhYQ1dkeXhibDQxeW9XN2NxTTNFQjU1TnVaeXZLVHFKMWFHc3V2d090a09OTmxJTTFQSXBkX2NsYjlVOEFvc2hzS09kVnZJZFlFTi1fWWpIQWRUUVM1cWs0MVRmVWw3bF96SnNWekdYNGloR08xekVhTlk3aVN5cTZOcXAwUEhTNHFFdkx3TWlJY3AxSzFIdkhVaE1rSHZWUXRJd1Q4ejh5dENuMzA0b25kT0tNNGNRSXQxeXR5Rkk5ZjJIbGhVcUF2cFNDekdTOWhEb0VTeXFNcmJLRFZZeTRJX1FMWl9wMkJYcXBYUFk5SDUyS2Zr?oc=5",
+      "domain": "slocounty.ca.gov",
+      "publisher": "County of San Luis Obispo (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 18:00:19 GMT",
+      "primary_hint": false,
+      "excerpt": "SLO County Public Health Awarded $495,000 in State Grants for Child Passenger, Bicycle and Pedestria County of San Luis Obispo (.gov)"
+    }
+  ]
+}

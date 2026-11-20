@@ -1,0 +1,30 @@
+{
+  "event_id": "09-8ddc04bbf1414062",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Una tormenta en desarrollo azota Florida y podría complicar los viajes para el feriado de Acción de Gracias en la costa este - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Una tormenta en desarrollo azota Florida y podría complicar los viajes para el feriado de Acción de Gracias en la costa este - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU196WVFwb3BneWNubEd2b3p1WWd0azJiZ3l5QnpycXlyRW1GZWlJd3Fjc1M4ZXA1Tm9IMEotM3U4c3BMOGFzenFEdS1SczlGanZaaGhhZHUtMTZYaWYwNmdMSzBKWXpGaFhLcWNXN0F1RVRoNDF0QTdSb3g2Z0VvY2pva3JYNlc1QUtGNnZNMXB3ekl5N29uVmZHNzY2XzVuaHc?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 18 Nov 2026 13:55:28 GMT",
+      "primary_hint": false,
+      "excerpt": "Una tormenta en desarrollo azota Florida y podría complicar los viajes para el feriado de Acción de Gracias en la costa este CNN en Español Tormentas se desplazan a la Costa Espacial de Florida y causan rescates de personas y caballos AP News Minuto a minuto: Noticias del sur de Florida Telemundo Miami Daños por inundaciones: ¿qué cubre su seguro de auto y de vivienda? Telemundo 52 Lluvias intensificadas por El Niño causan inundaciones en Florida New Haven Register"
+    }
+  ]
+}

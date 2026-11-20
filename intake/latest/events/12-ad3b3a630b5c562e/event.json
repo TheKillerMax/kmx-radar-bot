@@ -1,0 +1,30 @@
+{
+  "event_id": "12-ad3b3a630b5c562e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Exclusivo: “Sin supervisión”. La FAA ejerció poco control sobre el trabajo que causó la suspensión de vuelos, según fuentes - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Exclusivo: “Sin supervisión”. La FAA ejerció poco control sobre el trabajo que causó la suspensión de vuelos, según fuentes - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkRubUNDZ3dkdlFyaXBmcWpDV2RsNVJXNTdrd2VKVHlCMkEzTXo2aktPSWd0bkV2eVhnOEdRQUVQUlk3SUtvenllNVFwVUp1QjZ5cDZaLUJ1NWt0LTZwajlENHU0alJIMlE5OWU3Rk1laWFBYjlQd20xcTg5ZWJ1Ql9uUy15a2t0Y3VNVC15RHZIdkNYekVCZ0Fhbm91SlVCcFBzUVdR?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 19 Nov 2026 11:26:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Exclusivo: “Sin supervisión”. La FAA ejerció poco control sobre el trabajo que causó la suspensión de vuelos, según fuentes CNN en Español Duffy: Suspensión de vuelos en EEUU pudo ser más corta si contratista hubiera hallado la falla antes AP News Secretario de Transporte Sean Duffy sigue culpando a contratista de falla en la FAA San Antonio Express-News Trump se irrita ante críticas por aviones en tierra; culpa a tecnología vieja y a Biden Los Angeles Times Están \"muy cerca\" de encontrar la causa de la paralización nacional de las operaciones aéreas, asegura el director de la FAA KVIA"
+    }
+  ]
+}
