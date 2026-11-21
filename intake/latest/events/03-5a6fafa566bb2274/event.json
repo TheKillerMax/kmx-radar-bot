@@ -1,0 +1,40 @@
+{
+  "event_id": "03-5a6fafa566bb2274",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "🚨 Shock in the PL: Superstar leaves the pitch in tears - Yahoo Sports",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "onefootball.com",
+    "sports.yahoo.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "🚨 Shock in the PL: Superstar leaves the pitch in tears - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTFYT05nWDZyc3FSa0NjX243dXJZRzFFSW5jWFZqVzNUeEZsclZWY0Jfa1ZPaWNoUkJHVlQyUk5LZl9GMldRT2lQTzhKdFlYU2IzY210TVFja1p4ZGI4d2tRR193bVQtb21BWGJlLXRybG9WRFh1dUlQUDZUamZORDJIT3NuRkU?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 21 Nov 2026 15:31:00 GMT",
+      "primary_hint": false,
+      "excerpt": "🚨 Shock in the PL: Superstar leaves the pitch in tears Yahoo Sports"
+    },
+    {
+      "title": "🚨 Shock in the PL: Superstar leaves the pitch in tears - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONS1OTGNrS3RtQTBYZ2I0NnV3U3pQX1RYMnl5ZjRVMUs1OEdzaWE5dExCbUVnenZmTERjU3c0eUgzTGpPRmpMV0p6dEV1LUNfT1hnTWFtUDliYUR5Rl9aOU9GUEFQb04xa1d0X2toTzVVMGo4WHcycEtZNGFNOWFULWhqblVRSEZPY0pJOVE4UV9UQ2xUVXFr?oc=5",
+      "domain": "onefootball.com",
+      "publisher": "OneFootball",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 21 Nov 2026 15:34:35 GMT",
+      "primary_hint": false,
+      "excerpt": "🚨 Shock in the PL: Superstar leaves the pitch in tears OneFootball"
+    }
+  ]
+}
