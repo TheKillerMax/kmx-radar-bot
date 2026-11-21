@@ -1,0 +1,30 @@
+{
+  "event_id": "11-57fc268940575bf4",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjZCcVRPTzROdFBBclhwdUJ4OXhteUVfaV9EMzRONVpOWnE0VF9WY2ItM3hTSlQ2ejJreHZCUkFFZUttZUlWWkFKd1pZN0NveDM1MDRaa0dnbHFZM1RYMlUzUXZndHNpMHlycWMzNE9OVWxSdUpEY3J2aTBCVXpiU3hXUQ?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 21 Nov 2026 00:10:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa CNN en Español Presidente Trump habla con periodistas tras cumbre con Putin y Xi en China WPLG Local 10 Trump, Xi y Putin celebran reunión trilateral sobre riesgos nucleares, pero sin grandes avances Laredo Morning Times Medios rusos presentan las conversaciones de Putin con Trump y Xi como un hito y un desaire a Europa Chicago Tribune Trump defiende haber llamado “amigo” a Putin y dice estar cerca de un acuerdo con México Telemundo"
+    }
+  ]
+}

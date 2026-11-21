@@ -1,0 +1,24 @@
+# Paraguay abre investigación penal contra el exfiscal general por el escándalo de Ueno bank - DW.com
+
+- Categoría: ECONOMÍA
+- Riesgo: medium
+- Estado de entrada: SIN CONFIRMAR
+- Nota: este estado es solo una señal automática de entrada; ChatGPT debe verificar de nuevo.
+- Dominios independientes detectados: 2
+- Fuente primaria detectada: no
+
+## Evidencia recopilada
+
+### Fuente 1: dw.com
+- URL: https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQ1JDTDNSTDhhdmZhVTVmRndLNzJtM0pvY0hUaEY4NmRBZWwyUWlqdDhkVW1UT2w1V0p4clRxbGlSV2dVcHJYbmkwMTJWRm9kVEF5cHpjOUdTWTBCUUNNQnk1LU1rR2YwUGVyWkEzNFRYaXl2Wk9IR19ZQUs5MXVWWXktNjBVaHJ4YTFXUV9XSDNDMmNidzVNNnItelRualpZazBHbVR3azBGRUNYUHVMYVdROVZsM0pHVVZ4UFJMdkJOQ3NDUjM0N1ZjbmtIN3VaR2RERWRWVHNHUzU5UTdUZzMwWWxHM0tROEhhV0xWeVhKVmtEeXFkTDRubkJPUm42YnE5ZlVUSElCUlNmTm5QeGJ0MVI2bnlvT2ROY2Q1Q21zYzVvRUxNS2oyONIBqwJBVV95cUxNVnJDWVF1S0JoN1FVUG5fbVg0bURfb1hsVW1KZHFrQTF3T3BfaVZ0cG1kVnFBZm9HLVNjLUtHaTh4cEhub0FqWVpLLUwtRWNVWGhGM3JCUHZndE1vMDNsTzhfN0NjSjlqeWZOTGpSU011R3ZIemtZRW50MG1ac0tlUURIVVNwRU5pbWFtVTNPd0hrcE0zMXRPbGQ4VXlfTjRsWHlGanVRU1UzU2pudGVTWGFuRkRhNlV3cllqa2FqSU5hdldjb09ZeFFibFlxUTQzRnEzOWRLZ1h0QnBzYVRNVkNIOGxJV2FCSTdoU3FjcXlLM0Y1UEdicERCNktCb183Yy1QcXIyOHR1YzNKTFhKQXEydnd0d2pYTkJUdXF4ckhMdlkyVWVMVF9zbw?oc=5
+- Título: Paraguay abre investigación penal contra el exfiscal general por el escándalo de Ueno bank - DW.com
+- Fecha detectada: Sat, 21 Nov 2026 01:35:07 GMT
+
+Paraguay abre investigación penal contra el exfiscal general por el escándalo de Ueno bank DW.com
+
+### Fuente 2: eleconomista.com.mx
+- URL: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMzczcjUyZ01jSGtiYy01RENlSTRhcml5bVdTSDZhLUQwOGpzQ2J0bU42TTE2ZzVoVWxUWVdkaG1hRllLem9oRl8xeGxGOTBRbzlOUkV6MEM0SW9tZXRqR1FRdFZKZkJmR2E4YUd5MzBqMEd6QjNPSWdvcXk3bDVYckcwNHloVmE3eV91SmExQWJrOGlMeGtsVXp3VEw4blM1cEItTno0T2hxMzUzSzBPenZkZzVLbnpfbmFKem16b2pLMHlmZ2xQZ2x5NFRXQ19jRHQ1NUNPZ3NRaXUxWmMtSnlkbExwR1RFbUHSAe8BQVVfeXFMTlJLdnA1YjNqWGVwZ0I4MzJXWU9DUkZUUDBINjZlTk4tMk1PR0dvb25vcTJSOTRvVFNUeWlkMTZDXzUzWFVseXYzSHlkTWV4MVFoUmRXNDdtZDlab3JTM0dPaE5HV3o2VURvNzFsMVEyaGNRQWtxSTByWHBsRWNtVldlNTVCTjkxTWMxWGFRakp2RlVSa2w0LW5HSXBfc281YWdRYjdweUlYMkwyQmFqajdybWZfaVh1RGRUVlY2RC1KdVhZdHpBakdXSTdOb2p2aUVDVUdVRDNqU0FXYUlUbWgzb05la2pqUmlubkVTbVU?oc=5
+- Título: Exfiscal general de Paraguay denuncia persecución política tras renunciar por escándalo de Ueno Bank - El Economista
+- Fecha detectada: Sat, 21 Nov 2026 02:10:45 GMT
+
+Exfiscal general de Paraguay denuncia persecución política tras renunciar por escándalo de Ueno Bank El Economista
