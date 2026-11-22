@@ -1,0 +1,40 @@
+{
+  "event_id": "02-74e7c37d3817139e",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "La UJI inviste doctores honoris causa a Ramon López de Mántaras y Carme Torras en la apertura del curso de Doctorado - Castellón Plaza",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "actualidadcastellon.com",
+    "castellonplaza.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "La UJI inviste doctores honoris causa a Ramon López de Mántaras y Carme Torras en la apertura del curso de Doctorado - Castellón Plaza",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTjA4YzJoVUZxeWxaalVNQnY0UG42blgyMktLOWl1YlR4NERSakJsNHZDYTJYdGFEM3hPUjBmQV8tb2FNbkpvR3BjSjY1dkNpTmNDQWdNZDZfT2sySllrc3d0bFJHcUt4UVFmSkYtUkJ5Snc0RjhBSGc0SW5KNk90d1hmQmZwWnI3WHpYVjh0MjA4UVpYX3p4SC1MSGlEaUFBc0FKNjRvb0FtOG5qZndSSFUwWFA4Sl93ekhYSnQ5dk12WGU0WmFGcVc5UlZZRkJTN2pxaFMyUjFQNHZUR0h4UmxDVUxPZlVrZ3RGVlNNMXhNUVQ3cS1sRG1YMDRkQQ?oc=5",
+      "domain": "castellonplaza.com",
+      "publisher": "Castellón Plaza",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 10:58:08 GMT",
+      "primary_hint": false,
+      "excerpt": "La UJI inviste doctores honoris causa a Ramon López de Mántaras y Carme Torras en la apertura del curso de Doctorado Castellón Plaza"
+    },
+    {
+      "title": "La UJI investirá como doctores honoris causa a Ramon López de Mántaras y Carme Torras - Actualidad Castellón",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlFQS1ZPS0VhaGVSTXcxOWgwc0N5M0lLQ1RQQmVOQzdkd3l1Y2gwZEptaExRVThqMTEzUjJaNW1ZanlHVmVNU00zazRFUVV3WkdjbGJHTi16S3IwN25KMWRwVDA3WjJOUFhyQUZSNEpQb29xTXhidTQxVmdMX1UxWXd2cjdNdVRa?oc=5",
+      "domain": "actualidadcastellon.com",
+      "publisher": "Actualidad Castellón",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 16:28:37 GMT",
+      "primary_hint": false,
+      "excerpt": "La UJI investirá como doctores honoris causa a Ramon López de Mántaras y Carme Torras Actualidad Castellón"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "10-cc05b43e1305ecca",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHJsWTNPRmhET2t2S2RKZUlwbS1fa0JJOURLa3ZoUl8yWllGdl93RkJKQVA2cmUteU4tdUtLWUlOTjE5NEdpVUVqaHR6WXdva3psT1RIMkplX0pFeWM0Z2REMFczaWNlMWMybXRWM2hMOHFHakEyY3dOVVlidDVWcWs3RkV2V1ptczZzMGlwTVFlSWNvQzdETzNFYzZqSzNRTGhnR0FPZmZ0RWI3UTMzSlNHazk5cWU0MXExNGxUdlU2Z0FOMXRTbjdOdkhjWUxDV3ZCUUFZby1OaVk?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 21 Nov 2026 09:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA EL PAÍS Las acciones tecnológicas caen, incluido Anthropic Morningstar Wall Street hila su racha más larga de caídas desde 2024; el Dow baja 1.100 puntos Greenwich Time El debut de Anthropic muestra la desconexión entre Wall Street y Silicon Valley The New York Times Themes ETFs prevé lanzar el 23 de noviembre ETF inversos sobre Anthropic con exposición de 2 y 1 veces TradingView"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "09-04bec75022048a75",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "¿Cómo una pareja joven puede convertirse en multimillonaria al llegar a la edad de jubilación? Esto dice un experto - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "¿Cómo una pareja joven puede convertirse en multimillonaria al llegar a la edad de jubilación? Esto dice un experto - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFo3X3l1bnFTSU1KZmFabUFRdW5ETlgydlVobmJKOTZWbXBPNm5icXdZb052Zm1zeXV5TW1hMW5nNlF4V0FCTFk0cXRxWXRkTjFwVVdzSUdNSlR5dlNRZVFRLTR0ZTlabDlYMzQ0YzVZZVlxdG5vbFdxQkdaVDhMX1BrTHdjTTk4YmZjc3JBWC13alFXcUt2N04zZzl6cWtMSHZMd2cyaU8?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 06:11:00 GMT",
+      "primary_hint": false,
+      "excerpt": "¿Cómo una pareja joven puede convertirse en multimillonaria al llegar a la edad de jubilación? Esto dice un experto CNN en Español"
+    }
+  ]
+}

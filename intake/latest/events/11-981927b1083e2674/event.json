@@ -1,0 +1,30 @@
+{
+  "event_id": "11-981927b1083e2674",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Vuelos de Delta sufren retrasos en todo EE.UU. y afectan viajes por las fiestas tras problemas informáticos de la aerolínea - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Vuelos de Delta sufren retrasos en todo EE.UU. y afectan viajes por las fiestas tras problemas informáticos de la aerolínea - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWNhSnprQXlnNF9Md3dmWjlIVDhwOVRVR2E0akdHempEUE1hdlBjZDRjdFFyQkVQMFp5LWFDeEdvTkxzU3kxUWZlSWstNHFnQmMyeS02T21jU0d0RllQeHByb1E3aGRXazZaVlluaFFsY1Ywbnl3eXdtVndCSVlTN0tGMA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 16:47:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Vuelos de Delta sufren retrasos en todo EE.UU. y afectan viajes por las fiestas tras problemas informáticos de la aerolínea CNN en Español Falla de sistema automatizado provoca retrasos de vuelos de Delta en Atlanta AP News Un fallo tecnológico retrasa vuelos de Delta y complica los viajes antes de Acción de Gracias Telemundo Delta Air Lines registra más de 1,500 vuelos retrasados en Estados Unidos Univision Delta reporta fallas y provoca retrasos en vuelos en Atlanta El Nuevo Día"
+    }
+  ]
+}

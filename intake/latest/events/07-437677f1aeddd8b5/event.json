@@ -1,0 +1,30 @@
+{
+  "event_id": "07-437677f1aeddd8b5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Fiorella Ycaza, la esposa del alcalde de Guayaquil que busca vengar políticamente a su marido preso - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Fiorella Ycaza, la esposa del alcalde de Guayaquil que busca vengar políticamente a su marido preso - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHBPUUhZakdNSURWUDlfRUlxU0drZmpEWFJ1bUpsaTFUczg1Wjk4ajNlQ3QtTE5RTVRRMUlUX0lGMU1ic2VPN045bC1Jb19MQ0JUQy1xRXdscUpRaUZ4QnNybDFIc1lYdldMNEt5TVBvcmxJRnNuVi12V1M5aEFnSUEzczVTbi1VRXJvckNVT2t5akdLOVZvZmkzbC1LYVJYTDAwSnZKdzdKVXdicm1VWDV3RDdScFhlMDRHbThEVm1OWThCOXJ1ODIyMXRPcm8yQlhNc0g1d0LSAewBQVVfeXFMTnFGSlR1WmFpcmEtRVpLa21Fb3YyNUN1OHo2Y240ZWFwM3VvYU5sdjFmUHZqdkRBZmkzUThuM053aE9GR0cwMGFXR190MXRIQjZSbUxKT05WOUFIeWJnamNlejFOdWdDLS1vaXUzdXZ6Q3cwcDlOUUFiSWpVSm8tTEhRekZqa1M1bkJNSHN2a2otd3FYWmkxeDctQWNlSnQ3MDRzNEFJaml6UFhnQkZTcDAxcXZ4Q1hNS3AtWEdWZlhRZEhpQ3k2T0pkMmhjaHlRNUM0dlUwV29tX0poXy05d2lLbmUtYkcxVFhpUjI?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 09:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Fiorella Ycaza, la esposa del alcalde de Guayaquil que busca vengar políticamente a su marido preso EL PAÍS"
+    }
+  ]
+}

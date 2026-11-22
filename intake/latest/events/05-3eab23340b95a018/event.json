@@ -1,0 +1,30 @@
+{
+  "event_id": "05-3eab23340b95a018",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump ordena a contratistas federales que coordinen con la Casa Blanca las solicitudes de información del Congreso - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump ordena a contratistas federales que coordinen con la Casa Blanca las solicitudes de información del Congreso - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeENKOGE4MUxoX3A5V2ZqUHZkSDdFMEFaNnFHWFFBQVgtQlZRUmQ0TTBqOHJRNEYzbUFLMnVkTzhRTlhBcTZrRzgwbEZaZ0FFMVkycWFIV0x6QWw3cVVJVW83VVktXzAxX1hwQlRkWFYwaGRUU1NjVHlub2tnVEpYbEZIcUdmVXhpR2h6c1c0dw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 21 Nov 2026 22:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump ordena a contratistas federales que coordinen con la Casa Blanca las solicitudes de información del Congreso CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}
