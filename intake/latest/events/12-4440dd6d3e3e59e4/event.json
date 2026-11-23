@@ -1,0 +1,30 @@
+{
+  "event_id": "12-4440dd6d3e3e59e4",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El Gobierno de Colombia pide a X suspender la cuenta del expresidente Gustavo Petro en esa red social - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "El Gobierno de Colombia pide a X suspender la cuenta del expresidente Gustavo Petro en esa red social - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnBWc1VNSmt3dmE5TXM3X1FBQ0tjQlZjeVlLbVAzeUhxSWpsLXYzcF84OXV1Zlg1ZVpkdzJoSGdGdEpqVmhQa2w0X3JzaFo3eElWTW5INEQ4emNpS29ucXFRa3RnVlBlN25IZG9hRzNpbGpsczBpYnNXbzU0X1paeUtwdXZpLS1ZMzZPZVFOdHl4UVlaTHZYMFhwQ3hMWURKTGJN?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 01:04:00 GMT",
+      "primary_hint": false,
+      "excerpt": "El Gobierno de Colombia pide a X suspender la cuenta del expresidente Gustavo Petro en esa red social CNN en Español"
+    }
+  ]
+}

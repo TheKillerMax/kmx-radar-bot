@@ -1,0 +1,40 @@
+{
+  "event_id": "02-7c8e779a543ec471",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Malaga man bursts into El Palo health centre armed with knife and pepper spray to demand diazepam - Sur in English",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "surinenglish.com",
+    "todoalicante.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Malaga man bursts into El Palo health centre armed with knife and pepper spray to demand diazepam - Sur in English",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnh6cHdxTTB2Qk1vN2Y5RGhyOVkzenlQTHRhUzE2RU5ndjVtT0tXSDQ2dUxSZ213c1BIREJPMkNjVGljZ1V2Z2NhZVhvU2s1ZVQxTjhMZ1BiNEd5TkxmaXBUTDVFTlJJRXBMaGw3X0x4OW1aTmwxUl9mbjM4ME9FVHhfelAyZW5LWUg5SG1xQXg?oc=5",
+      "domain": "surinenglish.com",
+      "publisher": "Sur in English",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 08:55:22 GMT",
+      "primary_hint": false,
+      "excerpt": "Malaga man bursts into El Palo health centre armed with knife and pepper spray to demand diazepam Sur in English"
+    },
+    {
+      "title": "Man armed with knife and pepper spray storms Malaga health centre demanding diazepam - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVdoUm15M1RaMDlDSmRHS1YzTl9Ua2pwTlQ2Qy1WZTNhUHdfMmpxZFlmQ1BwSzFjQXdkdDdsb00yOG1rd0JBdnJOSEl3SFg1d0dQc2Zpbl9LNmRCVEUxQTFIeUYtcVlNZFNLckMyeWtLVkFkdUpGc2tjdWJtNC1vOV9qSEdYc1dTLXfSAY8BQVVfeXFMTTVxb1lZZVp3a3ItMnNjM2p2cDdaUXZRSHF5UlQ5eVUtM2x0QWtmb0xkZ1BPS1JHTUl4Rzd2MFc4SVdsVjNVMnYza1RkdHJBalJlaHhEdkdHUGEyc19ITVBRNHRVNXI2ZDBIaW1PS2xoNlZCWm9SSXJkWnR0WC1PWUpjWDhJMkZoeXdvbzRXazQ?oc=5",
+      "domain": "todoalicante.es",
+      "publisher": "todoalicante.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 20:07:35 GMT",
+      "primary_hint": false,
+      "excerpt": "Man armed with knife and pepper spray storms Malaga health centre demanding diazepam todoalicante.es"
+    }
+  ]
+}

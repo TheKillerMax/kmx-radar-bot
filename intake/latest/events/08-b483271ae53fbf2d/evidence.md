@@ -14,4 +14,4 @@
 - Título: Nayib Bukele le prometió a Haití un "triunfo". ¿Están cumpliendo sus fuerzas? - CNN en Español
 - Fecha detectada: Sat, 21 Nov 2026 12:25:00 GMT
 
-Nayib Bukele le prometió a Haití un "triunfo". ¿Están cumpliendo sus fuerzas? CNN en Español Ver más títulos y perspectivas en Google Noticias
+Nayib Bukele le prometió a Haití un "triunfo". ¿Están cumpliendo sus fuerzas? CNN en Español Miles de personas se manifiestan en Haití en apoyo de tropas salvadoreñas que combaten a pandillas Reading Eagle Video de reparto de agua en Costa de Marfil se vincula falsamente al despliegue militar en Haití AFP Factual La brutal represalia de las pandillas de Haití por el respaldo a la misión de Bukele: 10 muertos a sangre fría Yahoo Qué advierten los especialistas sobre el modelo antipandillas de El Salvador aplicado en Haití Infobae
