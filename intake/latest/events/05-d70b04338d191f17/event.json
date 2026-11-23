@@ -1,0 +1,30 @@
+{
+  "event_id": "05-d70b04338d191f17",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Delta Air Lines informa que se resolvió el problema del sistema que retrasó vuelos en todo el país - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Delta Air Lines informa que se resolvió el problema del sistema que retrasó vuelos en todo el país - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWNhSnprQXlnNF9Md3dmWjlIVDhwOVRVR2E0akdHempEUE1hdlBjZDRjdFFyQkVQMFp5LWFDeEdvTkxzU3kxUWZlSWstNHFnQmMyeS02T21jU0d0RllQeHByb1E3aGRXazZaVlluaFFsY1Ywbnl3eXdtVndCSVlTN0tGMA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 22:13:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Delta Air Lines informa que se resolvió el problema del sistema que retrasó vuelos en todo el país CNN en Español Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

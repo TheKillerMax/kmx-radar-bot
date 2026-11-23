@@ -1,0 +1,40 @@
+{
+  "event_id": "03-c023e7aa7e421f24",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Las impactantes fotos de la NASA que muestran cómo El Niño transformó al desierto de Atacama - Perfil",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "perfil.com",
+    "tiempodesanjuan.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Las impactantes fotos de la NASA que muestran cómo El Niño transformó al desierto de Atacama - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUVHcUdwbm1NcVR0V1l1dzkzeVBlRmFxTzlja3g2MU5peEp5SmJQaE5zREFhb190WDNNVjFnQnVULXppSnloN1FlX05Hcm5VOWNsNERMbU1sOVE3Z2lueEdwNWFfdEtJanBlV2tEOXdPZkZDRVdmbHdQQ3kzem5lV3RsSE8tVnI3R0RpUE5RQ3VwUTV4dk5XV1l2d2lLV2Y3R04tMHVmdVp5bWpnUEpHLVFjUlU2Q1h5S3NHZGM5MWhPSE96c2xDdlpkckI1ckRUcGc?oc=5",
+      "domain": "perfil.com",
+      "publisher": "Perfil",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 23:21:43 GMT",
+      "primary_hint": false,
+      "excerpt": "Las impactantes fotos de la NASA que muestran cómo El Niño transformó al desierto de Atacama Perfil"
+    },
+    {
+      "title": "La NASA mostró cómo las flores transformaron el desierto de Atacama: las imágenes desde el espacio - Tiempo de San Juan",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSGxiamxNekk4a0Q5LTBLcWhtTnRiV1dpV1puckhDOUZQY2JpU2lWMkVfYzRUMTJFNHVEWkJpS0NuLU9uZmREYW8zUHJZV1Q3MzhlUVNXc3lIRVlzNXh5N0hPLVpmTV8xZ21pdVlHNmdSUVJPTWNqNWJfUHgyd1pPdFBnS1JuRkM2U0hOQWVzdWhYeXhqbXg2ZW1mRGsybDE4Ry1tcGVjVDNkbWxWRy1XQklRU0hJVEZyekJQZlRESUo3cTNVOENMU3lRbEFxZmJYTTNYemk5RmpNckRVY2M4?oc=5",
+      "domain": "tiempodesanjuan.com",
+      "publisher": "Tiempo de San Juan",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 21:06:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La NASA mostró cómo las flores transformaron el desierto de Atacama: las imágenes desde el espacio Tiempo de San Juan"
+    }
+  ]
+}

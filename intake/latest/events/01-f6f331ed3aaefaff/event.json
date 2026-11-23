@@ -1,0 +1,42 @@
+{
+  "event_id": "01-f6f331ed3aaefaff",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Tras ocho años de viaje, la sonda BepiColombo llega a la órbita de Mercurio - France 24",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.44,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.euronews.com",
+    "france24.com"
+  ],
+  "high_trust_domains": [
+    "france24.com"
+  ],
+  "article_count": 2,
+  "rank_signal": 0.56,
+  "sources": [
+    {
+      "title": "Tras ocho años de viaje, la sonda BepiColombo llega a la órbita de Mercurio - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ1lVU3VCSXFmcHRWSGtzSnhlZ1BfZ0hMaWFtNmFpaUhXU3lfOUg5cFoybldoajdsMWI2a3Y0VmFxOGtaQmRxWmlKR201cVdSaHM2QThfdmhrdWxzbWpuODk4eDRGMy05aDdtMTB4RDhMRm5Hc3FkQ3NheVVJTHhfMDdMcHJPa0F1RFhRRGtZdDZQbkc0WlBtOUlhNmxBOThtY1o1R0Q5OV9lRzhmMUFfZ2lqWHQ5WnlaQmg4cHhYNzRaQWptcHhPUTZjdHM5NUlCOEE4N00tZVVvcm12STFvVkhR?oc=5",
+      "domain": "france24.com",
+      "publisher": "France 24",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 20:57:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Tras ocho años de viaje, la sonda BepiColombo llega a la órbita de Mercurio France 24"
+    },
+    {
+      "title": "La sonda BepiColombo ya es´ta en la órbita de Mercurio - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3VhRl8yVFo4UmxCY2VaQ3I4XzNpVVJZM1hnLTdSZUFjUHMxVk5uMDE2VTNpV0JVNG5LbjhNOG5CQWMwUU9acGpkZjlsb1BOa0p1UDI5T1EtX2lMMkR3S0hCc3BFTjJqeXlabUJlRENoQ1FkakFyYkRoUlhYbkE0TmhveVhoMVZZeDdHbkFVbVBCY2l1S3cwNlMwaVdROEJXTU5F?oc=5",
+      "domain": "es.euronews.com",
+      "publisher": "Euronews.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sun, 22 Nov 2026 15:28:21 GMT",
+      "primary_hint": false,
+      "excerpt": "La sonda BepiColombo ya es´ta en la órbita de Mercurio Euronews.com"
+    }
+  ]
+}
