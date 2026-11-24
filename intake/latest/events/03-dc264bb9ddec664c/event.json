@@ -1,0 +1,28 @@
+{
+  "event_id": "03-dc264bb9ddec664c",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "Plantean crédito con garantías para mipymes golpeadas por la resolución de Ueno Bank - Cámara de Diputados",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "diputados.gov.py"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Plantean crédito con garantías para mipymes golpeadas por la resolución de Ueno Bank - Cámara de Diputados",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KTGlQWHl5WXR5RlNabGE4ZXctTV9MVWdwS29iUTRNQWNXUVFTX1VPLXFTOGFwa2lNME5ZMlVOODVlMWE3c25NLUF3OV9RSmlfUzF1TXlUZ1hnb1k?oc=5",
+      "domain": "diputados.gov.py",
+      "publisher": "Cámara de Diputados",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 24 Nov 2026 16:58:28 GMT",
+      "primary_hint": false,
+      "excerpt": "Plantean crédito con garantías para mipymes golpeadas por la resolución de Ueno Bank Cámara de Diputados"
+    }
+  ]
+}
