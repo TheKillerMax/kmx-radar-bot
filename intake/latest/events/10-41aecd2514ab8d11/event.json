@@ -1,0 +1,30 @@
+{
+  "event_id": "10-41aecd2514ab8d11",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZaGN6US1ZTThIUkJac2NwWkE5bjVic2hxVDNMelBMOTcxaFQyR0VZMTZCRFZvTW9wajNRdHF6S0VPZU80Y0Ric3lBZ19LTXdBdUdFY2NmNUthUmdY0gFiQVVfeXFMTkJsYmdhMGNWejhydUpqUGVSc1VNUlp5MDlDRUR6RU13TVhFR2ktb3llNFlCck15WFNKeWNRWkljZ2NmOG0tVy1VQnBSbEdIX1hIN2JydkZtRXM3QXEzVmIyN2c?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 23:06:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania BBC Zelenskyy confirma que Ucrania estuvo detrás del ataque que hundió un buque ruso frente a Libia San Antonio Express-News Drones navales ucranianos atacan un nuevo buque ruso en Libia y otras noticias de Oriente Medio AP News Ya no hay mar seguro para Putin: Ucrania lleva su guerra naval al Báltico y al Mediterráneo El Mundo Ucrania hunde un buque de guerra ruso atracado en Libia al tiempo que ataques rusos matan a once civiles ucranianos Democracy Now!"
+    }
+  ]
+}

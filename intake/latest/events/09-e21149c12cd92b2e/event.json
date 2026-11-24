@@ -1,0 +1,30 @@
+{
+  "event_id": "09-e21149c12cd92b2e",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Detenidos ocho presuntos integrantes de la banda de narcotráfico de la facción 'Chapo Isidro' - DW.com",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "dw.com"
+  ],
+  "high_trust_domains": [
+    "dw.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Detenidos ocho presuntos integrantes de la banda de narcotráfico de la facción 'Chapo Isidro' - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWdaV2trY1pZOWdsZzgwRHl4eTlRRldERGdhc3lyREpFdGRoNUlPSjI1SmFETE8zczdCWnpJeXNtNHBaaG43TkxNSnlldGVWa1FwNE1LVU5jSnl2YWtZSnpWWGowdXVGUkJMclBUUnhtWU9WakFRb2RCYmNuUy1GNWVSMFdLcTNPRG9CUVNNcGNFWnhKLVFUaklNT07SAZwBQVVfeXFMT2ZGT1JoLTRiaHI3Rk8wN1RrNnNpNS1Vc0xfNWFQSHNWenpWQXZTZ2oyWkpfMF96Rm1KU0FhUGZGUnZnTzBJVmdFWGlKVXNUN2IxWi1HemgxMU9mYjdwN3p4N2RWa3ZxOEJjakVqYTc2WGtPN0o0N0hDblhjazFvb2h1dTVzZFVwTHdPT0dibjhMOFMxN3phQTNOU0JN?oc=5",
+      "domain": "dw.com",
+      "publisher": "DW.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 09:23:03 GMT",
+      "primary_hint": false,
+      "excerpt": "Detenidos ocho presuntos integrantes de la banda de narcotráfico de la facción 'Chapo Isidro' DW.com EEUU apoyó a México con el sobrevuelo de un dron e información para la captura de “El Chapo Isidro” AP News 361 militares operaron el ataque al búnker del Chapo Isidro EL PAÍS 20 muertos dejó la captura del Chapo Isidro en Sinaloa Dallas News Un dron de EE.UU. que sobrevoló México, cientos de soldados y horas de choques armados: así cayó ‘El Chapo Isidro’ Telemundo"
+    }
+  ]
+}
