@@ -1,0 +1,30 @@
+{
+  "event_id": "12-01bd730ea0e44671",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La Organización Trump organiza una cena \"exclusiva\" para promocionar la moneda meme del presidente - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La Organización Trump organiza una cena \"exclusiva\" para promocionar la moneda meme del presidente - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalgtTm42bGxqNDlPTXdvTTN0RzhvM3ZvemJzdWpTa19GUk9YTkYtc1RXcmozaFBTc29Jc2VUal9RcFpLOTIyWGEydG4ybXlRamhDUERxMXlWREF2TjdpODBRMjNkbFZRY204RExSV3ZrNnZwM29yRkc0aEZhSkkyOUtueU8xdGhJb293SVEtVV8tZzF2eV96Tnhn?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 05:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La Organización Trump organiza una cena \"exclusiva\" para promocionar la moneda meme del presidente CNN en Español La mitad de las billeteras de la lista de invitados a la cena de Trump recibieron tokens de exchanges no estadounidenses TradingView Trump agasaja a inversores de la moneda $TRUMP mientras su precio se desploma por debajo de US$1 IDNFinancials Trump celebra una gala para inversionistas de su criptomoneda meme Yahoo Meme coin de Trump: relojes de oro para los mayores tenedores FinanceFeeds"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "event_id": "05-958cf9caab18c80b",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "La campaña de presión de Trump que restituyó a Jensen Huang en el cargo de CEO de Nvidia - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "La campaña de presión de Trump que restituyó a Jensen Huang en el cargo de CEO de Nvidia - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXRRV09HS2lhaHdFSF9aazExcTR6V2ZQRXZYR25td0tMdzVOMDA1TzhwSzRSaDlzQzF5aE1Vc2t1UnBhR2ZKN3Q4WUw2Z203dGMxOUtqQ1FFMV9YcEMzaVQ4cXRPcDhNTk40by1EYVV6cHlsc0JNNG5ISEVGWjFLTmU5UzFZSV8tYVFpQVdCNGt5RmF0V2swTVlnbw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Tue, 24 Nov 2026 12:34:00 GMT",
+      "primary_hint": false,
+      "excerpt": "La campaña de presión de Trump que restituyó a Jensen Huang en el cargo de CEO de Nvidia CNN en Español El regreso de Jensen Huang The New York Times El regreso de Huang a Nvidia levanta el ánimo a un sector tecnológico deprimido France 24 Mercados asiáticos suben tras repunte en Wall Street; Huang vuelve como CEO de Nvidia LancasterOnline \"Voy a ser un mejor director ejecutivo\", promete Jensen Huang en su regreso a Nvidia France 24"
+    }
+  ]
+}

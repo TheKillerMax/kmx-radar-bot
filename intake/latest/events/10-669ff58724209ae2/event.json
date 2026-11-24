@@ -1,0 +1,30 @@
+{
+  "event_id": "10-669ff58724209ae2",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucmM0M2V3TDk0MmZabmg4R0EwWlpxcS1ZLVpvTFJwb3NOMHJCVi1SRlpVZEJFbEIyUkx0U3dwb2FhYmpPckNURDFJNmJ2SS1kb1lVMGh0eEctQklM0gFiQVVfeXFMUFhUamxZbzdYTDRiY0VZNGs2ZjVXSHZ4NUMzNXExUG04NlRqU2hBMkZ4Zng3RDRkMXlUSlVDblRuZ0hfSE8zRktvWUV2OGFOT0p2MzRtd3BmcjF6S1hIS1JJYmc?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Mon, 23 Nov 2026 17:26:12 GMT",
+      "primary_hint": false,
+      "excerpt": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky BBC Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania BBC Drones navales ucranianos atacan un nuevo buque ruso en Libia y otras noticias de Oriente Medio AP News Zelenskyy confirma que Ucrania estuvo detrás del ataque que hundió un buque ruso frente a Libia San Antonio Express-News Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo El Mundo"
+    }
+  ]
+}
