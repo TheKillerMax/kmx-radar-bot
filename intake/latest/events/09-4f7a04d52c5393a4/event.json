@@ -1,0 +1,28 @@
+{
+  "event_id": "09-4f7a04d52c5393a4",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "Acerca de la prevención del envenenamiento infantil por plomo - Centers for Disease Control and Prevention | CDC (.gov)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "cdc.gov"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Acerca de la prevención del envenenamiento infantil por plomo - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFU5djRFZHA2NENwLXlKWDRZWDByTzhLWFIyZnJBcHhOcUlLWjRNNFh6eFo4RVlFd0NjMWROM0FWSWpWMXBZVjFzNGZlSlFsNVZ1Y25zcllvcEwtRVVqemNIcjVYb2dadDFEY2o1aElDdkg2VThET1ZVXzNfN2dSa2gzS1hVdGVSa1R1blppSzUtNHFFVjVaaUNBTm5sU3kwQ2xNclhnRkJ5eVFVbDIxOQ?oc=5",
+      "domain": "cdc.gov",
+      "publisher": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 20:52:58 GMT",
+      "primary_hint": false,
+      "excerpt": "Acerca de la prevención del envenenamiento infantil por plomo Centers for Disease Control and Prevention | CDC (.gov)"
+    }
+  ]
+}

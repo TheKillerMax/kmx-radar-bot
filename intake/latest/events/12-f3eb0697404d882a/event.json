@@ -1,0 +1,30 @@
+{
+  "event_id": "12-f3eb0697404d882a",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Última hora sobre los viajes de Acción de Gracias en EE.UU.: tormentas, pronóstico del tiempo, vuelos y tráfico - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Última hora sobre los viajes de Acción de Gracias en EE.UU.: tormentas, pronóstico del tiempo, vuelos y tráfico - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDBQX1F1YzVHV3RwajVyZ1dxMEZNTDUwM252T2hDSGJENVZkUmRzS1NIcTdTaHdqeTI3bEhvRE5kM0ZMTjBtUVRmdkZIckNUSGVsRWE5d3luTVJ0UjU3eEpQNFUzRGE0TXZXemJnRFc3WERZMnl2V2hDSWpSSnpzR1pKQmtMNU5KWlJZbTExemxrV3JFMmV0UFM0cHg?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 22:44:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Última hora sobre los viajes de Acción de Gracias en EE.UU.: tormentas, pronóstico del tiempo, vuelos y tráfico CNN en Español Macy’s anuncia que el desfile del Día de Acción de Gracias se pospone al sábado por mal tiempo AP News El caos de viajes por Acción de Gracias se intensifica con tormentas y largas filas San Antonio Express-News Fuertes lluvias podrían provocar inundaciones en Carolina del Norte durante el Día de Acción de Gracias. Univision Inflado de globos del Desfile de Acción de Gracias en NYC: cómo verlo y más Telemundo Miami"
+    }
+  ]
+}

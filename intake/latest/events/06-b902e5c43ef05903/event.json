@@ -1,0 +1,28 @@
+{
+  "event_id": "06-b902e5c43ef05903",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Czechia must safeguard public media independence and democratic norms | Noticias | Parlamento Europeo - European Parliament",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "europarl.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Czechia must safeguard public media independence and democratic norms | Noticias | Parlamento Europeo - European Parliament",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmowckw1cnh0LTRMcFh6dkxFX25NU205UTRtN2JDRWswcEFpZGVUVkpER0s4dV9kbHp3WmtzQXFGUTZtNFJ2WFpzeU40ZkFMRjMwVFVXMTFxMnZBTnZMcUM3VUxCMURaLXYzVHRpeDJNUHlYa1NlVHVIc19leXVLbFlXd2x1NG9Yd0hWVG51Q0NoNEdKbGVCZWxDYjlibnBKTWxqcXQxUm1WTjV5Y2RVUlpfdzhYeEp6aHVNRTVVckNtVnMzQTNBSVV6ejhlSVp3ZXc?oc=5",
+      "domain": "europarl.europa.eu",
+      "publisher": "European Parliament",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 12:23:42 GMT",
+      "primary_hint": false,
+      "excerpt": "Czechia must safeguard public media independence and democratic norms | Noticias | Parlamento Europeo European Parliament"
+    }
+  ]
+}

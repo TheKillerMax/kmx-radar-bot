@@ -1,0 +1,30 @@
+{
+  "event_id": "11-f24e8e3fb5b7793a",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Kilmar Abrego García, deportado por error por el Gobierno de Trump, llega a España tras salir voluntariamente de EE.UU. - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Kilmar Abrego García, deportado por error por el Gobierno de Trump, llega a España tras salir voluntariamente de EE.UU. - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3pnWU9UMm5ndG9LQ0tHaHA2em1EZTEwYktXbmJBbmcwd2ZwMS1acmFFajhObHN3NHlsVGlFak1pc19VZHAxU3c2U1JsbDZQM2xkLTVNS3AyaV84elliSGsxckhDdjZLZXM0UlFyeERneUk5Vk9NWmpGR0dxMXpYY2F6VjhwQ0k2TnRiaA?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 13:06:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilmar Abrego García, deportado por error por el Gobierno de Trump, llega a España tras salir voluntariamente de EE.UU. CNN en Español Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo BBC Kilmar Abrego García, el \"Frodo\" de una batalla migratoria que lo llevó hasta España Univision Celebridades piden que el senador Chris Van Hollen sea elegido líder del bloque demócrata en el Senado de EE.UU. en lugar de Chuck Schumer Democracy Now! Tras ser deportado por error a El Salvador, Kilmar Ábrego García deja EEUU y se va a vivir a España San Antonio Express-News"
+    }
+  ]
+}

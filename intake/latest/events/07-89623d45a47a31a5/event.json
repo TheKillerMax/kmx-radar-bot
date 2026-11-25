@@ -1,0 +1,28 @@
+{
+  "event_id": "07-89623d45a47a31a5",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Remarks by President António Costa at the press conference following the EU-Western Balkans summit of 25 November 2026 - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Remarks by President António Costa at the press conference following the EU-Western Balkans summit of 25 November 2026 - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNkducW5POEZhT0JiOTl1c1g0UHNzSDdJbGFNYk9GemtZTGNlbXg3R2VJcDdYWWtpcml2NjVRWkw4alFpSG5ka1pPVzlMOGVubjVValFrZVA4WVdWSzA3bXpYazJBbkgyam13TFByZHctcUZULTJpazR6VGVmZVFXVkhDbG1yb1A1TFo4MF9FdTNnVm5sN3RYWS1aUGlqbHVrRjdHTk5CRWVna1RQbU1WdHlZRlRaTWZQdDA3bjh0eS04VWVESG1EaWpRM21uSEctbURfMWdMWkc5X3JXRWpyVGdmRnl1eExIM241SFR3OFBhaHJEV2hpOWI5TmJVTl81Q21SS1FpendZX0M2TGozcUFYS3Y?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 19:20:09 GMT",
+      "primary_hint": false,
+      "excerpt": "Remarks by President António Costa at the press conference following the EU-Western Balkans summit of 25 November 2026 Council, European Union"
+    }
+  ]
+}
