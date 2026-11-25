@@ -1,8 +1,8 @@
 {
-  "event_id": "05-b88728efca23e0c5",
+  "event_id": "07-5b41036517f8a728",
   "category": "MUNDO",
   "risk": "medium",
-  "canonical_title": "M 6.4 - Mauritius - Reunion region",
+  "canonical_title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
   "intake_status": "SIN CONFIRMAR",
   "verification_signal": 0.305,
   "primary_source_present": true,
@@ -14,15 +14,15 @@
   "rank_signal": 0.44,
   "sources": [
     {
-      "title": "M 6.4 - Mauritius - Reunion region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
+      "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
       "domain": "earthquake.usgs.gov",
       "publisher": "USGS Significant Earthquakes",
       "language": "en",
       "source_country": "",
-      "seen_at": "2026-11-24T13:15:00.039Z",
+      "seen_at": "2026-11-25T11:23:11.044Z",
       "primary_hint": true,
-      "excerpt": "PAGER - GREEN ShakeMap - I Time 2026-11-24 11:06:14 UTC 2026-11-24 11:06:14 UTC at epicenter Location 17.705°S 65.700°E Depth 10.00 km (6.21 mi)"
+      "excerpt": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-24 16:37:31 UTC 2026-11-24 16:37:31 UTC at epicenter Location 61.320°N 150.154°W Depth 44.60 km (27.71 mi)"
     }
   ]
 }

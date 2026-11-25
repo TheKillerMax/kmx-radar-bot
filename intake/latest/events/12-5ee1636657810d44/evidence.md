@@ -14,4 +14,4 @@
 - Título: “TrumpCare”: la apuesta de Abdul El-Sayed que apela a la vanidad del presidente para que firme un Medicare para todos - EL PAÍS
 - Fecha detectada: Tue, 24 Nov 2026 09:30:00 GMT
 
-“TrumpCare”: la apuesta de Abdul El-Sayed que apela a la vanidad del presidente para que firme un Medicare para todos EL PAÍS Trump replica en X el mensaje de El-Sayed sobre activar una 'Trumpcard' para la atención sanitaria Yahoo Trump comparte la propuesta de "TrumpCare" que la Casa Blanca había rechazado https://fomoera.com/ El demócrata Abdul El-Sayed busca acercamiento con Trump para cumplir una promesa de campaña Yahoo Trump sorprende al elogiar a Jeffries como "razonable" voz.us
+“TrumpCare”: la apuesta de Abdul El-Sayed que apela a la vanidad del presidente para que firme un Medicare para todos EL PAÍS Piker respalda la propuesta de presentar a Trump el plan Medicare para todos como «Trumpcare Mezha.net Trump replica en X el mensaje de El-Sayed sobre activar una 'Trumpcard' para la atención sanitaria Yahoo Donald Trump confirma que se reunirá con Abdul El-Sayed voz.us Trump comparte la propuesta de "TrumpCare" que la Casa Blanca había rechazado https://fomoera.com/

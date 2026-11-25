@@ -1,0 +1,28 @@
+{
+  "event_id": "04-753730e4ab5e8826",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Russia’s war of aggression against Ukraine: EU restricts trade with 15 entities linked to Russia’s military and industrial complex - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Russia’s war of aggression against Ukraine: EU restricts trade with 15 entities linked to Russia’s military and industrial complex - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPazRKVXNTU0ZlUG1pZDFBWW1FdGkwWERoYS1EdDBVaWRZby0ySFJIcTk0b2xHWmZTeU51SmkteTVFUHYyVTg1dlBxRmdDZTJKS1BKV1hiaHhXTG8tanBxbG1lNEhsMGdLdWJsMlZQQ09zVW1RZ1g4RXNlLTl1Rm5nY1RDSEVicVVsS1dSMmcxY2ZNVTl4aDRYOHVlZzh2Q1V0TktFUkNYZGx4dWFvQXItd29SenBiNlA4Y1pITDZWQ3NoTllCOUF1bVhNS2pjVVI0QVFoOHlROG1fTWs4ZThVWHJnYzhDX0JsN2RhQXNma1FsYVNnMjhTMmM4eU0yaFllX2kyc0ZHTnRURDhtbXMxN3c0em44c09VRWt5Z2lzOVpWaE0?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 10:14:26 GMT",
+      "primary_hint": false,
+      "excerpt": "Russia’s war of aggression against Ukraine: EU restricts trade with 15 entities linked to Russia’s military and industrial complex Council, European Union"
+    }
+  ]
+}
