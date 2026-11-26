@@ -1,0 +1,28 @@
+{
+  "event_id": "07-254bf21f08877e37",
+  "category": "SALUD",
+  "risk": "high",
+  "canonical_title": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas - Pan American Health Organization (PAHO)",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "paho.org"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3hfd3lWaVpUSFM3S19STldsUTQyRXlXVGltcVRmSERCMGMzdXhhdzB5bTlyNUREUTZUc1JRRDdPa0FMRGh4cVNoZGdLUWwtVWMyNjRjTXZBeVhnVzFLV2szNFZMWWV6bi1BN2xlT3pVYUtfZ1BRVVJKc2hJX19DQVpwTUdYV3RWVGYxS1VLUUxoTTZBYzU5bUtHdWYydUc5Q0swNEF4eWs1dw?oc=5",
+      "domain": "paho.org",
+      "publisher": "Pan American Health Organization (PAHO)",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 00:46:18 GMT",
+      "primary_hint": false,
+      "excerpt": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas Pan American Health Organization (PAHO)"
+    }
+  ]
+}

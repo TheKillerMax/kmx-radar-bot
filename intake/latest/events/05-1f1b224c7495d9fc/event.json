@@ -1,0 +1,28 @@
+{
+  "event_id": "05-1f1b224c7495d9fc",
+  "category": "MUNDO",
+  "risk": "high",
+  "canonical_title": "Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026 - Council, European Union",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.305,
+  "primary_source_present": true,
+  "independent_domains": [
+    "consilium.europa.eu"
+  ],
+  "high_trust_domains": [],
+  "article_count": 1,
+  "rank_signal": 0.44,
+  "sources": [
+    {
+      "title": "Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026 - Council, European Union",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRFhmVHYzY3ctLWR4WG5Mam1VR1ZIblhVcjdtc0dIV09oMXExOHNZQ2lIcFU4WVlYY3dDN2ZvYzVxZFg2R3otYkRwZF9ObUt0aGJ5eVRfaktWTm5WZlc4a0ZPRldrc2tLSW5YeUVCNEtqUFZKcVVheVRaamVFRXBraG5DWGVaVU1abENqYVdSY2JNNFhESm1jWXhJZ3BMZF9UU2c4SEFpVDh0TDJEQ0xQT0VVeWM0VHg4TWJOdlBhU2lWXzB5T2VOVHhmNzBLejc1MnE5SXBkamxiaE00YVhGSmJON1NleHNDbUxpckd1eGN2QjBwSDhDbGRGMF9aZ0lwU3lSV3JiQllMSWpMTHRtVms3VmpUdw?oc=5",
+      "domain": "consilium.europa.eu",
+      "publisher": "Council, European Union",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 08:37:33 GMT",
+      "primary_hint": false,
+      "excerpt": "Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026 Council, European Union"
+    }
+  ]
+}
