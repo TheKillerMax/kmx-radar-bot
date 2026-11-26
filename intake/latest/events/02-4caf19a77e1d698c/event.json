@@ -1,0 +1,40 @@
+{
+  "event_id": "02-4caf19a77e1d698c",
+  "category": "TECH",
+  "risk": "low",
+  "canonical_title": "Analytics Day Cono Sur 2026: FEN U. de Chile reunió a especialistas para debatir sobre datos, agentes e inteligencia artificial en las organizaciones - Universidad de Chile",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "fen.uchile.cl",
+    "portalinnova.cl"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Analytics Day Cono Sur 2026: FEN U. de Chile reunió a especialistas para debatir sobre datos, agentes e inteligencia artificial en las organizaciones - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXZOLTBiVHNmWlV1a1dkWmtZVWZwdDZjQVlaTF9RNF95cWhyNU1JemV6QW5UdU80SDdNN1ZualYyaWFTOExUc3k4TEpfSFRyNGYxcmxRQVhVXzE5M3BlUG1ENzdzaERDSC1TSGoyTUFnVFF4WU1RQ200QTJ1QnNGdWJvX25iSXNZcWNFZFdGcmgzemZPQmNlVlhwRlZTM0ZGc3lLU0pzNTI3M0E0ZFNmQWpYLTFITGZXQ08yN3lDY2NHa1JCX2hCb3Z0SWIybVpsZzl0SC1hVm5xMXVLQ1BfdWEzenVhMS05T28zbEFCUzdfd3d2Nk1QUmM1SXFzUQ?oc=5",
+      "domain": "fen.uchile.cl",
+      "publisher": "Universidad de Chile",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 16:44:53 GMT",
+      "primary_hint": false,
+      "excerpt": "Analytics Day Cono Sur 2026: FEN U. de Chile reunió a especialistas para debatir sobre datos, agentes e inteligencia artificial en las organizaciones Universidad de Chile"
+    },
+    {
+      "title": "Analytics Day 2026 reunió a especialistas para debatir sobre el futuro de los datos y la inteligencia artificial - Portal Innova",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONWJLSzB5TjNIQTNyaWhZSGpvY3QyZDBWUC1zTk5aN1RXU0M5OVhMU0VtNkJIMDY2RVR6dGkzSUNhTm05MzNuaWFUSFJ4NkQzSGcyZmRMeGtUYnBwMzk3ZTQ4R1paVVEzcmZfWnh2QmRYd2ZDR0F0anZTSTRhMEtxc0Q0RjNHaXdOOF8yZjY3MHlXVHFoQXU5MXRHSHF3T2ZJYTV1VDNqeW04M1VxREttTWhNcGJNZ212YUN0bXhNRHZERjNzakZ6Z1RQLTh3eUhhdWdZ?oc=5",
+      "domain": "portalinnova.cl",
+      "publisher": "Portal Innova",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 16:32:16 GMT",
+      "primary_hint": false,
+      "excerpt": "Analytics Day 2026 reunió a especialistas para debatir sobre el futuro de los datos y la inteligencia artificial Portal Innova"
+    }
+  ]
+}

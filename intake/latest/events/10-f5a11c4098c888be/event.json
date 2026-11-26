@@ -1,0 +1,30 @@
+{
+  "event_id": "10-f5a11c4098c888be",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Miami llega a Thanksgiving con los bancos de comida desbordados - EL PAÍS",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "elpais.com"
+  ],
+  "high_trust_domains": [
+    "elpais.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Miami llega a Thanksgiving con los bancos de comida desbordados - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGlLbjRNeVdpeDliYWJJMVQxNmltLWp2aXhYcHJibWYtZUpGUEZRaGlQU1RLODNfSmhDWUFqZ253VVk0d2hKcXhaRkxseGhQRjB6bkxhZTBFeDR6SzJPb3RkLWIzVU1QaFotWUdtS3hITGhucUFkS3pfVDI3Rmk3YkF4Nl9hV3dacGpkckd0NGdiUkFYMkZLSGVPN00xYkhUNDVR?oc=5",
+      "domain": "elpais.com",
+      "publisher": "EL PAÍS",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 09:30:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Miami llega a Thanksgiving con los bancos de comida desbordados EL PAÍS Bancos de alimentos del Norte de la Bahía se esfuerzan frente al Día de Acción de Gracias, en medio de inflación y recortes en ayudas The Press Democrat Así funcionan los bancos de comida que en la temporada de fiestas se llenan Yahoo"
+    }
+  ]
+}
