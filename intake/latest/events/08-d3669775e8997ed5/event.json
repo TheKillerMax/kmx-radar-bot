@@ -1,0 +1,30 @@
+{
+  "event_id": "08-d3669775e8997ed5",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Multimillonario estadounidense adquiere activos en el extranjero de la petrolera rusa Lukoil - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Multimillonario estadounidense adquiere activos en el extranjero de la petrolera rusa Lukoil - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZm9CTDNiUXNFSlpGeVdXWEJmbm1wNmxmdnhvVVpZSkRSbkRvMVlXMXNPcVJCZnJBMlJhSUxxTFo0N193ajk1a0lIUjVkb3czTWtpR21WeEhuejdCTXN1WjMwbmZCR1dYamNYZFRkWHAzMUFHblZkbnhMYjNLRzZGVlpiQUVjT3F6azlib252dXo4Y0hwY3c?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 06:29:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Multimillonario estadounidense adquiere activos en el extranjero de la petrolera rusa Lukoil CNN en Español Consorcio liderado por EEUU acuerda adquirir activos de la petrolera rusa Lukoil AP News Un consorcio liderado por Estados Unidos anuncia un acuerdo para adquirir la cartera energética internacional de LUKOIL Business Wire El gigante petrolero ruso está cada vez más cerca de vender su cartera de activos valorada en 22.000 millones de dólares, a la espera de la aprobación de Estados Unidos. Vietnam.vn El repliegue internacional de Lukoil responde a motivos políticos, según su cofundador MarketScreener España"
+    }
+  ]
+}

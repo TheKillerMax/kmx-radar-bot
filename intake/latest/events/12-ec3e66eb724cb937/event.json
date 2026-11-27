@@ -1,0 +1,30 @@
+{
+  "event_id": "12-ec3e66eb724cb937",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Venezuela derogará una polémica ley que castiga a quienes \"apoyen llamados a sanciones\" contra el país - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Venezuela derogará una polémica ley que castiga a quienes \"apoyen llamados a sanciones\" contra el país - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWVSaHZwSmM3WGJkR3FjZElUTFNTMGxzd28tYUQxazh3TkFTVmlVd3lEYW9XaUhRQk5wbmtGY3FuZ1RKRC14d0ZHazR4RjM0bHpvOWRXT05qdFpIUUJ5LTFfYU1SOElYUWdEc0s0Qk4zXzZONk50NVhLQVg4cDNfa1Z5WkVTdTVrLTZRQjZablNPNEVYZ2NINTFocDVTV1hXdUt3?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 20:47:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Venezuela derogará una polémica ley que castiga a quienes \"apoyen llamados a sanciones\" contra el país CNN en Español Anuncian derogación de ley que castiga a venezolanos que pidan sanciones externas AP News Venezuela derogará la ley que castiga a quienes pidieron sanciones contra el país EL PAÍS Venezuela derogará ley que inhabilita a opositores de por vida DW.com Cae la considerada medida más dura que promovió Maduro contra María Corina y opositores antes de ser capturado por EE. UU. NTN24"
+    }
+  ]
+}

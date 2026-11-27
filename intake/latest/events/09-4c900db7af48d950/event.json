@@ -1,0 +1,30 @@
+{
+  "event_id": "09-4c900db7af48d950",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los desesperados mensajes de mujeres en el corredor de la muerte en Irán por participar en protestas contra el gobierno - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los desesperados mensajes de mujeres en el corredor de la muerte en Irán por participar en protestas contra el gobierno - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GN2Y1OVJsOXV1dk9qMktsS2luNGFHczNac0xwLTMyRkZkSzBMMFh3TXhOa3ZGN2gtcDlJUmxEdFdjWkRFMC0zZzVRZDJXT3dMa3F3WUpiNE1Bamc10gFiQVVfeXFMUFpyekdhdjJjRkVCWVRSVU9TTzNkelpwTkZFNlRqZ0FCRUlqRDBqaGJsRnNjejJoRlFmRFhTQm5LT2ZydkJ4V2llcnpNUjhSS3hENHNlTUtTaVY4U3RJRTNyY3c?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 23:29:06 GMT",
+      "primary_hint": false,
+      "excerpt": "Los desesperados mensajes de mujeres en el corredor de la muerte en Irán por participar en protestas contra el gobierno BBC Alarma en Irán por un aumento sin precedentes de mujeres condenadas a muerte por protestas Enterate Noticias Una mujer iraní fue torturada y presionada para confesar bajo amenaza de que su hermana sería violada delante suyo Corrientes Hoy El ensañamiento del régimen iraní con dos manifestantes: arrestadas, torturadas y condenadas infoLibre"
+    }
+  ]
+}

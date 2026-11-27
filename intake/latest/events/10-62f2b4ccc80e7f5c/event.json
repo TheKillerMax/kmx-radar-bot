@@ -1,0 +1,30 @@
+{
+  "event_id": "10-62f2b4ccc80e7f5c",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Los presuntos sabotajes dirigidos por Rusia en Europa podrían causar numerosas víctimas, advierte un centro de estudios - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Los presuntos sabotajes dirigidos por Rusia en Europa podrían causar numerosas víctimas, advierte un centro de estudios - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeE9qZEhIS0p3aldEWUdFNVViN3FCMm92OGRiN2pXQ0tyZGVsQ3IzcExoUUJIeFVfcFI4eWo1bkc0bGRtWTdQRk1HWWROdXNMazYzZ0Q5NXR0bG41bHZJeVJDRFRIS2pnRVRISFRreE9DM0R0eHNlT05NUmdDRTFvb1pqdFJCZw?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 16:02:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Los presuntos sabotajes dirigidos por Rusia en Europa podrían causar numerosas víctimas, advierte un centro de estudios CNN en Español Los sabotajes que Europa atribuye a Rusia se perfeccionan y disparan el riesgo de “víctimas en masa” EL PAÍS Las amenazas de bomba en aviones europeos, un paso más en la guerra híbrida de Moscú The Objective Europa descubre el verdadero alcance de la guerra silenciosa que Rusia libra en su territorio MUNDIARIO Los sabotajes rusos en Europa aumentaron un 16 % en el último año, según revela un estudio El Debate"
+    }
+  ]
+}
