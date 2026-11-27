@@ -1,0 +1,40 @@
+{
+  "event_id": "03-8dbbd454e01a6872",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "El Observatorio Europeo Austral advierte en contra del permiso a Space X para lanzar un millón de satélites - SINC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "agenciasinc.es",
+    "radiocable.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "El Observatorio Europeo Austral advierte en contra del permiso a Space X para lanzar un millón de satélites - SINC",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPekF1ZTVaZUZhSTIyOS1WM2lBMDcwN3JZemZWSzdOUHNKZjdVZGk4LVpHaFo2ejV1c2I5cHVyenE1LWxaNTFMeWtFWUk0R3hEM1ctZkxKcExqNlg2OU5SWGp2NlRCbElOTUJEQ0EyeFo1cm5ESXBhNUxzMVlqc2N6VVZ1Nl9qem5yNjZnQjdJWUtVS3p5ZXRWci1YMi1DRGx0dXhrc3lOWW0wdUNtU3BxbFV4M2l4UlhjT21WTTdOTnJqS2J1TVpWTmV3R1UyYlpVd3ZBaGhjZGw3ZkU?oc=5",
+      "domain": "agenciasinc.es",
+      "publisher": "SINC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 09:16:34 GMT",
+      "primary_hint": false,
+      "excerpt": "El Observatorio Europeo Austral advierte en contra del permiso a Space X para lanzar un millón de satélites SINC"
+    },
+    {
+      "title": "El Observatorio Europeo Austral advierte en contra del permiso a Space X para lanzar un millón de satélites - Radiocable.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzVoN3gtdHlRMmNYdVlOQWd2aml4N2pFM01vT1RFelRlZTZ4NzJOV3BTXzRPY0lMME0tMEdLZHhfZG0zZTYwR3QxQlV1NVNEZ3NRM3hxcXZYNi1USE5vZGE4U0VTT1RtLXRCTVVmcmwwejJuMzdNemwxT2hLSWR3SlBzMGw?oc=5",
+      "domain": "radiocable.com",
+      "publisher": "Radiocable.com",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 09:35:16 GMT",
+      "primary_hint": false,
+      "excerpt": "El Observatorio Europeo Austral advierte en contra del permiso a Space X para lanzar un millón de satélites Radiocable.com"
+    }
+  ]
+}

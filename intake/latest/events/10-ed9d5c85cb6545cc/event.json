@@ -1,0 +1,30 @@
+{
+  "event_id": "10-ed9d5c85cb6545cc",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pVzhpVmVOWTlBRXNrNmdISTFlVEQ3WjZJOE1VU0ltUlAyWGJRZkpoTDdBUGg5MllUZ2g4RXU0SjVWOU5aMjk1dmF3NkxuQlhCQThhMWNtck5yazBM0gFiQVVfeXFMUFBRRWlYdmV1d0xuVF9nblJ6ejJZc1VDLVBhNTl0c0xOOU1wR3NHTmNMV0pXZUwyRWR5bWFVTTdiczd5SFJyY0ZSMi1xc2tuQmhvQWZvemNkSEhQZWJTZWktcVE?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 13:54:40 GMT",
+      "primary_hint": false,
+      "excerpt": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren BBC Ver más títulos y perspectivas en Google Noticias"
+    }
+  ]
+}

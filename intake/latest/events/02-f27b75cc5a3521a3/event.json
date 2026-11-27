@@ -1,0 +1,40 @@
+{
+  "event_id": "02-f27b75cc5a3521a3",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "MDA Space completa la adquisición de Blue Canyon Technologies - Investing.com España",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "es.investing.com",
+    "tradingview.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "MDA Space (MDA) completa la adquisición de Blue Canyon Technologies - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjlWemlUM2R0Tzh4ZTNpVW11RmlabklXY1FNZ0ttdkM5TW1MSHgzdFRkREJOM3N2MVR6SktCdEZhdjVwTE5GdGhvMkE2MHZjYl9uODN1UHo4OGNHV2JKeEE0eE8wVFRVZjZvd2lMUlVGNEt5YTdaNnBPSE9qX2d2aVN1Z2IxXzg?oc=5",
+      "domain": "tradingview.com",
+      "publisher": "TradingView",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 15:49:00 GMT",
+      "primary_hint": false,
+      "excerpt": "MDA Space (MDA) completa la adquisición de Blue Canyon Technologies TradingView"
+    },
+    {
+      "title": "MDA Space completa la adquisición de Blue Canyon Technologies - Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHI5MFVZNmtyajhwUkhQSkRZRUIyYVlyYUhrbDZHREpkdlluN1ZVaUJTWTlsWU9MdGlPaWlPOFFwT1JaYy1icDdHR0h1N3JlZDVrUWN5cWM0RjJadm93V1gyQzdveWR1cUNPWnBmQmJjSnlyNVJEWFVHUGVsaEJ6ZTUxdWZGTlJvLW11T2NkX0dLLVY1WkJJMUtGWnZvYmQzNGdpM3A4NzBBUHE5RGd5Sll0dTJVUlZu?oc=5",
+      "domain": "es.investing.com",
+      "publisher": "Investing.com España",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 16:21:00 GMT",
+      "primary_hint": false,
+      "excerpt": "MDA Space completa la adquisición de Blue Canyon Technologies Investing.com España"
+    }
+  ]
+}

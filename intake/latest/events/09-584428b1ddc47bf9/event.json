@@ -1,0 +1,30 @@
+{
+  "event_id": "09-584428b1ddc47bf9",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Kilmar Ábrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo - BBC",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "bbc.com"
+  ],
+  "high_trust_domains": [
+    "bbc.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Kilmar Ábrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxQTFKLTZCTFBFaDFkdC1HUGRyLU5HcWZjay1sZHN1QktKdWJEXzFITTM1WDRZckV1Z09GRjk2ZjBkSWplMHc3WXFNeUdlakZxYngxRVdBVnNiOVJV0gFiQVVfeXFMUHh3dUxwN0Y0a1R5UTdhYkRVay1adG1JWVJlVThBZExzY2RuVW1mZDRxc1Q2ZVZndUktTFBYNVNPcTRJSVY0VW1DY0JXVjhFRUROeXg4aEhrdHZXYTdZb2pET1E?oc=5",
+      "domain": "bbc.com",
+      "publisher": "BBC",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Wed, 25 Nov 2026 13:39:14 GMT",
+      "primary_hint": false,
+      "excerpt": "Kilmar Ábrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo BBC Ábrego García, que luchó contra su deportación por error de EEUU, se marcha voluntariamente a España The Morning Call ¿En qué consiste la regla de los 10 años que EUA aplicaría a Kilmar Ábrego García? La Prensa Gráfica Kilmar Ábrego García llega a España tras abandonar EE.UU. y pone fin a un calvario judicial de 20 meses Democracy Now! El migrante salvadoreño Kilian Abrego abandona voluntarimente EE.UU. hacia España RFI"
+    }
+  ]
+}
