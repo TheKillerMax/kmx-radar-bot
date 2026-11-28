@@ -1,0 +1,64 @@
+{
+  "event_id": "01-42766e998ebf62ea",
+  "category": "ECONOMÍA",
+  "risk": "medium",
+  "canonical_title": "El exministro de economía de Paraguay se entrega a las autoridades por el caso Ueno Bank - Diario Red",
+  "intake_status": "EN DESARROLLO",
+  "verification_signal": 0.61,
+  "primary_source_present": false,
+  "independent_domains": [
+    "diario-red.com",
+    "elargentinodiario.com.ar",
+    "eldiariocba.com.ar",
+    "portuguesareporta.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 4,
+  "rank_signal": 0.75,
+  "sources": [
+    {
+      "title": "Ueno Bank: se entregó el exministro de Economía - El Diario del centro del país",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQczZUeGF1VXJPTjVtS3hsOHcyUjhXZWF3WWxiVlNTYlpJLVFWM2pUYURrdTc1dDBQd2J5NU85eG12TVZaejBHZTB5Z2JiWFlMUE1GRG40SG8zOFFTclV1dGpFUmRzckRCWUltN25DTExtVDAzVWJMZlNmbGw1Z0JnUHRGejNKTTFJUkVqRU5WY3VpdzZLMjlHTkYxd2RKOEpJX2FRTU5WYVd3TDNFWEktVA?oc=5",
+      "domain": "eldiariocba.com.ar",
+      "publisher": "El Diario del centro del país",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 11:27:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Ueno Bank: se entregó el exministro de Economía El Diario del centro del país"
+    },
+    {
+      "title": "El exministro de economía de Paraguay se entrega a las autoridades por el caso Ueno Bank - Diario Red",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYy1KWmxBcjh2STZkQVhua0lUMTFpa1U3eVNwYzBIdS0tOUFxYi1MZEhHcDl4Ni1HY1Y0UTdSZm5mazA3NXhMUm1SSmpCcExtT0dQam44dVZ1aUVQaU81SG5GXy1LV3hZSFFIa2JEWEhpckhOSXIxM0lmR3pNUURyUldJLS1Kb1RxTS1USVNpZm5BZkpiY2hHU3RMOUxtOW00NFM0U3dzSDVrbUM0TWdsd0lHek90Q19IOUk0dDBfTWxtdjBaVzctaU1UZmhfb2xOU0pOR05JMFdvdXZQbFhoQmszYVF0ODBrY0NV0gHrAUFVX3lxTFBjLUpabEFyOHZJNmRBWG5rSVQxMWlrVTd5U3BjMEh1LS05QXFiLUxkSEdwOXg2LUdjVjRRN1JmbmZrMDc1eExSbVJKakJwTG1PR1Bqbjh1VnVpRVBpTzVIbkZfLUtXeFlIUUhrYkRYSGlySE5JcjEzSWZHek1RRHJSV0ktLUpvVHFNLVRJU2lmbkFmSmJjaEdTdEw5TG05bTQ0UzRTd3NINWttQzRNZ2x3SUd6T3RDX0g5STR0MF9NbG12MFpXNy1pTVRmaF9vbE5TSk5HTkkwV291dlBsWGhCazNhUXQ4MGtjQ1U?oc=5",
+      "domain": "diario-red.com",
+      "publisher": "Diario Red",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 02:52:48 GMT",
+      "primary_hint": false,
+      "excerpt": "El exministro de economía de Paraguay se entrega a las autoridades por el caso Ueno Bank Diario Red"
+    },
+    {
+      "title": "Ueno Bank: se entregó el ex ministro de Economía de Paraguay - El Argentino Diario",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzRDNm9kdm44aExEdW1KcXFuTU5XcmRjT2FiMy1PSVVMNXZkLUxXdXNqN1dJc0JaekNhOW5ZYWdCekRmMll1RjA1QmRyNzR3OVE1Vk95UnRHc0tmQXpFdzFrU1lqRHl6ZVduU2lxekdnZUttY2ttVXNsYWdXWUZSQkZMOGpFaDJUUEFVUTBDVlVxZTlYcWJsZjhIM0FkaWh3TWNTUlZEakVQeUcyM1BUOWtVWQ?oc=5",
+      "domain": "elargentinodiario.com.ar",
+      "publisher": "El Argentino Diario",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 03:48:39 GMT",
+      "primary_hint": false,
+      "excerpt": "Ueno Bank: se entregó el ex ministro de Economía de Paraguay El Argentino Diario"
+    },
+    {
+      "title": "Paraguay: detuvieron al exministro de Economía de Santiago Peña por el caso Ueno Bank - Portuguesa Reporta",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3lralBhSEhFdkVtc2hUUE54UUx3VDFlRVJ3TkNPcEhKLWNGd0RzMVhjYjBjQXJKek5zT3ZuRUUwVy1qd3JfWmQ4WGJ5b0VIZ2FZdEZndnE2ekVuRW15NEVSVGhqei1hcUdYcDh4bFpyNEFycVdkQWtsYmxZcmNuaUhZdWpEbllUWFAweFh3bUIzakdsM1J1TkhFdkxvZkhhZEw2ZzZXd3ptbGpGN0trRkJ0ZDY1TTJ0azVGaEZpSlAwZlhGNW1zYWFHTQ?oc=5",
+      "domain": "portuguesareporta.com",
+      "publisher": "Portuguesa Reporta",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 02:09:07 GMT",
+      "primary_hint": false,
+      "excerpt": "Paraguay: detuvieron al exministro de Economía de Santiago Peña por el caso Ueno Bank Portuguesa Reporta"
+    }
+  ]
+}

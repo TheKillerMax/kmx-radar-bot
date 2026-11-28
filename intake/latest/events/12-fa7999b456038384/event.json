@@ -1,0 +1,30 @@
+{
+  "event_id": "12-fa7999b456038384",
+  "category": "MUNDO",
+  "risk": "medium",
+  "canonical_title": "Trump tuvo dos años de influencia total en América Latina. ¿Podrá mantenerla en la segunda mitad de su mandato? - CNN en Español",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.145,
+  "primary_source_present": false,
+  "independent_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "high_trust_domains": [
+    "cnnespanol.cnn.com"
+  ],
+  "article_count": 1,
+  "rank_signal": 0.23,
+  "sources": [
+    {
+      "title": "Trump tuvo dos años de influencia total en América Latina. ¿Podrá mantenerla en la segunda mitad de su mandato? - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWRuZGJWRTZRa2UtNWJOcFBzcURnbzRkOFBjWGx4bUdNdzI1MmhqdUJkMWF2MlFoVDhxNWlMaEJPV1BzR1I1ckk4NVRNYjhmd1dKR0tVT0RRcXFzeDk4U1djazVQLXQweXBZbzBrekFpcThZWkZmbHRiUkx5d1UtaEJEMUdOWHV1Z05LZWNBeFBWQTNSXzhVdktLT0RnRTlLbHhnelFR?oc=5",
+      "domain": "cnnespanol.cnn.com",
+      "publisher": "CNN en Español",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 19:25:00 GMT",
+      "primary_hint": false,
+      "excerpt": "Trump tuvo dos años de influencia total en América Latina. ¿Podrá mantenerla en la segunda mitad de su mandato? CNN en Español"
+    }
+  ]
+}

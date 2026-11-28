@@ -1,0 +1,40 @@
+{
+  "event_id": "05-d1146138d8376964",
+  "category": "VERIFICACIÓN",
+  "risk": "medium",
+  "canonical_title": "Verificación en directo del debate a cuatro de los candidatos para el 29N - Newtral",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "maldita.es",
+    "newtral.es"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Verificaciones del debate a cuatro para las elecciones del 29N - Maldita.es",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1hoTmtLSnBnVHAxUENJazQ0c3VJSFo2OFRTc3NWTFYtc3UwY2thYnBLeWlGbERMRUdwV3JPbDR1V0xvTGJ1V2taQlVPV3hacmhrR1hSQ0YwUExFa0JmVEx2U2FmajVMc1RmTWxMZ2VQQzVFMWZVVnJCQVd3anZlWUVRNjZOdnpxTW42Zkdmd3NqVlhGTkhvWVNvVU1DTTBH?oc=5",
+      "domain": "maldita.es",
+      "publisher": "Maldita.es",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Thu, 26 Nov 2026 21:42:46 GMT",
+      "primary_hint": false,
+      "excerpt": "Verificaciones del debate a cuatro para las elecciones del 29N Maldita.es"
+    },
+    {
+      "title": "Verificación en directo del debate a cuatro de los candidatos para el 29N - Newtral",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnVISDFwbDlzZlpiYi1Rd0M1R0hvMERGam9NbHRXYTVvZFlzRzFBZjhJNHdaX3RmdDhobE00M0YyRWRmRldjUjNFVkEtcTNycUFuckxBMVVqdnR4VXNZZk1ET2doZEJ0MkFTbWdYaTNMTExvdTViRHd5MDJNbDctS3R4TEx0ZWZaUVN0MQ?oc=5",
+      "domain": "newtral.es",
+      "publisher": "Newtral",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Fri, 27 Nov 2026 00:04:21 GMT",
+      "primary_hint": false,
+      "excerpt": "Verificación en directo del debate a cuatro de los candidatos para el 29N Newtral"
+    }
+  ]
+}

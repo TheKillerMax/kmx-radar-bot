@@ -1,0 +1,40 @@
+{
+  "event_id": "04-b3ff55b31a687be4",
+  "category": "CIENCIA",
+  "risk": "low",
+  "canonical_title": "Daniela Cruz: \"Bastante dolidas, el grupo si venía por esa clasificación al Mundial y los Olímpicos\" - ESPN Deportes",
+  "intake_status": "SIN CONFIRMAR",
+  "verification_signal": 0.38,
+  "primary_source_present": false,
+  "independent_domains": [
+    "espn.com.ar",
+    "espndeportes.espn.com"
+  ],
+  "high_trust_domains": [],
+  "article_count": 2,
+  "rank_signal": 0.45,
+  "sources": [
+    {
+      "title": "Daniela Cruz: \"Bastante dolidas, el grupo si venía por esa clasificación al Mundial y los Olímpicos\" - ESPN Deportes",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ29MTVlUdzBDcVg2cGcycTBvSDBQYzNNdWJjMWdjUk9YLUVBQ1FrVUdPMjdMQ1pTdTRGZ05IbndqaWFUVWk3MG5QZW5fOGcxUjhOWmV5QXAwcWdzYmpBSlpJSUthbmpkRzF1M0ExS1BydEEzclN5Q01mSUlvYUVtVENiM01tYk9oTU8zbDJYOTE4NmhVcm11ZjE1NkxTMGZoQS1UOHZVU3Vublo3VDU3ZEY1dHFQTy00T2xBR1pZNk0wX3JrX0hfbGZ1THJsMEVMLWVHTjc2aFVzU19yWndULTZRM0FKQQ?oc=5",
+      "domain": "espndeportes.espn.com",
+      "publisher": "ESPN Deportes",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 01:17:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Daniela Cruz: \"Bastante dolidas, el grupo si venía por esa clasificación al Mundial y los Olímpicos\" ESPN Deportes"
+    },
+    {
+      "title": "Daniela Cruz: \"Bastante dolidas, el grupo si venía por esa clasificación al Mundial y los Olímpicos\" - ESPN Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHFSV1d3QXZDMlRtbGp6Q0lPN0xySmhIbllOazduMUExRjBfZnpxbzNpQlpENjRHMkVoYnBTRlVacDh5WVo4T1hyMVZvbDd6SklUalpzQjBGYV9QWVktLTh2YTVUMFVuTlJKcERqSndaWlpQSkpqbVdld0M4SzRqeHBSZWo0QzY5eHMtTjhtNmZYOUpULWxDZTl4dkgzWmRBcUJEM2haTjZpb0poVGtfZlFkYmZOQTM5VHFVRDk3cmxKVUl1aGVRMTdDb0J2dGx4cWxRa1dRaXV5NzhldVE?oc=5",
+      "domain": "espn.com.ar",
+      "publisher": "ESPN Argentina",
+      "language": "es",
+      "source_country": "",
+      "seen_at": "Sat, 28 Nov 2026 01:17:27 GMT",
+      "primary_hint": false,
+      "excerpt": "Daniela Cruz: \"Bastante dolidas, el grupo si venía por esa clasificación al Mundial y los Olímpicos\" ESPN Argentina"
+    }
+  ]
+}
